@@ -1,0 +1,8 @@
+[
+  [
+    {
+      "name$match$i": "Zalando|Fiege|Rhenus|Amazon|DHL|Hermes|UPS|GLS|DPD",
+      "opening_hours$neg": "."
+    }
+  ]
+]

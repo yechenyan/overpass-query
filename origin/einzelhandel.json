@@ -1,0 +1,15 @@
+[
+  [
+    {
+      "name$match$i": "Ikea|Obi|Hornbach|Bauhaus|Hagebau|toom|Mediamarkt|Media Markt|Saturn|Poco|Roller",
+      "opening_hours$neg": "."
+    },
+    {
+      "operator$match$i": "Ikea|Obi|Hornbach|Bauhaus|Hagebau|toom|Mediamarkt|Media Markt|Saturn|Poco|Roller"
+    },
+    {
+      "building$match$i": "warehouse|retail",
+      "operator$match$i": "Ikea|Obi|Hornbach|Bauhaus|Hagebau|toom|Mediamarkt|Media Markt|Saturn|Poco|Roller"
+    }
+  ]
+]

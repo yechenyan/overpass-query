@@ -1,0 +1,706 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-10T11:17:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 471297769,
+      "lat": 52.5239252,
+      "lon": 13.7735422,
+      "tags": {
+        "amenity": "fire_station",
+        "check_date": "2024-05-26",
+        "name": "Freiwillige Feuerwehr Petershagen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 845722378,
+      "lat": 52.5000473,
+      "lon": 13.7403592,
+      "tags": {
+        "addr:city": "Fredersdorf-Vogelsdorf",
+        "addr:housenumber": "76",
+        "addr:postcode": "15370",
+        "addr:street": "Frankfurter Chaussee",
+        "addr:suburb": "Vogelsdorf",
+        "amenity": "fire_station",
+        "name": "Feuerwehr Vogelsdorf",
+        "website": "https://www.feuerwehr-fredersdorf-vogelsdorf.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 845728782,
+      "lat": 52.468514,
+      "lon": 13.7785962,
+      "tags": {
+        "amenity": "fire_station",
+        "name": "Feuerwehr R\u00fcdersdorf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1420389786,
+      "lat": 52.4644275,
+      "lon": 13.7480935,
+      "tags": {
+        "addr:city": "Woltersdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "15569",
+        "addr:street": "Am Sportplatz",
+        "description": "Rettungswache Woltersdorf (24h)",
+        "emergency": "ambulance_station",
+        "name": "Rettungswache Woltersdorf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6291337000,
+      "lat": 52.502737,
+      "lon": 13.9241422,
+      "tags": {
+        "addr:city": "Rehfelde",
+        "addr:housenumber": "33",
+        "addr:postcode": "15345",
+        "addr:street": "Zinndorfer Stra\u00dfe",
+        "addr:suburb": "Zinndorf",
+        "amenity": "fire_station",
+        "name": "Freiwillige Feuerwehr Zinndorf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9015994788,
+      "lat": 52.4622326,
+      "lon": 13.9104966,
+      "tags": {
+        "addr:city": "Gr\u00fcnheide (Mark)",
+        "addr:housenumber": "5",
+        "addr:postcode": "15537",
+        "addr:street": "Schulstra\u00dfe",
+        "addr:suburb": "Kagel",
+        "amenity": "fire_station",
+        "name": "Freiwillige Feuerwehr Gr\u00fcnheide (Mark) - Ortswehr Kagel",
+        "operator": "Gemeinde Gr\u00fcnheide (Mark)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9599405462,
+      "lat": 52.5063974,
+      "lon": 13.8508583,
+      "tags": {
+        "board_type": "history",
+        "information": "board",
+        "name": "Freiwillige Feuerwehr",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11018139778,
+      "lat": 52.5242112,
+      "lon": 13.7734376,
+      "tags": {
+        "information": "board",
+        "name": "Die Freiwillige Feuerwehr Petershagen",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 142035886,
+      "nodes": [
+        270908220,
+        1554522036,
+        1554522037,
+        7404882646,
+        1554522019,
+        1554522011,
+        7404806962,
+        7404806960,
+        270908220
+      ],
+      "tags": {
+        "addr:city": "Woltersdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "15569",
+        "addr:street": "Berliner Stra\u00dfe",
+        "amenity": "fire_station",
+        "check_date": "2024-05-05",
+        "name": "Freiwillige Feuerwehr Woltersdorf",
+        "ref": "FDWD",
+        "website": "https://www.woltersdorf-schleuse.de/seite/124979/feuerwehr.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256577612,
+      "nodes": [
+        2622273004,
+        10298642492,
+        10298642493,
+        2622273006,
+        2622273008,
+        2622273009,
+        12740090381,
+        10298642478,
+        10298642479,
+        2622273011,
+        10298642490,
+        10298642489,
+        2622273013,
+        10298642491,
+        2622273004
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "yes",
+        "check_date": "2025-01-09",
+        "name": "Freiwillige Feuerwehr Petershagen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270844656,
+      "nodes": [
+        2758105183,
+        2758105184,
+        2758105182,
+        2758105180,
+        6983688058,
+        2758105179,
+        2758105183
+      ],
+      "tags": {
+        "addr:city": "Fredersdorf-Vogelsdorf",
+        "addr:housenumber": "19",
+        "addr:postcode": "15370",
+        "addr:street": "Gartenstra\u00dfe",
+        "addr:suburb": "Fredersdorf-S\u00fcd",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Feuerwehr Fredersdorf-S\u00fcd",
+        "website": "https://www.feuerwehr-fredersdorf-vogelsdorf.de"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277606534,
+      "nodes": [
+        2820918612,
+        2820918610,
+        2820918613,
+        2820918611,
+        2820918612
+      ],
+      "tags": {
+        "addr:city": "Fredersdorf-Vogelsdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "76",
+        "addr:postcode": "15370",
+        "addr:street": "Frankfurter Chaussee",
+        "addr:suburb": "Vogelsdorf",
+        "building": "yes",
+        "name": "Feuerwehr Vogelsdorf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 284674336,
+      "nodes": [
+        2883965902,
+        12358147802,
+        2883965906,
+        2883965909,
+        2883965908,
+        2883965910,
+        267521140,
+        12358147803,
+        2883965902
+      ],
+      "tags": {
+        "addr:city": "R\u00fcdersdorf bei Berlin",
+        "addr:housenumber": "16a",
+        "addr:postcode": "15378",
+        "addr:street": "Ernst-Th\u00e4lmann-Stra\u00dfe",
+        "addr:suburb": "Hennickendorf",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Ortsfeuerwehr Hennickendorf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 496001260,
+      "nodes": [
+        4877189326,
+        4877189327,
+        4877189328,
+        4877189324,
+        4877189325,
+        4877189326
+      ],
+      "tags": {
+        "addr:city": "Gr\u00fcnheide (Mark)",
+        "addr:housenumber": "7",
+        "addr:postcode": "15537",
+        "addr:street": "Schulstra\u00dfe",
+        "addr:suburb": "Kagel",
+        "building": "garages",
+        "name": "Alte Feuerwehr"
+      }
+    },
+    {
+      "type": "way",
+      "id": 496007608,
+      "nodes": [
+        4877251624,
+        4877251625,
+        4877251626,
+        4877251627,
+        4877251624
+      ],
+      "tags": {
+        "addr:city": "Gr\u00fcnheide (Mark)",
+        "addr:housenumber": "5",
+        "addr:postcode": "15537",
+        "addr:street": "Schulstra\u00dfe",
+        "addr:suburb": "Kagel",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Feuerwehrger\u00e4tehaus",
+        "operator": "Gemeinde Gr\u00fcnheide (Mark)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1085336682,
+      "nodes": [
+        9945055827,
+        9945055828,
+        9945055829,
+        9945055830,
+        9945055827
+      ],
+      "tags": {
+        "addr:city": "Neuenhagen bei Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "39",
+        "addr:postcode": "15366",
+        "addr:street": "Nordring",
+        "addr:suburb": "Bollensdorf",
+        "amenity": "fire_station",
+        "building": "yes",
+        "mapillary": "197162912734300",
+        "name": "Freiwillige Feuerwehr Neuenhagen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1186260120,
+      "nodes": [
+        11018139783,
+        11018139784,
+        11018139785,
+        11018139786,
+        11018139783
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "brand": "Deutsches Rotes Kreuz",
+        "brand:short": "DRK",
+        "brand:wikidata": "Q694104",
+        "name": "DRK Kita Pusteblume"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1363567380,
+      "nodes": [
+        1478011210,
+        4404669990,
+        7373560761,
+        12059949417,
+        1478011210
+      ],
+      "tags": {
+        "landuse": "construction",
+        "name": "Neubau Feuerwehr Wilhelmshagen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1478011210,
+      "lat": 52.4302254,
+      "lon": 13.7230289
+    },
+    {
+      "type": "node",
+      "id": 4404669990,
+      "lat": 52.4308774,
+      "lon": 13.7232108
+    },
+    {
+      "type": "node",
+      "id": 7373560761,
+      "lat": 52.4309746,
+      "lon": 13.722346
+    },
+    {
+      "type": "node",
+      "id": 12059949417,
+      "lat": 52.4303218,
+      "lon": 13.7221659
+    },
+    {
+      "type": "node",
+      "id": 9945055827,
+      "lat": 52.5191468,
+      "lon": 13.7212385
+    },
+    {
+      "type": "node",
+      "id": 9945055828,
+      "lat": 52.5190694,
+      "lon": 13.7213301
+    },
+    {
+      "type": "node",
+      "id": 9945055829,
+      "lat": 52.5191631,
+      "lon": 13.7215409
+    },
+    {
+      "type": "node",
+      "id": 9945055830,
+      "lat": 52.5192406,
+      "lon": 13.7214484
+    },
+    {
+      "type": "node",
+      "id": 1554522019,
+      "lat": 52.4518954,
+      "lon": 13.7490242
+    },
+    {
+      "type": "node",
+      "id": 7404882646,
+      "lat": 52.4521351,
+      "lon": 13.749222
+    },
+    {
+      "type": "node",
+      "id": 1554522011,
+      "lat": 52.4516215,
+      "lon": 13.7498415
+    },
+    {
+      "type": "node",
+      "id": 7404806962,
+      "lat": 52.4517328,
+      "lon": 13.7498933
+    },
+    {
+      "type": "node",
+      "id": 270908220,
+      "lat": 52.4521585,
+      "lon": 13.7499972
+    },
+    {
+      "type": "node",
+      "id": 1554522036,
+      "lat": 52.452201,
+      "lon": 13.7499617
+    },
+    {
+      "type": "node",
+      "id": 1554522037,
+      "lat": 52.4522365,
+      "lon": 13.7498829
+    },
+    {
+      "type": "node",
+      "id": 7404806960,
+      "lat": 52.4520088,
+      "lon": 13.7499617
+    },
+    {
+      "type": "node",
+      "id": 2820918610,
+      "lat": 52.5001095,
+      "lon": 13.740572
+    },
+    {
+      "type": "node",
+      "id": 2820918611,
+      "lat": 52.4999867,
+      "lon": 13.7401532
+    },
+    {
+      "type": "node",
+      "id": 2820918612,
+      "lat": 52.500162,
+      "lon": 13.7402249
+    },
+    {
+      "type": "node",
+      "id": 2820918613,
+      "lat": 52.4999341,
+      "lon": 13.7405003
+    },
+    {
+      "type": "node",
+      "id": 2758105179,
+      "lat": 52.5221279,
+      "lon": 13.7518008
+    },
+    {
+      "type": "node",
+      "id": 2758105180,
+      "lat": 52.5219178,
+      "lon": 13.7517658
+    },
+    {
+      "type": "node",
+      "id": 2758105182,
+      "lat": 52.5218414,
+      "lon": 13.7520068
+    },
+    {
+      "type": "node",
+      "id": 2758105183,
+      "lat": 52.5222192,
+      "lon": 13.7518835
+    },
+    {
+      "type": "node",
+      "id": 2758105184,
+      "lat": 52.5221031,
+      "lon": 13.7522332
+    },
+    {
+      "type": "node",
+      "id": 6983688058,
+      "lat": 52.5220891,
+      "lon": 13.7519116
+    },
+    {
+      "type": "node",
+      "id": 2622273011,
+      "lat": 52.5238273,
+      "lon": 13.7736523
+    },
+    {
+      "type": "node",
+      "id": 2622273013,
+      "lat": 52.5238148,
+      "lon": 13.7734627
+    },
+    {
+      "type": "node",
+      "id": 10298642489,
+      "lat": 52.5238181,
+      "lon": 13.7735133
+    },
+    {
+      "type": "node",
+      "id": 10298642490,
+      "lat": 52.5238238,
+      "lon": 13.7735982
+    },
+    {
+      "type": "node",
+      "id": 2622273004,
+      "lat": 52.5240201,
+      "lon": 13.7734294
+    },
+    {
+      "type": "node",
+      "id": 2622273006,
+      "lat": 52.5240311,
+      "lon": 13.7736027
+    },
+    {
+      "type": "node",
+      "id": 2622273008,
+      "lat": 52.5240413,
+      "lon": 13.7736006
+    },
+    {
+      "type": "node",
+      "id": 2622273009,
+      "lat": 52.5240462,
+      "lon": 13.7736665
+    },
+    {
+      "type": "node",
+      "id": 10298642478,
+      "lat": 52.5240038,
+      "lon": 13.7736746
+    },
+    {
+      "type": "node",
+      "id": 10298642479,
+      "lat": 52.5240002,
+      "lon": 13.7736225
+    },
+    {
+      "type": "node",
+      "id": 10298642491,
+      "lat": 52.5239138,
+      "lon": 13.7734466
+    },
+    {
+      "type": "node",
+      "id": 10298642492,
+      "lat": 52.5240234,
+      "lon": 13.7734808
+    },
+    {
+      "type": "node",
+      "id": 10298642493,
+      "lat": 52.5240283,
+      "lon": 13.7735587
+    },
+    {
+      "type": "node",
+      "id": 12740090381,
+      "lat": 52.5240193,
+      "lon": 13.7736716
+    },
+    {
+      "type": "node",
+      "id": 11018139783,
+      "lat": 52.5242936,
+      "lon": 13.7789234
+    },
+    {
+      "type": "node",
+      "id": 11018139784,
+      "lat": 52.5242177,
+      "lon": 13.7783718
+    },
+    {
+      "type": "node",
+      "id": 11018139785,
+      "lat": 52.5246342,
+      "lon": 13.7782726
+    },
+    {
+      "type": "node",
+      "id": 11018139786,
+      "lat": 52.5246803,
+      "lon": 13.7787855
+    },
+    {
+      "type": "node",
+      "id": 4877189324,
+      "lat": 52.4606489,
+      "lon": 13.9106212
+    },
+    {
+      "type": "node",
+      "id": 4877189325,
+      "lat": 52.4607236,
+      "lon": 13.9105874
+    },
+    {
+      "type": "node",
+      "id": 4877189326,
+      "lat": 52.4607675,
+      "lon": 13.9105629
+    },
+    {
+      "type": "node",
+      "id": 4877189327,
+      "lat": 52.4607859,
+      "lon": 13.9106631
+    },
+    {
+      "type": "node",
+      "id": 4877189328,
+      "lat": 52.4606672,
+      "lon": 13.9107219
+    },
+    {
+      "type": "node",
+      "id": 4877251624,
+      "lat": 52.4623129,
+      "lon": 13.9103138
+    },
+    {
+      "type": "node",
+      "id": 4877251625,
+      "lat": 52.4623569,
+      "lon": 13.9104424
+    },
+    {
+      "type": "node",
+      "id": 4877251626,
+      "lat": 52.462101,
+      "lon": 13.9106783
+    },
+    {
+      "type": "node",
+      "id": 4877251627,
+      "lat": 52.462057,
+      "lon": 13.9105497
+    },
+    {
+      "type": "node",
+      "id": 267521140,
+      "lat": 52.5064306,
+      "lon": 13.8506678
+    },
+    {
+      "type": "node",
+      "id": 2883965902,
+      "lat": 52.5062734,
+      "lon": 13.850506
+    },
+    {
+      "type": "node",
+      "id": 2883965906,
+      "lat": 52.5063875,
+      "lon": 13.8502093
+    },
+    {
+      "type": "node",
+      "id": 2883965908,
+      "lat": 52.5064407,
+      "lon": 13.8503685
+    },
+    {
+      "type": "node",
+      "id": 2883965909,
+      "lat": 52.5064697,
+      "lon": 13.8502953
+    },
+    {
+      "type": "node",
+      "id": 2883965910,
+      "lat": 52.5065166,
+      "lon": 13.8504447
+    },
+    {
+      "type": "node",
+      "id": 12358147802,
+      "lat": 52.5063474,
+      "lon": 13.8503137
+    },
+    {
+      "type": "node",
+      "id": 12358147803,
+      "lat": 52.5063577,
+      "lon": 13.8505928
+    }
+  ]
+}

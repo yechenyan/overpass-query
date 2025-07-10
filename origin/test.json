@@ -1,0 +1,17 @@
+[
+  [
+    {
+      "_query": "UPS charging stations",
+      "name$match$i": "(^|[^a-zA-Z0-9])(UPS)([- ]|$)",
+      "name$neg$i": "Bank|Filiale",
+      "amenity": "charging_station"
+    },
+    {
+      "_query": "DHL commercial areas",
+      "_types": ["node"],
+      "name$match": "(^|[^a-zA-Z0-9])(DHL)([- ]|$)",
+      "name$neg": "Bank|Filiale",
+      "landuse": "commercial"
+    }
+  ]
+]

@@ -1,0 +1,21 @@
+[
+  [
+    {
+      "name$match$i": "Nagel Group|Kraftverkehr Nagel|Dachser Food Logistics|Eismann|Bofrost"
+    },
+    {
+      "operator$match$i": "Nagel Group|Kraftverkehr Nagel|Dachser Food Logistics|Eismann|Bofrost"
+    },
+    {
+      "brand$match$i": "Nagel Group|Kraftverkehr Nagel|Dachser Food Logistics|Eismann|Bofrost"
+    },
+    {
+      "building$match$i": "warehouse",
+      "operator$match$i": "Ikea|Obi|Hornbach|Bauhaus|Hagebau|toom|Mediamarkt|Media Markt|Saturn|Poco|Roller"
+    },
+    {
+      "landuse": "industrial",
+      "name$match$i": "Nagel Group|Kraftverkehr Nagel|Dachser Food Logistics|Eismann|Bofrost"
+    }
+  ]
+]

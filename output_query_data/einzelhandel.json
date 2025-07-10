@@ -1,0 +1,488 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-10T11:17:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2843568772,
+      "lat": 52.5004406,
+      "lon": 13.7371569,
+      "tags": {
+        "name": "Berliner Automobile",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2843699889,
+      "lat": 52.5002088,
+      "lon": 13.7395494,
+      "tags": {
+        "name": "K\u00f6nig Automobile",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24732011,
+      "nodes": [
+        2062151917,
+        310841879,
+        2837550401,
+        4104619032,
+        6983688054,
+        4104619031,
+        310841881,
+        268805164,
+        268805165,
+        4104619030,
+        4104619029,
+        268805166,
+        268805167,
+        268805168,
+        268805169,
+        268805162,
+        8510673678,
+        8510673677,
+        4104619033,
+        8510673676,
+        2062151917
+      ],
+      "tags": {
+        "addr:city": "Fredersdorf-Vogelsdorf",
+        "addr:housenumber": "51",
+        "addr:postcode": "15370",
+        "addr:street": "Frankfurter Chaussee",
+        "brand": "HORNBACH",
+        "brand:wikidata": "Q685926",
+        "brand:wikipedia": "en:Hornbach (retailer)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Hornbach",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "operator": "Hornbach Baumarkt AG",
+        "phone": "+49 33439 689 0",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 44886187,
+      "nodes": [
+        569071127,
+        10945485398,
+        10945485404,
+        10945485399,
+        569071146,
+        2330299764,
+        10945593906,
+        569071151,
+        569071140
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Am Robinienhain",
+        "sidewalk": "left",
+        "smoothness": "good",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277606489,
+      "nodes": [
+        2820918731,
+        2820918732,
+        2820918734,
+        2820918733,
+        2820918731
+      ],
+      "tags": {
+        "addr:city": "Fredersdorf-Vogelsdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "75",
+        "addr:postcode": "15370",
+        "addr:street": "Frankfurter Chaussee",
+        "addr:suburb": "Vogelsdorf",
+        "building": "yes",
+        "name": "Reisemobile Bach / NBS Fahrzeughandel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 796476247,
+      "nodes": [
+        262993385,
+        262993386,
+        8498374178,
+        8497882112,
+        262993387,
+        8497882111,
+        8502916618,
+        262993388,
+        8502916700,
+        12305192115,
+        2232166509,
+        8498374540,
+        10556424044
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Robinienweg",
+        "narrow": "yes",
+        "sidewalk": "right",
+        "sidewalk:right:surface": "concrete",
+        "smoothness": "intermediate",
+        "surface": "sett"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1359871237,
+      "nodes": [
+        12587772888,
+        12587772893,
+        12587772892,
+        12587772891,
+        12587772890,
+        12587772889,
+        12587772888
+      ],
+      "tags": {
+        "addr:city": "Fredersdorf-Vogelsdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "78",
+        "addr:postcode": "15370",
+        "addr:street": "Frankfurter Chaussee",
+        "addr:suburb": "Vogelsdorf",
+        "building": "yes",
+        "name": "K\u00f6nig Automobile"
+      }
+    },
+    {
+      "type": "node",
+      "id": 262993385,
+      "lat": 52.4288735,
+      "lon": 13.7488906
+    },
+    {
+      "type": "node",
+      "id": 262993386,
+      "lat": 52.4286924,
+      "lon": 13.7489341
+    },
+    {
+      "type": "node",
+      "id": 262993387,
+      "lat": 52.4284569,
+      "lon": 13.7489598
+    },
+    {
+      "type": "node",
+      "id": 262993388,
+      "lat": 52.4282194,
+      "lon": 13.7489122
+    },
+    {
+      "type": "node",
+      "id": 2232166509,
+      "lat": 52.4275785,
+      "lon": 13.7486948
+    },
+    {
+      "type": "node",
+      "id": 8497882111,
+      "lat": 52.4284099,
+      "lon": 13.7489512
+    },
+    {
+      "type": "node",
+      "id": 8497882112,
+      "lat": 52.4285332,
+      "lon": 13.7489515
+    },
+    {
+      "type": "node",
+      "id": 8498374178,
+      "lat": 52.4285855,
+      "lon": 13.7489469
+    },
+    {
+      "type": "node",
+      "id": 8498374540,
+      "lat": 52.4275129,
+      "lon": 13.7486647
+    },
+    {
+      "type": "node",
+      "id": 8502916618,
+      "lat": 52.428252,
+      "lon": 13.7489189
+    },
+    {
+      "type": "node",
+      "id": 8502916700,
+      "lat": 52.4280609,
+      "lon": 13.7488571
+    },
+    {
+      "type": "node",
+      "id": 10556424044,
+      "lat": 52.4273574,
+      "lon": 13.7485932
+    },
+    {
+      "type": "node",
+      "id": 12305192115,
+      "lat": 52.4277341,
+      "lon": 13.7487472
+    },
+    {
+      "type": "node",
+      "id": 268805162,
+      "lat": 52.4968147,
+      "lon": 13.7454462
+    },
+    {
+      "type": "node",
+      "id": 268805164,
+      "lat": 52.4967191,
+      "lon": 13.7480224
+    },
+    {
+      "type": "node",
+      "id": 268805165,
+      "lat": 52.4967914,
+      "lon": 13.7480738
+    },
+    {
+      "type": "node",
+      "id": 268805166,
+      "lat": 52.4965444,
+      "lon": 13.7486802
+    },
+    {
+      "type": "node",
+      "id": 268805167,
+      "lat": 52.4961366,
+      "lon": 13.7483902
+    },
+    {
+      "type": "node",
+      "id": 268805168,
+      "lat": 52.4963152,
+      "lon": 13.7477163
+    },
+    {
+      "type": "node",
+      "id": 268805169,
+      "lat": 52.4962256,
+      "lon": 13.7476526
+    },
+    {
+      "type": "node",
+      "id": 310841879,
+      "lat": 52.4971753,
+      "lon": 13.7463086
+    },
+    {
+      "type": "node",
+      "id": 310841881,
+      "lat": 52.4968671,
+      "lon": 13.7474637
+    },
+    {
+      "type": "node",
+      "id": 2062151917,
+      "lat": 52.4972277,
+      "lon": 13.7463458
+    },
+    {
+      "type": "node",
+      "id": 2837550401,
+      "lat": 52.497078,
+      "lon": 13.7466799
+    },
+    {
+      "type": "node",
+      "id": 4104619029,
+      "lat": 52.4966245,
+      "lon": 13.748378
+    },
+    {
+      "type": "node",
+      "id": 4104619030,
+      "lat": 52.4966971,
+      "lon": 13.7484297
+    },
+    {
+      "type": "node",
+      "id": 4104619031,
+      "lat": 52.4969251,
+      "lon": 13.7475049
+    },
+    {
+      "type": "node",
+      "id": 4104619032,
+      "lat": 52.4971332,
+      "lon": 13.7467192
+    },
+    {
+      "type": "node",
+      "id": 4104619033,
+      "lat": 52.4971082,
+      "lon": 13.7458752
+    },
+    {
+      "type": "node",
+      "id": 6983688054,
+      "lat": 52.4970277,
+      "lon": 13.7471174
+    },
+    {
+      "type": "node",
+      "id": 8510673676,
+      "lat": 52.4973131,
+      "lon": 13.7460202
+    },
+    {
+      "type": "node",
+      "id": 8510673677,
+      "lat": 52.4971572,
+      "lon": 13.7456868
+    },
+    {
+      "type": "node",
+      "id": 8510673678,
+      "lat": 52.4971476,
+      "lon": 13.74568
+    },
+    {
+      "type": "node",
+      "id": 2820918731,
+      "lat": 52.4999344,
+      "lon": 13.7406642
+    },
+    {
+      "type": "node",
+      "id": 2820918732,
+      "lat": 52.4998947,
+      "lon": 13.7409174
+    },
+    {
+      "type": "node",
+      "id": 2820918733,
+      "lat": 52.4998379,
+      "lon": 13.7406234
+    },
+    {
+      "type": "node",
+      "id": 2820918734,
+      "lat": 52.4997982,
+      "lon": 13.7408767
+    },
+    {
+      "type": "node",
+      "id": 12587772888,
+      "lat": 52.500016,
+      "lon": 13.7395327
+    },
+    {
+      "type": "node",
+      "id": 12587772889,
+      "lat": 52.500113,
+      "lon": 13.7395736
+    },
+    {
+      "type": "node",
+      "id": 12587772890,
+      "lat": 52.5001244,
+      "lon": 13.7395006
+    },
+    {
+      "type": "node",
+      "id": 12587772891,
+      "lat": 52.5001049,
+      "lon": 13.7394924
+    },
+    {
+      "type": "node",
+      "id": 12587772892,
+      "lat": 52.5001147,
+      "lon": 13.7394291
+    },
+    {
+      "type": "node",
+      "id": 12587772893,
+      "lat": 52.5000372,
+      "lon": 13.7393965
+    },
+    {
+      "type": "node",
+      "id": 569071127,
+      "lat": 52.504276,
+      "lon": 13.8424029
+    },
+    {
+      "type": "node",
+      "id": 569071140,
+      "lat": 52.504939,
+      "lon": 13.841669
+    },
+    {
+      "type": "node",
+      "id": 569071146,
+      "lat": 52.5044198,
+      "lon": 13.8421464
+    },
+    {
+      "type": "node",
+      "id": 569071151,
+      "lat": 52.5047298,
+      "lon": 13.8421667
+    },
+    {
+      "type": "node",
+      "id": 2330299764,
+      "lat": 52.5044748,
+      "lon": 13.8421505
+    },
+    {
+      "type": "node",
+      "id": 10945485398,
+      "lat": 52.5043091,
+      "lon": 13.842354
+    },
+    {
+      "type": "node",
+      "id": 10945485399,
+      "lat": 52.5043942,
+      "lon": 13.8421643
+    },
+    {
+      "type": "node",
+      "id": 10945485404,
+      "lat": 52.5043201,
+      "lon": 13.8423294
+    },
+    {
+      "type": "node",
+      "id": 10945593906,
+      "lat": 52.5046962,
+      "lon": 13.8421763
+    }
+  ]
+}
