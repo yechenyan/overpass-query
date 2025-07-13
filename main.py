@@ -3,7 +3,7 @@ from generate_ql import generate_ql
 from run_overpass_query import run_overpass_query
 from process_result_to_csv import process_result_to_csv
 
-FILE_NAME = "speziallogistik"
+FILE_NAME = "häfen_1.json"
 # bbox
 # qls = generate_ql(f"origin/{FILE_NAME}.json")
 

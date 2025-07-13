@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "name$match$i": "Hafen|Binnenhafen|Seehafen|Industriehafen|Güterhafen|Umschlaghafen|Hafenanlage|Hafenbecken|Kai|Hafenbetrieb|Hafenlogistik|Hafenumschlag|Hafenverwaltung",
+      "opening_hours$neg": "."
+    },
+    {
+      "landuse$match$i": "port"
+      
+    },
+    {
+      "man_made$match$i": "pier"
+    },
+    {
+      "waterway$match$i": "dock|harbour"
+    },
+    {
+      "seamark:type$match$i": "harbour"
+    },
+    {
+      "industrial$match$i": "quay"
+    }
+  ]
+]

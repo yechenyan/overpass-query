@@ -1,0 +1,13 @@
+[
+  [
+    {
+      "name$match$i": "Umzüge|Strabag|Züblin|Max Bögl|Hochtief|Bilfinger|Leonhard Weiss|WOLFF&MÜLLER|Implenia|Goldbeck",
+      "opening_hours$neg": "."
+    },
+    
+    {
+      "building": "construction",
+      "name$match$i": "Umzüge|Strabag|Züblin|Max Bögl|Hochtief|Bilfinger|Leonhard Weiss|WOLFF&MÜLLER|Implenia|Goldbeck"
+    }
+  ]
+]

@@ -1,0 +1,19 @@
+[
+  [
+    {
+      "name$match$i": "Elektro|Elektrotechnik|Elektriker|Sanitär|Heizung|SHK|Klima|Lüftung|Haustechnik|Gebäudetechnik|Licht|Solartechnik|Photovoltaik",
+      "opening_hours$neg": "."
+      
+    },
+    
+    {
+      "office": "construction",
+      "name$match$i": "Elektro|Elektrotechnik|Elektriker|Sanitär|Heizung|SHK|Klima|Lüftung|Haustechnik|Gebäudetechnik|Licht|Solartechnik|Photovoltaik"
+    },
+
+    {
+      "shop": "electrical"
+      
+    }
+  ]
+]

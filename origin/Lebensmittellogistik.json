@@ -1,0 +1,19 @@
+[
+  [
+    {
+      "building": "warehouse",
+      "name$match$i": "Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger",
+      "opening_hours$neg": "."
+    },
+    {
+      "landuse": "industrial",
+      "name$match$i": "Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger",
+      "opening_hours$neg": "."
+    },
+    {
+      "shop": "wholesale",
+      "name$match$i": "Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger",
+      "opening_hours$neg": "."
+    }
+  ]
+]
