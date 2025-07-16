@@ -28,24 +28,24 @@
   // query
   node({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["shop"="trade|doityourself"];
+    ["shop"~"trade|doityourself"];
   way({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["shop"="trade|doityourself"];
+    ["shop"~"trade|doityourself"];
   relation({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["shop"="trade|doityourself"];
+    ["shop"~"trade|doityourself"];
 
   // query
   node({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["building"="industrial|industrial|commercial"];
+    ["building"~"industrial|industrial|commercial"];
   way({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["building"="industrial|industrial|commercial"];
+    ["building"~"industrial|industrial|commercial"];
   relation({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["building"="industrial|industrial|commercial"];
+    ["building"~"industrial|industrial|commercial"];
 
   // query
   node({{bbox}})

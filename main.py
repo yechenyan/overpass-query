@@ -4,7 +4,7 @@ from  process_result_to_json import process_result_to_json
 from run_overpass_query import run_overpass_query
 from process_result_to_csv import process_result_to_csv
 
-FILE_NAME = "8Weiteres"
+FILE_NAME = "4_handwerk_2"
 # bbox
 # qls = generate_ql(f"origin/{FILE_NAME}.json")
 
@@ -27,8 +27,8 @@ generate_ql(f"origin/{FILE_NAME}.json",
            )
 
 
-# for ql in qls:
-#   run_overpass_query(ql, output_name = FILE_NAME)
+for ql in qls:
+  run_overpass_query(ql, output_name = FILE_NAME)
 
-# process_result_to_csv(f"output_query_data/{FILE_NAME}.json", f"output_result/{FILE_NAME}.csv")
-# process_result_to_json(f"output_query_data/{FILE_NAME}.json", f"output_result_json/{FILE_NAME}.json")
+process_result_to_csv(f"output_query_data/{FILE_NAME}.json", f"output_result/{FILE_NAME}.csv")
+process_result_to_json(f"output_query_data/{FILE_NAME}.json", f"output_result_json/{FILE_NAME}.json")

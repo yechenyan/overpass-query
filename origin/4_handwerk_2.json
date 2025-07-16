@@ -10,11 +10,11 @@
     },
     {
       "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
-      "shop": "trade|doityourself"
+      "shop$match": "trade|doityourself"
     },
     {
       "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
-      "building": "industrial|industrial|commercial"
+      "building$match": "industrial|industrial|commercial"
     },
     {
       "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",

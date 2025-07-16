@@ -1,6 +1,108 @@
 [
     {
         "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "32",
+            "addr:postcode": "10585",
+            "addr:street": "Wilmersdorfer Straße",
+            "addr:suburb": "Charlottenburg",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "check_date": "2023-04-09",
+            "check_date:opening_hours": "2024-04-18",
+            "contact:phone": "+49 30 3479040",
+            "level": "0",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off",
+            "phone": "+49 30 3479040",
+            "shop": "doityourself",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-charlottenburg/fc/812",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "3-4",
+            "addr:postcode": "10787",
+            "addr:street": "Bayreuther Straße",
+            "addr:suburb": "Schöneberg",
+            "branch": "Berlin Schöneberg",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "de:Bauhaus (Baumarkt)",
+            "email": "Info.NL840@bauhaus-ag.de",
+            "internet_access": "wlan",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Sa 09:00-20:00",
+            "operator": "Bauhaus",
+            "phone": "+49 30 2351000",
+            "shop": "doityourself",
+            "toilets:wheelchair": "no",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-schoeneberg/fc/840",
+            "wheelchair": "limited",
+            "wheelchair:description": "Das UG ist nur mit einem Lastenaufzug zu erreichen. Zum öffnen und schließen der Fahrstuhltüren ist man auf Hilfe angewiesen."
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "229-245",
+            "addr:postcode": "13435",
+            "addr:street": "Wilhelmsruher Damm",
+            "addr:suburb": "Wittenau",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "check_date:opening_hours": "2023-06-27",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Sa 08:00-20:00",
+            "operator": "Bauhaus Berlin-Wittenau",
+            "phone": "+49 30 4080000",
+            "shop": "doityourself",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-wittenau/fc/850",
+            "wheelchair": "yes",
+            "wheelchair:description": "Öffnungszeiten: Mo-Sa 08:00 Uhr-20:00 Uhr"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "86-90",
+            "addr:postcode": "13403",
+            "addr:street": "Waldstraße",
+            "addr:suburb": "Reinickendorf",
+            "name": "B1 Baumarkt",
+            "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00",
+            "phone": "+49 30 41748910",
+            "shop": "doityourself",
+            "website": "https://www.b1-discount.de/",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Wandlitz",
+            "addr:housenumber": "29a",
+            "addr:postcode": "16348",
+            "addr:street": "Zühlsdorfer Straße",
+            "addr:suburb": "Basdorf",
+            "name": "ALT-Baufertigteile",
+            "shop": "trade"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "man_made": "works",
             "name": "Bau Clement",
             "operator": "Reiner Clement",
@@ -17,6 +119,70 @@
             "operator": "Wolf-Rüdiger Lambers",
             "phone": "+49-30-6498502",
             "works": "construction"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "123-125",
+            "addr:postcode": "14482",
+            "addr:street": "Großbeerenstraße",
+            "addr:suburb": "Babelsberg Süd",
+            "automatic_door": "infrared",
+            "branch": "Potsdam Babelsberg",
+            "brand": "toom Baumarkt",
+            "brand:wikidata": "Q2442970",
+            "brand:wikipedia": "de:toom Baumarkt",
+            "check_date:opening_hours": "2025-07-15",
+            "contact:phone": "+49 331 743 750",
+            "door": "sliding",
+            "level": "0",
+            "name": "toom Baumarkt",
+            "name:ar": "توم",
+            "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+            "operator": "toom Baumarkt GmbH",
+            "operator:type": "business",
+            "operator:wikidata": "Q2442970",
+            "operator:wikipedia": "de:toom Baumarkt",
+            "shop": "doityourself",
+            "short_name": "toom",
+            "website": "https://toom.de/m/potsdam-babelsberg/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "44",
+            "addr:postcode": "10249",
+            "addr:street": "Hermann-Blankenstein-Straße",
+            "brand": "toom Baumarkt",
+            "brand:wikidata": "Q2442970",
+            "brand:wikipedia": "de:Toom Baumarkt",
+            "check_date:opening_hours": "2024-09-13",
+            "name": "toom Baumarkt",
+            "opening_hours": "Mo-Th,Sa 08:00-20:00; Fr 08:00-20:00",
+            "phone": "+49 30 46776210",
+            "shop": "doityourself",
+            "short_name": "toom",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Neuenhagen bei Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "15366",
+            "addr:street": "Zum Mühlenfließ",
+            "name": "Baustoff Union Neuenhagen",
+            "shop": "doityourself",
+            "website": "https://www.bun-neuenhagen.de/"
         },
         "name": null
     },
@@ -53,6 +219,156 @@
     },
     {
         "tags": {
+            "brand": "toom Baumarkt",
+            "brand:wikidata": "Q2442970",
+            "brand:wikipedia": "de:Toom Baumarkt",
+            "name": "toom Baumarkt",
+            "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00",
+            "payment:american_express": "yes",
+            "payment:girocard": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "shop": "doityourself",
+            "short_name": "toom",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "11",
+            "addr:postcode": "14482",
+            "addr:street": "Orenstein-&-Koppel-Straße",
+            "addr:suburb": "Babelsberg Süd",
+            "name": "Brun & Böhm Baustoffe GmbH",
+            "opening_hours": "Mo-Fr 06:30-18:00; Sa 08:00-15:00",
+            "phone": "+49 331 5818880",
+            "shop": "trade",
+            "trade": "building_supplies",
+            "website": "https://www.brunundboehm.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Hoppegarten",
+            "addr:housenumber": "59-63",
+            "addr:postcode": "15366",
+            "addr:street": "Mahlsdorfer Straße",
+            "addr:suburb": "Hönow",
+            "brand": "Sonderpreis Baumarkt",
+            "brand:wikidata": "Q102247917",
+            "name": "Sonderpreis Baumarkt",
+            "shop": "doityourself",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "180",
+            "addr:postcode": "13509",
+            "addr:street": "Holzhauser Straße",
+            "email": "info@daemmisol.de",
+            "fax": "+49 30 61781 400",
+            "name": "Dämmisol Baustoffe",
+            "opening_hours": "Mo-Fr 06:00-17:00",
+            "phone": "+49 30 61781 0",
+            "shop": "trade",
+            "website": "https://www.daemmisol.de/standorte/berlin-reinickendorf/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "18",
+            "addr:postcode": "12103",
+            "addr:street": "Alboinstraße",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "check_date:opening_hours": "2024-04-27",
+            "email": "Service.NL597@bauhaus-ag.de",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:credit_cards": "yes",
+            "phone": "+49 30 7551560",
+            "shop": "doityourself",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-schoeneberg/fc/597",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Stahnsdorf",
+            "addr:country": "DE",
+            "addr:housenumber": "12",
+            "addr:postcode": "14532",
+            "addr:street": "Großbeerenstraße",
+            "addr:suburb": "Güterfelde",
+            "name": "th-beton GmbH",
+            "shop": "trade"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Dallgow-Döberitz",
+            "addr:country": "DE",
+            "addr:housenumber": "200",
+            "addr:postcode": "14624",
+            "addr:street": "Hamburger Chaussee",
+            "amenity": "recycling",
+            "contact:phone": "+49 30 8479170",
+            "contact:website": "https://www.baukies-parey.de/",
+            "name": "Baukies Parey",
+            "recycling:hardcore": "yes",
+            "recycling:rubble": "yes",
+            "recycling_type": "centre",
+            "shop": "trade",
+            "trade": "building_supplies"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Schönefeld",
+            "addr:housenumber": "117",
+            "addr:postcode": "12529",
+            "addr:street": "Karl-Marx-Straße",
+            "addr:suburb": "Großziethen",
+            "brand": "Sonderpreis Baumarkt",
+            "brand:wikidata": "Q102247917",
+            "name": "Sonderpreis Baumarkt",
+            "shop": "doityourself"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "27",
+            "addr:postcode": "10711",
+            "addr:street": "Katharinenstraße",
+            "addr:suburb": "Halensee",
+            "name": "EcoBau Elemente",
+            "shop": "trade",
+            "trade": "building_supplies",
+            "website": "https://www.ecobau-elemente.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "addr:city": "Berlin",
             "addr:country": "DE",
             "addr:housenumber": "53",
@@ -65,6 +381,109 @@
             "product": "steel and metal constructions",
             "source": "Geoportal Berlin / Hauskoordinaten",
             "website": "https://www.metallbau.com/berlin/friedrichshagener-maschinenbau-und-f%C3%B6rdertechnik-gmbh-183617.html"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "23",
+            "addr:postcode": "12524",
+            "addr:street": "Besenbinderstraße",
+            "addr:suburb": "Altglienicke",
+            "contact:website": "https://www.amr-shop.de",
+            "name": "AMR Dachbaustoffe",
+            "opening_hours": "Mo-Th 07:00-17:00; Fr 07:00-13:00",
+            "shop": "trade",
+            "trade": "building_supplies",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Ahrensfelde",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "16356",
+            "addr:street": "Rudolf-Diesel-Straße",
+            "addr:suburb": "Lindenberg",
+            "brand": "Globus Baumarkt",
+            "brand:wikidata": "Q457503",
+            "brand:wikipedia": "de:Globus Holding",
+            "check_date:opening_hours": "2025-07-11",
+            "name": "Globus Baumarkt",
+            "opening_hours": "Mo-Sa 08:00-20:00",
+            "shop": "doityourself",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "12163",
+            "addr:street": "Schloßstraße",
+            "addr:suburb": "Steglitz",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "email": "service.nl894@bauhaus-ag.de",
+            "level": "-1",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Sa 08:00-20:00",
+            "phone": "+49 30 29381980",
+            "shop": "doityourself",
+            "start_date": "2022-10-21",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-steglitz/fc/894"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "26",
+            "addr:postcode": "12277",
+            "addr:street": "Nahmitzer Damm",
+            "addr:suburb": "Marienfelde",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-marienfelde/fc/604",
+            "email": "service.NL604@bauhaus-ag.de",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+            "operator": "BAUHAUS Fachcentren Berlin GmbH & Co. KG",
+            "phone": "+49 30 720050",
+            "shop": "doityourself",
+            "source": "Geoportal Berlin / Hauskoordinaten",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Hoffmann Baumaschinen",
+            "opening_hours": "Mo-Fr 07:00-16:00",
+            "shop": "trade"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "contact:website": "https://rpbauelemente.de/",
+            "name": "RP Bauelemente",
+            "shop": "trade"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Konak Baustoffhandel",
+            "shop": "trade"
         },
         "name": null
     },
@@ -84,6 +503,134 @@
     },
     {
         "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "55a",
+            "addr:postcode": "13627",
+            "addr:street": "Goebelstraße",
+            "addr:suburb": "Charlottenburg-Nord",
+            "building": "commercial",
+            "name": "GSW Wohnungsbau mbH",
+            "wikidata": "Q117705688",
+            "wikimedia_commons": "Category:Großsiedlung Siemensstadt – Heiz- und Waschhaus (Bartning)"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "1-2",
+            "addr:postcode": "13405",
+            "addr:street": "Kapweg",
+            "addr:suburb": "Wedding",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "building": "commercial",
+            "building:levels": "2",
+            "check_date:opening_hours": "2024-02-01",
+            "email": "Service.NL656@bauhaus-ag.de",
+            "fax": "+49 30 364111113",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+            "phone": "+49 30 36411110",
+            "roof:levels": "0",
+            "roof:shape": "flat",
+            "shop": "doityourself",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-wedding/fc/656",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "139",
+            "addr:postcode": "12439",
+            "addr:street": "Schnellerstraße",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "building": "retail",
+            "building:levels": "1",
+            "check_date:opening_hours": "2021-08-14",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+            "roof:shape": "flat",
+            "shop": "doityourself",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Petershagen/Eggersdorf",
+            "addr:housenumber": "2",
+            "addr:postcode": "15345",
+            "addr:street": "Am Fuchsbau",
+            "addr:suburb": "Eggersdorf",
+            "building": "industrial",
+            "building:levels": "2",
+            "name": "Metallbau Kunstschlosserei Dickmann",
+            "roof:shape": "gabled"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Falkensee",
+            "addr:country": "DE",
+            "addr:housenumber": "142-148",
+            "addr:postcode": "14612",
+            "addr:street": "Straße der Einheit",
+            "building": "industrial",
+            "building:levels": "9",
+            "contact:website": "http://www.ecomlogistik.de/",
+            "name": "Ehemals Herlitzwerke (im Rückbau)",
+            "note": "formerly Herlitz",
+            "office": "logistics",
+            "roof:levels": "0"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "13597",
+            "addr:street": "An den Freiheitswiesen",
+            "addr:suburb": "Spandau",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "building": "yes",
+            "contact:email": "Info.NL623@bauhaus-ag.de",
+            "contact:phone": "+49 30 53005990",
+            "contact:website": "http://www.bauhaus.info",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-20:00; Sa 08:00-21:00; Su, PH off",
+            "shop": "doityourself",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Falkensee",
+            "addr:country": "DE",
+            "addr:housenumber": "132a",
+            "addr:postcode": "14612",
+            "addr:street": "Straße der Einheit",
+            "building": "yes",
+            "name": "Funke Baustoffe",
+            "shop": "trade"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "addr:city": "Werneuchen",
             "addr:housenumber": "6",
             "addr:postcode": "16356",
@@ -91,6 +638,75 @@
             "industrial": "concrete_plant",
             "landuse": "industrial",
             "name": "Bauhof Werneuchen"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "106-114",
+            "addr:postcode": "10967",
+            "addr:street": "Hasenheide",
+            "addr:suburb": "Neukölln",
+            "branch": "Berlin-Neukölln",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "building": "retail",
+            "building:levels": "4",
+            "check_date:opening_hours": "2024-03-22",
+            "email": "service.nl814@bauhaus-ag.de",
+            "fee": "yes",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Sa 08:00-20:00",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "phone": "+49 30 627900 0",
+            "ref:vatin": "DE136658025",
+            "roof:colour": "grey",
+            "roof:shape": "flat",
+            "shop": "doityourself",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-neukoelln/fc/814",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "access": "customers",
+            "amenity": "parking",
+            "building": "commercial",
+            "building:levels": "5",
+            "capacity": "342",
+            "capacity:disabled": "16",
+            "capacity:women": "96",
+            "charge": "1.00 EUR/hour; Mo-Fr 14.00 EUR/day; PH,Sa,Su 10.00 EUR/day",
+            "contact:website": "https://www.mein-contipark.de/parkplatz-finden/parken-in-potsdam/parkhaus-schiffbauergasse-potsdam--ci3cp10991",
+            "fee": "yes",
+            "lit": "yes",
+            "name": "Parkhaus Schiffbauergasse",
+            "opening_hours": "24/7",
+            "operator": "Servipark Deutschland GmbH",
+            "operator:type": "business",
+            "operator:wikidata": "Q54867477",
+            "operator:wikipedia": "de:Contipark Parkgaragengesellschaft",
+            "parking": "multi-storey",
+            "payment:cash": "yes",
+            "ref:vatin": "DE256937603",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "brand": "Toom Baumarkt",
+            "brand:wikidata": "Q2442970",
+            "brand:wikipedia": "de:Toom Baumarkt",
+            "building": "yes",
+            "name": "Toom Baumarkt",
+            "shop": "doityourself",
+            "wheelchair": "limited"
         },
         "name": null
     },
@@ -154,6 +770,97 @@
     },
     {
         "tags": {
+            "building": "commercial",
+            "building:levels": "2",
+            "name": "Schlossbauhütte"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "building:levels": "3",
+            "contact:email": "info@wg-wuhletal.de",
+            "contact:fax": "+49 30 56843120",
+            "contact:phone": "+49 30 568430",
+            "contact:website": "https://www.wg-wuhletal.de/",
+            "name": "Wohnungsbaugenossenschaft Wuhletal eG",
+            "office": "estate_agent",
+            "opening_hours": "Tu 13:00-18:00; PH off",
+            "operator": "Wohnungsbaugenossenschaft Wuhletal eG",
+            "phone": "+49 30 568430",
+            "roof:levels": "0",
+            "roof:shape": "flat",
+            "website": "https://www.wg-wuhletal.de/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Blankenfelde-Mahlow",
+            "addr:country": "DE",
+            "addr:housenumber": "87-91",
+            "addr:postcode": "15831",
+            "addr:street": "Am Lückefeld",
+            "addr:suburb": "Mahlow",
+            "branch": "Mahlow",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "building": "retail",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH,Su closed",
+            "shop": "doityourself"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Brieselang",
+            "addr:country": "DE",
+            "addr:housenumber": "5",
+            "addr:postcode": "14656",
+            "addr:street": "Hans-Klakow-Straße",
+            "building": "industrial",
+            "name": "K & S Metallbau"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Schönefeld",
+            "addr:country": "DE",
+            "addr:housenumber": "16a",
+            "addr:postcode": "12529",
+            "addr:street": "Glasower Allee",
+            "addr:suburb": "Kleinziethen",
+            "alt_name": "Rinn Ideengarten",
+            "landuse": "retail",
+            "name": "Rinn Beton- und Naturstein",
+            "shop": "doityourself",
+            "website": "https://www.rinn.net/mein-garten/service-kontakt/ideengaerten/ideengarten-berlin.html"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "name": "HMS Bergbau; Tabeg Tanklagerbetriebsgesellschaft",
+            "website": "https://www.hms-ag.com/",
+            "website2": "http://www.tabeg.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "name": "Mobau"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "landuse": "industrial",
             "name": "Betonwerk"
         },
@@ -161,8 +868,95 @@
     },
     {
         "tags": {
+            "building": "industrial",
+            "name": "ehem. Bau- u. Montagekombinat Erfurt"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "360-362",
+            "addr:postcode": "10365",
+            "addr:street": "Landsberger Allee",
+            "addr:suburb": "Lichtenberg",
+            "brand": "Globus Baumarkt",
+            "brand:wikidata": "Q457503",
+            "brand:wikipedia": "de:Globus Holding",
+            "building": "retail",
+            "building:levels": "2",
+            "check_date": "2023-08-01",
+            "name": "Globus Baumarkt",
+            "opening_hours": "Mo-Sa 08:00-20:00",
+            "operator": "Globus Baufachmarkt Berlin Lichtenberg",
+            "phone": "+49 30 54709690",
+            "roof:shape": "flat",
+            "shop": "doityourself",
+            "source": "estimated",
+            "toilets:wheelchair": "yes",
+            "website": "https://www.globus-baumarkt.de/info/markt/berlin-lichtenberg/",
+            "wheelchair": "yes",
+            "wheelchair:description": "ca. 10 Parkplätze für Rollstuhlfahrer, Markt sehr geräumig"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "landuse": "industrial",
             "name": "Bauhof"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "building": "yes",
+            "check_date:opening_hours": "2022-01-29",
+            "email": "Info.NL577@bauhaus-ag.de",
+            "fax": "+49 3303 5206 13",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+            "phone": "+49 3303 5206 0",
+            "roof:material": "metal",
+            "shop": "doityourself",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-birkenwerder/fc/577"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "contact:website": "https://www.muffenrohr.de/berlin-johannisthal/",
+            "name": "Muffenrohr Tiefbauhandel"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "access:covid19": "yes",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "53",
+            "addr:postcode": "13127",
+            "addr:street": "Schönerlinder Straße",
+            "addr:suburb": "Französisch Buchholz",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "building": "retail",
+            "building:levels": "1",
+            "email": "Info.NL578@bauhaus-ag.de",
+            "fax": "+49 30 475971 13",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Sa 08:00-20:00",
+            "phone": "+49 30 475971 0",
+            "roof:levels": "0",
+            "shop": "doityourself",
+            "takeaway:covid19": "yes",
+            "website": "https://www.bauhaus.info/",
+            "wheelchair": "yes"
         },
         "name": null
     },
@@ -178,6 +972,43 @@
     },
     {
         "tags": {
+            "addr:city": "Wustermark",
+            "addr:country": "DE",
+            "addr:housenumber": "1F",
+            "addr:postcode": "14641",
+            "addr:street": "Chaussee",
+            "addr:suburb": "Priort",
+            "building": "commercial",
+            "name": "MH Bauelemente"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Wustermark",
+            "addr:country": "DE",
+            "addr:postcode": "14641",
+            "addr:suburb": "Priort",
+            "building": "commercial",
+            "name": "Hochbau Uwe Berger"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Wustermark",
+            "addr:country": "DE",
+            "addr:housenumber": "26",
+            "addr:postcode": "14641",
+            "addr:street": "Chaussee",
+            "addr:suburb": "Priort",
+            "building": "commercial",
+            "name": "Baufachbetrieb für Fliesenarbeiten und Trockenbau Andreas Lehmann"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "landuse": "industrial",
             "name": "BZH / Bau- und Zuschlagsstoffhandel GmbH"
         },
@@ -185,8 +1016,96 @@
     },
     {
         "tags": {
+            "architect": "Jean Krämer",
+            "architect:wikidata": "Q1274704",
+            "building": "industrial",
+            "building:levels": "1",
+            "heritage": "4",
+            "heritage:operator": "lda",
+            "lda:criteria": "Baudenkmal",
+            "name": "Teilobjekt Einbauhalle",
+            "ref:lda": "09020112,T,005",
+            "roof:shape": "gabled_row",
+            "source": "Geoportal Berlin / ALKIS Berlin - Gebäude",
+            "start_date": "1926",
+            "wikimedia_commons": "File:Oberschöneweide Ostendstraße Akkumulatorenfabrik Oberspree.jpg"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Großbeeren",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "14979",
+            "addr:street": "Theodor-Echtermeyer-Weg",
+            "building": "commercial",
+            "int_name": "IGZ - Leibniz-Institute for Vegetable and Ornamental Crops",
+            "name": "IGZ - Leibniz-Institut für Gemüse- und Zierpflanzenbau"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "landuse": "industrial",
             "name": "Hans-Peter Schmidt Tiefbau GmbH"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "2+4",
+            "addr:postcode": "10589",
+            "addr:street": "Max-Dohrn-Straße",
+            "addr:suburb": "Charlottenburg-Nord",
+            "building": "industrial",
+            "fax": "+49 30 69003-104",
+            "name": "Baumer Hübner GmbH",
+            "phone": "+49 30 69003-0",
+            "website": "http://www.baumerhuebner.com",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:inclusion": "actual",
+            "addr:postcode": "12487",
+            "addr:street": "Eisenhutweg",
+            "addr:suburb": "Johannisthal",
+            "brand": "Globus Baumarkt",
+            "brand:wikidata": "Q457503",
+            "brand:wikipedia": "de:Globus Holding",
+            "building": "retail",
+            "check_date:opening_hours": "2021-09-02",
+            "name": "Globus Baumarkt",
+            "opening_hours": "Mo-Sa 08:00-20:00",
+            "shop": "doityourself",
+            "source": "Geoportal Berlin / Hauskoordinaten",
+            "website": "https://www.globus-baumarkt.de/marketsites/start/?markt=53",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "162",
+            "addr:postcode": "12107",
+            "addr:street": "Mariendorfer Damm",
+            "addr:suburb": "Mariendorf",
+            "building": "warehouse",
+            "building:levels": "2",
+            "name": "Holzfachmarkt Neubauer",
+            "opening_hours": "Mo-Fr 07:00-17:00; Sa 09:00-13:00",
+            "roof:levels": "0",
+            "shop": "doityourself"
         },
         "name": null
     },
@@ -222,6 +1141,277 @@
     },
     {
         "tags": {
+            "building": "industrial",
+            "name": "Berger Bau"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Oberkrämer",
+            "addr:housenumber": "7",
+            "addr:postcode": "16727",
+            "addr:street": "Dr.-Rüdiger-Weber-Straße",
+            "addr:suburb": "Eichstädt",
+            "building": "commercial",
+            "name": "Metallbau Selent GmbH",
+            "office": "company",
+            "phone": "+49 3304 253377",
+            "website": "www.metallbau-selent.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Velten",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "16727",
+            "addr:street": "Am Jägerberg",
+            "building": "commercial",
+            "email": "info.velten@ruhrmann-gruppe.de",
+            "fax": "+493304 3929 22",
+            "name": "Ruhrmann Drucklufttechnik und Anlagenbau",
+            "phone": "+493304 3929 0",
+            "website": "https://ruhrmann-velten.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "10C",
+            "addr:postcode": "12099",
+            "addr:street": "Industriestraße",
+            "building": "commercial",
+            "name": "Akustik- und Trockenbau Raphael Raber GmbH ATR Bau"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Oberkrämer",
+            "addr:housenumber": "8",
+            "addr:postcode": "16727",
+            "addr:street": "Dr.-Rüdiger-Weber-Straße",
+            "addr:suburb": "Eichstädt",
+            "building": "commercial",
+            "name": "K/C Kunststoffspritzerei und Formenbau",
+            "office": "company",
+            "operator": "Norbert Weigel",
+            "phone": "+49 3304 390750",
+            "website": "kc-weigel.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "name": "Janke Innenausbau GmbH",
+            "office": "company",
+            "website": "www.janke-innenausbau.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Oberkrämer",
+            "addr:housenumber": "10",
+            "addr:postcode": "16727",
+            "addr:street": "Ziegeleistraße",
+            "addr:suburb": "Eichstädt",
+            "building": "commercial",
+            "building:levels": "2",
+            "email": "info@geruestbau-abraham.de",
+            "fax": "+49 3304 380731",
+            "name": "Abraham Gerüstbau GmbH",
+            "office": "company",
+            "phone": "+49 3304 380730",
+            "website": "https://www.geruestbau-abraham.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "213",
+            "addr:postcode": "14480",
+            "addr:street": "Großbeerenstraße",
+            "building": "commercial",
+            "building:levels": "2",
+            "check_date:opening_hours": "2021-12-18",
+            "description": "Baumaschinenverleih",
+            "name": "HKL Baumaschinen GmbH",
+            "name:de": "HKL Baumaschinen GmbH",
+            "opening_hours": "Mo-Th 07:00-16:00, Fr 07:00-15:00",
+            "rental": "machines",
+            "roof:levels": "0",
+            "roof:shape": "gabled",
+            "shop": "rental"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "77",
+            "addr:postcode": "10317",
+            "addr:street": "Zobtener Straße",
+            "building": "commercial",
+            "building:levels": "2",
+            "check_date": "2024-08-03",
+            "name": "Module Spezial-Gerüstbau GmbH",
+            "office": "company",
+            "roof:shape": "flat"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Oberkrämer",
+            "addr:country": "DE",
+            "addr:housenumber": "9",
+            "addr:postcode": "16727",
+            "addr:street": "Gewerbestraße",
+            "addr:suburb": "Eichstädt",
+            "building": "commercial",
+            "name": "JENDRULA - Karosseriebau",
+            "operator": "Czerniewicz Andrzej",
+            "phone:mobile": "+49 177 7811915;+49 177 3402426",
+            "shop": "car_repair"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "industrial",
+            "building:levels": "1",
+            "description": "ehem. Güterschuppen",
+            "name": "Bauhof der Gemeinde",
+            "roof:shape": "gabled"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "building:levels": "4",
+            "name": "Friese-Bau",
+            "roof:levels": "1"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Werneuchen",
+            "addr:country": "DE",
+            "addr:housenumber": "7",
+            "addr:postcode": "16356",
+            "addr:street": "Ahornallee",
+            "building": "commercial",
+            "craft": "yes",
+            "name": "Hans-Jürgen Säume (Figurenbauer)",
+            "website": "www.saeume-art.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Werneuchen",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "16356",
+            "addr:street": "Ahornallee",
+            "building": "commercial",
+            "name": "OHV Gerüstbau GmbH"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "11",
+            "addr:postcode": "12623",
+            "addr:street": "Iglauer Straße",
+            "addr:suburb": "Mahlsdorf",
+            "building": "commercial",
+            "contact:phone": "+49 30 5677436",
+            "contact:website": "http://www.kohrt-bauschlosserei.de",
+            "name": "Kohrt Bauschlosserei Metallbau"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Baustoff Brandes Teltow",
+            "opening_hours": "Mo-Fr 07:00-17:00; Sa 08:00-12:00; PH,Su closed",
+            "phone": "+49 3328 39870",
+            "shop": "trade",
+            "website": "https://baustoff-brandes.de/teltow/home/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housename": "Ahle, Fischer & Co. Bau GmbH",
+            "addr:housenumber": "39",
+            "addr:postcode": "12621",
+            "addr:street": "Alt-Kaulsdorf",
+            "addr:suburb": "Kaulsdorf",
+            "building": "commercial",
+            "building:levels": "2",
+            "contact:phone": "+49 30 51 43 0 43",
+            "contact:website": "http://www.bau-berlin.info/kontakt/",
+            "name": "Ahle, Fischer & Co. Bau GmbH",
+            "office": "company",
+            "official_name": "Ahle, Fischer & Co. Bau GmbH",
+            "phone": "+49 30 51 43 0 43",
+            "website": "https://www.bau-berlin.info/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "73",
+            "addr:postcode": "10317",
+            "addr:street": "Zobtener Straße",
+            "building": "commercial",
+            "building:levels": "2",
+            "check_date": "2024-08-03",
+            "contact:website": "http://www.ro2-berlin.de",
+            "name": "Ro² GmbH & Co.KG Gerüstbau",
+            "office": "company",
+            "roof:shape": "flat"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Hohen Neuendorf",
+            "addr:country": "DE",
+            "addr:housenumber": "13",
+            "addr:postcode": "16562",
+            "addr:street": "Gewerbestraße",
+            "building": "industrial",
+            "craft": "roofer",
+            "email": "info@palluth-dachbau.de",
+            "fax": "+49 3303 2953777",
+            "name": "Palluth Dachbau",
+            "phone": "+49 3303 5062550",
+            "website": "https://www.palluth-dachbau.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "email": "info@berdingbeton.de",
             "fax": "+4933638 3022 1",
             "landuse": "industrial",
@@ -233,216 +1423,98 @@
     },
     {
         "tags": {
-            "addr:city": "Rüdersdorf bei Berlin",
-            "addr:housenumber": "1",
-            "addr:postcode": "15562",
-            "addr:street": "Tasdorf Süd",
-            "addr:suburb": "Rüdersdorf",
-            "building": "commercial",
-            "man_made": "works",
-            "name": "HKL Baumaschinen"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Rüdersdorf bei Berlin",
-            "addr:housenumber": "1",
-            "addr:postcode": "15562",
-            "addr:street": "Tasdorf Süd",
-            "addr:suburb": "Rüdersdorf",
-            "building": "commercial",
-            "man_made": "works",
-            "name": "HKL Baumaschinen"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "landuse": "industrial",
-            "name": "bwb Betonwerk Velten"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "barrier": "fence",
-            "landuse": "industrial",
-            "name": "Bezirksamt Hellersdorf von Berlin Tiefbauamt"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Berlin",
-            "addr:country": "DE",
-            "addr:housenumber": "33",
-            "addr:postcode": "12689",
-            "addr:street": "Hellersdorfer Weg",
-            "addr:suburb": "Marzahn",
-            "landuse": "industrial",
-            "name": "AS+BE Asphalt- und Betonstraßenbau",
-            "source": "Geoportal Berlin / Hauskoordinaten",
-            "website": "https://www.asbe-strassenbau.de/"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Berlin",
-            "addr:housenumber": "14",
-            "addr:postcode": "12681",
-            "addr:street": "Hornoer Ring",
-            "barrier": "fence",
-            "landuse": "industrial",
-            "name": "KaGaWa Rohrleitungs- und Anlagenbau GmbH",
-            "website": "https://kagawa-gmbh.de/"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Berlin",
-            "addr:housenumber": "27",
-            "addr:postcode": "12681",
-            "addr:street": "Boxberger Straße",
-            "landuse": "industrial",
-            "name": "Bauausrüstungen + Service Behnke & Sänger GmbH",
-            "phone": "+49 30 80 40 81 50"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Berlin",
-            "addr:country": "DE",
-            "addr:housenumber": "23",
-            "addr:postcode": "12681",
-            "addr:street": "Boxberger Straße",
-            "addr:suburb": "Marzahn",
-            "barrier": "fence",
-            "landuse": "industrial",
-            "name": "Bautrocknung Schmittgall GmbH",
-            "website": "https://www.bautrocknung.com/"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "landuse": "industrial",
-            "name": "Schlosserei & Maschinenbau Jürgen Rikwald",
-            "website": "https://www.rikwald.de/index0.html"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Berlin",
-            "addr:housenumber": "24D",
-            "addr:postcode": "13407",
-            "addr:street": "Flottenstraße",
-            "landuse": "industrial",
-            "name": "Matthäi Bauunternehmen GmbH & Co.KG"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Berlin",
-            "addr:country": "DE",
-            "addr:housenumber": "48c",
-            "addr:postcode": "12681",
-            "addr:street": "Rhinstraße",
-            "addr:suburb": "Marzahn",
-            "landuse": "industrial",
-            "name": "SCHWENK Beton Berlin-Brandenburg"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "industrial": "depot",
-            "landuse": "industrial",
-            "name": "Bauhof Zweckverband TKS",
-            "website": "https://zv-tks.de/"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "description": "Werk 3",
-            "industrial": "factory",
-            "landuse": "industrial",
-            "name": "Hans Timm Fensterbau",
-            "website": "https://www.timm-fensterbau.de/"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "description": "Werk 2",
-            "industrial": "factory",
-            "landuse": "industrial",
-            "name": "Hans Timm Fensterbau",
-            "website": "https://www.timm-fensterbau.de/"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "industrial": "factory",
-            "landuse": "industrial",
-            "name": "Mema Metallbau",
-            "website": "https://www.mema-berlin.de/"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "industrial": "recycling",
-            "landuse": "industrial",
-            "name": "Parey Baustoff-Recycling",
-            "website": "https://www.baukies-parey.de/"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Berlin",
+            "addr:city": "Potsdam",
             "addr:country": "DE",
             "addr:housenumber": "5",
-            "addr:postcode": "12099",
-            "addr:street": "Saalburgstraße",
-            "addr:suburb": "Tempelhof",
-            "industrial": "concrete_plant",
-            "landuse": "industrial",
-            "name": "Schwenk Beton Werk Tempelhof",
-            "operator": "Schwenk Beton Berlin-Brandenburg GmbH"
+            "addr:postcode": "14482",
+            "addr:street": "Orenstein-&-Koppel-Straße",
+            "addr:suburb": "Babelsberg Süd",
+            "building": "office",
+            "contact:phone": "+49 30 983 09911",
+            "contact:website": "https://www.schwenk.de/betongesellschaft/schwenk-beton-berlin-brandenburg-gmbh/",
+            "name": "Schwenk Beton",
+            "shop": "trade",
+            "trade": "building_supplies"
         },
         "name": null
     },
     {
         "tags": {
-            "industrial": "concrete_plant",
-            "landuse": "industrial",
-            "name": "Cemex Transportbeton",
-            "website": "https://www.cemex.de/-/transportbeton-r%25C3%25BCdersdorf"
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "5",
+            "addr:postcode": "14482",
+            "addr:street": "Orenstein-&-Koppel-Straße",
+            "addr:suburb": "Babelsberg Süd",
+            "building": "office",
+            "building:levels": "2",
+            "contact:email": "dispo.berlin-brandenburg@schwenk.com",
+            "contact:facebook": "https://www.facebook.com/profile.php?id=61553748230856",
+            "contact:instagram": "https://www.instagram.com/schwenk_deutschland/",
+            "contact:linkedin": "https://linkedin.com/company/schwenk-deutschland",
+            "contact:phone": "+49 30 983 09911",
+            "contact:website": "https://www.schwenk.de/betongesellschaft/schwenk-beton-berlin-brandenburg-gmbh/",
+            "contact:xing": "https://www.xing.com/companies/schwenkbaustoffgruppe",
+            "name": "Schwenk Beton",
+            "roof:levels": "0",
+            "shop": "trade",
+            "trade": "building_supplies"
         },
         "name": null
     },
     {
         "tags": {
-            "industrial": "concrete_plant",
-            "landuse": "industrial",
-            "name": "Berger Beton"
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "14478",
+            "addr:street": "Zum Heizwerk",
+            "building": "commercial",
+            "building:levels": "2",
+            "contact:email": "obl@mbu-potsdam.de",
+            "contact:phone": "+49 331 887 70",
+            "contact:website": "https://mbu-potsdam.de/",
+            "name": "Märkische Bau Union",
+            "office": "company",
+            "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:00-13:00; PH off",
+            "operator": "Märkische Bau Union GmbH & Co. KG",
+            "operator:type": "business"
         },
         "name": null
     },
     {
         "tags": {
-            "industrial": "concrete_plant",
-            "landuse": "industrial",
-            "name": "Lichtner Beton Brandenburg"
+            "building": "commercial",
+            "name": "Haus 98 Metallbau"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "1",
+            "addr:postcode": "13088",
+            "addr:street": "Darßer Bogen",
+            "building": "commercial",
+            "building:levels": "2",
+            "name": "Fittkau Metallbau + Kunstschmiede GmbH",
+            "phone": "+49 30 92090101",
+            "website": "https://www.fittkau-metallbau.de/index.php/de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "building": "retail",
+            "building:levels": "1",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+            "roof:shape": "flat",
+            "shop": "doityourself",
+            "wheelchair": "yes"
         },
         "name": null
     }

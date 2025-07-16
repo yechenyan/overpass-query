@@ -28,24 +28,24 @@
   // query
   node(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["shop"="trade|doityourself"];
+    ["shop"~"trade|doityourself"];
   way(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["shop"="trade|doityourself"];
+    ["shop"~"trade|doityourself"];
   relation(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["shop"="trade|doityourself"];
+    ["shop"~"trade|doityourself"];
 
   // query
   node(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["building"="industrial|industrial|commercial"];
+    ["building"~"industrial|industrial|commercial"];
   way(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["building"="industrial|industrial|commercial"];
+    ["building"~"industrial|industrial|commercial"];
   relation(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["building"="industrial|industrial|commercial"];
+    ["building"~"industrial|industrial|commercial"];
 
   // query
   node(52.344149, 12.967987, 52.727144, 13.862)
