@@ -9,7 +9,7 @@ FILE_NAME = "8Weiteres"
 # qls = generate_ql(f"origin/{FILE_NAME}.json")
 
 # Berlin
-# qls = generate_ql(f"origin/{FILE_NAME}.json", 
+#qls = generate_ql(f"origin/{FILE_NAME}.json", 
 #             area= "area.target", 
 #             area_define='\n area["name"="Berlin"]["boundary"="administrative"]->.target; \n' )
 
