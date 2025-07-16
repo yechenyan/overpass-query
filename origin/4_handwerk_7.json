@@ -1,0 +1,19 @@
+[
+  [
+    {
+      "shop$match$i": "towing"
+    },
+    {
+      "service$match$i": "towing|vehicle_recovery|car_repair"
+    },
+    {
+      "name$match$i": "Abschleppdienst|Abschleppservice|Abschleppunternehmen|Abschleppbetrieb|Autoverwertung|Fahrzeugbergung|Fahrzeugrückholung|Pannendienst|Bergungsdienst|Auto Service|ADAC|ACE|Pannenhilfe",
+      "shop$match": "car_part"
+    },
+    {
+      "name$match": "Abschleppdienst|Abschleppservice|Abschleppunternehmen|Abschleppbetrieb|Autoverwertung|Fahrzeugbergung|Fahrzeugrückholung|Pannendienst|Bergungsdienst|Auto Service|ADAC|ACE|Pannenhilfe",
+      "brand$match$i": "Abschleppdienst|Abschleppservice|Abschleppunternehmen|Abschleppbetrieb|Autoverwertung|Fahrzeugbergung|Fahrzeugrückholung|Pannendienst|Bergungsdienst|Auto Service|ADAC|ACE|Pannenhilfe",
+      "shop$neg": "travel_agency"
+    }
+  ]
+]

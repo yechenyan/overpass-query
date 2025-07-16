@@ -1,0 +1,39 @@
+[
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "123",
+            "addr:postcode": "13158",
+            "addr:street": "Dietzgenstraße",
+            "addr:suburb": "Rosenthal",
+            "contact:website": "https://www.asd-nord-ost.de/",
+            "name": "Abschleppdienst Nord-Ost",
+            "shop": "towing",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Autoverwertung Berk",
+            "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-14:00",
+            "shop": "car_parts"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "37-38",
+            "addr:postcode": "13409",
+            "addr:street": "Hausotterstraße",
+            "addr:suburb": "Reinickendorf",
+            "contact:website": "https://www.abschleppdienst-reinhold.de",
+            "name": "Abschleppdienst Reinhold",
+            "shop": "towing"
+        },
+        "name": null
+    }
+]

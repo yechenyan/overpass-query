@@ -1,0 +1,791 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-16T07:37:41Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2100526566,
+      "lat": 52.4567117,
+      "lon": 13.5295733,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1-5",
+        "addr:postcode": "12459",
+        "addr:street": "Ostendstra\u00dfe",
+        "addr:suburb": "Obersch\u00f6neweide",
+        "name": "Umspannwerk Werk f\u00fcr Fernsehelektronik",
+        "power": "substation",
+        "short_name": "UW WFB",
+        "substation": "minor_distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2395299464,
+      "lat": 52.5206535,
+      "lon": 13.3588674,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "368",
+        "addr:place": "Stadtbahnbogen",
+        "addr:postcode": "10557",
+        "addr:suburb": "Moabit",
+        "check_date": "2021-07-04",
+        "disused:shop": "electronics",
+        "entrance": "yes",
+        "name": "Sch\u00f6ttle Elektrowerkzeuge u. Hausger\u00e4teservice",
+        "note": "am Briefkasten steht mit Stand 06/2017 die Anschrift des benachbarten 'Theater Artenschutz'"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2691023230,
+      "lat": 52.5801951,
+      "lon": 13.3580534,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "32",
+        "addr:postcode": "13407",
+        "addr:street": "Markscheiderstra\u00dfe",
+        "addr:suburb": "Reinickendorf",
+        "man_made": "works",
+        "name": "Lichtner-Dyckerhoff Beton GmbH & Co. KG",
+        "phone": "+493033000276",
+        "source": "http://www.lichtner.dyckerhoff.de/online/de/Home/Standorte/articolo17.html",
+        "website": "http://www.lichtner.dyckerhoff.de/online/de/Home.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3913282695,
+      "lat": 52.4277756,
+      "lon": 13.3690958,
+      "tags": {
+        "man_made": "works",
+        "name": "Peuler Haustechnik-Service"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4105800901,
+      "lat": 52.563829,
+      "lon": 13.3924924,
+      "tags": {
+        "check_date": "2025-02-11",
+        "disused:shop": "electronics",
+        "name": "TV - Video - Hifi - Antennen - Elektro",
+        "shop": "vacant",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7775875901,
+      "lat": 52.4678072,
+      "lon": 13.3317571,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "51",
+        "addr:postcode": "12161",
+        "addr:street": "Rheinstra\u00dfe",
+        "addr:suburb": "Friedenau",
+        "check_date": "2025-04-24",
+        "disused:shop": "lighting",
+        "name": "Die Lichtquelle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9725266731,
+      "lat": 52.5759176,
+      "lon": 13.34959,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "13407",
+        "addr:street": "Alt-Reinickendorf",
+        "addr:suburb": "Reinickendorf",
+        "amenity": "workshop",
+        "name": "Elektronik-Recycling-Werkstatt",
+        "operator": "Der Steg gGmbH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27259944,
+      "nodes": [
+        299206846,
+        3248619908,
+        3248619905,
+        299206847,
+        299206848,
+        299206849,
+        299206846
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "61c",
+        "addr:postcode": "12207",
+        "addr:street": "Ostpreu\u00dfendamm",
+        "addr:suburb": "Lichterfelde",
+        "building": "yes",
+        "frequency": "50",
+        "location": "indoor",
+        "name": "Umspannwerk Lichterfelde",
+        "operator": "Stromnetz Berlin",
+        "operator:wikidata": "Q110255475",
+        "power": "substation",
+        "ref": "LI",
+        "short_name": "UW LI",
+        "substation": "distribution",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40745769,
+      "nodes": [
+        495164620,
+        495164628,
+        495164640,
+        495164661,
+        4179117859,
+        4179117858,
+        669720126,
+        669720131,
+        4179117844,
+        4179117845,
+        495164681,
+        669662922,
+        495164685,
+        495164694,
+        495164620
+      ],
+      "tags": {
+        "disused": "yes",
+        "name": "Umspannwerk Elektrokohle",
+        "operator": "Stromnetz Berlin",
+        "operator:wikidata": "Q110255475",
+        "power": "substation",
+        "source": "Wikipedia",
+        "voltage": "0"
+      }
+    },
+    {
+      "type": "way",
+      "id": 276427053,
+      "nodes": [
+        2810222034,
+        2810222045,
+        2810222047,
+        2810222050,
+        12677443886,
+        2810222053,
+        3224755664,
+        2810222059,
+        2810222074,
+        2810222077,
+        2810222078,
+        2810222092,
+        2821001397,
+        2810222093,
+        2810222094,
+        6204106964,
+        2810222089,
+        313295989,
+        2821001384,
+        6204184270,
+        2821001391,
+        12677454208,
+        2821001393,
+        2821001394,
+        9783797587,
+        2810222076,
+        2810222072,
+        6204184406,
+        2810222070,
+        2810222066,
+        2810222065,
+        6204105200,
+        6204105198,
+        6204105199,
+        313295991,
+        2718228206,
+        2810222056,
+        6204106957,
+        2718228192,
+        6204184268,
+        2810222043,
+        2810222041,
+        2810222040,
+        2810222034
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "19-25",
+        "addr:postcode": "10553",
+        "addr:street": "Neues Ufer",
+        "addr:suburb": "Moabit",
+        "man_made": "works",
+        "name": "Menzel Elektromotoren GmbH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320592216,
+      "nodes": [
+        3271373302,
+        3271373317,
+        3271373316,
+        3271373312,
+        3271373302
+      ],
+      "tags": {
+        "barrier": "fence",
+        "frequency": "50;0",
+        "landuse": "commercial",
+        "name": "S-Bahn Gleichstromunterwerk Lichterfelde West",
+        "operator": "S-Bahn Berlin GmbH",
+        "operator:wikidata": "Q99654",
+        "operator:wikipedia": "de:S-Bahn Berlin",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "30000;750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321185552,
+      "nodes": [
+        3279153372,
+        3279153374,
+        3242723949,
+        3242723946,
+        3279153367,
+        12703104092,
+        3279153376,
+        12703104093,
+        3279153372
+      ],
+      "tags": {
+        "name": "U-Bahn Gleichrichterwerk Lichtenberg",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+        "power": "substation",
+        "substation": "traction",
+        "voltage:primary": "10000",
+        "voltage:secondary": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321188930,
+      "nodes": [
+        3279179501,
+        3279179503,
+        3279179499,
+        3279179498,
+        3279179501
+      ],
+      "tags": {
+        "frequency": "50;0",
+        "layer": "-1",
+        "name": "S-Bahn Gleichrichterunterwerk Lichtenberg",
+        "operator": "DB Energie",
+        "operator:wikidata": "Q1152043",
+        "power": "substation",
+        "source": "survey",
+        "substation": "traction",
+        "voltage": "30000;750"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3271373302,
+      "lat": 52.4386648,
+      "lon": 13.2825313
+    },
+    {
+      "type": "node",
+      "id": 3271373312,
+      "lat": 52.4388558,
+      "lon": 13.283123
+    },
+    {
+      "type": "node",
+      "id": 3271373316,
+      "lat": 52.439116,
+      "lon": 13.2829058
+    },
+    {
+      "type": "node",
+      "id": 3271373317,
+      "lat": 52.4388888,
+      "lon": 13.282091
+    },
+    {
+      "type": "node",
+      "id": 299206846,
+      "lat": 52.4240701,
+      "lon": 13.3097935
+    },
+    {
+      "type": "node",
+      "id": 299206848,
+      "lat": 52.4236692,
+      "lon": 13.3103197
+    },
+    {
+      "type": "node",
+      "id": 299206849,
+      "lat": 52.4238555,
+      "lon": 13.3096362
+    },
+    {
+      "type": "node",
+      "id": 3248619908,
+      "lat": 52.4239745,
+      "lon": 13.3101449
+    },
+    {
+      "type": "node",
+      "id": 299206847,
+      "lat": 52.4238839,
+      "lon": 13.310477
+    },
+    {
+      "type": "node",
+      "id": 3248619905,
+      "lat": 52.4238893,
+      "lon": 13.3104575
+    },
+    {
+      "type": "node",
+      "id": 313295989,
+      "lat": 52.5288187,
+      "lon": 13.3155528
+    },
+    {
+      "type": "node",
+      "id": 313295991,
+      "lat": 52.5282518,
+      "lon": 13.3167626
+    },
+    {
+      "type": "node",
+      "id": 2718228192,
+      "lat": 52.5278903,
+      "lon": 13.3166131
+    },
+    {
+      "type": "node",
+      "id": 2718228206,
+      "lat": 52.5281108,
+      "lon": 13.3167051
+    },
+    {
+      "type": "node",
+      "id": 2810222034,
+      "lat": 52.5276432,
+      "lon": 13.3155283
+    },
+    {
+      "type": "node",
+      "id": 2810222040,
+      "lat": 52.5277622,
+      "lon": 13.316439
+    },
+    {
+      "type": "node",
+      "id": 2810222041,
+      "lat": 52.527765,
+      "lon": 13.3164595
+    },
+    {
+      "type": "node",
+      "id": 2810222043,
+      "lat": 52.5277743,
+      "lon": 13.3165665
+    },
+    {
+      "type": "node",
+      "id": 2810222045,
+      "lat": 52.5278725,
+      "lon": 13.3154474
+    },
+    {
+      "type": "node",
+      "id": 2810222047,
+      "lat": 52.5279572,
+      "lon": 13.3154147
+    },
+    {
+      "type": "node",
+      "id": 2810222050,
+      "lat": 52.5280128,
+      "lon": 13.3153949
+    },
+    {
+      "type": "node",
+      "id": 2810222053,
+      "lat": 52.528061,
+      "lon": 13.3153798
+    },
+    {
+      "type": "node",
+      "id": 2810222056,
+      "lat": 52.5280832,
+      "lon": 13.3166932
+    },
+    {
+      "type": "node",
+      "id": 2810222059,
+      "lat": 52.5281323,
+      "lon": 13.3153541
+    },
+    {
+      "type": "node",
+      "id": 2810222065,
+      "lat": 52.5283477,
+      "lon": 13.3161896
+    },
+    {
+      "type": "node",
+      "id": 2810222066,
+      "lat": 52.5283691,
+      "lon": 13.3160397
+    },
+    {
+      "type": "node",
+      "id": 2810222070,
+      "lat": 52.5284296,
+      "lon": 13.3160652
+    },
+    {
+      "type": "node",
+      "id": 2810222072,
+      "lat": 52.5285045,
+      "lon": 13.3156504
+    },
+    {
+      "type": "node",
+      "id": 2810222074,
+      "lat": 52.5285349,
+      "lon": 13.3152093
+    },
+    {
+      "type": "node",
+      "id": 2810222076,
+      "lat": 52.5285538,
+      "lon": 13.3156337
+    },
+    {
+      "type": "node",
+      "id": 2810222077,
+      "lat": 52.5285619,
+      "lon": 13.3151997
+    },
+    {
+      "type": "node",
+      "id": 2810222078,
+      "lat": 52.5285826,
+      "lon": 13.3151924
+    },
+    {
+      "type": "node",
+      "id": 2810222089,
+      "lat": 52.5288974,
+      "lon": 13.3154582
+    },
+    {
+      "type": "node",
+      "id": 2810222092,
+      "lat": 52.5289207,
+      "lon": 13.3150726
+    },
+    {
+      "type": "node",
+      "id": 2810222093,
+      "lat": 52.5289315,
+      "lon": 13.3151563
+    },
+    {
+      "type": "node",
+      "id": 2810222094,
+      "lat": 52.5289532,
+      "lon": 13.3153829
+    },
+    {
+      "type": "node",
+      "id": 2821001384,
+      "lat": 52.5288146,
+      "lon": 13.3155678
+    },
+    {
+      "type": "node",
+      "id": 2821001391,
+      "lat": 52.5287723,
+      "lon": 13.3157664
+    },
+    {
+      "type": "node",
+      "id": 2821001393,
+      "lat": 52.5286493,
+      "lon": 13.3157618
+    },
+    {
+      "type": "node",
+      "id": 2821001394,
+      "lat": 52.5285801,
+      "lon": 13.3157331
+    },
+    {
+      "type": "node",
+      "id": 2821001397,
+      "lat": 52.5289295,
+      "lon": 13.3151368
+    },
+    {
+      "type": "node",
+      "id": 3224755664,
+      "lat": 52.5280971,
+      "lon": 13.3153674
+    },
+    {
+      "type": "node",
+      "id": 6204105198,
+      "lat": 52.5282678,
+      "lon": 13.316751
+    },
+    {
+      "type": "node",
+      "id": 6204105199,
+      "lat": 52.5282651,
+      "lon": 13.3167681
+    },
+    {
+      "type": "node",
+      "id": 6204105200,
+      "lat": 52.5282605,
+      "lon": 13.3167484
+    },
+    {
+      "type": "node",
+      "id": 6204106957,
+      "lat": 52.527892,
+      "lon": 13.3166139
+    },
+    {
+      "type": "node",
+      "id": 6204106964,
+      "lat": 52.5289049,
+      "lon": 13.3154502
+    },
+    {
+      "type": "node",
+      "id": 6204184268,
+      "lat": 52.5278423,
+      "lon": 13.316594
+    },
+    {
+      "type": "node",
+      "id": 6204184270,
+      "lat": 52.5287877,
+      "lon": 13.3156939
+    },
+    {
+      "type": "node",
+      "id": 6204184406,
+      "lat": 52.5284518,
+      "lon": 13.3159858
+    },
+    {
+      "type": "node",
+      "id": 9783797587,
+      "lat": 52.5285938,
+      "lon": 13.3156483
+    },
+    {
+      "type": "node",
+      "id": 12677443886,
+      "lat": 52.5280388,
+      "lon": 13.3153868
+    },
+    {
+      "type": "node",
+      "id": 12677454208,
+      "lat": 52.5287626,
+      "lon": 13.3158097
+    },
+    {
+      "type": "node",
+      "id": 3242723946,
+      "lat": 52.5139102,
+      "lon": 13.4803866
+    },
+    {
+      "type": "node",
+      "id": 3242723949,
+      "lat": 52.5139407,
+      "lon": 13.4800372
+    },
+    {
+      "type": "node",
+      "id": 3279153367,
+      "lat": 52.5136827,
+      "lon": 13.480308
+    },
+    {
+      "type": "node",
+      "id": 3279153372,
+      "lat": 52.5137651,
+      "lon": 13.4794702
+    },
+    {
+      "type": "node",
+      "id": 3279153374,
+      "lat": 52.5139843,
+      "lon": 13.4795321
+    },
+    {
+      "type": "node",
+      "id": 3279153376,
+      "lat": 52.5137473,
+      "lon": 13.4796577
+    },
+    {
+      "type": "node",
+      "id": 12703104092,
+      "lat": 52.5137408,
+      "lon": 13.4797224
+    },
+    {
+      "type": "node",
+      "id": 12703104093,
+      "lat": 52.5137546,
+      "lon": 13.4795821
+    },
+    {
+      "type": "node",
+      "id": 3279179498,
+      "lat": 52.5131035,
+      "lon": 13.5098991
+    },
+    {
+      "type": "node",
+      "id": 3279179499,
+      "lat": 52.5130329,
+      "lon": 13.5093835
+    },
+    {
+      "type": "node",
+      "id": 3279179501,
+      "lat": 52.5129217,
+      "lon": 13.5099663
+    },
+    {
+      "type": "node",
+      "id": 3279179503,
+      "lat": 52.512851,
+      "lon": 13.5094507
+    },
+    {
+      "type": "node",
+      "id": 495164620,
+      "lat": 52.5274588,
+      "lon": 13.4946195
+    },
+    {
+      "type": "node",
+      "id": 495164628,
+      "lat": 52.52773,
+      "lon": 13.494635
+    },
+    {
+      "type": "node",
+      "id": 495164640,
+      "lat": 52.5277333,
+      "lon": 13.4944433
+    },
+    {
+      "type": "node",
+      "id": 495164661,
+      "lat": 52.5291846,
+      "lon": 13.4945283
+    },
+    {
+      "type": "node",
+      "id": 495164681,
+      "lat": 52.5276364,
+      "lon": 13.4952316
+    },
+    {
+      "type": "node",
+      "id": 495164685,
+      "lat": 52.5276371,
+      "lon": 13.4950739
+    },
+    {
+      "type": "node",
+      "id": 495164694,
+      "lat": 52.527451,
+      "lon": 13.4950651
+    },
+    {
+      "type": "node",
+      "id": 669662922,
+      "lat": 52.527637,
+      "lon": 13.4951449
+    },
+    {
+      "type": "node",
+      "id": 669720126,
+      "lat": 52.5290456,
+      "lon": 13.4957683
+    },
+    {
+      "type": "node",
+      "id": 669720131,
+      "lat": 52.5281292,
+      "lon": 13.4957156
+    },
+    {
+      "type": "node",
+      "id": 4179117844,
+      "lat": 52.5279372,
+      "lon": 13.4957093
+    },
+    {
+      "type": "node",
+      "id": 4179117845,
+      "lat": 52.5279448,
+      "lon": 13.4952438
+    },
+    {
+      "type": "node",
+      "id": 4179117858,
+      "lat": 52.5292155,
+      "lon": 13.4957786
+    },
+    {
+      "type": "node",
+      "id": 4179117859,
+      "lat": 52.5292247,
+      "lon": 13.49532
+    }
+  ]
+}

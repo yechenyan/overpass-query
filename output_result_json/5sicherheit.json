@@ -1,0 +1,1235 @@
+[
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "61A",
+            "addr:postcode": "10559",
+            "addr:street": "Perleberger Straße",
+            "addr:suburb": "Moabit",
+            "amenity": "police",
+            "check_date": "2024-06-14",
+            "name": "Polizei Abschnitt 27",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "219",
+            "addr:postcode": "10969",
+            "addr:street": "Friedrichstraße",
+            "addr:suburb": "Kreuzberg",
+            "amenity": "police",
+            "check_date": "2025-05-09",
+            "level": "0;1",
+            "name": "Abschnitt 53 Kreuzberg-Nord",
+            "name:de": "Abschnitt 53 Kreuzberg-Nord",
+            "name:en": "District 53 North Kreuzberg",
+            "operator": "Polizei Berlin",
+            "operator:wikidata": "Q328480",
+            "operator:wikipedia": "de:Polizei Berlin",
+            "wheelchair": "no",
+            "wikidata": "Q108875638"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "19-20",
+            "addr:postcode": "10717",
+            "addr:street": "Gasteiner Straße",
+            "amenity": "fire_station",
+            "check_date": "2025-06-09",
+            "name": "Berufsfeuerwache Wilmersdorf",
+            "operator": "Berliner Feuerwehr",
+            "operator:wikidata": "Q821517",
+            "operator:wikipedia": "de:Berliner Feuerwehr",
+            "ref": "3400"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Polizei Abschnitt 46",
+            "operator": "Polizei Berlin",
+            "operator:wikidata": "Q328480",
+            "operator:wikipedia": "de:Polizei Berlin",
+            "phone": "+49 30 4664 446 701",
+            "website": "http://www.berlin.de/polizei/bezirk/dir4/a46.html",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Polizei Abschnitt 22",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "9",
+            "addr:postcode": "12053",
+            "addr:street": "Rollbergstraße",
+            "amenity": "police",
+            "contact:fax": "+49 30 4664555799",
+            "contact:phone": "+49 30 4664555700",
+            "contact:website": "https://www.berlin.de/polizei/dienststellen/polizei-in-den-bezirken/direktion-5/abschnitt-55/",
+            "name": "Polizeiabschnitt 55",
+            "wheelchair": "limited",
+            "wikidata": "Q108875640"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "56",
+            "addr:postcode": "10243",
+            "addr:street": "Rüdersdorfer Straße",
+            "addr:suburb": "Friedrichshain",
+            "amenity": "fire_station",
+            "check_date": "2024-11-26",
+            "contact:website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/feuerwachen/fw-friedrichshain-1200/",
+            "name": "Berufsfeuerwache Friedrichshain",
+            "note": "FW 1200 ist Betreuungswache für FF Friedrichshain (1201)",
+            "operator": "Berliner Feuerwehr",
+            "operator:wikidata": "Q821517",
+            "ref": "1200",
+            "wikidata": "Q61697268",
+            "wikimedia_commons": "Category:Feuerwache Friedrichshain",
+            "wikipedia": "de:Feuerwache Friedrichshain"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Wernsdorf",
+            "ref": "WDF"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "5-8",
+            "addr:postcode": "12435",
+            "addr:street": "Am Treptower Park",
+            "amenity": "police",
+            "building": "yes",
+            "name": "Gemeinsames Terrorismusabwehrzentrum",
+            "short_name": "GTAZ",
+            "url": "https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html",
+            "wikidata": "Q1411368",
+            "wikipedia": "de:Gemeinsames Terrorismusabwehrzentrum"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Erkner",
+            "addr:housenumber": "16",
+            "addr:postcode": "15537",
+            "addr:street": "Am Kurpark",
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Erkner",
+            "phone": "+49 3362 19296",
+            "ref": "FDER",
+            "website": "feuerwehr-erkner.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Bernau bei Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "10",
+            "addr:postcode": "16321",
+            "addr:street": "Hans-Wittwer-Straße",
+            "addr:suburb": "Waldfrieden",
+            "amenity": "police",
+            "name": "Polizeirevier (BAB)"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Wilhelmshagen",
+            "ref": "5430",
+            "wikidata": "Q107538464"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Dallgow-Döberitz",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "14624",
+            "addr:street": "Triftstraße",
+            "amenity": "fire_station",
+            "check_date": "2024-03-25",
+            "name": "Freiwillige Feuerwehr Dallgow-Döberitz"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Ruhlsdorf"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Mitte",
+            "operator": "Berliner Feuerwehr",
+            "operator:wikidata": "Q821517",
+            "ref": "1110",
+            "wikidata": "Q107538332",
+            "wikimedia_commons": "Category:Volunteer fire department in Berlin-Mitte"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Heiligensee",
+            "ref": "2410"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "check_date": "2024-03-17",
+            "name": "Freiwillige Feuerwehr Karow",
+            "ref": "2720"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Berufsfeuerwache Karlshorst",
+            "operator": "Berliner Feuerwehr",
+            "operator:wikidata": "Q821517",
+            "ref": "6500",
+            "wikidata": "Q107538294"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Schulzendorf",
+            "website": "https://feuerwehr-schulzendorf.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "website": "http://www.feuerwehr-schoenwalde.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Karlshorst",
+            "ref": "6501"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "check_date": "2024-05-26",
+            "name": "Freiwillige Feuerwehr Petershagen"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "check_date": "2025-02-03",
+            "level": "1",
+            "name": "Bundespolizei",
+            "operator": "Bundespolizei",
+            "operator:short": "BPOL",
+            "operator:wikidata": "Q56026",
+            "operator:wikipedia": "de:Bundespolizei (Deutschland)",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Stadionwache",
+            "name:ja": "スタジアム警備",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "9",
+            "addr:postcode": "13353",
+            "addr:street": "Fennstraße",
+            "addr:suburb": "Wedding",
+            "amenity": "fire_station",
+            "name:signed": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "35",
+            "addr:postcode": "10178",
+            "addr:street": "Keibelstraße",
+            "addr:suburb": "Mitte",
+            "amenity": "police",
+            "contact:phone": "+49 30 4664332700",
+            "contact:website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-5/abschnitt-57/",
+            "name": "Polizei Berlin – Abschnitt 57",
+            "operator": "Polizei Berlin",
+            "operator:wikidata": "Q328480",
+            "operator:wikipedia": "de:Polizei Berlin",
+            "wheelchair": "yes",
+            "wikidata": "Q108875642"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "101",
+            "addr:postcode": "10407",
+            "addr:street": "Storkower Straße",
+            "addr:suburb": "Prenzlauer Berg",
+            "amenity": "police",
+            "check_date": "2025-06-30",
+            "name": "Polizei Berlin Abschnitt 16",
+            "operator": "Polizei Berlin",
+            "operator:wikidata": "Q328480",
+            "operator:wikipedia": "de:Polizei Berlin",
+            "website": "http://www.berlin.de/polizei/bezirk/dir1/a16.html",
+            "wheelchair": "limited",
+            "wikidata": "Q108875617"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "check_date": "2024-03-08",
+            "name": "Freiwillige Feuerwehr Spandau-Nord",
+            "ref": "3101"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Fredersdorf-Vogelsdorf",
+            "addr:housenumber": "76",
+            "addr:postcode": "15370",
+            "addr:street": "Frankfurter Chaussee",
+            "addr:suburb": "Vogelsdorf",
+            "amenity": "fire_station",
+            "name": "Feuerwehr Vogelsdorf",
+            "website": "https://www.feuerwehr-fredersdorf-vogelsdorf.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Feuerwehr Rüdersdorf"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Kremmen",
+            "addr:country": "DE",
+            "addr:housenumber": "14b",
+            "addr:postcode": "16766",
+            "addr:street": "Nauener Chaussee",
+            "addr:suburb": "Staffelde",
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Staffelde/Groß-Ziethen"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "GZS"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "check_date": "2024-04-19",
+            "name": "Freiwillige Feuerwehr Rüdnitz"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "145",
+            "addr:postcode": "10557",
+            "addr:street": "Alt-Moabit",
+            "addr:suburb": "Moabit",
+            "amenity": "police",
+            "contact:phone": "+49 30 4664334700",
+            "name": "Polizei Abschnitt 28",
+            "operator": "Polizei Berlin",
+            "operator:wikidata": "Q328480",
+            "operator:wikipedia": "de:Polizei Berlin",
+            "wheelchair": "yes",
+            "wikidata": "Q108875627"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Altlandsberg",
+            "addr:country": "DE",
+            "addr:housenumber": "7",
+            "addr:postcode": "15345",
+            "addr:street": "Alte Schulstraße",
+            "addr:suburb": "Wegendorf",
+            "amenity": "fire_station",
+            "entrance": "main",
+            "image": "http://wiki.openstreetmap.org/wiki/File:Feuerwehr_Wegendorf.jpg",
+            "name": "Freiwillige Feuerwehr Altlandsberg - Löschgruppe Wegendorf",
+            "phone": "+49 33438 61814",
+            "website": "http://feuerwehr.altlandsberg.de/index.php?page=kp_wegendorf"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "2. Bereitschaftspolizeiabteilung",
+            "short_name": "2. BPA",
+            "website": "https://www.berlin.de/polizei/dienststellen/direktion-einsatz/bereitschaftspolizei/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Werneuchen",
+            "addr:housenumber": "41a",
+            "addr:postcode": "16356",
+            "addr:street": "Löhmer Dorfstraße",
+            "addr:suburb": "Löhme",
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Löhme"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Seefeld"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:postcode": "10243",
+            "addr:suburb": "Friedrichshain",
+            "amenity": "police",
+            "check_date": "2024-11-27",
+            "level": "0",
+            "name": "Bundespolizei",
+            "operator": "Bundespolizei",
+            "operator:short": "BPOL",
+            "operator:wikidata": "Q56026",
+            "operator:wikipedia": "de:Bundespolizei (Deutschland)",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Altlandsberg - Löschgruppe Buchholz"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Schönefeld",
+            "addr:country": "DE",
+            "addr:housenumber": "23",
+            "addr:postcode": "12529",
+            "addr:street": "Hans-Grade-Allee",
+            "amenity": "fire_station",
+            "check_date": "2025-05-25",
+            "name": "Freiwillige Feuerwehr Schönefeld",
+            "operator": "Gemeinde Schönefeld",
+            "website": "http://www.ff-schoenefeld.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Schwanebeck"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "check_date": "2024-06-14",
+            "name": "Strausberg, Polizeiinspektion Märkisch-Oderland",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Altlandsberg - Löschgruppe Bruchmühle"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Pausin"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "35",
+            "addr:postcode": "13507",
+            "addr:street": "Berliner Straße",
+            "addr:suburb": "Tegel",
+            "amenity": "police",
+            "contact:fax": "+49 30 4664111799",
+            "contact:phone": "+49 30 4664111701",
+            "contact:website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-1/abschnitt-11/",
+            "name": "Polizei Berlin – Abschnitt 11",
+            "operator": "Polizei Berlin",
+            "operator:wikidata": "Q328480",
+            "wikidata": "Q108875609"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "check_date": "2024-05-19",
+            "name": "Polizei Land Brandenburg - Polizeirevier",
+            "note": "not a duplicate, there are indeed three police institutions in this building",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "check_date": "2024-05-19",
+            "name": "Polizei Land Brandenburg - Revierpolizei",
+            "note": "not a duplicate, there are indeed three police institutions in this building",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "14469",
+            "addr:street": "Baumschulenweg",
+            "addr:suburb": "Eiche",
+            "amenity": "fire_station",
+            "check_date": "2024-09-22",
+            "contact:email": "ff-eiche@gmx.de",
+            "contact:phone": "+49 331 500758",
+            "contact:website": "https://feuerwehr-eiche.jimdofree.com/",
+            "name": "Freiwillige Feuerwehr Eiche"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Großbeeren",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "14979",
+            "addr:street": "Am Rathaus",
+            "amenity": "police",
+            "name": "Sprechzimmer Revierpolizei Großbeeren",
+            "police": "offices"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "10",
+            "addr:postcode": "10243",
+            "addr:street": "Wedekindstraße",
+            "addr:suburb": "Friedrichshain",
+            "amenity": "police",
+            "check_date": "2024-11-26",
+            "contact:website": "https://www.berlin.de/polizei/dienststellen/polizei-in-den-bezirken/direktion-5/abschnitt-51/",
+            "name": "Polizei Berlin Abschnitt 51",
+            "operator": "Polizei Berlin",
+            "operator:wikidata": "Q328480",
+            "operator:wikipedia": "de:Polizei Berlin",
+            "wheelchair": "yes",
+            "wikidata": "Q108875636"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "10-12",
+            "addr:postcode": "10789",
+            "addr:street": "Rankestraße",
+            "addr:suburb": "Charlottenburg",
+            "amenity": "fire_station",
+            "emergency": "ambulance_station",
+            "name": "Berufsfeuerwache Ranke",
+            "operator": "Berliner Feuerwehr",
+            "operator:wikidata": "Q821517",
+            "ref": "3500",
+            "website": "http://www.feuerwehr.info/feuerwehren/berliner-feuerwehr-wache-3500-ranke/",
+            "wikidata": "Q107538144"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Mühlenbecker Land",
+            "addr:housenumber": "1",
+            "addr:postcode": "16567",
+            "addr:street": "Am Anger",
+            "addr:suburb": "Schönfließ",
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Schönfließ",
+            "operator": "Gemeinde Mühlenbecker Land"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Blankenfelde-Mahlow",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "15827",
+            "addr:street": "Heckenrosenstraße",
+            "amenity": "police",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Tempelfelde"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Polizeirevier Leegebruch"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "check_date": "2024-04-23",
+            "name": "Freiwillige Feuerwehr Neukölln",
+            "ref": "5101"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "58",
+            "addr:postcode": "12683",
+            "addr:street": "Alt-Biesdorf",
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Biesdorf",
+            "operator": "Berliner Feuerwehr",
+            "operator:wikidata": "Q821517",
+            "phone": "+49 30 3876120105",
+            "ref": "6120",
+            "website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/freiwillige-feuerwehr/ff-biesdorf/",
+            "wikidata": "Q107526693"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "contact:website": "http://www.feuerwehr-falkensee.de/",
+            "name": "Feuerwache Falkensee"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "check_date": "2025-02-25",
+            "name": "Freiwillige Feuerwehr Urban",
+            "ref": "1501"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Berufsfeuerwache Urban",
+            "operator": "Berliner Feuerwehr",
+            "operator:wikidata": "Q821517",
+            "ref": "1500",
+            "wikidata": "Q107538288",
+            "wikimedia_commons": "Category:Feuerwache Urban"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Revierpolizist",
+            "opening_hours": "Tu 15:00-18:00"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "55",
+            "addr:postcode": "13437",
+            "addr:street": "Roedernallee",
+            "addr:suburb": "Reinickendorf",
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Wittenau",
+            "ref": "2201"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "15",
+            "addr:postcode": "12277",
+            "addr:street": "Wilhelm-von-Siemens-Straße",
+            "addr:suburb": "Mariendorf",
+            "amenity": "fire_station",
+            "check_date": "2025-06-13",
+            "name": "Freiwillige Feuerwehr Marienfelde",
+            "ref": "4701"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "16",
+            "addr:postcode": "13507",
+            "addr:street": "Berliner Straße",
+            "addr:suburb": "Tegel",
+            "amenity": "fire_station",
+            "check_date": "2024-04-06",
+            "name": "Freiwillige Feuerwehr Tegel",
+            "ref": "2401"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "9-10",
+            "addr:postcode": "14057",
+            "addr:street": "Suarezstraße",
+            "addr:suburb": "Charlottenburg",
+            "amenity": "fire_station",
+            "check_date": "2024-03-19",
+            "name": "Freiwillige Feuerwehr Suarez",
+            "ref": "3301"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "57",
+            "addr:postcode": "10243",
+            "addr:street": "Rüdersdorfer Straße",
+            "addr:suburb": "Friedrichshain",
+            "amenity": "fire_station",
+            "check_date": "2024-09-10",
+            "contact:website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/freiwillige-feuerwehr/ff-friedrichshain-1201/",
+            "name": "Freiwillige Feuerwehr Friedrichshain",
+            "ref": "1201"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Ahrensfelde",
+            "addr:housenumber": "1",
+            "addr:postcode": "16356",
+            "addr:street": "Krummenseer Weg",
+            "addr:suburb": "Mehrow",
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Mehrow",
+            "wikidata": "Q107357121"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Grünheide (Mark)",
+            "addr:housenumber": "1",
+            "addr:postcode": "15537",
+            "addr:street": "Sieverslaker Straße",
+            "addr:suburb": "Spreeau",
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Grünheide (Mark) - Ortswehr Spreeau",
+            "operator": "Gemeinde Grünheide (Mark)"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Bundespolizei",
+            "operator": "Bundespolizei",
+            "operator:short": "BPOL",
+            "operator:wikidata": "Q56026",
+            "police": "offices"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Weißensee",
+            "ref": "6301"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Polizeistation",
+            "name:en": "Police station"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Bernau bei Berlin",
+            "addr:housenumber": "1a",
+            "addr:postcode": "16321",
+            "addr:street": "Otto-Schmidt-Straße",
+            "addr:suburb": "Ladeburg",
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Bernau bei Berlin - Löschzug Ladeburg",
+            "operator": "Stadt Bernau bei Berlin",
+            "website": "www.feuerwehr-bernau.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Paaren im Glien"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Oberkrämer",
+            "addr:housenumber": "29",
+            "addr:postcode": "16727",
+            "addr:street": "Am Eichenring",
+            "amenity": "police",
+            "name": "Sprechzimmer Revierpolizei",
+            "opening_hours": "Tu 16:00-18:00",
+            "operator": "Polizei Brandenburg",
+            "operator:wikidata": "Q2101665",
+            "phone": "+49 3301 8511056",
+            "website": "https://polizei.brandenburg.de/standorte_und_erreichbarkeiten/id/66330/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Berlin-Moabit",
+            "ref": "1401"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "emergency": "ambulance_station",
+            "name": "Berufsfeuerwache Berlin-Moabit",
+            "phone": "+49 30 387 1400 105",
+            "ref": "1400",
+            "website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/feuerwache-moabit/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Bundespolizei",
+            "operator": "Bundespolizei",
+            "operator:short": "BPOL",
+            "operator:wikidata": "Q56026",
+            "operator:wikipedia": "de:Bundespolizei (Deutschland)",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Polizei / Police"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "name": "Freiwillige Feuerwehr Zehlendorf",
+            "ref": "4101"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Revierpolizei Land Brandenburg"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Revierpolizei",
+            "operator": "Polizeidirektion Ost",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "3",
+            "addr:postcode": "10317",
+            "addr:street": "Kynaststraße",
+            "amenity": "police",
+            "name": "Bundeskriminalamt Berlin - Liegenschaft B4",
+            "operator": "Bundeskriminalamt",
+            "operator:short": "BKA",
+            "operator:wikidata": "Q56030"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "57",
+            "addr:postcode": "10557",
+            "addr:street": "Invalidenstraße",
+            "amenity": "police",
+            "contact:website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/",
+            "name": "Landespolizeidirektion",
+            "operator": "Polizei Berlin",
+            "operator:wikidata": "Q328480",
+            "phone": "+49 30 46640",
+            "short_name": "LPD",
+            "wikidata": "Q108870749"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "access": "no",
+            "amenity": "police",
+            "check_date": "2024-05-13",
+            "name": "Polizeidirektion 2 / Polizeiakademie",
+            "opening_hours": "Mo-Th 07:00-15:30; Fr 07:00-15:00",
+            "police": "academy",
+            "website": "https://www.berlin.de/polizei/dienststellen/polizeiakademie/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Grünheide (Mark)",
+            "addr:country": "DE",
+            "addr:housenumber": "1a",
+            "addr:postcode": "15537",
+            "addr:street": "Spreenhagener Straße",
+            "addr:suburb": "Spreeau",
+            "amenity": "fire_station",
+            "building": "yes",
+            "name": "Freiwillige Feuerwehr Grünheide (Mark) - Ortswehr Spreeau",
+            "operator": "Gemeinde Grünheide (Mark)"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Petershagen/Eggersdorf",
+            "addr:housenumber": "35a",
+            "addr:postcode": "15345",
+            "addr:street": "Karl-Liebknecht-Straße",
+            "addr:suburb": "Eggersdorf",
+            "amenity": "fire_station",
+            "building": "yes",
+            "check_date": "2024-04-26",
+            "mapillary": "596742658449838",
+            "name": "Freiwillige Feuerwehr Petershagen-Eggersdorf",
+            "wikimedia_commons": "File:202406017 xl 0555-Freiwillige Feuerwehr Petershagen-Eggersdorf.jpg"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "15",
+            "addr:postcode": "12277",
+            "addr:street": "Wilhelm-von-Siemens-Straße",
+            "addr:suburb": "Mariendorf",
+            "amenity": "fire_station",
+            "name": "Berufsfeuerwache Marienfelde",
+            "operator": "Berliner Feuerwehr",
+            "operator:wikidata": "Q821517",
+            "ref": "4700",
+            "wikidata": "Q107538419"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Hohen Neuendorf",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "16562",
+            "addr:street": "Triftstraße",
+            "addr:suburb": "Bergfelde",
+            "amenity": "fire_station",
+            "building": "yes",
+            "building:colour": "#f4e7c6",
+            "building:levels": "1",
+            "email": "info@feuerwehr-bergfelde.de",
+            "fax": "+493303213581",
+            "image": "https://www.feuerwehr-bergfelde.de/images/wache-02.JPG",
+            "name": "Freiwillige Feuerwehr Bergfelde",
+            "phone": "+493303404350",
+            "roof:colour": "#c06a48",
+            "roof:shape": "gabled",
+            "website": "https://www.feuerwehr-bergfelde.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "fire_station",
+            "building": "yes",
+            "description": "Gebäude G016",
+            "name": "Flughafenfeuerwehr Nord",
+            "ref": "D51892"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "name": "Bundespolizeidirektion Berlin",
+            "operator": "Bundespolizei",
+            "operator:short": "BPOL",
+            "operator:wikidata": "Q56026",
+            "police": "offices",
+            "surveillance": "outdoor",
+            "website": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Berlin/berlin_node.html"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Oberkrämer",
+            "addr:country": "DE",
+            "addr:housenumber": "37",
+            "addr:postcode": "16727",
+            "addr:street": "Lindenallee",
+            "addr:suburb": "Vehlefanz",
+            "amenity": "fire_station",
+            "building": "yes",
+            "name": "Freiwillige Feuerwehr Vehlefanz"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Teltow",
+            "addr:country": "DE",
+            "addr:housenumber": "1C",
+            "addr:postcode": "14513",
+            "addr:street": "Bertholdstraße",
+            "amenity": "fire_station",
+            "building": "public",
+            "building:levels": "2",
+            "contact:email": "ffteltow-feuerwehr@teltow.de",
+            "contact:phone": "+49 3328 331 781",
+            "contact:website": "https://www.teltow.de/teltow/feuerwehr/freiwillige-feuerwehr-teltow.html",
+            "name": "Freiwillige Feuerwehr Teltow"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Teltow",
+            "addr:country": "DE",
+            "addr:housenumber": "3",
+            "addr:postcode": "14513",
+            "addr:street": "Potsdamer Straße",
+            "amenity": "police",
+            "building": "yes",
+            "building:levels": "2",
+            "check_date": "2024-08-04",
+            "name": "Polizeirevier Teltow",
+            "opening_hours": "24/7",
+            "phone": "+49 3328 4370"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "28",
+            "addr:postcode": "13357",
+            "addr:street": "Pankstraße",
+            "addr:suburb": "Gesundbrunnen",
+            "amenity": "police",
+            "building": "commercial",
+            "building:levels": "4",
+            "contact:phone": "+49 30 4664 11 87 01",
+            "name": "Polizei Abschnitt 18",
+            "operator": "Polizei Berlin",
+            "operator:wikidata": "Q328480",
+            "roof:levels": "0",
+            "roof:shape": "gabled",
+            "source": "Geoportal Berlin / Hauskoordinaten",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housename": "Haus B",
+            "addr:housenumber": "11",
+            "addr:postcode": "14467",
+            "addr:street": "Henning-von-Tresckow-Straße",
+            "amenity": "police",
+            "architect": "Georg Christian Unger",
+            "bldam:criteria": "Baudenkmal",
+            "building": "civic",
+            "building:levels": "2",
+            "description": "Palastartiger zweigeschossiger Putzbau mit ionischen Kolossalpilastern und Segmentgiebel über der mittleren Portalachse. Errichtet 1722, die Fassade 1787 neu gestaltet, 1936 wiederhergestellt.",
+            "heritage": "4",
+            "heritage:operator": "bldam",
+            "heritage:website": "https://ns.gis-bldam-brandenburg.de/hida4web/view?docId=obj09155082.xml",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Henning-von-Tresckow-Stra%C3%9Fe_11_06-2013.JPG",
+            "name": "Polizeiwache Mitte",
+            "old_name": "Garnisonschule",
+            "operator": "Polizeiinspektion Potsdam",
+            "ref:bldam": "09155082",
+            "roof:levels": "2",
+            "roof:material": "roof_tiles",
+            "roof:shape": "mansard",
+            "start_date": "1722",
+            "wikidata": "Q115640961"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "amenity": "police",
+            "barrier": "fence",
+            "name": "Bundespolizei Blumberg",
+            "operator": "Bundespolizei",
+            "operator:short": "BPOL",
+            "operator:wikidata": "Q56026"
+        },
+        "name": null
+    }
+]

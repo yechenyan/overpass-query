@@ -1,0 +1,1686 @@
+[
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "48",
+            "addr:postcode": "10627",
+            "addr:street": "Krumme Straße",
+            "addr:suburb": "Charlottenburg",
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:Media Markt",
+            "check_date:opening_hours": "2024-04-14",
+            "level": "-1",
+            "name": "MediaMarkt",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "shop": "electronics",
+            "website": "https://www.mediamarkt.de/de/store/berlin-charlottenburg-596",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "107-111",
+            "addr:postcode": "10409",
+            "addr:street": "Ostseestraße",
+            "addr:suburb": "Prenzlauer Berg",
+            "brand": "OBI",
+            "brand:wikidata": "Q300518",
+            "brand:wikipedia": "de:Obi (Baumarkt)",
+            "check_date:opening_hours": "2023-09-23",
+            "contact:email": "berlin-ostseestrasse@obi.de",
+            "contact:phone": "+49 30 4284640",
+            "contact:website": "https://www.obi.de/markt/berlin-weissensee",
+            "name": "OBI",
+            "opening_hours": "Mo-Sa 08:00-20:00",
+            "operator": "OBI",
+            "shop": "doityourself",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "140",
+            "addr:postcode": "10409",
+            "addr:street": "Greifswalder Straße",
+            "addr:suburb": "Prenzlauer Berg",
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:Media Markt",
+            "check_date:opening_hours": "2024-09-05",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "MediaMarkt",
+            "opening_hours": "Mo-Sa 10:00-19:00",
+            "shop": "electronics",
+            "website": "https://www.mediamarkt.de/de/store/berlin-prenzlauer-berg-262",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "14",
+            "addr:postcode": "10629",
+            "addr:street": "Waitzstraße",
+            "addr:suburb": "Charlottenburg",
+            "name": "Marschner Automobile",
+            "shop": "car",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housename": "MediaMarkt",
+            "addr:housenumber": "20",
+            "addr:postcode": "10179",
+            "addr:street": "Grunerstraße",
+            "addr:suburb": "Mitte",
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:Media Markt",
+            "contact:phone": "+49 30 2408840",
+            "internet_access": "wlan",
+            "level": "0",
+            "name": "MediaMarkt",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "shop": "electronics",
+            "website": "https://www.mediamarkt.de/de/store/berlin-mitte-190",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "50-51",
+            "addr:postcode": "14057",
+            "addr:street": "Suarezstraße",
+            "addr:suburb": "Charlottenburg",
+            "email": "artnobilis@yahoo.com",
+            "level": "0",
+            "name": "Artnobilis",
+            "opening_hours": "Tu,Th-Fr 13:00-18:00; Sa 12:00-16:00; Mo,We,Su off",
+            "phone": "+49 30 47367275",
+            "shop": "antiques",
+            "website": "https://claudia-mike.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:housenumber": "166",
+            "addr:street": "Marienfelder Allee",
+            "name": "Diamant Automobile",
+            "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-15:00",
+            "phone": "+49 30 72324780",
+            "shop": "car",
+            "website": "https://www.diamant-automobile.de/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "3",
+            "addr:postcode": "10178",
+            "addr:street": "Alexanderplatz",
+            "addr:suburb": "Mitte",
+            "brand": "Saturn",
+            "brand:wikidata": "Q2543504",
+            "brand:wikipedia": "en:Saturn (store)",
+            "check_date": "2024-06-11",
+            "contact:email": "berlin-alexanderplatz@saturn.de",
+            "contact:phone": "+49 30 2639970",
+            "contact:website": "https://www.saturn.de/mcs/marketinfo/_Saturn-Berlin-Alexanderplatz,17261,-3.html",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Saturn",
+            "name:ja": "サターン",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "operator": "Reiner Schemel, René Kochan",
+            "payment:cash": "yes",
+            "payment:girocard": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "shop": "electronics",
+            "surveillance": "indoor",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "32",
+            "addr:postcode": "10585",
+            "addr:street": "Wilmersdorfer Straße",
+            "addr:suburb": "Charlottenburg",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "check_date": "2023-04-09",
+            "check_date:opening_hours": "2024-04-18",
+            "contact:phone": "+49 30 3479040",
+            "level": "0",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off",
+            "phone": "+49 30 3479040",
+            "shop": "doityourself",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-charlottenburg/fc/812",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "3-4",
+            "addr:postcode": "10787",
+            "addr:street": "Bayreuther Straße",
+            "addr:suburb": "Schöneberg",
+            "branch": "Berlin Schöneberg",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "de:Bauhaus (Baumarkt)",
+            "email": "Info.NL840@bauhaus-ag.de",
+            "internet_access": "wlan",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Sa 09:00-20:00",
+            "operator": "Bauhaus",
+            "phone": "+49 30 2351000",
+            "shop": "doityourself",
+            "toilets:wheelchair": "no",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-schoeneberg/fc/840",
+            "wheelchair": "limited",
+            "wheelchair:description": "Das UG ist nur mit einem Lastenaufzug zu erreichen. Zum öffnen und schließen der Fahrstuhltüren ist man auf Hilfe angewiesen."
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "33",
+            "addr:postcode": "13187",
+            "addr:street": "Breite Straße",
+            "addr:suburb": "Pankow",
+            "brand": "IKEA",
+            "brand:wikidata": "Q54078",
+            "brand:wikipedia": "de:IKEA",
+            "description": "Planung von Küchen, keine reguläre Filiale",
+            "name": "IKEA Planning Studio",
+            "name:en": "IKEA Planning Studio",
+            "name:pt": "IKEA Estúdio de Planificação",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "operator": "IKEA",
+            "shop": "furniture",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "level": "0",
+            "name": "Robin Look",
+            "opening_hours": "Su,PH off; Mo-Fr 09:00-18:00; Sa 09:00-17:00",
+            "shop": "optician",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "17",
+            "addr:postcode": "12555",
+            "addr:street": "Borgmannstraße",
+            "addr:suburb": "Köpenick",
+            "check_date:opening_hours": "2023-08-16",
+            "email": "info@velomobil-berlin.de",
+            "name": "Velomobil",
+            "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-14:00; PH off",
+            "operator": "Thomas Knieke",
+            "phone": "+49 30 6564091",
+            "shop": "bicycle",
+            "website": "https://www.velomobil-berlin.de/",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "229-245",
+            "addr:postcode": "13435",
+            "addr:street": "Wilhelmsruher Damm",
+            "addr:suburb": "Wittenau",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "check_date:opening_hours": "2023-06-27",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Sa 08:00-20:00",
+            "operator": "Bauhaus Berlin-Wittenau",
+            "phone": "+49 30 4080000",
+            "shop": "doityourself",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-wittenau/fc/850",
+            "wheelchair": "yes",
+            "wheelchair:description": "Öffnungszeiten: Mo-Sa 08:00 Uhr-20:00 Uhr"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Tobias Grau",
+            "opening_hours": "Mo-Sa 10:00-19:00; Su,PH off",
+            "shop": "lighting",
+            "website": "http://www.tobias-grau.com"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:postcode": "13357",
+            "brand": "Saturn",
+            "brand:wikidata": "Q2543504",
+            "brand:wikipedia": "en:Saturn (store)",
+            "check_date": "2024-11-20",
+            "check_date:opening_hours": "2024-11-20",
+            "email": "berlin-gesundbrunnen@saturn.de",
+            "internet_access": "wlan",
+            "level": "-1",
+            "name": "Saturn",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "operator": "Robert Kochan, Kristian Schönemann",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+49304998720",
+            "shop": "electronics",
+            "website": "https://www.saturn.de/mcs/marketinfo/_Saturn-Berlin-Gesundbrunnen,17336,-3.html",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "brand": "Saturn",
+            "brand:wikidata": "Q2543504",
+            "brand:wikipedia": "en:Saturn (store)",
+            "contact:phone": "+49 30 3309610",
+            "level": "1",
+            "name": "Saturn",
+            "opening_hours": "Mo-Sa 10:00-21:00",
+            "shop": "electronics",
+            "website": "https://www.saturn.de/de/store/berlin-spandau-216",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "183-185",
+            "addr:postcode": "12555",
+            "addr:street": "Oberspreestraße",
+            "addr:suburb": "Köpenick",
+            "check_date": "2025-06-09",
+            "check_date:service:bicycle:retail": "2023-09-27",
+            "level": "0",
+            "name": "nanobike",
+            "opening_hours": "Mo-Fr 10:00-13:00, 13:45-19:00; Sa 10:00-16:00; PH off",
+            "operator": "nanobike GmbH",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+49 30 67821888",
+            "service:bicycle:pump": "no",
+            "service:bicycle:rental": "no",
+            "service:bicycle:repair": "yes",
+            "service:bicycle:retail": "yes",
+            "service:bicycle:second_hand": "no",
+            "shop": "bicycle",
+            "website": "https://nanobike.de/",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "check_date": "2025-04-28",
+            "level": "0",
+            "name": "Tobi's Back & Snack",
+            "opening_hours": "Mo-Fr 04:30-16:00; Sa 04:30-13:00; Su,PH 04:30-14:00",
+            "shop": "bakery",
+            "toilets:wheelchair": "no",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "219",
+            "addr:postcode": "12681",
+            "addr:street": "Marzahner Chaussee",
+            "addr:suburb": "Marzahn",
+            "brand": "Mazda;Skoda;Seat;Citoen",
+            "contact:fax": "+49 30 54998898",
+            "contact:phone": "+49 30 54998813",
+            "contact:website": "http://autoskauftmanbeikoch.de/",
+            "name": "Koch Automobile",
+            "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-14:00",
+            "operator": "Koch Gruppe Automobile AG",
+            "service": "dealer;repair;tyres;parts",
+            "shop": "car",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "check_date": "2023-07-16",
+            "check_date:opening_hours": "2024-04-21",
+            "name": "Kavkas Mobile",
+            "opening_hours:signed": "no",
+            "shop": "mobile_phone",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "brand": "Saturn",
+            "brand:wikidata": "Q2543504",
+            "brand:wikipedia": "en:Saturn (store)",
+            "check_date:opening_hours": "2024-11-02",
+            "email": "sat.berlin.reinickendorf.kundenfeedback@saturn.de",
+            "fax": "+4930 498563101",
+            "level": "1",
+            "name": "Saturn",
+            "opening_hours": "Mo-Sa 10:00-19:00",
+            "phone": "+49 30 4985630",
+            "shop": "electronics",
+            "website": "https://www.saturn.de/de/store/berlin-reinickendorf-217",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "check_date:opening_hours": "2023-08-15",
+            "name": "Tomi Automobile Gmbh",
+            "opening_hours:signed": "no",
+            "shop": "car",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "33-36",
+            "addr:postcode": "12163",
+            "addr:street": "Schloßstraße",
+            "addr:suburb": "Steglitz",
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:Media Markt",
+            "contact:phone": "+49 30 4401290",
+            "contact:website": "https://www.mediamarkt.de/de/store/berlin-steglitz-270",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "level": "1;2",
+            "name": "MediaMarkt",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "shop": "electronics",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:Media Markt",
+            "check_date:opening_hours": "2024-05-22",
+            "level": "1",
+            "name": "MediaMarkt",
+            "name:ja": "メディアマルクト",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "shop": "electronics",
+            "website": "https://www.mediamarkt.de/de/store/berlin-tempelhof-628",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Roller Scholz",
+            "opening_hours": "Mo-Fr 09:00-19:00",
+            "shop": "car"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "4",
+            "addr:postcode": "13507",
+            "addr:street": "Am Borsigturm",
+            "addr:suburb": "Tegel",
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:MediaMarkt",
+            "check_date:opening_hours": "2023-07-04",
+            "name": "MediaMarkt",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "shop": "electronics",
+            "website": "https://www.mediamarkt.de/de/store/berlin-tegel-510",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Mando Immobilien",
+            "office": "estate_agent",
+            "shop": "estate_agent"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "26",
+            "addr:postcode": "12623",
+            "addr:street": "Alt-Mahlsdorf",
+            "addr:suburb": "Mahlsdorf",
+            "brand": "Roller",
+            "brand:wikidata": "Q1621286",
+            "brand:wikipedia": "de:Roller (Möbelhaus)",
+            "name": "Roller",
+            "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-19:00; PH off",
+            "phone": "+49305658470",
+            "shop": "furniture",
+            "website": "https://www.roller.de/",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "35",
+            "addr:postcode": "14163",
+            "addr:street": "Potsdamer Straße",
+            "addr:suburb": "Zehlendorf",
+            "check_date": "2024-12-08",
+            "contact:fax": "+49 30 80902789",
+            "contact:phone": "+49 30 80902787",
+            "contact:website": "http://www.rollerhaus.de",
+            "email": "D-Berlin@t-online.de",
+            "name": "D&L Rollerhaus",
+            "operator": "D & L Dechring u. Langer GmbH",
+            "shop": "motorcycle",
+            "source": "Geoportal Berlin / k5_2012_sw_sued.zip"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "45",
+            "addr:postcode": "10405",
+            "addr:street": "Greifswalder Straße",
+            "addr:suburb": "Prenzlauer Berg",
+            "check_date": "2023-07-29",
+            "check_date:opening_hours": "2023-05-08",
+            "contact:phone": "+49 30 49854326",
+            "contact:website": "https://kuehlschrank-reparatur.de/",
+            "description": "Haushaltsgeräte Verkauf und Reparaturdienst",
+            "level": "0",
+            "name": "Mobil",
+            "opening_hours:signed": "no",
+            "operator": "Kurt Kontrastmobil GmbH",
+            "second_hand": "yes",
+            "shop": "appliance",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "N&B Automobile",
+            "shop": "car",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "6-10",
+            "addr:postcode": "14165",
+            "addr:street": "Berlepschstraße",
+            "addr:suburb": "Zehlendorf",
+            "brand": "Volvo;Saab",
+            "contact:email": "zentrale@weber-auto.de",
+            "contact:fax": "+49 30 84590430",
+            "contact:phone": "+49 30 8459040",
+            "contact:website": "http://www.weber-auto.de/de",
+            "name": "Martin Weber Automobile",
+            "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-14:00; Su,PH off",
+            "operator": "MARTIN WEBER AUTOMOBILE GmbH",
+            "phone": "+49 3084590 40",
+            "shop": "car;car_repair",
+            "website": "https://www.weber-auto.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "171",
+            "addr:postcode": "10119",
+            "addr:street": "Brunnenstraße",
+            "addr:suburb": "Mitte",
+            "check_date:opening_hours": "2025-04-05",
+            "contact:phone": "+49 30 4496389",
+            "contact:website": "https://www.pedalum-mobile.de/",
+            "name": "pedalum mobile",
+            "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-15:00",
+            "service:bicycle:Bicycle_Sales_and_Service": "yes",
+            "service:bicycle:parts": "yes",
+            "service:bicycle:pump": "yes",
+            "service:bicycle:repair": "yes",
+            "shop": "bicycle",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Motorland Automobile",
+            "operator": "Thomas Strehle",
+            "phone": "+49 30 35103434",
+            "shop": "car"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "branch": "Domäne",
+            "brand": "POCO",
+            "brand:wikidata": "Q1714820",
+            "brand:wikipedia": "de:Poco (Möbelhaus)",
+            "name": "POCO",
+            "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:00-19:00",
+            "shop": "furniture",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "brand": "Volkswagen",
+            "brand:wikidata": "Q246",
+            "brand:wikipedia": "en:Volkswagen",
+            "name": "Volkswagen Automobile Berlin",
+            "shop": "car",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "65A",
+            "addr:postcode": "13349",
+            "addr:street": "Müllerstraße",
+            "addr:suburb": "Wedding",
+            "indoor_seating": "yes",
+            "name": "Tobi's Back & Snack",
+            "opening_hours": "Mo-Sa 06:00-16:00; Su 08:00-16:00; PH closed",
+            "outdoor_seating": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "shop": "bakery",
+            "smoking": "outside",
+            "toilets:wheelchair": "no",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "44",
+            "addr:postcode": "10249",
+            "addr:street": "Hermann-Blankenstein-Straße",
+            "brand": "POCO",
+            "brand:wikidata": "Q1714820",
+            "name": "POCO",
+            "opening_hours": "Mo-Sa 10:00-19:00",
+            "shop": "furniture"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "212",
+            "addr:postcode": "12047",
+            "addr:street": "Weserstraße",
+            "branch": "Robinhoodstore",
+            "bulk_purchase": "yes",
+            "check_date": "2023-07-09",
+            "check_date:opening_hours": "2022-05-01",
+            "diet:organic": "yes",
+            "name": "Robinhood Store",
+            "opening_hours": "Mo-Sa 09:30-20:00",
+            "operator": "robinhood.store",
+            "organic": "only",
+            "shop": "convenience",
+            "website": "https://www.robinhood.store/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "40",
+            "addr:postcode": "10709",
+            "addr:street": "Eisenzahnstraße",
+            "addr:suburb": "Wilmersdorf",
+            "contact:phone": "+49 308735489",
+            "contact:website": "http://kast-automobile.de",
+            "name": "Kast-Automobile",
+            "opening_hours": "Mo-Fr 08:00-18:00",
+            "operator": "Kast Automobile GmbH & Co. KG",
+            "shop": "car_repair"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Ahrensfelde",
+            "addr:housenumber": "17",
+            "addr:postcode": "16356",
+            "addr:street": "Landsberger Chaussee",
+            "addr:suburb": "Eiche",
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:Media Markt",
+            "level": "0",
+            "name": "MediaMarkt",
+            "opening_hours": "Mo-Sa 09:30-20:00",
+            "payment:cards": "yes",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "shop": "electronics",
+            "website": "https://www.mediamarkt.de/de/store/eiche-258",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "20-22",
+            "addr:postcode": "12359",
+            "addr:street": "Scheveninger Straße",
+            "addr:suburb": "Britz",
+            "name": "KIRCHHOFF Mobility GmbH & Co. KG",
+            "phone": "+49 (0)30 - 325984680",
+            "shop": "car_repair",
+            "website": "https://www.kirchhoff-mobility.com/",
+            "wheelchair": "yes",
+            "wheelchair:description": "Barrierefreier Fahrzeugumrüster!"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "19",
+            "addr:postcode": "12627",
+            "addr:street": "Janusz-Korczak-Straße",
+            "addr:suburb": "Hellersdorf",
+            "name": "Robin Look",
+            "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off",
+            "operator": "Robin Look",
+            "phone": "+49 30 26 30 80 82",
+            "shop": "optician",
+            "website": "https://www.robinlook.de/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "21",
+            "addr:postcode": "12439",
+            "addr:street": "Schnellerstraße",
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:Media Markt",
+            "contact:phone": "+49 30 639040",
+            "internet_access": "wlan",
+            "level": "1",
+            "name": "MediaMarkt",
+            "opening_hours": "Mo-Sa 10:00-19:00; PH off",
+            "shop": "electronics",
+            "website": "https://www.mediamarkt.de/de/store/berlin-schoeneweide-578",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "123-125",
+            "addr:postcode": "14482",
+            "addr:street": "Großbeerenstraße",
+            "addr:suburb": "Babelsberg Süd",
+            "automatic_door": "infrared",
+            "branch": "Potsdam Babelsberg",
+            "brand": "toom Baumarkt",
+            "brand:wikidata": "Q2442970",
+            "brand:wikipedia": "de:toom Baumarkt",
+            "check_date:opening_hours": "2025-07-15",
+            "contact:phone": "+49 331 743 750",
+            "door": "sliding",
+            "level": "0",
+            "name": "toom Baumarkt",
+            "name:ar": "توم",
+            "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+            "operator": "toom Baumarkt GmbH",
+            "operator:type": "business",
+            "operator:wikidata": "Q2442970",
+            "operator:wikipedia": "de:toom Baumarkt",
+            "shop": "doityourself",
+            "short_name": "toom",
+            "website": "https://toom.de/m/potsdam-babelsberg/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Matrix Automobile",
+            "shop": "car"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "check_date:opening_hours": "2025-06-17",
+            "name": "Robin Look",
+            "opening_hours": "Mo-Sa 09:00-19:00",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "shop": "optician",
+            "website": "https://robinlook.de/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Highsnobiety",
+            "note": "Formerly a museum; moved to Anhalt Station",
+            "shop": "clothes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "86",
+            "addr:postcode": "10555",
+            "addr:street": "Alt-Moabit",
+            "addr:suburb": "Moabit",
+            "name": "RS Mobile",
+            "shop": "repair"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "13b",
+            "addr:postcode": "10781",
+            "addr:street": "Goltzstraße",
+            "addr:suburb": "Schöneberg",
+            "contact:phone": "+49 30 71538675",
+            "contact:website": "https://mobilien.de/",
+            "name": "mobilien",
+            "opening_hours": "Mo-Fr 11:00-19:00; Sa 11:00-17:00",
+            "operator": "eid & houst GbR",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "shop": "gift",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:postcode": "14059",
+            "addr:street": "Spandauer Damm",
+            "addr:suburb": "Charlottenburg",
+            "check_date:opening_hours": "2024-05-20",
+            "name": "Rollerparadies",
+            "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-13:00",
+            "phone": "+49 30 32602669",
+            "shop": "motorcycle",
+            "website": "http://www.rollerparadies.de/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "7",
+            "addr:postcode": "12163",
+            "addr:street": "Treitschkestraße",
+            "brand": "Saturn",
+            "brand:wikidata": "Q2543504",
+            "brand:wikipedia": "en:Saturn (store)",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "level": "0;1;2",
+            "name": "Saturn",
+            "opening_hours": "Mo-Sa 10:00-20:00; PH,Su off",
+            "phone": "+49 221  22243123",
+            "shop": "electronics",
+            "website": "https://www.saturn.de/de/store/berlin-schlossstrasse-49",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "30",
+            "addr:postcode": "10715",
+            "addr:street": "Badensche Straße",
+            "name": "Walter-Automobile",
+            "phone": "+49 30 8738203",
+            "second_hand": "only",
+            "shop": "car"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Motobike-Berlin",
+            "shop": "motorcycle"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "check_date": "2023-04-04",
+            "check_date:opening_hours": "2023-11-17",
+            "name": "Mobile@Com",
+            "opening_hours:signed": "no",
+            "shop": "mobile_phone",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "check_date": "2023-05-27",
+            "name": "Robin Look",
+            "shop": "optician",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "mobile Fahrradwerkstatt",
+            "opening_hours": "Sa,Su 14:00-18:00",
+            "payment:credit_cards": "no",
+            "payment:debit_cards": "no",
+            "service:bicycle:cleaning": "no",
+            "service:bicycle:diy": "yes",
+            "service:bicycle:pump": "yes",
+            "service:bicycle:rental": "no",
+            "service:bicycle:repair": "yes",
+            "service:bicycle:retail": "no",
+            "service:bicycle:second_hand": "no",
+            "shop": "bicycle",
+            "website": "http://taschengeldfirma.net/fahrrad.html",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "159",
+            "addr:postcode": "10409",
+            "addr:street": "Greifswalder Straße",
+            "addr:suburb": "Prenzlauer Berg",
+            "check_date:opening_hours": "2023-11-14",
+            "internet_access": "yes",
+            "name": "Duman Spätkauf - Lyca Mobile Partner",
+            "opening_hours": "Su-Th 09:30-01:00, Fr,Sa 09:30-02:00",
+            "payment:credit_cards": "no",
+            "payment:debit_cards": "no",
+            "shop": "convenience",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "44",
+            "addr:postcode": "10249",
+            "addr:street": "Hermann-Blankenstein-Straße",
+            "brand": "toom Baumarkt",
+            "brand:wikidata": "Q2442970",
+            "brand:wikipedia": "de:Toom Baumarkt",
+            "check_date:opening_hours": "2024-09-13",
+            "name": "toom Baumarkt",
+            "opening_hours": "Mo-Th,Sa 08:00-20:00; Fr 08:00-20:00",
+            "phone": "+49 30 46776210",
+            "shop": "doityourself",
+            "short_name": "toom",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:MediaMarkt",
+            "name": "MediaMarkt",
+            "shop": "electronics",
+            "website": "https://www.mediamarkt.de/de/store/berlin-gropiusstadt-535",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "level": "1",
+            "name": "Media Markt Service",
+            "shop": "electronics",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "122",
+            "addr:postcode": "10243",
+            "addr:street": "Karl-Marx-Allee",
+            "addr:suburb": "Friedrichshain",
+            "check_date:opening_hours": "2025-06-30",
+            "contact:email": "team@hauptstadtroller.de",
+            "contact:phone": "+49 30 39716544",
+            "contact:website": "https://hauptstadtroller.de",
+            "name": "Hauptstadtroller",
+            "opening_hours": "Mo-Fr 10:00-18:00",
+            "operator": "Rene Mann",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "shop": "motorcycle"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Bernau bei Berlin",
+            "addr:housenumber": "49",
+            "addr:postcode": "16321",
+            "addr:street": "Zepernicker Chaussee",
+            "brand": "Mitsubishi",
+            "brand:wikidata": "Q36033",
+            "brand:wikipedia": "en:Mitsubishi Motors",
+            "name": "CSB Schimmel Automobile GmbH",
+            "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-14:00",
+            "shop": "car"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Berliner Automobile",
+            "shop": "car"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "König Automobile",
+            "shop": "car"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "190",
+            "addr:inclusion": "potential",
+            "addr:postcode": "13158",
+            "addr:street": "Dietzgenstraße",
+            "addr:suburb": "Rosenthal",
+            "name": "BM Automobile",
+            "opening_hours:signed": "no",
+            "shop": "car",
+            "source": "Geoportal Berlin / Hauskoordinaten"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "12555",
+            "addr:street": "Elcknerplatz",
+            "addr:suburb": "Köpenick",
+            "brand": "Saturn",
+            "brand:wikidata": "Q2543504",
+            "brand:wikipedia": "en:Saturn (store)",
+            "email": "berlin-koepenick@saturn.de",
+            "internet_access": "wlan",
+            "level": "1",
+            "name": "Saturn",
+            "opening_hours": "Mo-Sa 10:00-20:00; PH off",
+            "operator": "Saturn Electro-Handelsgesellschaft mbH Berlin-Köpenick",
+            "phone": "+49 221 22243333",
+            "ref:vatin": "DE811686984",
+            "shop": "electronics",
+            "website": "https://www.saturn.de/de/store/berlin-koepenick-1234",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "147",
+            "addr:postcode": "10365",
+            "addr:street": "Frankfurter Allee",
+            "addr:suburb": "Lichtenberg",
+            "contact:phone": "+49 30 95628459",
+            "massage": "thai",
+            "name": "Mobile Thaimassage",
+            "opening_hours": "Mo-Fr 9:30-19:00",
+            "shop": "massage",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "brand": "Saturn",
+            "brand:wikidata": "Q2543504",
+            "brand:wikipedia": "en:Saturn (store)",
+            "level": "2",
+            "name": "Saturn",
+            "shop": "electronics",
+            "website": "https://www.saturn.de/de/store/berlin-leipziger-platz-25",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Dallgow-Döberitz",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "14624",
+            "addr:street": "Schulgasse",
+            "brand": "Ford",
+            "brand:wikidata": "Q44294",
+            "brand:wikipedia": "de:Ford",
+            "name": "Automobile Dallgow GmbH",
+            "opening_hours": "Mo-Fr 07:00-18:00; Sa 09:00-13:00",
+            "phone": "+49 3322 24640",
+            "shop": "car",
+            "website": "https://www.automobile-dallgow.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "brand": "toom Baumarkt",
+            "brand:wikidata": "Q2442970",
+            "brand:wikipedia": "de:Toom Baumarkt",
+            "name": "toom Baumarkt",
+            "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00",
+            "payment:american_express": "yes",
+            "payment:girocard": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "shop": "doityourself",
+            "short_name": "toom",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "12679",
+            "addr:street": "Marzahner Promenade",
+            "addr:suburb": "Marzahn",
+            "brand": "Saturn",
+            "brand:wikidata": "Q2543504",
+            "brand:wikipedia": "en:Saturn (store)",
+            "level": "1",
+            "name": "Saturn",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "shop": "electronics",
+            "website": "https://www.saturn.de/de/store/berlin-marzahn-210",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "level": "0",
+            "name": "Robin Look",
+            "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00",
+            "shop": "optician"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housename": "Stern-Center",
+            "addr:housenumber": "4",
+            "addr:postcode": "14480",
+            "addr:street": "Stern-Center",
+            "addr:suburb": "Drewitz",
+            "branch": "Potsdam im Sterncenter",
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:Media Markt",
+            "contact:email": "potsdam@mediamarkt.de",
+            "contact:facebook": "https://www.facebook.com/mediamarkt",
+            "contact:fax": "+49 331 648 2129",
+            "contact:instagram": "https://www.instagram.com/mediamarkt_deutschland/",
+            "contact:phone": "+49 331 648 20",
+            "contact:twitter": "https://twitter.com/mediamarkt_de",
+            "contact:website": "https://www.mediamarkt.de/de/store/potsdam-470",
+            "contact:youtube": "https://www.youtube.com/c/mediamarkt",
+            "internet_access": "wlan",
+            "level": "0",
+            "name": "MediaMarkt",
+            "opening_hours": "Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 09:00-21:00; Su,PH off",
+            "operator": "Media-Saturn-Holding GmbH",
+            "operator:type": "business",
+            "operator:wikidata": "Q2381223",
+            "operator:wikipedia": "de:Media-Saturn",
+            "ref:vatin": "DE233830101",
+            "shop": "electronics",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Braune Automobile",
+            "shop": "car"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "9",
+            "addr:postcode": "14482",
+            "addr:street": "Friedrich-List-Straße",
+            "addr:suburb": "Babelsberg Nord",
+            "check_date": "2025-07-11",
+            "name": "Braune Automobile",
+            "operator": "Thomas Braune",
+            "phone": "+49 331 7049351",
+            "shop": "car_repair",
+            "website": "https://www.braune-automobile.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "branch": "Potsdam",
+            "brand": "IKEA",
+            "brand:wikidata": "Q54078",
+            "check_date:opening_hours": "2024-08-30",
+            "name": "IKEA Planning Studio",
+            "name:cs": "IKEA Plánovací studio",
+            "name:en": "IKEA Planning Studio",
+            "name:pt": "IKEA Estúdio de Planificação",
+            "name:sk": "IKEA Plánovacie štúdio",
+            "not:name": "IKEA",
+            "note": "laut Internetseite Hausnummer 5, der Shop befindet sich aber in diesem Gebäude (ehemaliger C&A)",
+            "opening_hours": "Mo-Sa 10:00-20:00; PH off",
+            "shop": "furniture",
+            "website": "https://www.ikea.com/de/de/stores/potsdam/",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "nanobike",
+            "opening_hours": "Mo-Fr 10:00-13:00, 13:45-19:00; Sa 10:00-16:00; PH off",
+            "phone": "+49 30 67821888",
+            "service:bicycle:rental": "no",
+            "service:bicycle:repair": "yes",
+            "service:bicycle:retail": "no",
+            "shop": "bicycle",
+            "website": "https://nanobike.de/",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "26",
+            "addr:postcode": "14467",
+            "addr:street": "Mittelstraße",
+            "check_date": "2023-06-18",
+            "description": "Alle Hersteller Alle Netze Service & Reparatur",
+            "name": "Mobilfunk-Center Potsdam",
+            "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00",
+            "operator": "Dirk Thalmann",
+            "phone": "+49 3312800549",
+            "shop": "mobile_phone",
+            "website": "https://www.mfc-potsdam.de/",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "1",
+            "addr:postcode": "13051",
+            "addr:street": "Prerower Platz",
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:MediaMarkt",
+            "level": "1",
+            "name": "MediaMarkt",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "shop": "electronics",
+            "website": "https://www.mediamarkt.de/de/store/berlin-hohenschoenhausen-413",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "contact:email": "berlin@kadomo.de",
+            "contact:phone": "+49 30 99273770",
+            "contact:website": "https://kadomo.de/",
+            "name": "Kodomo - Die Mobilitätsmanufaktur",
+            "operator": "Mobilitätsmanufaktur KADOMO GmbH",
+            "shop": "medical_supply"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "73",
+            "addr:postcode": "10709",
+            "addr:street": "Kurfürstendamm",
+            "addr:suburb": "Charlottenburg",
+            "check_date": "2024-03-08",
+            "contact:phone": "+49 30 89380626",
+            "contact:website": "http://www.vobis.de/",
+            "name": "Vobis",
+            "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00",
+            "shop": "computer",
+            "wheelchair": "limited"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "66",
+            "addr:postcode": "12043",
+            "addr:street": "Karl-Marx-Straße",
+            "brand": "MediaMarkt",
+            "brand:wikidata": "Q2381223",
+            "brand:wikipedia": "en:Media Markt",
+            "level": "1",
+            "name": "MediaMarkt",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "phone": "030688750",
+            "ref:vatin": "DE812028663",
+            "shop": "electronics",
+            "website": "https://www.mediamarkt.de/de/store/berlin-neukoelln-459",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "110",
+            "addr:postcode": "12555",
+            "addr:street": "Mahlsdorfer Straße",
+            "check_date": "2025-06-06",
+            "check_date:opening_hours": "2022-05-23",
+            "craft": "optician",
+            "fax": "+49 30 65076032",
+            "health_service:examination": "yes",
+            "health_specialty:optometry": "yes",
+            "medical_system:western": "yes",
+            "name": "Robin Look",
+            "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-16:00; PH off",
+            "phone": "+49 30 65076057",
+            "shop": "optician",
+            "toilets:wheelchair": "no",
+            "website": "https://www.robinlook.de/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "11",
+            "addr:postcode": "10969",
+            "addr:street": "Wassertorstraße",
+            "brand": "tokyobike",
+            "brand:wikidata": "Q113486193",
+            "email": "info@tokyobike.de",
+            "name": "tokyobike",
+            "opening_hours": "We-Fr 14:00-19:00",
+            "operator": "Tokyo Bike",
+            "phone": "+493062901510",
+            "service:bicycle:parts": "yes",
+            "service:bicycle:pump": "yes",
+            "service:bicycle:repair": "yes",
+            "service:bicycle:retail": "yes",
+            "service:bicycle:screwdriver": "yes",
+            "service:bicycle:tools": "yes",
+            "shop": "bicycle",
+            "website": "https://tokyobike.de/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:street": "Hermannstraße",
+            "check_date": "2024-03-29",
+            "name": "SR mobile",
+            "shop": "mobile_phone"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "contact:email": "kfz@macht-macht-mobil.de",
+            "contact:facebook": "http://www.facebook.com/machtmachtmobil",
+            "contact:phone": "+49 30 612 54 27",
+            "contact:website": "https://www.macht-macht-mobil.de/",
+            "name": "Macht-macht-mobil",
+            "shop": "car_repair"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "28",
+            "addr:postcode": "12099",
+            "addr:street": "Colditzstraße",
+            "email": "info@autopiot.de",
+            "fax": "+49 30 75452672",
+            "name": "Automobilserice Machel",
+            "opening_hours": "Mo-Fr 07:00-18:00",
+            "phone": "+49 30 75452670",
+            "shop": "car_repair",
+            "website": "https://www.autopiot.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "30",
+            "addr:postcode": "13353",
+            "addr:street": "Friedrich-Krause-Ufer",
+            "addr:suburb": "Moabit",
+            "name": "Lafi Automobile",
+            "second_hand": "only",
+            "shop": "car"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Powercom24 - Dein Mobilfunkspezialist",
+            "shop": "mobile_phone"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:housenumber": "36",
+            "addr:street": "Lynarstraße",
+            "check_date": "2024-12-13",
+            "check_date:opening_hours": "2024-01-25",
+            "level": "0",
+            "name": "Lynar Automobile",
+            "opening_hours:signed": "no",
+            "payment:credit_cards": "no",
+            "payment:debit_cards": "yes",
+            "second_hand": "only",
+            "shop": "car",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Pirates4mobile",
+            "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00",
+            "payment:girocard": "yes",
+            "payment:maestro": "yes",
+            "shop": "mobile_phone",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:housenumber": "12",
+            "addr:postcode": "13353",
+            "addr:street": "Brüsseler Straße",
+            "brand": "DPD",
+            "check_date": "2025-02-09",
+            "name": "Getränkemarkt Robin",
+            "name:de": "Getränkemarkt Robin",
+            "opening_hours": "Mo-Th 07:00-01:00, Fr,Sa 07:00-02:00",
+            "shop": "convenience"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "18",
+            "addr:postcode": "12103",
+            "addr:street": "Alboinstraße",
+            "brand": "Bauhaus",
+            "brand:wikidata": "Q672043",
+            "brand:wikipedia": "en:Bauhaus (company)",
+            "check_date:opening_hours": "2024-04-27",
+            "email": "Service.NL597@bauhaus-ag.de",
+            "name": "Bauhaus",
+            "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:credit_cards": "yes",
+            "phone": "+49 30 7551560",
+            "shop": "doityourself",
+            "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-schoeneberg/fc/597",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "38",
+            "addr:postcode": "10249",
+            "addr:street": "Hermann-Blankenstein-Straße",
+            "check_date:opening_hours": "2022-02-07",
+            "name": "Robin Look",
+            "opening_hours": "Mo-Sa 09:00-20:00",
+            "phone": "+49 30 26349548",
+            "shop": "optician",
+            "website": "https://www.robinlook.de/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "1",
+            "addr:postcode": "12524",
+            "addr:street": "Bruno-Taut-Straße",
+            "contact:phone": "+49 30 67806310",
+            "contact:website": "https://www.robinlook.de/",
+            "name": "Robin Look",
+            "opening_hours": "Mo-Fr 10:00-20:00, Sa 10:00-16:00",
+            "shop": "optician",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:city:fa": "برلین",
+            "addr:housenumber": "5",
+            "addr:postcode": "10178",
+            "addr:street": "Rathausstraße",
+            "level": "0",
+            "name": "Robin Look",
+            "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00",
+            "phone": "+49 30 24631670",
+            "shop": "optician",
+            "website": "https://www.robinlook.de/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "1",
+            "addr:postcode": "12161",
+            "addr:street": "Walther-Schreiber-Platz",
+            "check_date": "2023-11-04",
+            "level": "-1",
+            "name": "Robin Look",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "phone": "+49 30 85073050",
+            "shop": "optician",
+            "website": "https://www.robinlook.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "30B",
+            "addr:postcode": "13187",
+            "addr:street": "Breite Straße",
+            "addr:suburb": "Pankow",
+            "check_date:opening_hours": "2024-04-22",
+            "contact:website": "https://www.mobilecom-berlin.de/",
+            "name": "Mobilecom",
+            "opening_hours": "Mo-Sa 10:30-18:00",
+            "payment:credit_cards": "no",
+            "payment:debit_cards": "no",
+            "shop": "mobile_phone",
+            "wheelchair": "no"
+        },
+        "name": null
+    }
+]

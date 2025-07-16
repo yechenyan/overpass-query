@@ -1,0 +1,185 @@
+[
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "1-5",
+            "addr:postcode": "12459",
+            "addr:street": "Ostendstraße",
+            "addr:suburb": "Oberschöneweide",
+            "name": "Umspannwerk Werk für Fernsehelektronik",
+            "power": "substation",
+            "short_name": "UW WFB",
+            "substation": "minor_distribution"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "368",
+            "addr:place": "Stadtbahnbogen",
+            "addr:postcode": "10557",
+            "addr:suburb": "Moabit",
+            "check_date": "2021-07-04",
+            "disused:shop": "electronics",
+            "entrance": "yes",
+            "name": "Schöttle Elektrowerkzeuge u. Hausgeräteservice",
+            "note": "am Briefkasten steht mit Stand 06/2017 die Anschrift des benachbarten 'Theater Artenschutz'"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "32",
+            "addr:postcode": "13407",
+            "addr:street": "Markscheiderstraße",
+            "addr:suburb": "Reinickendorf",
+            "man_made": "works",
+            "name": "Lichtner-Dyckerhoff Beton GmbH & Co. KG",
+            "phone": "+493033000276",
+            "source": "http://www.lichtner.dyckerhoff.de/online/de/Home/Standorte/articolo17.html",
+            "website": "http://www.lichtner.dyckerhoff.de/online/de/Home.html"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "man_made": "works",
+            "name": "Peuler Haustechnik-Service"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "check_date": "2025-02-11",
+            "disused:shop": "electronics",
+            "name": "TV - Video - Hifi - Antennen - Elektro",
+            "shop": "vacant",
+            "toilets:wheelchair": "no",
+            "wheelchair": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "51",
+            "addr:postcode": "12161",
+            "addr:street": "Rheinstraße",
+            "addr:suburb": "Friedenau",
+            "check_date": "2025-04-24",
+            "disused:shop": "lighting",
+            "name": "Die Lichtquelle"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "29",
+            "addr:postcode": "13407",
+            "addr:street": "Alt-Reinickendorf",
+            "addr:suburb": "Reinickendorf",
+            "amenity": "workshop",
+            "name": "Elektronik-Recycling-Werkstatt",
+            "operator": "Der Steg gGmbH"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "61c",
+            "addr:postcode": "12207",
+            "addr:street": "Ostpreußendamm",
+            "addr:suburb": "Lichterfelde",
+            "building": "yes",
+            "frequency": "50",
+            "location": "indoor",
+            "name": "Umspannwerk Lichterfelde",
+            "operator": "Stromnetz Berlin",
+            "operator:wikidata": "Q110255475",
+            "power": "substation",
+            "ref": "LI",
+            "short_name": "UW LI",
+            "substation": "distribution",
+            "voltage": "110000"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "disused": "yes",
+            "name": "Umspannwerk Elektrokohle",
+            "operator": "Stromnetz Berlin",
+            "operator:wikidata": "Q110255475",
+            "power": "substation",
+            "source": "Wikipedia",
+            "voltage": "0"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "19-25",
+            "addr:postcode": "10553",
+            "addr:street": "Neues Ufer",
+            "addr:suburb": "Moabit",
+            "man_made": "works",
+            "name": "Menzel Elektromotoren GmbH"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "barrier": "fence",
+            "frequency": "50;0",
+            "landuse": "commercial",
+            "name": "S-Bahn Gleichstromunterwerk Lichterfelde West",
+            "operator": "S-Bahn Berlin GmbH",
+            "operator:wikidata": "Q99654",
+            "operator:wikipedia": "de:S-Bahn Berlin",
+            "power": "substation",
+            "substation": "traction",
+            "voltage": "30000;750"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "U-Bahn Gleichrichterwerk Lichtenberg",
+            "operator": "Berliner Verkehrsbetriebe",
+            "operator:short": "BVG",
+            "operator:wikidata": "Q99633",
+            "operator:wikipedia": "de:Berliner Verkehrsbetriebe",
+            "power": "substation",
+            "substation": "traction",
+            "voltage:primary": "10000",
+            "voltage:secondary": "750"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "frequency": "50;0",
+            "layer": "-1",
+            "name": "S-Bahn Gleichrichterunterwerk Lichtenberg",
+            "operator": "DB Energie",
+            "operator:wikidata": "Q1152043",
+            "power": "substation",
+            "source": "survey",
+            "substation": "traction",
+            "voltage": "30000;750"
+        },
+        "name": null
+    }
+]

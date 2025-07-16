@@ -1,0 +1,2084 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-16T06:07:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1252481773,
+      "lat": 52.5428078,
+      "lon": 13.3630151,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "5A",
+        "addr:postcode": "13353",
+        "addr:street": "Willdenowstra\u00dfe",
+        "addr:suburb": "Wedding",
+        "name": "Tillmann Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1393534180,
+      "lat": 52.5339272,
+      "lon": 13.3478552,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "24",
+        "addr:postcode": "10559",
+        "addr:street": "Stephanstra\u00dfe",
+        "addr:suburb": "Moabit",
+        "name": "Komet Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2069806834,
+      "lat": 52.5877067,
+      "lon": 13.3172074,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "175",
+        "addr:postcode": "13509",
+        "addr:street": "Holzhauser Stra\u00dfe",
+        "addr:suburb": "Borsigwalde",
+        "name": "Bilfinger Construction GmbH",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2125059278,
+      "lat": 52.5490306,
+      "lon": 13.3599643,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "13347",
+        "addr:street": "Turiner Stra\u00dfe",
+        "addr:suburb": "Wedding",
+        "check_date": "2023-04-08",
+        "name": "Perfekt Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2303055278,
+      "lat": 52.5506613,
+      "lon": 13.3664624,
+      "tags": {
+        "check_date": "2024-05-16",
+        "name": "Compact Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2881222629,
+      "lat": 52.5426731,
+      "lon": 13.2305322,
+      "tags": {
+        "access": "customers",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "13599",
+        "addr:street": "Goldbeckweg",
+        "addr:suburb": "Haselhorst",
+        "leisure": "playground",
+        "name": "Spielhaus Goldbeckweg",
+        "source": "Geoportal Berlin / Hauskoordinaten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2957914008,
+      "lat": 52.5767733,
+      "lon": 13.3782272,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2A",
+        "addr:postcode": "13158",
+        "addr:street": "Stra\u00dfe vor Sch\u00f6nholz",
+        "addr:suburb": "Niedersch\u00f6nhausen",
+        "name": "Wichtel Umz\u00fcge GmbH",
+        "office": "company",
+        "opening_hours": "Mo-Fr 08:00-20:00",
+        "phone": "+493075561575",
+        "source": "Geoportal Berlin / Hauskoordinaten",
+        "website": "https://www.wichtel-umzuege.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3094304461,
+      "lat": 52.5690976,
+      "lon": 13.3618605,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "131",
+        "addr:postcode": "13409",
+        "addr:street": "Residenzstra\u00dfe",
+        "check_date": "2023-12-14",
+        "contact:phone": "+49 30 49876041",
+        "contact:website": "http://www.falken-umzuege.de/",
+        "name": "Falken Umz\u00fcge",
+        "office": "moving_company",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4447327905,
+      "lat": 52.5606435,
+      "lon": 13.3765801,
+      "tags": {
+        "email": "info@atlanten-umzug.de",
+        "fax": "+49 30 49910042",
+        "name": "Atlanten Umz\u00fcge",
+        "office": "moving_company",
+        "phone": "+49 30 49910041",
+        "website": "https://www.atlanten-umzug.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4729078699,
+      "lat": 52.4670696,
+      "lon": 13.339895,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "12157",
+        "addr:street": "Beckerstra\u00dfe",
+        "addr:suburb": "Sch\u00f6neberg",
+        "level": "0",
+        "name": "GPS Umz\u00fcge",
+        "office": "moving_company",
+        "opening_hours": "Mo-Fr 10:00-16:00",
+        "phone": "+49 30 80107580",
+        "website": "https://gps-umzug.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4809992554,
+      "lat": 52.5681954,
+      "lon": 13.3987052,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "5A",
+        "addr:postcode": "13187",
+        "addr:street": "Wollankstra\u00dfe",
+        "addr:suburb": "Pankow",
+        "contact:website": "https://www.fachmann-umzuege.de/",
+        "name": "Fachmann Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5280090672,
+      "lat": 52.5042619,
+      "lon": 13.5827801,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "12621",
+        "addr:street": "Alt-Kaulsdorf",
+        "addr:suburb": "Kaulsdorf",
+        "contact:phone": "+49 30 5569750",
+        "contact:website": "http://www.roggan-transporte.de/",
+        "lastcheck": "2016-11-19",
+        "name": "Roggan Umz\u00fcge & Transporte",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5339216376,
+      "lat": 52.5657177,
+      "lon": 13.3781402,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "103",
+        "addr:postcode": "13409",
+        "addr:street": "Provinzstra\u00dfe",
+        "name": "Wichtel Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5710701823,
+      "lat": 52.5546101,
+      "lon": 13.3758068,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "13357",
+        "addr:street": "Schwedenstra\u00dfe",
+        "addr:suburb": "Gesundbrunnen",
+        "check_date": "2024-01-16",
+        "contact:email": "info@eurobest-umzuege.de",
+        "contact:phone": "+49 30 45084000",
+        "contact:website": "https://www.eurobest-umzuege.de/",
+        "name": "Eurobest Umz\u00fcge",
+        "office": "moving_company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6041704648,
+      "lat": 52.5347881,
+      "lon": 13.4539187,
+      "tags": {
+        "name": "Strabag PFS",
+        "office": "company",
+        "website": "https://www.strabag-pfs.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6157289434,
+      "lat": 52.565535,
+      "lon": 13.3780853,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "14A",
+        "addr:postcode": "13158",
+        "addr:street": "Str. vor Sch\u00f6nholz",
+        "addr:suburb": "Reinickendorf",
+        "check_date": "2025-07-14",
+        "contact:email": "info@wichtel-umzuege.de",
+        "contact:phone": "+49 30 75561575",
+        "contact:website": "https://www.wichtel-umzuege.de/",
+        "name": "Wichtel Umz\u00fcge GmbH",
+        "office": "moving_company",
+        "official_name": "Wichtel Umz\u00fcge GmbH",
+        "opening_hours": "Mo-Fr 08:00-20:00",
+        "ref:vatin": "DE340351152",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6192424369,
+      "lat": 52.4860793,
+      "lon": 13.3618158,
+      "tags": {
+        "contact:phone": "+49 30 78959481",
+        "contact:website": "https://www.kaspar-umzuege.de/",
+        "name": "Kaspar-Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6458178283,
+      "lat": 52.438808,
+      "lon": 13.1778201,
+      "tags": {
+        "artwork_type": "statue",
+        "name": "Hochtief-Buddyb\u00e4r",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6695076085,
+      "lat": 52.5497435,
+      "lon": 13.3621507,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:floor": "0",
+        "addr:housenumber": "39",
+        "addr:postcode": "13347",
+        "addr:street": "Nazarethkirchstra\u00dfe",
+        "check_date": "2024-07-12",
+        "level": "0",
+        "mobile": "+4917677540660",
+        "name": "Nassib Umz\u00fcge & Entr\u00fcmplung Berlin",
+        "office": "moving_company",
+        "phone": "+49 30 52138762",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6695093386,
+      "lat": 52.5489531,
+      "lon": 13.3609517,
+      "tags": {
+        "check_date": "2023-04-06",
+        "name": "Nazareth Umz\u00fcge",
+        "office": "moving_company",
+        "opening_hours": "Tu-We,Fr-Sa 12:00-17:00",
+        "phone": "+49 30 83219910",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6761490087,
+      "lat": 52.5456624,
+      "lon": 13.3711703,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Pankstra\u00dfe",
+        "check_date": "2022-12-01",
+        "email": "info@engelmann-umzug.de",
+        "fax": "+49 30 8170479 2",
+        "level": "0",
+        "name": "Engelmann Umz\u00fcge",
+        "office": "moving_company",
+        "opening_hours": "Mo-Fr 10:00-16:00",
+        "phone": "+49 30 8170479 1",
+        "website": "https://www.engelmann-umzug.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7419125565,
+      "lat": 52.4700165,
+      "lon": 13.4542104,
+      "tags": {
+        "name": "zapf umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7613456321,
+      "lat": 52.5792262,
+      "lon": 13.3597007,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "28-42",
+        "addr:postcode": "13407",
+        "addr:street": "Flottenstra\u00dfe",
+        "company": "logistics",
+        "contact:email": "info@kraftumzug.de",
+        "contact:fax": "+49 30 4113689",
+        "contact:phone": "+49 30 4111496",
+        "name": "Reiner Kraft Transportlogistik, Umz\u00fcge & Lagerung",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7633023875,
+      "lat": 52.5556896,
+      "lon": 13.3423177,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "113",
+        "addr:postcode": "13349",
+        "addr:street": "M\u00fcllerstra\u00dfe",
+        "addr:suburb": "Wedding",
+        "check_date": "2025-02-21",
+        "check_date:opening_hours": "2021-07-20",
+        "contact:phone": "+49 30 39839362",
+        "level": "0",
+        "name": "Axa Umz\u00fcge",
+        "office": "moving_company",
+        "opening_hours": "Mo-Fr 10:00-16:00; PH closed",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7955525987,
+      "lat": 52.5539363,
+      "lon": 13.3728878,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "13357",
+        "addr:street": "Exerzierstra\u00dfe",
+        "addr:suburb": "Gesundbrunnen",
+        "check_date": "2023-07-13",
+        "contact:email": "info@legende-umzuege.de",
+        "contact:phone": "+49 30 50176670",
+        "contact:website": "https://legende-umzuege-berlin.de/",
+        "name": "Legende Umz\u00fcge",
+        "office": "moving_company",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7995684593,
+      "lat": 52.4801254,
+      "lon": 13.3465035,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "105",
+        "addr:postcode": "10827",
+        "addr:street": "Hauptstra\u00dfe",
+        "addr:suburb": "Sch\u00f6neberg",
+        "name": "Intertrans Umz\u00fcge",
+        "office": "moving_company",
+        "phone": "+49 30 62904 573",
+        "website": "https://umzug-intertrans.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8044312550,
+      "lat": 52.56024,
+      "lon": 13.3871374,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "62",
+        "addr:postcode": "13359",
+        "addr:street": "Wollankstra\u00dfe",
+        "addr:suburb": "Gesundbrunnen",
+        "check_date": "2023-07-02",
+        "contact:email": "moon-umzuege@web.de",
+        "contact:phone": "+49 30 60406230",
+        "contact:website": "https://moon-umz\u00fcge.net/",
+        "name": "Moon Umz\u00fcge",
+        "office": "moving_company",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8265396163,
+      "lat": 52.5268041,
+      "lon": 13.3302206,
+      "tags": {
+        "name": "Niclas Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8766255538,
+      "lat": 52.4178692,
+      "lon": 13.5799186,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "122",
+        "addr:postcode": "12527",
+        "addr:street": "Regattastra\u00dfe",
+        "name": "Regatta-Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9083759872,
+      "lat": 52.5411302,
+      "lon": 13.6174784,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "83",
+        "addr:postcode": "12627",
+        "addr:street": "Quedlinburger Stra\u00dfe",
+        "email": "umzuege-aist@web.de",
+        "mobile": "+49 160 7919022",
+        "name": "Aist Umz\u00fcge",
+        "office": "moving_company",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "Rostem Ali",
+        "phone": "+49 30 81479768",
+        "website": "https://www.aist-umzuege.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9461140240,
+      "lat": 52.4605213,
+      "lon": 13.3192319,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "12163",
+        "addr:street": "Zimmermannstra\u00dfe",
+        "addr:suburb": "Steglitz",
+        "check_date:opening_hours": "2023-03-18",
+        "name": "Steuerb\u00fcro W. Goldbecker",
+        "office": "tax_advisor",
+        "opening_hours:signed": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9598450306,
+      "lat": 52.4422525,
+      "lon": 13.5191005,
+      "tags": {
+        "contact:email": "info@amadeus-umzuege.de",
+        "contact:phone": "+49 30 6811006",
+        "contact:website": "https://www.amadeusumzuege.com/",
+        "name": "Amadeus Umz\u00fcge",
+        "office": "moving_company",
+        "operator": "Amadeus Transportgesellschaft mbH"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9663220919,
+      "lat": 52.5642025,
+      "lon": 13.3521173,
+      "tags": {
+        "name": "Mars Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9663223718,
+      "lat": 52.5637836,
+      "lon": 13.3525897,
+      "tags": {
+        "name": "SAGA Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9675639678,
+      "lat": 52.5678038,
+      "lon": 13.3463474,
+      "tags": {
+        "name": "Anton Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9719877166,
+      "lat": 52.5517505,
+      "lon": 13.3776585,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "7A",
+        "addr:postcode": "13357",
+        "addr:street": "Buttmannstra\u00dfe",
+        "addr:suburb": "Gesundbrunnen",
+        "contact:email": "info@turm-umzuege.de",
+        "contact:phone": "+49 30 8978 4543",
+        "contact:website": "https://turm-umzuege.de",
+        "name": "Turm Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10298243210,
+      "lat": 52.55559,
+      "lon": 13.3474799,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "14",
+        "addr:postcode": "13349",
+        "addr:street": "Barfusstra\u00dfe",
+        "description": "Helden Umz\u00fcge Berlin ist eine kompetente und erfahrene Umzugsfirma in Berlin mit langj\u00e4hriger Erfahrung. Mit Leistungen aus den Bereichen Entr\u00fcmpelung, Transport und Umzug \u00fcberzeugt die motivierte Umzugsfirma inklusive des Teams. Grunds\u00e4tzlich sollte jede",
+        "email": "info@helden-umzuege.berlin",
+        "image": "https://www.helden-umzuege.berlin/wp-content/uploads/2020/03/helden-umzuege-logoelement-10rand.png",
+        "name": "Helden Umz\u00fcge Berlin",
+        "office": "moving_company",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "03092100340",
+        "website": "https://www.helden-umzuege.berlin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10690039993,
+      "lat": 52.5639186,
+      "lon": 13.4123601,
+      "tags": {
+        "check_date": "2025-05-07",
+        "name": "Almut Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10743059140,
+      "lat": 52.5618077,
+      "lon": 13.3771155,
+      "tags": {
+        "email": "info@igel-umzuege.de",
+        "name": "Igel Umz\u00fcge",
+        "office": "moving_company",
+        "phone": "+49 30 50182394",
+        "website": "https://www.igel-umzuege.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10778150722,
+      "lat": 52.5102604,
+      "lon": 13.423638,
+      "tags": {
+        "name": "HOCHTIEF Projektentwicklung GmbH",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10795006146,
+      "lat": 52.5494616,
+      "lon": 13.3592276,
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:street": "Turiner Stra\u00dfe",
+        "check_date": "2023-04-08",
+        "level": "0",
+        "name": "Rubin Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10796992898,
+      "lat": 52.5511253,
+      "lon": 13.4050129,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "25",
+        "addr:postcode": "10439",
+        "addr:street": "Schivelbeiner Stra\u00dfe",
+        "check_date": "2025-04-21",
+        "level": "0",
+        "name": "Schindler Umz\u00fcge",
+        "office": "moving_company",
+        "official_name": "Schindler Umz\u00fcge - Umzugsunternehmen Berlin - Umzug Berlin",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+49 30 47904222",
+        "website": "https://schindler-umzuege.de",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11059828957,
+      "lat": 52.5477348,
+      "lon": 13.3665387,
+      "tags": {
+        "name": "Idol Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11109218960,
+      "lat": 52.5523004,
+      "lon": 13.3564223,
+      "tags": {
+        "name": "Tornado Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11119418757,
+      "lat": 52.5320512,
+      "lon": 13.3500161,
+      "tags": {
+        "name": "Wind Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11242064089,
+      "lat": 52.5746358,
+      "lon": 13.3804013,
+      "tags": {
+        "name": "Avatar Umz\u00fcge",
+        "office": "moving_company",
+        "phone": "+49 30 36414342",
+        "website": "https://avatar-umzuege.de",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11747939726,
+      "lat": 52.580511,
+      "lon": 13.2911204,
+      "tags": {
+        "name": "Fahnert Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12323925295,
+      "lat": 52.5423943,
+      "lon": 13.3622537,
+      "tags": {
+        "name": "Ados Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12565561112,
+      "lat": 52.4627316,
+      "lon": 13.4341506,
+      "tags": {
+        "name": "Heimgold Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12768039982,
+      "lat": 52.5518333,
+      "lon": 13.4481761,
+      "tags": {
+        "addr:housenumber": "54",
+        "addr:street": "Behaimstra\u00dfe",
+        "check_date": "2025-04-18",
+        "name": "zentrum Umz\u00fcge",
+        "office": "moving_company",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 12:00-16:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12974218063,
+      "lat": 52.5469773,
+      "lon": 13.453925,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "31",
+        "addr:postcode": "13088",
+        "addr:street": "Meyerbeerstra\u00dfe",
+        "email": "info@mm-umzuege.de",
+        "mobile": "+49-178-180 6210",
+        "name": "MM Umz\u00fcge",
+        "office": "moving_company",
+        "opening_hours": "signed=no",
+        "ref:vatin": "DE241196436",
+        "website": "http://www.mm-umzuege.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19898272,
+      "nodes": [
+        203603949,
+        9276674838,
+        5837668063,
+        5837668062,
+        203603970,
+        1379396487,
+        203603976,
+        1379396480,
+        1379396475,
+        203603982,
+        203603986,
+        1379396457,
+        203603989,
+        203593248,
+        203603992,
+        344032761,
+        203590039,
+        203590041,
+        4709744551,
+        2394307866,
+        1379396378,
+        11158230322,
+        203590043
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "DE:zone30",
+        "name": "Goldbeckweg",
+        "name:etymology:wikidata": "Q104541937",
+        "postal_code": "13599",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37523427,
+      "nodes": [
+        439225773,
+        439225774,
+        439225772,
+        439225771,
+        439225773
+      ],
+      "tags": {
+        "addr:city": "Oberkr\u00e4mer",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "16727",
+        "addr:street": "Am Gartenweg",
+        "addr:suburb": "B\u00e4renklau",
+        "building": "house",
+        "email": "info@kristall-umzuege.de",
+        "fax": "+49 3304 5217222",
+        "name": "Kristall Umz\u00fcge",
+        "office": "moving_company",
+        "phone": "+49 3304 5217222",
+        "website": "https://www.kristall-umzuege.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 214787322,
+      "nodes": [
+        6854452344,
+        6854452343,
+        6854452342,
+        2242616413,
+        2242616414,
+        6854452338,
+        6854452339,
+        6854452340,
+        6854452341,
+        2242616437,
+        2242616433,
+        2242616447,
+        2242616446,
+        2242616426,
+        6854452344
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "42B",
+        "addr:postcode": "12103",
+        "addr:street": "Bessemerstra\u00dfe",
+        "addr:suburb": "Sch\u00f6neberg",
+        "building": "office",
+        "name": "Strabag Real Estate Berlin",
+        "office": "company",
+        "operator": "Strabag Real Estate GmbH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 234867858,
+      "nodes": [
+        2429922791,
+        2429922793,
+        2429922789,
+        2429922792,
+        2429922797,
+        2429922796,
+        2429922791
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "65",
+        "addr:postcode": "13156",
+        "addr:street": "Buchholzer Stra\u00dfe",
+        "building": "yes",
+        "description": "L\u00f6sche Umz\u00fcge - Umzug & Lagerung in Berlin\n\ud83d\udccd Buchholzer Str. 65, 13156 Berlin\n\ud83d\udcde 030 49004823 | \u2709\ufe0f info@loesche-umzuege.de\n\ud83c\udf10 loesche-umzuege.de\n\ud83d\udd52 Mo-So, 8-10 Uhr\nZuverl\u00e4ssige Umzugsdienste und Lagerung",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMnVT_oZAMommPSjJ9jZ29geylV1023r9qNVHiT=w141-h236-n-k-no-nu",
+        "name": "L\u00f6sche Umz\u00fcge",
+        "website": "https://loesche-umzuege.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281141795,
+      "nodes": [
+        2726913058,
+        2726913055,
+        2851362557,
+        2851362558,
+        2726913058
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "12247",
+        "addr:street": "Nicolaistra\u00dfe",
+        "addr:suburb": "Lankwitz",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "M\u00f6beltransporte Umz\u00fcge Nitsche",
+        "office": "association",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "type": "way",
+      "id": 599443728,
+      "nodes": [
+        5703038981,
+        5703038982,
+        8699621653,
+        8699621652,
+        8699621651,
+        8699621654,
+        5703038983,
+        5703038984,
+        5703038981
+      ],
+      "tags": {
+        "addr:city": "Neuenhagen bei Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2;4;6",
+        "addr:postcode": "15366",
+        "addr:street": "Zum Erlenbruch",
+        "building": "yes",
+        "name": "STRABAG"
+      }
+    },
+    {
+      "type": "way",
+      "id": 627193713,
+      "nodes": [
+        2910542401,
+        5920869189,
+        5920869207,
+        5920869206,
+        5920869205,
+        5920869190,
+        5920869204,
+        5920869203,
+        5920869507,
+        5920869508,
+        5920869509,
+        5920869510,
+        5920869201,
+        5920869200,
+        5920869199,
+        9910363797,
+        5920869198,
+        5920869197,
+        5920869196,
+        5920869195,
+        5920869194,
+        5920869193,
+        5920869192,
+        5920869191,
+        5920869538,
+        2655402314,
+        5920869539,
+        5920869532,
+        5920869533,
+        5920869534,
+        5920869531,
+        2910542401
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "66",
+        "addr:postcode": "12057",
+        "addr:street": "Nobelstra\u00dfe",
+        "addr:suburb": "Neuk\u00f6lln",
+        "landuse": "commercial",
+        "name": "zapf Umz\u00fcge",
+        "office": "moving_company",
+        "source": "Geoportal Berlin / Hauskoordinaten",
+        "website": "https://www.zapf.de/ueber-uns/zapf-haeuser/2-berlin"
+      }
+    },
+    {
+      "type": "way",
+      "id": 635723752,
+      "nodes": [
+        745398168,
+        745398080,
+        745397887,
+        745398593,
+        1338478827,
+        5995977983,
+        1690503398,
+        745727565,
+        1338471138,
+        4788052908,
+        1338471092,
+        1690637214,
+        1338463911,
+        745398168
+      ],
+      "tags": {
+        "landuse": "commercial",
+        "name": "Borkowski Umz\u00fcge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 749012672,
+      "nodes": [
+        7004340266,
+        2772733907,
+        7004340277,
+        7004340268,
+        7004340276,
+        7004340275,
+        7004340274,
+        5630560623,
+        7004340265,
+        7004340278,
+        875091055,
+        875091045,
+        439751453,
+        439751444,
+        7004340267,
+        875091042,
+        7004340260,
+        7004340266
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "10997",
+        "addr:street": "K\u00f6penicker Stra\u00dfe",
+        "addr:suburb": "Kreuzberg",
+        "contact:phone": "+49 30 61061",
+        "contact:website": "https://www.zapf.de/",
+        "landuse": "commercial",
+        "name": "Ehemalige Zapf Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "way",
+      "id": 756403109,
+      "nodes": [
+        7065101904,
+        7065101905,
+        7065101906,
+        7065101907,
+        7065101904
+      ],
+      "tags": {
+        "addr:city": "Stahnsdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "14532",
+        "addr:street": "Kieler Stra\u00dfe",
+        "building": "warehouse",
+        "name": "Borkowski Umz\u00fcge",
+        "office": "company"
+      }
+    },
+    {
+      "type": "way",
+      "id": 862875729,
+      "nodes": [
+        6362862641,
+        8038468228,
+        8038468227,
+        8038468226,
+        8038468225,
+        4075465422,
+        4075465421,
+        2655402321,
+        11257401284,
+        11257401283,
+        6362862642,
+        11257401281,
+        6362862641
+      ],
+      "tags": {
+        "contact:email": "info@thater-umzuege.de",
+        "contact:phone": "+49 30 6849311",
+        "landuse": "commercial",
+        "name": "Thater Umz\u00fcge",
+        "office": "moving_company"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1376685,
+      "members": [
+        {
+          "type": "way",
+          "ref": 95202926,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 95202908,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "42B",
+        "addr:postcode": "12103",
+        "addr:street": "Bessemerstra\u00dfe",
+        "addr:suburb": "Sch\u00f6neberg",
+        "building": "office",
+        "name": "Strabag AG Nord-Ost",
+        "office": "company",
+        "operator": "Strabag AG, Direktion Nord-Ost",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7065101904,
+      "lat": 52.3870759,
+      "lon": 13.2402641
+    },
+    {
+      "type": "node",
+      "id": 7065101905,
+      "lat": 52.3875814,
+      "lon": 13.2399566
+    },
+    {
+      "type": "node",
+      "id": 7065101906,
+      "lat": 52.387511,
+      "lon": 13.2396459
+    },
+    {
+      "type": "node",
+      "id": 7065101907,
+      "lat": 52.3870055,
+      "lon": 13.2399534
+    },
+    {
+      "type": "node",
+      "id": 745397887,
+      "lat": 52.4371745,
+      "lon": 13.2802678
+    },
+    {
+      "type": "node",
+      "id": 745398080,
+      "lat": 52.4367166,
+      "lon": 13.2788839
+    },
+    {
+      "type": "node",
+      "id": 745398168,
+      "lat": 52.4367007,
+      "lon": 13.2788375
+    },
+    {
+      "type": "node",
+      "id": 745398593,
+      "lat": 52.4371679,
+      "lon": 13.2804155
+    },
+    {
+      "type": "node",
+      "id": 745727565,
+      "lat": 52.4361351,
+      "lon": 13.2800549
+    },
+    {
+      "type": "node",
+      "id": 1338463911,
+      "lat": 52.4366696,
+      "lon": 13.2788813
+    },
+    {
+      "type": "node",
+      "id": 1338471092,
+      "lat": 52.4362635,
+      "lon": 13.279242
+    },
+    {
+      "type": "node",
+      "id": 1338471138,
+      "lat": 52.4362003,
+      "lon": 13.2793771
+    },
+    {
+      "type": "node",
+      "id": 1338478827,
+      "lat": 52.4361386,
+      "lon": 13.280443
+    },
+    {
+      "type": "node",
+      "id": 1690503398,
+      "lat": 52.4361023,
+      "lon": 13.2803014
+    },
+    {
+      "type": "node",
+      "id": 1690637214,
+      "lat": 52.4364356,
+      "lon": 13.2790923
+    },
+    {
+      "type": "node",
+      "id": 4788052908,
+      "lat": 52.4362309,
+      "lon": 13.2792869
+    },
+    {
+      "type": "node",
+      "id": 5995977983,
+      "lat": 52.4360835,
+      "lon": 13.2804427
+    },
+    {
+      "type": "node",
+      "id": 2726913055,
+      "lat": 52.4440528,
+      "lon": 13.3348289
+    },
+    {
+      "type": "node",
+      "id": 2726913058,
+      "lat": 52.4441355,
+      "lon": 13.3347685
+    },
+    {
+      "type": "node",
+      "id": 2851362557,
+      "lat": 52.4440283,
+      "lon": 13.3347379
+    },
+    {
+      "type": "node",
+      "id": 2851362558,
+      "lat": 52.4441132,
+      "lon": 13.3346769
+    },
+    {
+      "type": "node",
+      "id": 203590041,
+      "lat": 52.5429725,
+      "lon": 13.2301984
+    },
+    {
+      "type": "node",
+      "id": 203590043,
+      "lat": 52.5418714,
+      "lon": 13.2302053
+    },
+    {
+      "type": "node",
+      "id": 1379396378,
+      "lat": 52.5427274,
+      "lon": 13.2302288
+    },
+    {
+      "type": "node",
+      "id": 2394307866,
+      "lat": 52.5428474,
+      "lon": 13.2302195
+    },
+    {
+      "type": "node",
+      "id": 4709744551,
+      "lat": 52.542922,
+      "lon": 13.2302112
+    },
+    {
+      "type": "node",
+      "id": 11158230322,
+      "lat": 52.5419373,
+      "lon": 13.2302342
+    },
+    {
+      "type": "node",
+      "id": 203590039,
+      "lat": 52.543794,
+      "lon": 13.2298747
+    },
+    {
+      "type": "node",
+      "id": 203593248,
+      "lat": 52.545437,
+      "lon": 13.2292283
+    },
+    {
+      "type": "node",
+      "id": 203603949,
+      "lat": 52.546682,
+      "lon": 13.2302652
+    },
+    {
+      "type": "node",
+      "id": 203603970,
+      "lat": 52.546479,
+      "lon": 13.229836
+    },
+    {
+      "type": "node",
+      "id": 203603976,
+      "lat": 52.5462957,
+      "lon": 13.2296001
+    },
+    {
+      "type": "node",
+      "id": 203603982,
+      "lat": 52.546067,
+      "lon": 13.2293973
+    },
+    {
+      "type": "node",
+      "id": 203603986,
+      "lat": 52.5459728,
+      "lon": 13.2293275
+    },
+    {
+      "type": "node",
+      "id": 203603989,
+      "lat": 52.545602,
+      "lon": 13.2292303
+    },
+    {
+      "type": "node",
+      "id": 203603992,
+      "lat": 52.5450456,
+      "lon": 13.2293684
+    },
+    {
+      "type": "node",
+      "id": 344032761,
+      "lat": 52.5446218,
+      "lon": 13.2295443
+    },
+    {
+      "type": "node",
+      "id": 1379396457,
+      "lat": 52.5457593,
+      "lon": 13.2292586
+    },
+    {
+      "type": "node",
+      "id": 1379396475,
+      "lat": 52.5461611,
+      "lon": 13.2294684
+    },
+    {
+      "type": "node",
+      "id": 1379396480,
+      "lat": 52.5462199,
+      "lon": 13.2295218
+    },
+    {
+      "type": "node",
+      "id": 1379396487,
+      "lat": 52.5463415,
+      "lon": 13.2296507
+    },
+    {
+      "type": "node",
+      "id": 5837668062,
+      "lat": 52.5466094,
+      "lon": 13.2301041
+    },
+    {
+      "type": "node",
+      "id": 5837668063,
+      "lat": 52.5466324,
+      "lon": 13.2301557
+    },
+    {
+      "type": "node",
+      "id": 9276674838,
+      "lat": 52.5466572,
+      "lon": 13.2302106
+    },
+    {
+      "type": "node",
+      "id": 1104419208,
+      "lat": 52.4631025,
+      "lon": 13.3638973
+    },
+    {
+      "type": "node",
+      "id": 1104419246,
+      "lat": 52.4631582,
+      "lon": 13.3642518
+    },
+    {
+      "type": "node",
+      "id": 1104419299,
+      "lat": 52.4628293,
+      "lon": 13.3636525
+    },
+    {
+      "type": "node",
+      "id": 1104419309,
+      "lat": 52.4632413,
+      "lon": 13.3638976
+    },
+    {
+      "type": "node",
+      "id": 1104419339,
+      "lat": 52.4631804,
+      "lon": 13.3637867
+    },
+    {
+      "type": "node",
+      "id": 1104419439,
+      "lat": 52.4629454,
+      "lon": 13.3642326
+    },
+    {
+      "type": "node",
+      "id": 1104419487,
+      "lat": 52.4628038,
+      "lon": 13.3644412
+    },
+    {
+      "type": "node",
+      "id": 1104419521,
+      "lat": 52.4632873,
+      "lon": 13.3644855
+    },
+    {
+      "type": "node",
+      "id": 1104419561,
+      "lat": 52.4629573,
+      "lon": 13.363883
+    },
+    {
+      "type": "node",
+      "id": 1104419642,
+      "lat": 52.4631675,
+      "lon": 13.3640159
+    },
+    {
+      "type": "node",
+      "id": 1104419661,
+      "lat": 52.4631822,
+      "lon": 13.3636796
+    },
+    {
+      "type": "node",
+      "id": 1104419662,
+      "lat": 52.4633052,
+      "lon": 13.3639033
+    },
+    {
+      "type": "node",
+      "id": 2242616405,
+      "lat": 52.4632289,
+      "lon": 13.3636872
+    },
+    {
+      "type": "node",
+      "id": 2242616410,
+      "lat": 52.4633087,
+      "lon": 13.3638309
+    },
+    {
+      "type": "node",
+      "id": 2242616413,
+      "lat": 52.46334,
+      "lon": 13.3643068
+    },
+    {
+      "type": "node",
+      "id": 2242616414,
+      "lat": 52.4633459,
+      "lon": 13.3641441
+    },
+    {
+      "type": "node",
+      "id": 2242616426,
+      "lat": 52.4635412,
+      "lon": 13.3647623
+    },
+    {
+      "type": "node",
+      "id": 2242616433,
+      "lat": 52.4635608,
+      "lon": 13.3642163
+    },
+    {
+      "type": "node",
+      "id": 2242616437,
+      "lat": 52.4635626,
+      "lon": 13.364165
+    },
+    {
+      "type": "node",
+      "id": 2242616446,
+      "lat": 52.463639,
+      "lon": 13.3647718
+    },
+    {
+      "type": "node",
+      "id": 2242616447,
+      "lat": 52.4636586,
+      "lon": 13.3642257
+    },
+    {
+      "type": "node",
+      "id": 6854452338,
+      "lat": 52.4634965,
+      "lon": 13.3641586
+    },
+    {
+      "type": "node",
+      "id": 6854452339,
+      "lat": 52.4634971,
+      "lon": 13.3641425
+    },
+    {
+      "type": "node",
+      "id": 6854452340,
+      "lat": 52.4635569,
+      "lon": 13.3641482
+    },
+    {
+      "type": "node",
+      "id": 6854452341,
+      "lat": 52.4635563,
+      "lon": 13.3641644
+    },
+    {
+      "type": "node",
+      "id": 6854452342,
+      "lat": 52.463529,
+      "lon": 13.364325
+    },
+    {
+      "type": "node",
+      "id": 6854452343,
+      "lat": 52.4635276,
+      "lon": 13.3643632
+    },
+    {
+      "type": "node",
+      "id": 6854452344,
+      "lat": 52.4635554,
+      "lon": 13.3643659
+    },
+    {
+      "type": "node",
+      "id": 2429922789,
+      "lat": 52.5886821,
+      "lon": 13.4141431
+    },
+    {
+      "type": "node",
+      "id": 2429922791,
+      "lat": 52.5887381,
+      "lon": 13.4143201
+    },
+    {
+      "type": "node",
+      "id": 2429922792,
+      "lat": 52.5887459,
+      "lon": 13.4140027
+    },
+    {
+      "type": "node",
+      "id": 2429922793,
+      "lat": 52.5887696,
+      "lon": 13.4142507
+    },
+    {
+      "type": "node",
+      "id": 2429922796,
+      "lat": 52.5888244,
+      "lon": 13.4144264
+    },
+    {
+      "type": "node",
+      "id": 2429922797,
+      "lat": 52.5889197,
+      "lon": 13.4142167
+    },
+    {
+      "type": "node",
+      "id": 439225773,
+      "lat": 52.7202113,
+      "lon": 13.13981
+    },
+    {
+      "type": "node",
+      "id": 439225774,
+      "lat": 52.7200967,
+      "lon": 13.1398048
+    },
+    {
+      "type": "node",
+      "id": 439225771,
+      "lat": 52.7202072,
+      "lon": 13.1400602
+    },
+    {
+      "type": "node",
+      "id": 439225772,
+      "lat": 52.7200926,
+      "lon": 13.1400551
+    },
+    {
+      "type": "node",
+      "id": 2655402314,
+      "lat": 52.4628702,
+      "lon": 13.4575942
+    },
+    {
+      "type": "node",
+      "id": 2910542401,
+      "lat": 52.4608916,
+      "lon": 13.4584824
+    },
+    {
+      "type": "node",
+      "id": 5920869189,
+      "lat": 52.4608972,
+      "lon": 13.4582982
+    },
+    {
+      "type": "node",
+      "id": 5920869190,
+      "lat": 52.4609915,
+      "lon": 13.457226
+    },
+    {
+      "type": "node",
+      "id": 5920869191,
+      "lat": 52.4620601,
+      "lon": 13.4559053
+    },
+    {
+      "type": "node",
+      "id": 5920869192,
+      "lat": 52.4619829,
+      "lon": 13.4559659
+    },
+    {
+      "type": "node",
+      "id": 5920869193,
+      "lat": 52.4619175,
+      "lon": 13.4560127
+    },
+    {
+      "type": "node",
+      "id": 5920869194,
+      "lat": 52.4617758,
+      "lon": 13.4561063
+    },
+    {
+      "type": "node",
+      "id": 5920869195,
+      "lat": 52.4616885,
+      "lon": 13.4561682
+    },
+    {
+      "type": "node",
+      "id": 5920869196,
+      "lat": 52.4614311,
+      "lon": 13.4563844
+    },
+    {
+      "type": "node",
+      "id": 5920869197,
+      "lat": 52.4611744,
+      "lon": 13.4566011
+    },
+    {
+      "type": "node",
+      "id": 5920869198,
+      "lat": 52.4610478,
+      "lon": 13.4567113
+    },
+    {
+      "type": "node",
+      "id": 5920869199,
+      "lat": 52.4609681,
+      "lon": 13.4567615
+    },
+    {
+      "type": "node",
+      "id": 5920869200,
+      "lat": 52.4609538,
+      "lon": 13.4567092
+    },
+    {
+      "type": "node",
+      "id": 5920869201,
+      "lat": 52.4608981,
+      "lon": 13.4566475
+    },
+    {
+      "type": "node",
+      "id": 5920869203,
+      "lat": 52.4607843,
+      "lon": 13.457088
+    },
+    {
+      "type": "node",
+      "id": 5920869204,
+      "lat": 52.4609958,
+      "lon": 13.4571978
+    },
+    {
+      "type": "node",
+      "id": 5920869205,
+      "lat": 52.460953,
+      "lon": 13.45748
+    },
+    {
+      "type": "node",
+      "id": 5920869206,
+      "lat": 52.4609236,
+      "lon": 13.4578035
+    },
+    {
+      "type": "node",
+      "id": 5920869207,
+      "lat": 52.4608985,
+      "lon": 13.4582577
+    },
+    {
+      "type": "node",
+      "id": 5920869507,
+      "lat": 52.4607878,
+      "lon": 13.4570671
+    },
+    {
+      "type": "node",
+      "id": 5920869508,
+      "lat": 52.4608041,
+      "lon": 13.4569921
+    },
+    {
+      "type": "node",
+      "id": 5920869509,
+      "lat": 52.4608394,
+      "lon": 13.4568427
+    },
+    {
+      "type": "node",
+      "id": 5920869510,
+      "lat": 52.4608637,
+      "lon": 13.4567719
+    },
+    {
+      "type": "node",
+      "id": 5920869531,
+      "lat": 52.4611015,
+      "lon": 13.4585003
+    },
+    {
+      "type": "node",
+      "id": 5920869532,
+      "lat": 52.4625322,
+      "lon": 13.4572901
+    },
+    {
+      "type": "node",
+      "id": 5920869533,
+      "lat": 52.4620248,
+      "lon": 13.4572956
+    },
+    {
+      "type": "node",
+      "id": 5920869534,
+      "lat": 52.4622035,
+      "lon": 13.4579467
+    },
+    {
+      "type": "node",
+      "id": 5920869538,
+      "lat": 52.462154,
+      "lon": 13.4558475
+    },
+    {
+      "type": "node",
+      "id": 5920869539,
+      "lat": 52.4626689,
+      "lon": 13.4575791
+    },
+    {
+      "type": "node",
+      "id": 9910363797,
+      "lat": 52.4609968,
+      "lon": 13.4567434
+    },
+    {
+      "type": "node",
+      "id": 2655402321,
+      "lat": 52.466514,
+      "lon": 13.4577404
+    },
+    {
+      "type": "node",
+      "id": 4075465421,
+      "lat": 52.4666033,
+      "lon": 13.4576418
+    },
+    {
+      "type": "node",
+      "id": 4075465422,
+      "lat": 52.4666199,
+      "lon": 13.457681
+    },
+    {
+      "type": "node",
+      "id": 6362862641,
+      "lat": 52.4669198,
+      "lon": 13.4562189
+    },
+    {
+      "type": "node",
+      "id": 6362862642,
+      "lat": 52.4662096,
+      "lon": 13.4569546
+    },
+    {
+      "type": "node",
+      "id": 8038468225,
+      "lat": 52.4666272,
+      "lon": 13.4576992
+    },
+    {
+      "type": "node",
+      "id": 8038468226,
+      "lat": 52.4679803,
+      "lon": 13.4570167
+    },
+    {
+      "type": "node",
+      "id": 8038468227,
+      "lat": 52.4679643,
+      "lon": 13.4569217
+    },
+    {
+      "type": "node",
+      "id": 8038468228,
+      "lat": 52.4676615,
+      "lon": 13.4567586
+    },
+    {
+      "type": "node",
+      "id": 11257401281,
+      "lat": 52.4662749,
+      "lon": 13.4568869
+    },
+    {
+      "type": "node",
+      "id": 11257401283,
+      "lat": 52.4662799,
+      "lon": 13.4571361
+    },
+    {
+      "type": "node",
+      "id": 11257401284,
+      "lat": 52.4663965,
+      "lon": 13.4574373
+    },
+    {
+      "type": "node",
+      "id": 2772733907,
+      "lat": 52.5037696,
+      "lon": 13.4369242
+    },
+    {
+      "type": "node",
+      "id": 7004340260,
+      "lat": 52.5041499,
+      "lon": 13.4360488
+    },
+    {
+      "type": "node",
+      "id": 7004340266,
+      "lat": 52.5040217,
+      "lon": 13.4363426
+    },
+    {
+      "type": "node",
+      "id": 7004340268,
+      "lat": 52.5038659,
+      "lon": 13.4370795
+    },
+    {
+      "type": "node",
+      "id": 7004340274,
+      "lat": 52.5039715,
+      "lon": 13.4371037
+    },
+    {
+      "type": "node",
+      "id": 7004340275,
+      "lat": 52.5038955,
+      "lon": 13.4371261
+    },
+    {
+      "type": "node",
+      "id": 7004340276,
+      "lat": 52.5038683,
+      "lon": 13.4370958
+    },
+    {
+      "type": "node",
+      "id": 7004340277,
+      "lat": 52.5038627,
+      "lon": 13.4370326
+    },
+    {
+      "type": "node",
+      "id": 439751444,
+      "lat": 52.504781,
+      "lon": 13.4355324
+    },
+    {
+      "type": "node",
+      "id": 439751453,
+      "lat": 52.5051415,
+      "lon": 13.435953
+    },
+    {
+      "type": "node",
+      "id": 875091042,
+      "lat": 52.5045145,
+      "lon": 13.4352161
+    },
+    {
+      "type": "node",
+      "id": 875091045,
+      "lat": 52.5051999,
+      "lon": 13.4360198
+    },
+    {
+      "type": "node",
+      "id": 875091055,
+      "lat": 52.5052345,
+      "lon": 13.4360707
+    },
+    {
+      "type": "node",
+      "id": 5630560623,
+      "lat": 52.504376,
+      "lon": 13.4375535
+    },
+    {
+      "type": "node",
+      "id": 7004340265,
+      "lat": 52.5045554,
+      "lon": 13.4371366
+    },
+    {
+      "type": "node",
+      "id": 7004340267,
+      "lat": 52.5046946,
+      "lon": 13.4354298
+    },
+    {
+      "type": "node",
+      "id": 7004340278,
+      "lat": 52.5046074,
+      "lon": 13.4370538
+    },
+    {
+      "type": "node",
+      "id": 5703038981,
+      "lat": 52.5439277,
+      "lon": 13.7078448
+    },
+    {
+      "type": "node",
+      "id": 5703038982,
+      "lat": 52.5440231,
+      "lon": 13.7079302
+    },
+    {
+      "type": "node",
+      "id": 5703038983,
+      "lat": 52.5439117,
+      "lon": 13.7082644
+    },
+    {
+      "type": "node",
+      "id": 5703038984,
+      "lat": 52.5438168,
+      "lon": 13.7081795
+    },
+    {
+      "type": "node",
+      "id": 8699621651,
+      "lat": 52.5440045,
+      "lon": 13.708048
+    },
+    {
+      "type": "node",
+      "id": 8699621652,
+      "lat": 52.5440149,
+      "lon": 13.7080165
+    },
+    {
+      "type": "node",
+      "id": 8699621653,
+      "lat": 52.5439992,
+      "lon": 13.7080024
+    },
+    {
+      "type": "node",
+      "id": 8699621654,
+      "lat": 52.5439804,
+      "lon": 13.7080568
+    },
+    {
+      "type": "way",
+      "id": 95202908,
+      "nodes": [
+        1104419487,
+        1104419299,
+        1104419661,
+        1104419339,
+        2242616405,
+        2242616410,
+        1104419309,
+        1104419662,
+        1104419521,
+        1104419487
+      ]
+    },
+    {
+      "type": "way",
+      "id": 95202926,
+      "nodes": [
+        1104419439,
+        1104419561,
+        1104419208,
+        1104419642,
+        1104419246,
+        1104419439
+      ]
+    }
+  ]
+}

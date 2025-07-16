@@ -1,0 +1,12 @@
+[
+  [
+    {
+      "name$match$i": "Nagel Group|Kraftverkehr Nagel|Dachser Food Logistics|Eismann|Bofrost",
+      "_last": "[\"building\"]"
+    },
+    {
+      "name$match$i": "Nagel Group|Kraftverkehr Nagel|Dachser Food Logistics|Eismann|Bofrost",
+      "_last": "[\"warehouse\"]"
+    }
+  ]
+]

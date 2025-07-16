@@ -1,0 +1,95 @@
+type,name,lat,lon,area_m2
+node,Polizei Abschnitt 27,52.5336632,13.3536389,0
+node,Abschnitt 53 Kreuzberg-Nord,52.5049589,13.3905699,0
+node,Berufsfeuerwache Wilmersdorf,52.4874539,13.3206881,0
+node,Polizei Abschnitt 46,52.4276915,13.3475906,0
+node,Polizei Abschnitt 22,52.5280167,13.2269115,0
+node,Polizeiabschnitt 55,52.479156,13.4347588,0
+node,Berufsfeuerwache Friedrichshain,52.5118289,13.4445489,0
+node,Freiwillige Feuerwehr Wernsdorf,52.3689395,13.7020795,0
+node,Gemeinsames Terrorismusabwehrzentrum,52.4922153,13.4562264,0
+node,Freiwillige Feuerwehr Erkner,52.412424,13.7535317,0
+node,Polizeirevier (BAB),52.7056914,13.5411917,0
+node,Freiwillige Feuerwehr Wilhelmshagen,52.4367173,13.716157,0
+node,Freiwillige Feuerwehr Dallgow-Döberitz,52.5472525,13.0575695,0
+node,Freiwillige Feuerwehr Ruhlsdorf,52.3733085,13.2605811,0
+node,Freiwillige Feuerwehr Mitte,52.5265525,13.3891997,0
+node,Freiwillige Feuerwehr Heiligensee,52.6065955,13.2114269,0
+node,Freiwillige Feuerwehr Karow,52.6111032,13.4830902,0
+node,Berufsfeuerwache Karlshorst,52.484016,13.5206765,0
+node,Freiwillige Feuerwehr Schulzendorf,52.3588236,13.5912062,0
+node,Freiwillige Feuerwehr Karlshorst,52.4838386,13.520221,0
+node,Freiwillige Feuerwehr Petershagen,52.5239252,13.7735422,0
+node,Bundespolizei,52.5093215,13.4968683,0
+node,Stadionwache,52.513314,13.238435,0
+node,Polizei Berlin – Abschnitt 57,52.524282,13.4156959,0
+node,Polizei Berlin Abschnitt 16,52.5379765,13.4523417,0
+node,Freiwillige Feuerwehr Spandau-Nord,52.5448495,13.2103551,0
+node,Feuerwehr Vogelsdorf,52.5000473,13.7403592,0
+node,Feuerwehr Rüdersdorf,52.468514,13.7785962,0
+node,Freiwillige Feuerwehr Staffelde/Groß-Ziethen,52.7270744,12.9878884,0
+node,GZS,52.627041,13.484559,0
+node,Freiwillige Feuerwehr Rüdnitz,52.7219355,13.6277077,0
+node,Polizei Abschnitt 28,52.5220276,13.3659377,0
+node,Freiwillige Feuerwehr Altlandsberg - Löschgruppe Wegendorf,52.6003508,13.7547968,0
+node,2. Bereitschaftspolizeiabteilung,52.6171547,13.2446746,0
+node,Freiwillige Feuerwehr Löhme,52.628927,13.673693,0
+node,Freiwillige Feuerwehr Seefeld,52.6220296,13.6786091,0
+node,Bundespolizei,52.5094753,13.4353317,0
+node,Freiwillige Feuerwehr Altlandsberg - Löschgruppe Buchholz,52.5852358,13.7895185,0
+node,Freiwillige Feuerwehr Schönefeld,52.392448,13.5057116,0
+node,Freiwillige Feuerwehr Schwanebeck,52.6253986,13.5421057,0
+node,"Strausberg, Polizeiinspektion Märkisch-Oderland",52.5481974,13.8595905,0
+node,Freiwillige Feuerwehr Altlandsberg - Löschgruppe Bruchmühle,52.5524552,13.7764693,0
+node,Freiwillige Feuerwehr Pausin,52.637224,13.0416805,0
+node,Polizei Berlin – Abschnitt 11,52.5824041,13.289049,0
+node,Polizei Land Brandenburg - Polizeirevier,52.4266524,13.7418331,0
+node,Polizei Land Brandenburg - Revierpolizei,52.4266407,13.7419452,0
+node,Freiwillige Feuerwehr Eiche,52.4053027,12.9907939,0
+node,Sprechzimmer Revierpolizei Großbeeren,52.3551909,13.3089087,0
+node,Polizei Berlin Abschnitt 51,52.5122072,13.444588,0
+node,Berufsfeuerwache Ranke,52.5017233,13.3325773,0
+node,Freiwillige Feuerwehr Schönfließ,52.6572049,13.3388101,0
+node,Tempelfelde,52.7089499,13.7200278,0
+node,Polizeirevier Leegebruch,52.724211,13.1912854,0
+node,Freiwillige Feuerwehr Neukölln,52.4689781,13.4384198,0
+node,Freiwillige Feuerwehr Biesdorf,52.5095529,13.5564884,0
+node,Feuerwache Falkensee,52.5682808,13.1035647,0
+node,Freiwillige Feuerwehr Urban,52.495526,13.4032215,0
+node,Berufsfeuerwache Urban,52.4955406,13.4029642,0
+node,Revierpolizist,52.6625773,13.3781408,0
+node,Freiwillige Feuerwehr Wittenau,52.5875384,13.3410448,0
+node,Freiwillige Feuerwehr Marienfelde,52.4296508,13.3802828,0
+node,Freiwillige Feuerwehr Tegel,52.5866698,13.2860944,0
+node,Freiwillige Feuerwehr Suarez,52.5091185,13.2960373,0
+node,Freiwillige Feuerwehr Friedrichshain,52.5117447,13.4446081,0
+node,Freiwillige Feuerwehr Mehrow,52.5714204,13.6173027,0
+node,Freiwillige Feuerwehr Grünheide (Mark) - Ortswehr Spreeau,52.3664696,13.8385436,0
+node,Bundespolizei,52.3833671,13.1443528,0
+node,Freiwillige Feuerwehr Weißensee,52.5564395,13.4598304,0
+node,Polizeistation,52.5001222,13.4183773,0
+node,Freiwillige Feuerwehr Bernau bei Berlin - Löschzug Ladeburg,52.6999222,13.5933694,0
+node,Freiwillige Feuerwehr Paaren im Glien,52.6547433,12.9783377,0
+node,Sprechzimmer Revierpolizei,52.6962091,13.1121651,0
+node,Freiwillige Feuerwehr Berlin-Moabit,52.5224588,13.3330505,0
+node,Berufsfeuerwache Berlin-Moabit,52.5226342,13.3330907,0
+node,Bundespolizei,52.5083788,13.333723,0
+node,Polizei / Police,52.4689123,13.3758937,0
+node,Freiwillige Feuerwehr Zehlendorf,52.437223,13.2647815,0
+node,Revierpolizei Land Brandenburg,52.5388723,13.8178673,0
+node,Revierpolizei,52.5390011,13.8402805,0
+node,Bundeskriminalamt Berlin - Liegenschaft B4,52.4978807,13.4678385,0
+way,Landespolizeidirektion,52.523794156250005,13.362451187499998,11740.163528128533
+way,Polizeidirektion 2 / Polizeiakademie,52.52706737567568,13.225489389189189,150819.9798689697
+way,Freiwillige Feuerwehr Grünheide (Mark) - Ortswehr Spreeau,52.366496989999995,13.838509230000003,266.00258565805507
+way,Freiwillige Feuerwehr Petershagen-Eggersdorf,52.535589933333334,13.82217678888889,312.6380815807563
+way,Berufsfeuerwache Marienfelde,52.429739000000005,13.380488266666665,4833.821246942154
+way,Freiwillige Feuerwehr Bergfelde,52.67287440625001,13.322735362500001,542.5267928920805
+way,Flughafenfeuerwehr Nord,52.38093450476191,13.505624352380954,2121.088292563081
+way,Bundespolizeidirektion Berlin,52.46295118518519,13.502391651851852,33781.003230157236
+way,Freiwillige Feuerwehr Vehlefanz,52.720880257142845,13.097455857142858,338.09392112676784
+way,Freiwillige Feuerwehr Teltow,52.39529316000001,13.274320159999998,411.18108835479313
+way,Polizeirevier Teltow,52.39555641999999,13.24094336,377.3320939571826
+way,Polizei Abschnitt 18,52.54806939047619,13.375335590476189,903.1881536513943
+way,Polizeiwache Mitte,52.39453847499999,13.055793325000002,378.65220442218015
+way,Bundespolizei Blumberg,52.607340723529404,13.575113876470587,20105.70815978193

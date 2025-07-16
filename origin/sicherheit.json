@@ -1,8 +1,0 @@
-[
-  [
-    {
-      "name$match$i": "Feuerwehr|Freiwillige Feuerwehr|Berufsfeuerwehr|Werkfeuerwehr|Feuerwehrhaus|Feuerwehrwache|Feuerwache|Löschzug|Rettungswache|Rettungsdienst|Katastrophenschutz|THW|Technisches Hilfswerk|DRK|ASB|Malteser|Johanniter",
-      "opening_hours$neg": "."
-    }
-  ]
-]

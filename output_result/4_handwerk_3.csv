@@ -1,0 +1,14 @@
+type,name,lat,lon,area_m2
+node,Umspannwerk Werk für Fernsehelektronik,52.4567117,13.5295733,0
+node,Schöttle Elektrowerkzeuge u. Hausgeräteservice,52.5206535,13.3588674,0
+node,Lichtner-Dyckerhoff Beton GmbH & Co. KG,52.5801951,13.3580534,0
+node,Peuler Haustechnik-Service,52.4277756,13.3690958,0
+node,TV - Video - Hifi - Antennen - Elektro,52.563829,13.3924924,0
+node,Die Lichtquelle,52.4678072,13.3317571,0
+node,Elektronik-Recycling-Werkstatt,52.5759176,13.34959,0
+way,Umspannwerk Lichterfelde,52.42391608571428,13.3100889,1327.5411756443534
+way,Umspannwerk Elektrokohle,52.52809493333334,13.495126446666665,14207.727335725769
+way,Menzel Elektromotoren GmbH,52.52834717272728,13.315838015909087,8472.074806093753
+way,S-Bahn Gleichstromunterwerk Lichterfelde West,52.43883803999999,13.282636479999999,1801.4207205419796
+way,U-Bahn Gleichrichterwerk Lichtenberg,52.51381008888888,13.479796277777776,1462.125398591688
+way,S-Bahn Gleichrichterunterwerk Lichtenberg,52.51296616,13.509733180000001,741.2541557840832

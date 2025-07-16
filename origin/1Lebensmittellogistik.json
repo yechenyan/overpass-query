@@ -1,0 +1,12 @@
+[
+  [
+    {
+      "name$match$i": "Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger",
+      "shop": "wholesale"
+    },
+    {
+      "name$match$i": "Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger",
+      "building": "wholesale"
+    }
+  ]
+]

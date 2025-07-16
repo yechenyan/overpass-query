@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "name$match$i": "Elektro|Elektrotechnik|Elektriker|Sanitär|Heizung|SHK|Klima|Lüftung|Haustechnik|Gebäudetechnik|Licht|Solartechnik|Photovoltaik",
+      "amenity$match": "workshop"
+    },
+    {
+      "name$match$i": "Elektro|Elektrotechnik|Elektriker|Sanitär|Heizung|SHK|Klima|Lüftung|Haustechnik|Gebäudetechnik|Licht|Solartechnik|Photovoltaik",
+      "man_made$match": "works"
+    },
+    {
+      "name$match$i": "Elektro|Elektrotechnik|Elektriker|Sanitär|Heizung|SHK|Klima|Lüftung|Haustechnik|Gebäudetechnik|Licht|Solartechnik|Photovoltaik",
+      "power$match": "substation"
+    },
+    {
+      "name$match$i": "Elektro|Elektrotechnik|Elektriker|Sanitär|Heizung|SHK|Klima|Lüftung|Haustechnik|Gebäudetechnik|Licht|Solartechnik|Photovoltaik",
+      "shop": "electronics|lighting"
+    },
+    {
+      "name$match$i": "Elektro|Elektrotechnik|Elektriker|Sanitär|Heizung|SHK|Klima|Lüftung|Haustechnik|Gebäudetechnik|Licht|Solartechnik|Photovoltaik",
+      "disused:shop$match": "lighting|electronics"
+    }
+  ]
+]

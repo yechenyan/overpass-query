@@ -1,0 +1,34 @@
+[
+    {
+        "tags": {
+            "landuse": "commercial",
+            "name": "ehemals Güterbahnhof Halensee"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "railway",
+            "name": "Güterbahnhof Berlin-Spandau Johannesstift",
+            "operator": "Havelländische Eisenbahn AG (HVLE)",
+            "website": "https://www.hvle.de/",
+            "wikipedia": "de:Havelländische Eisenbahn"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "commercial",
+            "name": "Güterbahnhof Tempelhof"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "railway",
+            "name": "Güterbahnhof Berlin-Treptow",
+            "operator": "VEPAS Bahnservice"
+        },
+        "name": null
+    }
+]

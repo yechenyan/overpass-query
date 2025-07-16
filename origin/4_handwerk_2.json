@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
+      "landuse": "industrial"
+    },
+    {
+      "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
+      "industrial": "construction_company|concrete_plant"
+    },
+    {
+      "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
+      "shop": "trade|doityourself"
+    },
+    {
+      "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
+      "building": "industrial|industrial|commercial"
+    },
+    {
+      "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
+      "man_made": "works"
+    }
+  ]
+]

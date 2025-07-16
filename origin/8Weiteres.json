@@ -1,0 +1,26 @@
+[
+  [
+    {
+      "name$match$i": "Zalando|Amazon|Fiege|Rhenus",
+      "building$match$i": "warehouse|logistics|commercial"
+    },
+    {
+      "name$match$i": "Zalando|Amazon|Fiege|Rhenus",
+      "landuse$match$i": "industrial|commercial"
+    },
+
+    {
+      "operator$match$i": "Zalando|Amazon|Fiege|Rhenus",
+      "building$match$i": "warehouse|logistics|commercial"
+    },
+    {
+      "operator$match$i": "Zalando|Amazon|Fiege|Rhenus",
+      "landuse$match$i": "industrial|commercial"
+    },
+
+    {
+      "name$match$i": "Zalando|Amazon|Fiege|Rhenus",
+      "amenity": "post_depot"
+    }
+  ]
+]

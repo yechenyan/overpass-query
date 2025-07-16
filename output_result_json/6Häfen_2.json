@@ -1,0 +1,72 @@
+[
+    {
+        "tags": {
+            "name": "Berlin Ostgüterbahnhof (B7)",
+            "official_name": "Berlin Warschauer Straße (F-Bahn) Bft",
+            "operator": "DB Netz AG",
+            "railway": "service_station",
+            "railway:ref": "BOSGA",
+            "railway:ref:parent": "BHF"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "railway",
+            "name": "Güterbahnhof Berlin-Spandau Johannesstift",
+            "operator": "Havelländische Eisenbahn AG (HVLE)",
+            "website": "https://www.hvle.de/",
+            "wikipedia": "de:Havelländische Eisenbahn"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "access": "private",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "13353",
+            "addr:street": "Westhafenstraße",
+            "addr:suburb": "Moabit",
+            "landuse": "industrial",
+            "man_made": "container_terminal",
+            "maxspeed": "30",
+            "name": "Container Terminal BeHaLa / City-GVZ Berlin",
+            "note": "Container Terminal BeHaLa / City-GVZ Berlin",
+            "operator": "BEHALA - Berliner Hafen- und Lagerhausgesellschaft mbH",
+            "owner": "BEHALA - Berliner Hafen- und Lagerhausgesellschaft mbH",
+            "railway": "container_terminal",
+            "short_name": "BeHaLa, BeHaLa Container Terminal",
+            "wikidata": "Q795809",
+            "wikipedia": "de:BEHALA"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "area": "yes",
+            "name": "KV-Terminal Wustermark",
+            "operator": "Multimodal Terminal Berlin (MTB)",
+            "railway": "platform"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "railway",
+            "name": "Güterbahnhof Berlin-Treptow",
+            "operator": "VEPAS Bahnservice"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "railway",
+            "name": "KV-Terminal Großbeeren",
+            "railway": "container_terminal",
+            "source": "http://www.gvz-berlin.de/3-standorte/berlin-sued/grossbeeren/karte.html"
+        },
+        "name": null
+    }
+]

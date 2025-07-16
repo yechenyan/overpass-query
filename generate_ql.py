@@ -4,7 +4,7 @@ import json
 def parse_filters(params):
     filters = []
     for key, value in params.items():
-        if key in ["_types", "_query"]:
+        if key in ["_types", "_query", "_last"]:
             continue
 
         parts = key.split("$")
@@ -26,15 +26,20 @@ def build_overpass_ql(query_groups, area = "{{bbox}}", area_define= ""):
     for group in query_groups:
         for item in group:
             query_name = item.get('_query', 'query')
+            last = item.get("_last", '')
             types = item.get("_types", ["node", "way", "relation"])
             filters = parse_filters(item)
 
-            result.append(f'  // {query_name}')
+            result.append(f'\n  // {query_name}')
             for t in types:
                 lines = [f'  {t}({area})']
                 lines.extend([f'    {f}' for f in filters])
+                if last != '':
+                    lines.append(f'   {last}')
                 lines[-1] += ';'  # 最后一行加分号
                 result.extend(lines)
+          
+
 
     result.append(');\n\nout body 100;\n>;\nout skel qt;')
     return '\n'.join(result)

@@ -1,0 +1,64 @@
+[
+    {
+        "tags": {
+            "amenity": "waste_disposal",
+            "operator": "Rhenus",
+            "source": "SenStadtU DOP10-C 2011 Erlaubnis 1002-12"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "industrial": "warehouse",
+            "landuse": "industrial",
+            "name": "Rhenus"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Velten",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "16727",
+            "addr:street": "Berliner Straße",
+            "building": "commercial",
+            "name": "Lagerleitstand Rhenus SE & Co KG"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Velten",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "16727",
+            "addr:street": "Berliner Straße",
+            "building": "commercial",
+            "name": "Verwaltungsgebäude Rhenus SE & Co KG",
+            "website": "https://www.de.rhenus.com/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Hoppegarten",
+            "addr:country": "DE",
+            "addr:housenumber": "14",
+            "addr:postcode": "15366",
+            "addr:street": "Industriestraße",
+            "addr:suburb": "Dahlwitz-Hoppegarten",
+            "building": "yes",
+            "name": "Rhenus Logistics"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "container",
+            "description": "Pausen- und Melderaum DB Cargo",
+            "operator": "DB Cargo AG"
+        },
+        "name": null
+    }
+]

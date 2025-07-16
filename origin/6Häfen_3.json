@@ -1,0 +1,7 @@
+[
+  [
+    {
+      "name$match$i": "Elektro|Elektrotechnik|Elektriker|Sanitär|Heizung|SHK|Klima|Lüftung|Haustechnik|Gebäudetechnik|Licht|Solartechnik|Photovoltaik"
+    }
+  ]
+]

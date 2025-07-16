@@ -1,0 +1,8 @@
+[
+  [
+    {
+      "name$match$i": "Maler|Lackierer|Stuckateur|Fliesen|Fliesenleger|Bodenleger|Trockenbau|Fassaden",
+      "craft$match": "."
+    }
+  ]
+]

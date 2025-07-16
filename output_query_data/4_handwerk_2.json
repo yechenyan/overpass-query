@@ -1,0 +1,3501 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-16T07:12:59Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1566024810,
+      "lat": 52.4729363,
+      "lon": 13.7111975,
+      "tags": {
+        "man_made": "works",
+        "name": "Bau Clement",
+        "operator": "Reiner Clement",
+        "phone": "+49-30-6493129",
+        "website": "http://bau-clement.de/",
+        "works": "construction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1566025134,
+      "lat": 52.4719347,
+      "lon": 13.71016,
+      "tags": {
+        "man_made": "works",
+        "name": "Lambers Dachbau Bauausf\u00fchrungs GmbH",
+        "operator": "Wolf-R\u00fcdiger Lambers",
+        "phone": "+49-30-6498502",
+        "works": "construction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2691023230,
+      "lat": 52.5801951,
+      "lon": 13.3580534,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "32",
+        "addr:postcode": "13407",
+        "addr:street": "Markscheiderstra\u00dfe",
+        "addr:suburb": "Reinickendorf",
+        "man_made": "works",
+        "name": "Lichtner-Dyckerhoff Beton GmbH & Co. KG",
+        "phone": "+493033000276",
+        "source": "http://www.lichtner.dyckerhoff.de/online/de/Home/Standorte/articolo17.html",
+        "website": "http://www.lichtner.dyckerhoff.de/online/de/Home.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2960298857,
+      "lat": 52.473603,
+      "lon": 13.7379402,
+      "tags": {
+        "man_made": "works",
+        "name": "Metallbau Will GmbH",
+        "phone": "+49 30 64388218"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2960298858,
+      "lat": 52.4734543,
+      "lon": 13.7365259,
+      "tags": {
+        "man_made": "works",
+        "name": "Weka Holzbau GmbH"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8146240363,
+      "lat": 52.4510567,
+      "lon": 13.6382429,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "53",
+        "addr:postcode": "12587",
+        "addr:street": "Rahnsdorfer Stra\u00dfe",
+        "addr:suburb": "Friedrichshagen",
+        "man_made": "works",
+        "name": "Friedrichshagener Maschinenbau und F\u00f6rdertechnik GmbH",
+        "phone": "+49 30 64450",
+        "product": "steel and metal constructions",
+        "source": "Geoportal Berlin / Hauskoordinaten",
+        "website": "https://www.metallbau.com/berlin/friedrichshagener-maschinenbau-und-f%C3%B6rdertechnik-gmbh-183617.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12883061429,
+      "lat": 52.4567392,
+      "lon": 13.5545661,
+      "tags": {
+        "addr:country": "DE",
+        "addr:housenumber": "241",
+        "addr:postcode": "12459",
+        "addr:street": "An der Wuhlheide",
+        "addr:suburb": "Obersch\u00f6neweide",
+        "contact:phone": "+49 305350304",
+        "contact:website": "https://www.maier-tiefbau.de",
+        "man_made": "works",
+        "name": "Oliver Maier Tiefbau BAUHOF Berlin"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25622320,
+      "nodes": [
+        279253188,
+        2127312102,
+        12153916844,
+        1647173463,
+        305279462,
+        10125472288,
+        279253189,
+        10125472286,
+        10125472285,
+        10125472284,
+        9958261880,
+        9958261879,
+        4485704933,
+        4485704931,
+        279253190,
+        12153916850,
+        2127312089,
+        279253191,
+        12153916849,
+        12153916848,
+        2127312101,
+        12153916846,
+        12153916845,
+        279253188
+      ],
+      "tags": {
+        "addr:city": "Werneuchen",
+        "addr:housenumber": "6",
+        "addr:postcode": "16356",
+        "addr:street": "Alte Hirschfelder Stra\u00dfe",
+        "industrial": "concrete_plant",
+        "landuse": "industrial",
+        "name": "Bauhof Werneuchen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27914458,
+      "nodes": [
+        3274700034,
+        3274699884,
+        3274699847,
+        3274700042,
+        3274700043,
+        3274700028,
+        3274700034
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "12277",
+        "addr:street": "Motzener Stra\u00dfe",
+        "addr:suburb": "Marienfelde",
+        "building": "yes",
+        "man_made": "works",
+        "name": "bau + art"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28191815,
+      "nodes": [
+        221124034,
+        309656715,
+        9448516780,
+        309656718,
+        9250992675,
+        309656722,
+        9250992674,
+        9448516786,
+        9448516787,
+        9448539518,
+        459110975,
+        2795953020,
+        9448539536,
+        221118340,
+        9448539537,
+        791819743,
+        9448516783,
+        221124037,
+        791819744,
+        221124036,
+        4076041071,
+        4076041069,
+        3128303997,
+        221124034
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "36",
+        "addr:postcode": "12057",
+        "addr:street": "Dieselstra\u00dfe",
+        "contact:email": "info@dalhoff-bau.de",
+        "contact:fax": "+49 30 684088734",
+        "contact:phone": "+49 30 68408870",
+        "contact:website": "https://dalhoff-bau.de/",
+        "industrial": "construction_company",
+        "landuse": "industrial",
+        "name": "Dalhoff Stra\u00dfen- und Tiefbau"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28273460,
+      "nodes": [
+        310483031,
+        310482589,
+        496283703,
+        310482587,
+        496284432,
+        310482586,
+        848795816,
+        4410485946,
+        4410485936,
+        310483033,
+        310483031
+      ],
+      "tags": {
+        "landuse": "industrial",
+        "name": "Bauhof Tiefbauamt Treptow-K\u00f6penick"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28660645,
+      "nodes": [
+        314981238,
+        2116543645,
+        314981241,
+        9645291650,
+        314981242,
+        11917671195,
+        314981239,
+        314981238
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:street": "Soltauer Stra\u00dfe",
+        "addr:suburb": "Borsigwalde",
+        "landuse": "industrial",
+        "name": "Zi-Do Ger\u00fcstbau GmbH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28735982,
+      "nodes": [
+        300008853,
+        314981238,
+        2116543645,
+        314981241,
+        314983581,
+        4487284042,
+        314983588,
+        905785761,
+        11909460207,
+        1072625948,
+        314983582,
+        1072625963,
+        1072625952,
+        315967069,
+        11909460246,
+        11909460247,
+        11909460235,
+        315967064,
+        315967067,
+        300008851,
+        2116543644,
+        2116543641,
+        300008853
+      ],
+      "tags": {
+        "landuse": "industrial",
+        "name": "Hans Englert OHG - Elektronik Leiterplatten Geraetebau",
+        "operator": "Hans Englert OHG"
+      }
+    },
+    {
+      "type": "way",
+      "id": 44934092,
+      "nodes": [
+        569768329,
+        569768330,
+        569768316,
+        569768317,
+        2330321506,
+        569768380,
+        569768299,
+        569768300,
+        569768301,
+        569768409,
+        569768412,
+        569768413,
+        569768429,
+        569768519,
+        569768435,
+        12271633037,
+        12271633036,
+        569768520,
+        569768521,
+        569768523,
+        569768524,
+        569768542,
+        569768599,
+        569768454,
+        569768479,
+        569768397,
+        569768400,
+        569768382,
+        569768329
+      ],
+      "tags": {
+        "landuse": "industrial",
+        "name": "Betonwerk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55464109,
+      "nodes": [
+        697056556,
+        5353622237,
+        5353622236,
+        5353622235,
+        697056561,
+        5353622234,
+        5353622233,
+        697056559,
+        836275675,
+        697056560,
+        6409875832,
+        697056558,
+        697056556
+      ],
+      "tags": {
+        "landuse": "industrial",
+        "name": "Bauhof"
+      }
+    },
+    {
+      "type": "way",
+      "id": 95202911,
+      "nodes": [
+        1104419330,
+        1104419157,
+        1104419316,
+        1104419506,
+        1104419330
+      ],
+      "tags": {
+        "building": "commercial",
+        "fax": "+49 30 754936-99",
+        "man_made": "works",
+        "name": "Kanold Garten- Landschafts- und Sportplatzbau",
+        "phone": "+49 30 754936-0"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106996477,
+      "nodes": [
+        278979894,
+        1230297227,
+        3706294429,
+        3706294428,
+        255600692,
+        255600690,
+        255600689,
+        255600688,
+        255600687,
+        1230297265,
+        4423211349,
+        7564107479,
+        7564107477,
+        7564107478,
+        7564107476,
+        7564107475,
+        278979885,
+        278979886,
+        278979887,
+        1369474984,
+        1369474971,
+        1369474943,
+        1369474941,
+        278979889,
+        278979890,
+        278979891,
+        278979892,
+        278979893,
+        11035582329,
+        278979894
+      ],
+      "tags": {
+        "landuse": "industrial",
+        "name": "BZH / Bau- und Zuschlagsstoffhandel GmbH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 128970652,
+      "nodes": [
+        314981228,
+        1423842016,
+        11909460233,
+        315967061,
+        77620728,
+        314981234,
+        314981228
+      ],
+      "tags": {
+        "landuse": "industrial",
+        "name": "Hans-Peter Schmidt Tiefbau GmbH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 142808689,
+      "nodes": [
+        1562838707,
+        1562838710,
+        1562838653,
+        1562838642,
+        1562838677,
+        1562838684,
+        1562838707
+      ],
+      "tags": {
+        "addr:city": "Sch\u00f6neiche bei Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "15566",
+        "addr:street": "Dorfaue",
+        "landuse": "commercial",
+        "man_made": "works",
+        "name": "Bautischlerei Manfred Joachim",
+        "phone": "+49-30-6498390",
+        "works": "carpenter"
+      }
+    },
+    {
+      "type": "way",
+      "id": 142808717,
+      "nodes": [
+        1562838723,
+        1562838727,
+        1562838693,
+        1562726827,
+        1562838723
+      ],
+      "tags": {
+        "addr:city": "Sch\u00f6neiche bei Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "45",
+        "addr:postcode": "15566",
+        "addr:street": "Dorfaue",
+        "landuse": "commercial",
+        "man_made": "works",
+        "name": "Schmiede und Metallbau Gerhard Marquardt",
+        "phone": "+49-30-6498290",
+        "works": "blacksmith"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232278552,
+      "nodes": [
+        3654876006,
+        3654876001,
+        3654876000,
+        3654875993,
+        4294673620,
+        2406415811,
+        2406415807,
+        2406415809,
+        2406415814,
+        2406415817,
+        2406415820,
+        2406415821,
+        2406415823,
+        2406415828,
+        3622432775,
+        2406415836,
+        2406415834,
+        268366872,
+        3654876009,
+        3654876006
+      ],
+      "tags": {
+        "email": "info@berdingbeton.de",
+        "fax": "+4933638 3022 1",
+        "landuse": "industrial",
+        "name": "Berding Beton - Betonsteinwerk R\u00fcdersdorf",
+        "phone": "+4933638 3022 0",
+        "website": "https://www.berdingbeton.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 284879771,
+      "nodes": [
+        2885822821,
+        2885822816,
+        2933127227,
+        2885822807,
+        2885822811,
+        2885822821
+      ],
+      "tags": {
+        "addr:city": "R\u00fcdersdorf bei Berlin",
+        "addr:housenumber": "1",
+        "addr:postcode": "15562",
+        "addr:street": "Tasdorf S\u00fcd",
+        "addr:suburb": "R\u00fcdersdorf",
+        "building": "commercial",
+        "man_made": "works",
+        "name": "HKL Baumaschinen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 284879900,
+      "nodes": [
+        2885822793,
+        2885822783,
+        2885822784,
+        3102710001,
+        2885822775,
+        2885822778,
+        2922446855,
+        3102710006,
+        2885822785,
+        2885822787,
+        3102710011,
+        2885822796,
+        2885822793
+      ],
+      "tags": {
+        "addr:city": "R\u00fcdersdorf bei Berlin",
+        "addr:housenumber": "1",
+        "addr:postcode": "15562",
+        "addr:street": "Tasdorf S\u00fcd",
+        "addr:suburb": "R\u00fcdersdorf",
+        "building": "commercial",
+        "man_made": "works",
+        "name": "HKL Baumaschinen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 294948880,
+      "nodes": [
+        2985887846,
+        2985887847,
+        1296071306,
+        1296071305,
+        1296071304,
+        4861551285,
+        2985887846
+      ],
+      "tags": {
+        "landuse": "industrial",
+        "name": "bwb Betonwerk Velten"
+      }
+    },
+    {
+      "type": "way",
+      "id": 477905474,
+      "nodes": [
+        4711956202,
+        4470366944,
+        4711956201,
+        4711956200,
+        4711956193,
+        4711956199,
+        5755472929,
+        4711956191,
+        4421857770,
+        4711956197,
+        4711956196,
+        6611964102,
+        4711956195,
+        4711956202
+      ],
+      "tags": {
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Bezirksamt Hellersdorf von Berlin Tiefbauamt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 479752853,
+      "nodes": [
+        4728011536,
+        4728011532,
+        619176407,
+        4728011531,
+        4728011530,
+        619176403,
+        619176402,
+        4728011519,
+        4539854627,
+        4539854628,
+        4539854624,
+        5186355394,
+        4539854623,
+        4728011513,
+        5186355395,
+        4728011516,
+        4728011515,
+        619176405,
+        619176406,
+        4728011537,
+        4728011535,
+        4728011536
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "33",
+        "addr:postcode": "12689",
+        "addr:street": "Hellersdorfer Weg",
+        "addr:suburb": "Marzahn",
+        "landuse": "industrial",
+        "name": "AS+BE Asphalt- und Betonstra\u00dfenbau",
+        "source": "Geoportal Berlin / Hauskoordinaten",
+        "website": "https://www.asbe-strassenbau.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 482874771,
+      "nodes": [
+        4756545285,
+        4756545264,
+        4756545284,
+        4756545283,
+        4756545282,
+        4756545281,
+        4756545280,
+        5834582345,
+        4756545279,
+        4756545278,
+        4756545277,
+        4756545276,
+        4756545270,
+        4756545275,
+        4756545274,
+        4756545273,
+        4756545272,
+        4756545271,
+        4756545285
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "14",
+        "addr:postcode": "12681",
+        "addr:street": "Hornoer Ring",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "KaGaWa Rohrleitungs- und Anlagenbau GmbH",
+        "website": "https://kagawa-gmbh.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 503073960,
+      "nodes": [
+        4934206557,
+        4934206556,
+        4934206555,
+        4934206562,
+        5796334089,
+        4934206557
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "27",
+        "addr:postcode": "12681",
+        "addr:street": "Boxberger Stra\u00dfe",
+        "landuse": "industrial",
+        "name": "Bauausr\u00fcstungen + Service Behnke & S\u00e4nger GmbH",
+        "phone": "+49 30 80 40 81 50"
+      }
+    },
+    {
+      "type": "way",
+      "id": 512074275,
+      "nodes": [
+        5007569472,
+        5007569471,
+        5007569463,
+        5007569470,
+        5007569465,
+        5007569464,
+        5007569462,
+        2019486980,
+        5007569469,
+        5007569468,
+        5007569467,
+        2019487021,
+        5007569472
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "12681",
+        "addr:street": "Boxberger Stra\u00dfe",
+        "addr:suburb": "Marzahn",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Bautrocknung Schmittgall GmbH",
+        "website": "https://www.bautrocknung.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 528766474,
+      "nodes": [
+        561588682,
+        4136568013,
+        5137799777,
+        5137799776,
+        5137799775,
+        5137799774,
+        5137799773,
+        5137799772,
+        5137799796,
+        4136568026,
+        4136568016,
+        561588682
+      ],
+      "tags": {
+        "landuse": "industrial",
+        "name": "Schlosserei & Maschinenbau J\u00fcrgen Rikwald",
+        "website": "https://www.rikwald.de/index0.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 533000560,
+      "nodes": [
+        5171691335,
+        5171691336,
+        5171691337,
+        5171691338,
+        5171691339,
+        11163077592,
+        5171691335
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "24D",
+        "addr:postcode": "13407",
+        "addr:street": "Flottenstra\u00dfe",
+        "landuse": "industrial",
+        "name": "Matth\u00e4i Bauunternehmen GmbH & Co.KG"
+      }
+    },
+    {
+      "type": "way",
+      "id": 546373258,
+      "nodes": [
+        5279945554,
+        8762201033,
+        8762201032,
+        5279945548,
+        8762201031,
+        5279945552,
+        5279945547,
+        5279945551,
+        5279945550,
+        8762201035,
+        8762201036,
+        11165082576,
+        5279945571,
+        8762201236,
+        4214241254,
+        203388984,
+        203388982,
+        5279945558,
+        5279945557,
+        5279945556,
+        5279945555,
+        4214241269,
+        5279945553,
+        5279945554
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "48c",
+        "addr:postcode": "12681",
+        "addr:street": "Rhinstra\u00dfe",
+        "addr:suburb": "Marzahn",
+        "landuse": "industrial",
+        "name": "SCHWENK Beton Berlin-Brandenburg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087641571,
+      "nodes": [
+        9965248275,
+        9965248273,
+        12309541842,
+        9965248272,
+        966019927,
+        307609705,
+        12309541841,
+        9965248271,
+        12309541840,
+        12309541839,
+        9965248269,
+        12309541838,
+        9965248274,
+        9965248275
+      ],
+      "tags": {
+        "industrial": "depot",
+        "landuse": "industrial",
+        "name": "Bauhof Zweckverband TKS",
+        "website": "https://zv-tks.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1107915658,
+      "nodes": [
+        10137261275,
+        306017958,
+        1657670935,
+        10137261280,
+        10589646697,
+        10589646696,
+        10589646695,
+        10137261279,
+        10589646698,
+        10589646699,
+        10137261278,
+        10137261275
+      ],
+      "tags": {
+        "description": "Werk 3",
+        "industrial": "factory",
+        "landuse": "industrial",
+        "name": "Hans Timm Fensterbau",
+        "website": "https://www.timm-fensterbau.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1108104740,
+      "nodes": [
+        5335079460,
+        5335079470,
+        5335079469,
+        5335079468,
+        5335079467,
+        10131943218,
+        10131943217,
+        5335079460
+      ],
+      "tags": {
+        "description": "Werk 2",
+        "industrial": "factory",
+        "landuse": "industrial",
+        "name": "Hans Timm Fensterbau",
+        "website": "https://www.timm-fensterbau.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1108104742,
+      "nodes": [
+        10139155018,
+        5335079003,
+        3274698113,
+        10131943226,
+        306430245,
+        10131943223,
+        10139155018
+      ],
+      "tags": {
+        "industrial": "factory",
+        "landuse": "industrial",
+        "name": "Mema Metallbau",
+        "website": "https://www.mema-berlin.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110199352,
+      "nodes": [
+        10156271267,
+        10156271269,
+        10156271268,
+        5396967574,
+        245929591,
+        4605372713,
+        4605372710,
+        5396967200,
+        5396967201,
+        5396967202,
+        5396967203,
+        5396967569,
+        5396967566,
+        5396967562,
+        5396967561,
+        5396967556,
+        10156271267
+      ],
+      "tags": {
+        "industrial": "recycling",
+        "landuse": "industrial",
+        "name": "Parey Baustoff-Recycling",
+        "website": "https://www.baukies-parey.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1135137949,
+      "nodes": [
+        10581559201,
+        12398822116,
+        12398822115,
+        12398822108,
+        12398821938,
+        12398821944,
+        12398822107,
+        12398821952,
+        12398822109,
+        10581559181,
+        12398822106,
+        619091682,
+        10581559182,
+        619091661,
+        1194571326,
+        1194571499,
+        10581559201
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "12099",
+        "addr:street": "Saalburgstra\u00dfe",
+        "addr:suburb": "Tempelhof",
+        "industrial": "concrete_plant",
+        "landuse": "industrial",
+        "name": "Schwenk Beton Werk Tempelhof",
+        "operator": "Schwenk Beton Berlin-Brandenburg GmbH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234756865,
+      "nodes": [
+        11461226700,
+        11461226701,
+        11461226702,
+        11461226703,
+        11461226704,
+        11461226700
+      ],
+      "tags": {
+        "industrial": "concrete_plant",
+        "landuse": "industrial",
+        "name": "Cemex Transportbeton",
+        "website": "https://www.cemex.de/-/transportbeton-r%25C3%25BCdersdorf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372596727,
+      "nodes": [
+        12709313685,
+        12709313684,
+        12709313683,
+        9196042283,
+        9196042281,
+        12709313682,
+        12709313685
+      ],
+      "tags": {
+        "industrial": "concrete_plant",
+        "landuse": "industrial",
+        "name": "Berger Beton"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1375780725,
+      "nodes": [
+        12738365700,
+        12738365699,
+        12738365698,
+        12738365697,
+        12738365700
+      ],
+      "tags": {
+        "industrial": "concrete_plant",
+        "landuse": "industrial",
+        "name": "Lichtner Beton Brandenburg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9965248269,
+      "lat": 52.3849205,
+      "lon": 13.2438618
+    },
+    {
+      "type": "node",
+      "id": 9965248272,
+      "lat": 52.3861921,
+      "lon": 13.2437563
+    },
+    {
+      "type": "node",
+      "id": 9965248273,
+      "lat": 52.3860208,
+      "lon": 13.2435539
+    },
+    {
+      "type": "node",
+      "id": 9965248274,
+      "lat": 52.3850429,
+      "lon": 13.2423532
+    },
+    {
+      "type": "node",
+      "id": 9965248275,
+      "lat": 52.3853434,
+      "lon": 13.2417303
+    },
+    {
+      "type": "node",
+      "id": 12309541838,
+      "lat": 52.3846653,
+      "lon": 13.243083
+    },
+    {
+      "type": "node",
+      "id": 12309541839,
+      "lat": 52.3851427,
+      "lon": 13.2443854
+    },
+    {
+      "type": "node",
+      "id": 12309541840,
+      "lat": 52.3853424,
+      "lon": 13.2447308
+    },
+    {
+      "type": "node",
+      "id": 12309541842,
+      "lat": 52.3860961,
+      "lon": 13.2436589
+    },
+    {
+      "type": "node",
+      "id": 307609705,
+      "lat": 52.3858761,
+      "lon": 13.2453107
+    },
+    {
+      "type": "node",
+      "id": 966019927,
+      "lat": 52.3860659,
+      "lon": 13.2452417
+    },
+    {
+      "type": "node",
+      "id": 9965248271,
+      "lat": 52.385472,
+      "lon": 13.2449142
+    },
+    {
+      "type": "node",
+      "id": 12309541841,
+      "lat": 52.3857191,
+      "lon": 13.2451758
+    },
+    {
+      "type": "node",
+      "id": 10156271267,
+      "lat": 52.4124255,
+      "lon": 13.2886663
+    },
+    {
+      "type": "node",
+      "id": 245929591,
+      "lat": 52.4138766,
+      "lon": 13.2885124
+    },
+    {
+      "type": "node",
+      "id": 4605372710,
+      "lat": 52.4136971,
+      "lon": 13.2879331
+    },
+    {
+      "type": "node",
+      "id": 4605372713,
+      "lat": 52.4137322,
+      "lon": 13.2880479
+    },
+    {
+      "type": "node",
+      "id": 5396967200,
+      "lat": 52.4134541,
+      "lon": 13.2874656
+    },
+    {
+      "type": "node",
+      "id": 5396967201,
+      "lat": 52.4135052,
+      "lon": 13.2873946
+    },
+    {
+      "type": "node",
+      "id": 5396967202,
+      "lat": 52.4134766,
+      "lon": 13.2873382
+    },
+    {
+      "type": "node",
+      "id": 5396967203,
+      "lat": 52.4134469,
+      "lon": 13.2872664
+    },
+    {
+      "type": "node",
+      "id": 5396967556,
+      "lat": 52.4128291,
+      "lon": 13.2880685
+    },
+    {
+      "type": "node",
+      "id": 5396967561,
+      "lat": 52.4129261,
+      "lon": 13.2881221
+    },
+    {
+      "type": "node",
+      "id": 5396967562,
+      "lat": 52.4130021,
+      "lon": 13.2880235
+    },
+    {
+      "type": "node",
+      "id": 5396967566,
+      "lat": 52.4130799,
+      "lon": 13.2877721
+    },
+    {
+      "type": "node",
+      "id": 5396967569,
+      "lat": 52.4134341,
+      "lon": 13.2872839
+    },
+    {
+      "type": "node",
+      "id": 5396967574,
+      "lat": 52.4142971,
+      "lon": 13.2894525
+    },
+    {
+      "type": "node",
+      "id": 10156271268,
+      "lat": 52.4146282,
+      "lon": 13.2903724
+    },
+    {
+      "type": "node",
+      "id": 10156271269,
+      "lat": 52.4139966,
+      "lon": 13.2914892
+    },
+    {
+      "type": "node",
+      "id": 306430245,
+      "lat": 52.4030075,
+      "lon": 13.3822275
+    },
+    {
+      "type": "node",
+      "id": 3274699847,
+      "lat": 52.4025861,
+      "lon": 13.3824025
+    },
+    {
+      "type": "node",
+      "id": 3274699884,
+      "lat": 52.4026135,
+      "lon": 13.3817889
+    },
+    {
+      "type": "node",
+      "id": 3274700028,
+      "lat": 52.4027651,
+      "lon": 13.3822972
+    },
+    {
+      "type": "node",
+      "id": 3274700034,
+      "lat": 52.402787,
+      "lon": 13.3818098
+    },
+    {
+      "type": "node",
+      "id": 3274700042,
+      "lat": 52.4028346,
+      "lon": 13.3824324
+    },
+    {
+      "type": "node",
+      "id": 3274700043,
+      "lat": 52.4028403,
+      "lon": 13.3823062
+    },
+    {
+      "type": "node",
+      "id": 10131943223,
+      "lat": 52.4030365,
+      "lon": 13.3815466
+    },
+    {
+      "type": "node",
+      "id": 10139155018,
+      "lat": 52.4035062,
+      "lon": 13.3816077
+    },
+    {
+      "type": "node",
+      "id": 3274698113,
+      "lat": 52.4031902,
+      "lon": 13.3825627
+    },
+    {
+      "type": "node",
+      "id": 5335079003,
+      "lat": 52.4034674,
+      "lon": 13.3825819
+    },
+    {
+      "type": "node",
+      "id": 10131943226,
+      "lat": 52.4029945,
+      "lon": 13.3825337
+    },
+    {
+      "type": "node",
+      "id": 306017958,
+      "lat": 52.4069274,
+      "lon": 13.3749264
+    },
+    {
+      "type": "node",
+      "id": 1657670935,
+      "lat": 52.4074585,
+      "lon": 13.3755028
+    },
+    {
+      "type": "node",
+      "id": 10137261275,
+      "lat": 52.4065688,
+      "lon": 13.3749097
+    },
+    {
+      "type": "node",
+      "id": 10137261278,
+      "lat": 52.4066884,
+      "lon": 13.3758819
+    },
+    {
+      "type": "node",
+      "id": 10589646699,
+      "lat": 52.4067432,
+      "lon": 13.3758944
+    },
+    {
+      "type": "node",
+      "id": 5335079460,
+      "lat": 52.4072136,
+      "lon": 13.377214
+    },
+    {
+      "type": "node",
+      "id": 5335079467,
+      "lat": 52.4074736,
+      "lon": 13.3778843
+    },
+    {
+      "type": "node",
+      "id": 5335079468,
+      "lat": 52.4074768,
+      "lon": 13.3778655
+    },
+    {
+      "type": "node",
+      "id": 5335079469,
+      "lat": 52.407476,
+      "lon": 13.37784
+    },
+    {
+      "type": "node",
+      "id": 5335079470,
+      "lat": 52.4074715,
+      "lon": 13.3778273
+    },
+    {
+      "type": "node",
+      "id": 10131943217,
+      "lat": 52.4068628,
+      "lon": 13.3773642
+    },
+    {
+      "type": "node",
+      "id": 10131943218,
+      "lat": 52.4070331,
+      "lon": 13.3785247
+    },
+    {
+      "type": "node",
+      "id": 10137261279,
+      "lat": 52.406806,
+      "lon": 13.375942
+    },
+    {
+      "type": "node",
+      "id": 10137261280,
+      "lat": 52.4068925,
+      "lon": 13.3761157
+    },
+    {
+      "type": "node",
+      "id": 10589646695,
+      "lat": 52.4068264,
+      "lon": 13.3759695
+    },
+    {
+      "type": "node",
+      "id": 10589646696,
+      "lat": 52.4068452,
+      "lon": 13.376004
+    },
+    {
+      "type": "node",
+      "id": 10589646697,
+      "lat": 52.4068694,
+      "lon": 13.3760597
+    },
+    {
+      "type": "node",
+      "id": 10589646698,
+      "lat": 52.4067788,
+      "lon": 13.3759179
+    },
+    {
+      "type": "node",
+      "id": 9196042281,
+      "lat": 52.4334577,
+      "lon": 13.372866
+    },
+    {
+      "type": "node",
+      "id": 9196042283,
+      "lat": 52.4337663,
+      "lon": 13.3729068
+    },
+    {
+      "type": "node",
+      "id": 12709313682,
+      "lat": 52.4333826,
+      "lon": 13.3745008
+    },
+    {
+      "type": "node",
+      "id": 12709313683,
+      "lat": 52.4337261,
+      "lon": 13.3737074
+    },
+    {
+      "type": "node",
+      "id": 12709313684,
+      "lat": 52.433964,
+      "lon": 13.3737396
+    },
+    {
+      "type": "node",
+      "id": 12709313685,
+      "lat": 52.433923,
+      "lon": 13.3745703
+    },
+    {
+      "type": "node",
+      "id": 1230297265,
+      "lat": 52.4698329,
+      "lon": 12.9680637
+    },
+    {
+      "type": "node",
+      "id": 255600687,
+      "lat": 52.4695121,
+      "lon": 12.9705204
+    },
+    {
+      "type": "node",
+      "id": 255600688,
+      "lat": 52.4691693,
+      "lon": 12.9706851
+    },
+    {
+      "type": "node",
+      "id": 255600689,
+      "lat": 52.46891,
+      "lon": 12.972662
+    },
+    {
+      "type": "node",
+      "id": 255600690,
+      "lat": 52.4693031,
+      "lon": 12.9727444
+    },
+    {
+      "type": "node",
+      "id": 278979893,
+      "lat": 52.4712925,
+      "lon": 12.972379
+    },
+    {
+      "type": "node",
+      "id": 11035582329,
+      "lat": 52.471055,
+      "lon": 12.9757146
+    },
+    {
+      "type": "node",
+      "id": 255600692,
+      "lat": 52.4687285,
+      "lon": 12.9813979
+    },
+    {
+      "type": "node",
+      "id": 278979894,
+      "lat": 52.4707117,
+      "lon": 12.9805365
+    },
+    {
+      "type": "node",
+      "id": 3706294428,
+      "lat": 52.4687336,
+      "lon": 12.9814837
+    },
+    {
+      "type": "node",
+      "id": 3706294429,
+      "lat": 52.4697192,
+      "lon": 12.9822159
+    },
+    {
+      "type": "node",
+      "id": 1230297227,
+      "lat": 52.4705525,
+      "lon": 12.9827447
+    },
+    {
+      "type": "node",
+      "id": 278979885,
+      "lat": 52.4766453,
+      "lon": 12.9684496
+    },
+    {
+      "type": "node",
+      "id": 278979886,
+      "lat": 52.4766489,
+      "lon": 12.9693317
+    },
+    {
+      "type": "node",
+      "id": 278979887,
+      "lat": 52.4745864,
+      "lon": 12.9691719
+    },
+    {
+      "type": "node",
+      "id": 1369474984,
+      "lat": 52.4741979,
+      "lon": 12.9695131
+    },
+    {
+      "type": "node",
+      "id": 4423211349,
+      "lat": 52.4717695,
+      "lon": 12.968227
+    },
+    {
+      "type": "node",
+      "id": 7564107475,
+      "lat": 52.4760498,
+      "lon": 12.9682848
+    },
+    {
+      "type": "node",
+      "id": 7564107476,
+      "lat": 52.475184,
+      "lon": 12.9682553
+    },
+    {
+      "type": "node",
+      "id": 7564107477,
+      "lat": 52.4731973,
+      "lon": 12.9682124
+    },
+    {
+      "type": "node",
+      "id": 7564107478,
+      "lat": 52.4734262,
+      "lon": 12.9682006
+    },
+    {
+      "type": "node",
+      "id": 7564107479,
+      "lat": 52.4725797,
+      "lon": 12.9682806
+    },
+    {
+      "type": "node",
+      "id": 278979889,
+      "lat": 52.4739465,
+      "lon": 12.9714773
+    },
+    {
+      "type": "node",
+      "id": 278979890,
+      "lat": 52.4730656,
+      "lon": 12.9714072
+    },
+    {
+      "type": "node",
+      "id": 278979891,
+      "lat": 52.4722977,
+      "lon": 12.9722603
+    },
+    {
+      "type": "node",
+      "id": 278979892,
+      "lat": 52.4717244,
+      "lon": 12.972216
+    },
+    {
+      "type": "node",
+      "id": 1369474941,
+      "lat": 52.4738987,
+      "lon": 12.970334
+    },
+    {
+      "type": "node",
+      "id": 1369474943,
+      "lat": 52.4739257,
+      "lon": 12.9701315
+    },
+    {
+      "type": "node",
+      "id": 1369474971,
+      "lat": 52.4741261,
+      "lon": 12.969891
+    },
+    {
+      "type": "node",
+      "id": 12738365698,
+      "lat": 52.5236273,
+      "lon": 13.2058226
+    },
+    {
+      "type": "node",
+      "id": 12738365699,
+      "lat": 52.5237839,
+      "lon": 13.206363
+    },
+    {
+      "type": "node",
+      "id": 12738365697,
+      "lat": 52.5244742,
+      "lon": 13.2052606
+    },
+    {
+      "type": "node",
+      "id": 12738365700,
+      "lat": 52.5250927,
+      "lon": 13.2065561
+    },
+    {
+      "type": "node",
+      "id": 1104419157,
+      "lat": 52.4652049,
+      "lon": 13.3648879
+    },
+    {
+      "type": "node",
+      "id": 1104419316,
+      "lat": 52.465425,
+      "lon": 13.3649057
+    },
+    {
+      "type": "node",
+      "id": 1104419330,
+      "lat": 52.4651698,
+      "lon": 13.3660605
+    },
+    {
+      "type": "node",
+      "id": 1104419506,
+      "lat": 52.4653899,
+      "lon": 13.3660782
+    },
+    {
+      "type": "node",
+      "id": 619091661,
+      "lat": 52.4540204,
+      "lon": 13.4182119
+    },
+    {
+      "type": "node",
+      "id": 619091682,
+      "lat": 52.4536189,
+      "lon": 13.4187822
+    },
+    {
+      "type": "node",
+      "id": 1194571326,
+      "lat": 52.4548771,
+      "lon": 13.4168697
+    },
+    {
+      "type": "node",
+      "id": 1194571499,
+      "lat": 52.4549311,
+      "lon": 13.416812
+    },
+    {
+      "type": "node",
+      "id": 10581559181,
+      "lat": 52.4545336,
+      "lon": 13.4195427
+    },
+    {
+      "type": "node",
+      "id": 10581559182,
+      "lat": 52.4538257,
+      "lon": 13.4184735
+    },
+    {
+      "type": "node",
+      "id": 10581559201,
+      "lat": 52.4550224,
+      "lon": 13.416858
+    },
+    {
+      "type": "node",
+      "id": 12398821938,
+      "lat": 52.4549759,
+      "lon": 13.4173266
+    },
+    {
+      "type": "node",
+      "id": 12398821944,
+      "lat": 52.4549574,
+      "lon": 13.4174295
+    },
+    {
+      "type": "node",
+      "id": 12398821952,
+      "lat": 52.4548376,
+      "lon": 13.4180951
+    },
+    {
+      "type": "node",
+      "id": 12398822106,
+      "lat": 52.4537577,
+      "lon": 13.4188976
+    },
+    {
+      "type": "node",
+      "id": 12398822107,
+      "lat": 52.4549483,
+      "lon": 13.4174799
+    },
+    {
+      "type": "node",
+      "id": 12398822108,
+      "lat": 52.4549862,
+      "lon": 13.4172693
+    },
+    {
+      "type": "node",
+      "id": 12398822109,
+      "lat": 52.4545839,
+      "lon": 13.4195046
+    },
+    {
+      "type": "node",
+      "id": 12398822115,
+      "lat": 52.4550571,
+      "lon": 13.4168743
+    },
+    {
+      "type": "node",
+      "id": 12398822116,
+      "lat": 52.4550485,
+      "lon": 13.4168702
+    },
+    {
+      "type": "node",
+      "id": 77620728,
+      "lat": 52.578861,
+      "lon": 13.3072128
+    },
+    {
+      "type": "node",
+      "id": 300008851,
+      "lat": 52.5791434,
+      "lon": 13.3071755
+    },
+    {
+      "type": "node",
+      "id": 300008853,
+      "lat": 52.5790632,
+      "lon": 13.3068482
+    },
+    {
+      "type": "node",
+      "id": 314981228,
+      "lat": 52.5783901,
+      "lon": 13.3075292
+    },
+    {
+      "type": "node",
+      "id": 314981234,
+      "lat": 52.5786032,
+      "lon": 13.3069535
+    },
+    {
+      "type": "node",
+      "id": 314981238,
+      "lat": 52.5794706,
+      "lon": 13.3061602
+    },
+    {
+      "type": "node",
+      "id": 314981239,
+      "lat": 52.5790493,
+      "lon": 13.3057606
+    },
+    {
+      "type": "node",
+      "id": 314981241,
+      "lat": 52.5798108,
+      "lon": 13.3056116
+    },
+    {
+      "type": "node",
+      "id": 314981242,
+      "lat": 52.5793057,
+      "lon": 13.305072
+    },
+    {
+      "type": "node",
+      "id": 314983581,
+      "lat": 52.5798534,
+      "lon": 13.3055606
+    },
+    {
+      "type": "node",
+      "id": 314983582,
+      "lat": 52.5801369,
+      "lon": 13.3075306
+    },
+    {
+      "type": "node",
+      "id": 314983588,
+      "lat": 52.5799025,
+      "lon": 13.3059977
+    },
+    {
+      "type": "node",
+      "id": 315967061,
+      "lat": 52.5788146,
+      "lon": 13.3073385
+    },
+    {
+      "type": "node",
+      "id": 315967064,
+      "lat": 52.57931,
+      "lon": 13.3070653
+    },
+    {
+      "type": "node",
+      "id": 315967067,
+      "lat": 52.5791767,
+      "lon": 13.3072494
+    },
+    {
+      "type": "node",
+      "id": 315967069,
+      "lat": 52.5796772,
+      "lon": 13.3080901
+    },
+    {
+      "type": "node",
+      "id": 905785761,
+      "lat": 52.5800017,
+      "lon": 13.3069171
+    },
+    {
+      "type": "node",
+      "id": 1072625948,
+      "lat": 52.5801085,
+      "lon": 13.3074291
+    },
+    {
+      "type": "node",
+      "id": 1072625952,
+      "lat": 52.5797087,
+      "lon": 13.3080499
+    },
+    {
+      "type": "node",
+      "id": 1072625963,
+      "lat": 52.5797742,
+      "lon": 13.3079693
+    },
+    {
+      "type": "node",
+      "id": 1423842016,
+      "lat": 52.5787042,
+      "lon": 13.3077688
+    },
+    {
+      "type": "node",
+      "id": 2116543641,
+      "lat": 52.5790028,
+      "lon": 13.3069479
+    },
+    {
+      "type": "node",
+      "id": 2116543644,
+      "lat": 52.5790227,
+      "lon": 13.3069741
+    },
+    {
+      "type": "node",
+      "id": 2116543645,
+      "lat": 52.5796279,
+      "lon": 13.3059063
+    },
+    {
+      "type": "node",
+      "id": 4487284042,
+      "lat": 52.5798826,
+      "lon": 13.3058314
+    },
+    {
+      "type": "node",
+      "id": 9645291650,
+      "lat": 52.5797268,
+      "lon": 13.3055017
+    },
+    {
+      "type": "node",
+      "id": 11909460207,
+      "lat": 52.5800644,
+      "lon": 13.3072402
+    },
+    {
+      "type": "node",
+      "id": 11909460233,
+      "lat": 52.5787988,
+      "lon": 13.3073867
+    },
+    {
+      "type": "node",
+      "id": 11909460235,
+      "lat": 52.5796082,
+      "lon": 13.3079372
+    },
+    {
+      "type": "node",
+      "id": 11909460246,
+      "lat": 52.5796682,
+      "lon": 13.3080737
+    },
+    {
+      "type": "node",
+      "id": 11909460247,
+      "lat": 52.5796446,
+      "lon": 13.3080209
+    },
+    {
+      "type": "node",
+      "id": 11917671195,
+      "lat": 52.5791612,
+      "lon": 13.30546
+    },
+    {
+      "type": "node",
+      "id": 5171691335,
+      "lat": 52.5796684,
+      "lon": 13.3553951
+    },
+    {
+      "type": "node",
+      "id": 5171691336,
+      "lat": 52.5795505,
+      "lon": 13.356227
+    },
+    {
+      "type": "node",
+      "id": 5171691337,
+      "lat": 52.57922,
+      "lon": 13.3560914
+    },
+    {
+      "type": "node",
+      "id": 5171691338,
+      "lat": 52.5790937,
+      "lon": 13.3560329
+    },
+    {
+      "type": "node",
+      "id": 5171691339,
+      "lat": 52.5792206,
+      "lon": 13.3552107
+    },
+    {
+      "type": "node",
+      "id": 11163077592,
+      "lat": 52.5795447,
+      "lon": 13.3553442
+    },
+    {
+      "type": "node",
+      "id": 1296071304,
+      "lat": 52.6710023,
+      "lon": 13.1987364
+    },
+    {
+      "type": "node",
+      "id": 2985887846,
+      "lat": 52.6722859,
+      "lon": 13.196923
+    },
+    {
+      "type": "node",
+      "id": 2985887847,
+      "lat": 52.6733269,
+      "lon": 13.1989457
+    },
+    {
+      "type": "node",
+      "id": 4861551285,
+      "lat": 52.672004,
+      "lon": 13.1974152
+    },
+    {
+      "type": "node",
+      "id": 1296071305,
+      "lat": 52.6710978,
+      "lon": 13.2024278
+    },
+    {
+      "type": "node",
+      "id": 1296071306,
+      "lat": 52.6723726,
+      "lon": 13.2003928
+    },
+    {
+      "type": "node",
+      "id": 310482586,
+      "lat": 52.3987786,
+      "lon": 13.5541599
+    },
+    {
+      "type": "node",
+      "id": 310482587,
+      "lat": 52.3984358,
+      "lon": 13.5542252
+    },
+    {
+      "type": "node",
+      "id": 310482589,
+      "lat": 52.3981572,
+      "lon": 13.5542733
+    },
+    {
+      "type": "node",
+      "id": 310483031,
+      "lat": 52.3977286,
+      "lon": 13.5544152
+    },
+    {
+      "type": "node",
+      "id": 310483033,
+      "lat": 52.3974154,
+      "lon": 13.5544685
+    },
+    {
+      "type": "node",
+      "id": 496283703,
+      "lat": 52.398357,
+      "lon": 13.5542358
+    },
+    {
+      "type": "node",
+      "id": 496284432,
+      "lat": 52.3984582,
+      "lon": 13.5542219
+    },
+    {
+      "type": "node",
+      "id": 848795816,
+      "lat": 52.3986594,
+      "lon": 13.5531362
+    },
+    {
+      "type": "node",
+      "id": 4410485936,
+      "lat": 52.3973113,
+      "lon": 13.5537028
+    },
+    {
+      "type": "node",
+      "id": 4410485946,
+      "lat": 52.3983423,
+      "lon": 13.5532439
+    },
+    {
+      "type": "node",
+      "id": 697056556,
+      "lat": 52.4945686,
+      "lon": 13.4408894
+    },
+    {
+      "type": "node",
+      "id": 697056559,
+      "lat": 52.4947931,
+      "lon": 13.4410893
+    },
+    {
+      "type": "node",
+      "id": 697056561,
+      "lat": 52.4946375,
+      "lon": 13.4410699
+    },
+    {
+      "type": "node",
+      "id": 5353622233,
+      "lat": 52.4946843,
+      "lon": 13.4409964
+    },
+    {
+      "type": "node",
+      "id": 5353622234,
+      "lat": 52.494656,
+      "lon": 13.4410857
+    },
+    {
+      "type": "node",
+      "id": 5353622235,
+      "lat": 52.4946072,
+      "lon": 13.441044
+    },
+    {
+      "type": "node",
+      "id": 5353622236,
+      "lat": 52.4946325,
+      "lon": 13.440964
+    },
+    {
+      "type": "node",
+      "id": 5353622237,
+      "lat": 52.4946294,
+      "lon": 13.4409437
+    },
+    {
+      "type": "node",
+      "id": 697056558,
+      "lat": 52.4943663,
+      "lon": 13.4414891
+    },
+    {
+      "type": "node",
+      "id": 697056560,
+      "lat": 52.4945874,
+      "lon": 13.441692
+    },
+    {
+      "type": "node",
+      "id": 836275675,
+      "lat": 52.4946397,
+      "lon": 13.4415313
+    },
+    {
+      "type": "node",
+      "id": 6409875832,
+      "lat": 52.494383,
+      "lon": 13.4415044
+    },
+    {
+      "type": "node",
+      "id": 221124034,
+      "lat": 52.4779225,
+      "lon": 13.4591464
+    },
+    {
+      "type": "node",
+      "id": 309656715,
+      "lat": 52.4779476,
+      "lon": 13.4587605
+    },
+    {
+      "type": "node",
+      "id": 221118340,
+      "lat": 52.4795064,
+      "lon": 13.4590547
+    },
+    {
+      "type": "node",
+      "id": 221124036,
+      "lat": 52.4792092,
+      "lon": 13.4593948
+    },
+    {
+      "type": "node",
+      "id": 221124037,
+      "lat": 52.4794843,
+      "lon": 13.4593849
+    },
+    {
+      "type": "node",
+      "id": 309656718,
+      "lat": 52.478359,
+      "lon": 13.4579506
+    },
+    {
+      "type": "node",
+      "id": 309656722,
+      "lat": 52.4784516,
+      "lon": 13.4578349
+    },
+    {
+      "type": "node",
+      "id": 459110975,
+      "lat": 52.4788536,
+      "lon": 13.457918
+    },
+    {
+      "type": "node",
+      "id": 791819743,
+      "lat": 52.4795187,
+      "lon": 13.45921
+    },
+    {
+      "type": "node",
+      "id": 791819744,
+      "lat": 52.4793089,
+      "lon": 13.4594344
+    },
+    {
+      "type": "node",
+      "id": 2795953020,
+      "lat": 52.4792707,
+      "lon": 13.4581068
+    },
+    {
+      "type": "node",
+      "id": 3128303997,
+      "lat": 52.4783478,
+      "lon": 13.4591462
+    },
+    {
+      "type": "node",
+      "id": 4076041069,
+      "lat": 52.4786775,
+      "lon": 13.4592444
+    },
+    {
+      "type": "node",
+      "id": 4076041071,
+      "lat": 52.4789001,
+      "lon": 13.4593112
+    },
+    {
+      "type": "node",
+      "id": 9250992674,
+      "lat": 52.4785523,
+      "lon": 13.4576187
+    },
+    {
+      "type": "node",
+      "id": 9250992675,
+      "lat": 52.4783953,
+      "lon": 13.4579599
+    },
+    {
+      "type": "node",
+      "id": 9448516780,
+      "lat": 52.4781085,
+      "lon": 13.4584439
+    },
+    {
+      "type": "node",
+      "id": 9448516783,
+      "lat": 52.4795116,
+      "lon": 13.4592666
+    },
+    {
+      "type": "node",
+      "id": 9448516786,
+      "lat": 52.4786193,
+      "lon": 13.4576301
+    },
+    {
+      "type": "node",
+      "id": 9448516787,
+      "lat": 52.478622,
+      "lon": 13.4576466
+    },
+    {
+      "type": "node",
+      "id": 9448539518,
+      "lat": 52.4786266,
+      "lon": 13.4578133
+    },
+    {
+      "type": "node",
+      "id": 9448539536,
+      "lat": 52.4796012,
+      "lon": 13.458509
+    },
+    {
+      "type": "node",
+      "id": 9448539537,
+      "lat": 52.479526,
+      "lon": 13.4591514
+    },
+    {
+      "type": "node",
+      "id": 203388982,
+      "lat": 52.5165567,
+      "lon": 13.5227224
+    },
+    {
+      "type": "node",
+      "id": 203388984,
+      "lat": 52.5165596,
+      "lon": 13.5222565
+    },
+    {
+      "type": "node",
+      "id": 4214241254,
+      "lat": 52.5165216,
+      "lon": 13.522257
+    },
+    {
+      "type": "node",
+      "id": 5279945547,
+      "lat": 52.5162509,
+      "lon": 13.5232326
+    },
+    {
+      "type": "node",
+      "id": 5279945548,
+      "lat": 52.5169204,
+      "lon": 13.5235095
+    },
+    {
+      "type": "node",
+      "id": 5279945550,
+      "lat": 52.5158231,
+      "lon": 13.5228992
+    },
+    {
+      "type": "node",
+      "id": 5279945551,
+      "lat": 52.5160409,
+      "lon": 13.5230798
+    },
+    {
+      "type": "node",
+      "id": 5279945552,
+      "lat": 52.5164417,
+      "lon": 13.5233378
+    },
+    {
+      "type": "node",
+      "id": 5279945571,
+      "lat": 52.5155811,
+      "lon": 13.5222539
+    },
+    {
+      "type": "node",
+      "id": 8762201031,
+      "lat": 52.5165926,
+      "lon": 13.523399
+    },
+    {
+      "type": "node",
+      "id": 8762201035,
+      "lat": 52.5156946,
+      "lon": 13.5227681
+    },
+    {
+      "type": "node",
+      "id": 8762201036,
+      "lat": 52.5155918,
+      "lon": 13.5226481
+    },
+    {
+      "type": "node",
+      "id": 8762201236,
+      "lat": 52.5164895,
+      "lon": 13.5222567
+    },
+    {
+      "type": "node",
+      "id": 11165082576,
+      "lat": 52.515582,
+      "lon": 13.5224466
+    },
+    {
+      "type": "node",
+      "id": 4214241269,
+      "lat": 52.5182861,
+      "lon": 13.5227718
+    },
+    {
+      "type": "node",
+      "id": 5279945553,
+      "lat": 52.518348,
+      "lon": 13.522765
+    },
+    {
+      "type": "node",
+      "id": 5279945554,
+      "lat": 52.5183176,
+      "lon": 13.5238327
+    },
+    {
+      "type": "node",
+      "id": 5279945555,
+      "lat": 52.5181691,
+      "lon": 13.5227764
+    },
+    {
+      "type": "node",
+      "id": 5279945556,
+      "lat": 52.5181741,
+      "lon": 13.5224297
+    },
+    {
+      "type": "node",
+      "id": 5279945557,
+      "lat": 52.5177583,
+      "lon": 13.5224325
+    },
+    {
+      "type": "node",
+      "id": 5279945558,
+      "lat": 52.5177555,
+      "lon": 13.5227517
+    },
+    {
+      "type": "node",
+      "id": 8762201032,
+      "lat": 52.5175457,
+      "lon": 13.5236908
+    },
+    {
+      "type": "node",
+      "id": 8762201033,
+      "lat": 52.5178413,
+      "lon": 13.5237557
+    },
+    {
+      "type": "node",
+      "id": 4421857770,
+      "lat": 52.502082,
+      "lon": 13.6074701
+    },
+    {
+      "type": "node",
+      "id": 4470366944,
+      "lat": 52.5011193,
+      "lon": 13.607818
+    },
+    {
+      "type": "node",
+      "id": 4711956191,
+      "lat": 52.5016279,
+      "lon": 13.6071237
+    },
+    {
+      "type": "node",
+      "id": 4711956193,
+      "lat": 52.5012025,
+      "lon": 13.6068517
+    },
+    {
+      "type": "node",
+      "id": 4711956195,
+      "lat": 52.5017345,
+      "lon": 13.6077344
+    },
+    {
+      "type": "node",
+      "id": 4711956196,
+      "lat": 52.5018225,
+      "lon": 13.6078119
+    },
+    {
+      "type": "node",
+      "id": 4711956197,
+      "lat": 52.5020225,
+      "lon": 13.6078824
+    },
+    {
+      "type": "node",
+      "id": 4711956199,
+      "lat": 52.5012106,
+      "lon": 13.606807
+    },
+    {
+      "type": "node",
+      "id": 4711956200,
+      "lat": 52.5011947,
+      "lon": 13.6068947
+    },
+    {
+      "type": "node",
+      "id": 4711956201,
+      "lat": 52.5010707,
+      "lon": 13.6077955
+    },
+    {
+      "type": "node",
+      "id": 4711956202,
+      "lat": 52.5016921,
+      "lon": 13.6080317
+    },
+    {
+      "type": "node",
+      "id": 5755472929,
+      "lat": 52.5013868,
+      "lon": 13.6069399
+    },
+    {
+      "type": "node",
+      "id": 6611964102,
+      "lat": 52.501828,
+      "lon": 13.6077671
+    },
+    {
+      "type": "node",
+      "id": 2019486980,
+      "lat": 52.5526288,
+      "lon": 13.5377142
+    },
+    {
+      "type": "node",
+      "id": 2019487021,
+      "lat": 52.5528763,
+      "lon": 13.5377251
+    },
+    {
+      "type": "node",
+      "id": 4756545264,
+      "lat": 52.5514508,
+      "lon": 13.5344381
+    },
+    {
+      "type": "node",
+      "id": 4756545270,
+      "lat": 52.5507023,
+      "lon": 13.5349874
+    },
+    {
+      "type": "node",
+      "id": 4756545271,
+      "lat": 52.5515414,
+      "lon": 13.5344691
+    },
+    {
+      "type": "node",
+      "id": 4756545272,
+      "lat": 52.551336,
+      "lon": 13.5354433
+    },
+    {
+      "type": "node",
+      "id": 4756545273,
+      "lat": 52.5511211,
+      "lon": 13.5353152
+    },
+    {
+      "type": "node",
+      "id": 4756545274,
+      "lat": 52.5508181,
+      "lon": 13.5351442
+    },
+    {
+      "type": "node",
+      "id": 4756545275,
+      "lat": 52.5507042,
+      "lon": 13.535079
+    },
+    {
+      "type": "node",
+      "id": 4756545276,
+      "lat": 52.5507022,
+      "lon": 13.5348808
+    },
+    {
+      "type": "node",
+      "id": 4756545277,
+      "lat": 52.5507024,
+      "lon": 13.5347657
+    },
+    {
+      "type": "node",
+      "id": 4756545278,
+      "lat": 52.5507102,
+      "lon": 13.5344821
+    },
+    {
+      "type": "node",
+      "id": 4756545279,
+      "lat": 52.5507157,
+      "lon": 13.5343246
+    },
+    {
+      "type": "node",
+      "id": 4756545280,
+      "lat": 52.5507371,
+      "lon": 13.5342795
+    },
+    {
+      "type": "node",
+      "id": 4756545281,
+      "lat": 52.5507627,
+      "lon": 13.5342788
+    },
+    {
+      "type": "node",
+      "id": 4756545282,
+      "lat": 52.5508505,
+      "lon": 13.5342973
+    },
+    {
+      "type": "node",
+      "id": 4756545283,
+      "lat": 52.5509606,
+      "lon": 13.534312
+    },
+    {
+      "type": "node",
+      "id": 4756545284,
+      "lat": 52.551194,
+      "lon": 13.5343592
+    },
+    {
+      "type": "node",
+      "id": 4756545285,
+      "lat": 52.551525,
+      "lon": 13.5344609
+    },
+    {
+      "type": "node",
+      "id": 4934206555,
+      "lat": 52.553393,
+      "lon": 13.5378451
+    },
+    {
+      "type": "node",
+      "id": 4934206556,
+      "lat": 52.5530638,
+      "lon": 13.5377649
+    },
+    {
+      "type": "node",
+      "id": 4934206557,
+      "lat": 52.553245,
+      "lon": 13.5369376
+    },
+    {
+      "type": "node",
+      "id": 4934206562,
+      "lat": 52.5534393,
+      "lon": 13.537855
+    },
+    {
+      "type": "node",
+      "id": 5007569462,
+      "lat": 52.5526366,
+      "lon": 13.5376116
+    },
+    {
+      "type": "node",
+      "id": 5007569463,
+      "lat": 52.5526708,
+      "lon": 13.5368322
+    },
+    {
+      "type": "node",
+      "id": 5007569464,
+      "lat": 52.5526405,
+      "lon": 13.5375609
+    },
+    {
+      "type": "node",
+      "id": 5007569465,
+      "lat": 52.5525891,
+      "lon": 13.5375144
+    },
+    {
+      "type": "node",
+      "id": 5007569467,
+      "lat": 52.5528394,
+      "lon": 13.5377208
+    },
+    {
+      "type": "node",
+      "id": 5007569468,
+      "lat": 52.5527898,
+      "lon": 13.5377202
+    },
+    {
+      "type": "node",
+      "id": 5007569469,
+      "lat": 52.5527161,
+      "lon": 13.5377196
+    },
+    {
+      "type": "node",
+      "id": 5007569470,
+      "lat": 52.5526271,
+      "lon": 13.5370286
+    },
+    {
+      "type": "node",
+      "id": 5007569471,
+      "lat": 52.5526975,
+      "lon": 13.5367119
+    },
+    {
+      "type": "node",
+      "id": 5007569472,
+      "lat": 52.5530547,
+      "lon": 13.5369226
+    },
+    {
+      "type": "node",
+      "id": 5796334089,
+      "lat": 52.5535963,
+      "lon": 13.5371385
+    },
+    {
+      "type": "node",
+      "id": 5834582345,
+      "lat": 52.5507235,
+      "lon": 13.5342983
+    },
+    {
+      "type": "node",
+      "id": 561588682,
+      "lat": 52.5577186,
+      "lon": 13.5452735
+    },
+    {
+      "type": "node",
+      "id": 4136568013,
+      "lat": 52.5578951,
+      "lon": 13.5447224
+    },
+    {
+      "type": "node",
+      "id": 4136568016,
+      "lat": 52.5580128,
+      "lon": 13.5455282
+    },
+    {
+      "type": "node",
+      "id": 4136568026,
+      "lat": 52.5586795,
+      "lon": 13.5461051
+    },
+    {
+      "type": "node",
+      "id": 5137799772,
+      "lat": 52.5588299,
+      "lon": 13.5456377
+    },
+    {
+      "type": "node",
+      "id": 5137799773,
+      "lat": 52.5588383,
+      "lon": 13.5456039
+    },
+    {
+      "type": "node",
+      "id": 5137799774,
+      "lat": 52.5588365,
+      "lon": 13.545566
+    },
+    {
+      "type": "node",
+      "id": 5137799775,
+      "lat": 52.5588335,
+      "lon": 13.5455481
+    },
+    {
+      "type": "node",
+      "id": 5137799776,
+      "lat": 52.558825,
+      "lon": 13.5455281
+    },
+    {
+      "type": "node",
+      "id": 5137799777,
+      "lat": 52.5588153,
+      "lon": 13.5455162
+    },
+    {
+      "type": "node",
+      "id": 5137799796,
+      "lat": 52.5587645,
+      "lon": 13.5458414
+    },
+    {
+      "type": "node",
+      "id": 619176402,
+      "lat": 52.5640856,
+      "lon": 13.5517317
+    },
+    {
+      "type": "node",
+      "id": 619176403,
+      "lat": 52.5641375,
+      "lon": 13.5515746
+    },
+    {
+      "type": "node",
+      "id": 619176405,
+      "lat": 52.5641907,
+      "lon": 13.5526202
+    },
+    {
+      "type": "node",
+      "id": 619176406,
+      "lat": 52.5642884,
+      "lon": 13.5527076
+    },
+    {
+      "type": "node",
+      "id": 619176407,
+      "lat": 52.5645309,
+      "lon": 13.5518929
+    },
+    {
+      "type": "node",
+      "id": 4539854623,
+      "lat": 52.5639454,
+      "lon": 13.5520013
+    },
+    {
+      "type": "node",
+      "id": 4539854624,
+      "lat": 52.5639807,
+      "lon": 13.5518878
+    },
+    {
+      "type": "node",
+      "id": 4539854627,
+      "lat": 52.5640186,
+      "lon": 13.551773
+    },
+    {
+      "type": "node",
+      "id": 4539854628,
+      "lat": 52.5639859,
+      "lon": 13.5518721
+    },
+    {
+      "type": "node",
+      "id": 4728011513,
+      "lat": 52.5639343,
+      "lon": 13.5520372
+    },
+    {
+      "type": "node",
+      "id": 4728011519,
+      "lat": 52.5640455,
+      "lon": 13.5516991
+    },
+    {
+      "type": "node",
+      "id": 4728011530,
+      "lat": 52.5643331,
+      "lon": 13.5517427
+    },
+    {
+      "type": "node",
+      "id": 4728011531,
+      "lat": 52.5643393,
+      "lon": 13.551724
+    },
+    {
+      "type": "node",
+      "id": 4728011532,
+      "lat": 52.5644782,
+      "lon": 13.5520594
+    },
+    {
+      "type": "node",
+      "id": 4728011535,
+      "lat": 52.5644053,
+      "lon": 13.5524025
+    },
+    {
+      "type": "node",
+      "id": 4728011536,
+      "lat": 52.5645094,
+      "lon": 13.5520862
+    },
+    {
+      "type": "node",
+      "id": 4728011537,
+      "lat": 52.564393,
+      "lon": 13.5523915
+    },
+    {
+      "type": "node",
+      "id": 5186355394,
+      "lat": 52.5639527,
+      "lon": 13.5519772
+    },
+    {
+      "type": "node",
+      "id": 5186355395,
+      "lat": 52.5639196,
+      "lon": 13.5520797
+    },
+    {
+      "type": "node",
+      "id": 4728011515,
+      "lat": 52.5639143,
+      "lon": 13.5534646
+    },
+    {
+      "type": "node",
+      "id": 4728011516,
+      "lat": 52.563559,
+      "lon": 13.5531547
+    },
+    {
+      "type": "node",
+      "id": 1562726827,
+      "lat": 52.4839428,
+      "lon": 13.7070476
+    },
+    {
+      "type": "node",
+      "id": 1562838642,
+      "lat": 52.483522,
+      "lon": 13.7066802
+    },
+    {
+      "type": "node",
+      "id": 1562838653,
+      "lat": 52.4836614,
+      "lon": 13.7070206
+    },
+    {
+      "type": "node",
+      "id": 1562838677,
+      "lat": 52.4839394,
+      "lon": 13.70623
+    },
+    {
+      "type": "node",
+      "id": 1562838684,
+      "lat": 52.4840356,
+      "lon": 13.7064885
+    },
+    {
+      "type": "node",
+      "id": 1562838693,
+      "lat": 52.4840471,
+      "lon": 13.7073204
+    },
+    {
+      "type": "node",
+      "id": 1562838707,
+      "lat": 52.4841259,
+      "lon": 13.7063997
+    },
+    {
+      "type": "node",
+      "id": 1562838710,
+      "lat": 52.4841458,
+      "lon": 13.7064545
+    },
+    {
+      "type": "node",
+      "id": 1562838723,
+      "lat": 52.484261,
+      "lon": 13.7067483
+    },
+    {
+      "type": "node",
+      "id": 1562838727,
+      "lat": 52.484362,
+      "lon": 13.7070007
+    },
+    {
+      "type": "node",
+      "id": 2885822775,
+      "lat": 52.4914727,
+      "lon": 13.7854651
+    },
+    {
+      "type": "node",
+      "id": 2885822778,
+      "lat": 52.4915503,
+      "lon": 13.7852781
+    },
+    {
+      "type": "node",
+      "id": 2885822783,
+      "lat": 52.4916414,
+      "lon": 13.7856987
+    },
+    {
+      "type": "node",
+      "id": 2885822784,
+      "lat": 52.491654,
+      "lon": 13.7856684
+    },
+    {
+      "type": "node",
+      "id": 2885822785,
+      "lat": 52.4917319,
+      "lon": 13.7854816
+    },
+    {
+      "type": "node",
+      "id": 2885822787,
+      "lat": 52.4917447,
+      "lon": 13.7854508
+    },
+    {
+      "type": "node",
+      "id": 2885822793,
+      "lat": 52.491945,
+      "lon": 13.786039
+    },
+    {
+      "type": "node",
+      "id": 2885822796,
+      "lat": 52.4920481,
+      "lon": 13.7857909
+    },
+    {
+      "type": "node",
+      "id": 2885822807,
+      "lat": 52.4922758,
+      "lon": 13.7857541
+    },
+    {
+      "type": "node",
+      "id": 2885822811,
+      "lat": 52.4923217,
+      "lon": 13.7854641
+    },
+    {
+      "type": "node",
+      "id": 2885822816,
+      "lat": 52.49241,
+      "lon": 13.7858112
+    },
+    {
+      "type": "node",
+      "id": 2885822821,
+      "lat": 52.4924558,
+      "lon": 13.7855212
+    },
+    {
+      "type": "node",
+      "id": 2922446855,
+      "lat": 52.4916267,
+      "lon": 13.7853637
+    },
+    {
+      "type": "node",
+      "id": 2933127227,
+      "lat": 52.4923182,
+      "lon": 13.7857722
+    },
+    {
+      "type": "node",
+      "id": 3102710001,
+      "lat": 52.4915334,
+      "lon": 13.7855332
+    },
+    {
+      "type": "node",
+      "id": 3102710006,
+      "lat": 52.4916425,
+      "lon": 13.7853814
+    },
+    {
+      "type": "node",
+      "id": 3102710011,
+      "lat": 52.4917525,
+      "lon": 13.7854596
+    },
+    {
+      "type": "node",
+      "id": 2406415807,
+      "lat": 52.4876523,
+      "lon": 13.7949435
+    },
+    {
+      "type": "node",
+      "id": 2406415809,
+      "lat": 52.4877837,
+      "lon": 13.7937227
+    },
+    {
+      "type": "node",
+      "id": 2406415814,
+      "lat": 52.4883214,
+      "lon": 13.7938204
+    },
+    {
+      "type": "node",
+      "id": 2406415817,
+      "lat": 52.488584,
+      "lon": 13.7942436
+    },
+    {
+      "type": "node",
+      "id": 2406415820,
+      "lat": 52.4889285,
+      "lon": 13.7942721
+    },
+    {
+      "type": "node",
+      "id": 2406415821,
+      "lat": 52.4890986,
+      "lon": 13.7944755
+    },
+    {
+      "type": "node",
+      "id": 268366872,
+      "lat": 52.4898447,
+      "lon": 13.800319
+    },
+    {
+      "type": "node",
+      "id": 2406415811,
+      "lat": 52.4879597,
+      "lon": 13.7972197
+    },
+    {
+      "type": "node",
+      "id": 2406415823,
+      "lat": 52.4895882,
+      "lon": 13.7961921
+    },
+    {
+      "type": "node",
+      "id": 2406415828,
+      "lat": 52.489512,
+      "lon": 13.7967049
+    },
+    {
+      "type": "node",
+      "id": 2406415834,
+      "lat": 52.4903293,
+      "lon": 13.8004483
+    },
+    {
+      "type": "node",
+      "id": 2406415836,
+      "lat": 52.4905961,
+      "lon": 13.7977752
+    },
+    {
+      "type": "node",
+      "id": 3622432775,
+      "lat": 52.4896411,
+      "lon": 13.7972778
+    },
+    {
+      "type": "node",
+      "id": 3654875993,
+      "lat": 52.4877116,
+      "lon": 13.8015525
+    },
+    {
+      "type": "node",
+      "id": 3654876000,
+      "lat": 52.4881808,
+      "lon": 13.8016689
+    },
+    {
+      "type": "node",
+      "id": 3654876001,
+      "lat": 52.4882287,
+      "lon": 13.8011785
+    },
+    {
+      "type": "node",
+      "id": 3654876006,
+      "lat": 52.4895893,
+      "lon": 13.8015687
+    },
+    {
+      "type": "node",
+      "id": 3654876009,
+      "lat": 52.4896986,
+      "lon": 13.8002759
+    },
+    {
+      "type": "node",
+      "id": 4294673620,
+      "lat": 52.4878611,
+      "lon": 13.799355
+    },
+    {
+      "type": "node",
+      "id": 11461226700,
+      "lat": 52.4877727,
+      "lon": 13.8262704
+    },
+    {
+      "type": "node",
+      "id": 11461226701,
+      "lat": 52.4873142,
+      "lon": 13.8257353
+    },
+    {
+      "type": "node",
+      "id": 11461226702,
+      "lat": 52.4866465,
+      "lon": 13.8266368
+    },
+    {
+      "type": "node",
+      "id": 11461226703,
+      "lat": 52.4868163,
+      "lon": 13.8270424
+    },
+    {
+      "type": "node",
+      "id": 11461226704,
+      "lat": 52.487087,
+      "lon": 13.8270173
+    },
+    {
+      "type": "node",
+      "id": 569768316,
+      "lat": 52.494026,
+      "lon": 13.8201928
+    },
+    {
+      "type": "node",
+      "id": 569768317,
+      "lat": 52.4939641,
+      "lon": 13.8201362
+    },
+    {
+      "type": "node",
+      "id": 569768329,
+      "lat": 52.4945104,
+      "lon": 13.8204093
+    },
+    {
+      "type": "node",
+      "id": 569768330,
+      "lat": 52.4942579,
+      "lon": 13.8199094
+    },
+    {
+      "type": "node",
+      "id": 569768380,
+      "lat": 52.4930004,
+      "lon": 13.8214452
+    },
+    {
+      "type": "node",
+      "id": 569768382,
+      "lat": 52.4939641,
+      "lon": 13.821203
+    },
+    {
+      "type": "node",
+      "id": 2330321506,
+      "lat": 52.4931233,
+      "lon": 13.8212783
+    },
+    {
+      "type": "node",
+      "id": 569768299,
+      "lat": 52.4924283,
+      "lon": 13.8225842
+    },
+    {
+      "type": "node",
+      "id": 569768300,
+      "lat": 52.4921809,
+      "lon": 13.8229604
+    },
+    {
+      "type": "node",
+      "id": 569768301,
+      "lat": 52.4925005,
+      "lon": 13.8234964
+    },
+    {
+      "type": "node",
+      "id": 569768397,
+      "lat": 52.4945568,
+      "lon": 13.8215638
+    },
+    {
+      "type": "node",
+      "id": 569768400,
+      "lat": 52.4943455,
+      "lon": 13.821873
+    },
+    {
+      "type": "node",
+      "id": 569768409,
+      "lat": 52.4928355,
+      "lon": 13.8241407
+    },
+    {
+      "type": "node",
+      "id": 569768412,
+      "lat": 52.4931498,
+      "lon": 13.8251869
+    },
+    {
+      "type": "node",
+      "id": 569768413,
+      "lat": 52.4936343,
+      "lon": 13.8258363
+    },
+    {
+      "type": "node",
+      "id": 569768429,
+      "lat": 52.4941703,
+      "lon": 13.8255889
+    },
+    {
+      "type": "node",
+      "id": 569768435,
+      "lat": 52.4950464,
+      "lon": 13.8258878
+    },
+    {
+      "type": "node",
+      "id": 569768454,
+      "lat": 52.4965359,
+      "lon": 13.8235119
+    },
+    {
+      "type": "node",
+      "id": 569768479,
+      "lat": 52.4962473,
+      "lon": 13.8240015
+    },
+    {
+      "type": "node",
+      "id": 569768519,
+      "lat": 52.4947475,
+      "lon": 13.8262949
+    },
+    {
+      "type": "node",
+      "id": 569768520,
+      "lat": 52.4950464,
+      "lon": 13.8264496
+    },
+    {
+      "type": "node",
+      "id": 569768521,
+      "lat": 52.4954381,
+      "lon": 13.8273463
+    },
+    {
+      "type": "node",
+      "id": 569768523,
+      "lat": 52.4957422,
+      "lon": 13.8280524
+    },
+    {
+      "type": "node",
+      "id": 12271633036,
+      "lat": 52.4953091,
+      "lon": 13.825876
+    },
+    {
+      "type": "node",
+      "id": 12271633037,
+      "lat": 52.4951593,
+      "lon": 13.8256729
+    },
+    {
+      "type": "node",
+      "id": 569768524,
+      "lat": 52.4964328,
+      "lon": 13.8281606
+    },
+    {
+      "type": "node",
+      "id": 569768599,
+      "lat": 52.4988809,
+      "lon": 13.8270783
+    },
+    {
+      "type": "node",
+      "id": 569768542,
+      "lat": 52.4978965,
+      "lon": 13.8290986
+    },
+    {
+      "type": "node",
+      "id": 279253190,
+      "lat": 52.6372195,
+      "lon": 13.7533512
+    },
+    {
+      "type": "node",
+      "id": 279253191,
+      "lat": 52.6397313,
+      "lon": 13.7525643
+    },
+    {
+      "type": "node",
+      "id": 2127312089,
+      "lat": 52.6395884,
+      "lon": 13.7526897
+    },
+    {
+      "type": "node",
+      "id": 4485704931,
+      "lat": 52.6372654,
+      "lon": 13.7536914
+    },
+    {
+      "type": "node",
+      "id": 4485704933,
+      "lat": 52.637514,
+      "lon": 13.7555573
+    },
+    {
+      "type": "node",
+      "id": 12153916848,
+      "lat": 52.6401288,
+      "lon": 13.7553183
+    },
+    {
+      "type": "node",
+      "id": 12153916849,
+      "lat": 52.6398906,
+      "lon": 13.7535861
+    },
+    {
+      "type": "node",
+      "id": 12153916850,
+      "lat": 52.6396274,
+      "lon": 13.7528277
+    },
+    {
+      "type": "node",
+      "id": 2127312101,
+      "lat": 52.6410807,
+      "lon": 13.762418
+    },
+    {
+      "type": "node",
+      "id": 9958261879,
+      "lat": 52.6381957,
+      "lon": 13.7613204
+    },
+    {
+      "type": "node",
+      "id": 279253188,
+      "lat": 52.6410739,
+      "lon": 13.7639032
+    },
+    {
+      "type": "node",
+      "id": 279253189,
+      "lat": 52.6389438,
+      "lon": 13.7678097
+    },
+    {
+      "type": "node",
+      "id": 305279462,
+      "lat": 52.6390002,
+      "lon": 13.7689578
+    },
+    {
+      "type": "node",
+      "id": 1647173463,
+      "lat": 52.6406786,
+      "lon": 13.7655431
+    },
+    {
+      "type": "node",
+      "id": 2127312102,
+      "lat": 52.6409834,
+      "lon": 13.7644527
+    },
+    {
+      "type": "node",
+      "id": 9958261880,
+      "lat": 52.638451,
+      "lon": 13.7635432
+    },
+    {
+      "type": "node",
+      "id": 10125472284,
+      "lat": 52.6386155,
+      "lon": 13.7649055
+    },
+    {
+      "type": "node",
+      "id": 10125472285,
+      "lat": 52.6388393,
+      "lon": 13.7668702
+    },
+    {
+      "type": "node",
+      "id": 10125472286,
+      "lat": 52.6389054,
+      "lon": 13.7675284
+    },
+    {
+      "type": "node",
+      "id": 10125472288,
+      "lat": 52.6389866,
+      "lon": 13.7685193
+    },
+    {
+      "type": "node",
+      "id": 12153916844,
+      "lat": 52.6408253,
+      "lon": 13.7650782
+    },
+    {
+      "type": "node",
+      "id": 12153916845,
+      "lat": 52.6411144,
+      "lon": 13.7633152
+    },
+    {
+      "type": "node",
+      "id": 12153916846,
+      "lat": 52.6411094,
+      "lon": 13.762864
+    }
+  ]
+}

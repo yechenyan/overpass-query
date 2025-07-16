@@ -1,0 +1,63 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-16T08:13:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 224349850,
+      "nodes": [
+        2331684635,
+        2331684636,
+        2331684637,
+        8196707775,
+        8196707776,
+        2331684638,
+        2331684635
+      ],
+      "tags": {
+        "building": "industrial",
+        "name": "Nagel Group - Schulze Logistik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2331684636,
+      "lat": 52.5543606,
+      "lon": 12.9737073
+    },
+    {
+      "type": "node",
+      "id": 2331684637,
+      "lat": 52.553806,
+      "lon": 12.9748116
+    },
+    {
+      "type": "node",
+      "id": 8196707775,
+      "lat": 52.5548006,
+      "lon": 12.9761149
+    },
+    {
+      "type": "node",
+      "id": 2331684638,
+      "lat": 52.5562756,
+      "lon": 12.9780477
+    },
+    {
+      "type": "node",
+      "id": 8196707776,
+      "lat": 52.5550392,
+      "lon": 12.9764275
+    },
+    {
+      "type": "node",
+      "id": 2331684635,
+      "lat": 52.5568302,
+      "lon": 12.976905
+    }
+  ]
+}

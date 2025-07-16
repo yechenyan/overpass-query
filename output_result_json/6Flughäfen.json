@@ -1,0 +1,49 @@
+[
+    {
+        "tags": {
+            "aerodrome": "private",
+            "aeroway": "aerodrome",
+            "icao": "EDBW",
+            "image": "https://photos.app.goo.gl/F6C1MTPn8fwVSKhx7",
+            "landuse": "commercial",
+            "name": "Flugplatz Werneuchen",
+            "wikidata": "Q1433937"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aerodrome": "international",
+            "aerodrome:type": "international",
+            "aeroway": "aerodrome",
+            "alt_name": "Flughafen Berlin",
+            "ele": "47",
+            "iata": "BER",
+            "icao": "EDDB",
+            "int_name": "Berlin Brandenburg Airport Willy Brandt",
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "name": "Flughafen Berlin Brandenburg",
+            "name:de": "Flughafen Berlin Brandenburg „Willy Brandt“",
+            "name:dsb": "Lětanišćo Barliń Bramborska",
+            "name:en": "Berlin Brandenburg Airport \"Willy Brandt\"",
+            "name:fi": "Berliinin–Brandenburgin lentoasema",
+            "name:fr": "Aéroport Willy-Brandt de Berlin-Brandebourg",
+            "name:he": "נמל התעופה הבינלאומי ברלין ברנדנבורג",
+            "name:it": "Aeroporto di Berlino-Brandeburgo",
+            "name:ru": "Аэропорт Берлин-Бранденбург имени Вилли Брандта",
+            "name:zh": "柏林勃兰登堡机场",
+            "opening_hours": "24/7",
+            "operator": "Flughafen Berlin Brandenburg GmbH",
+            "operator:type": "public",
+            "phone": "+49 30 6091 6091 0",
+            "short_name": "BER",
+            "start_date": "2020-11",
+            "type": "multipolygon",
+            "website": "https://ber.berlin-airport.de/",
+            "wikidata": "Q160556",
+            "wikipedia": "de:Flughafen Berlin Brandenburg"
+        },
+        "name": null
+    }
+]

@@ -1,0 +1,449 @@
+[
+    {
+        "tags": {
+            "man_made": "works",
+            "name": "Bau Clement",
+            "operator": "Reiner Clement",
+            "phone": "+49-30-6493129",
+            "website": "http://bau-clement.de/",
+            "works": "construction"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "man_made": "works",
+            "name": "Lambers Dachbau Bauausführungs GmbH",
+            "operator": "Wolf-Rüdiger Lambers",
+            "phone": "+49-30-6498502",
+            "works": "construction"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "32",
+            "addr:postcode": "13407",
+            "addr:street": "Markscheiderstraße",
+            "addr:suburb": "Reinickendorf",
+            "man_made": "works",
+            "name": "Lichtner-Dyckerhoff Beton GmbH & Co. KG",
+            "phone": "+493033000276",
+            "source": "http://www.lichtner.dyckerhoff.de/online/de/Home/Standorte/articolo17.html",
+            "website": "http://www.lichtner.dyckerhoff.de/online/de/Home.html"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "man_made": "works",
+            "name": "Metallbau Will GmbH",
+            "phone": "+49 30 64388218"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "man_made": "works",
+            "name": "Weka Holzbau GmbH"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "53",
+            "addr:postcode": "12587",
+            "addr:street": "Rahnsdorfer Straße",
+            "addr:suburb": "Friedrichshagen",
+            "man_made": "works",
+            "name": "Friedrichshagener Maschinenbau und Fördertechnik GmbH",
+            "phone": "+49 30 64450",
+            "product": "steel and metal constructions",
+            "source": "Geoportal Berlin / Hauskoordinaten",
+            "website": "https://www.metallbau.com/berlin/friedrichshagener-maschinenbau-und-f%C3%B6rdertechnik-gmbh-183617.html"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:country": "DE",
+            "addr:housenumber": "241",
+            "addr:postcode": "12459",
+            "addr:street": "An der Wuhlheide",
+            "addr:suburb": "Oberschöneweide",
+            "contact:phone": "+49 305350304",
+            "contact:website": "https://www.maier-tiefbau.de",
+            "man_made": "works",
+            "name": "Oliver Maier Tiefbau BAUHOF Berlin"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Werneuchen",
+            "addr:housenumber": "6",
+            "addr:postcode": "16356",
+            "addr:street": "Alte Hirschfelder Straße",
+            "industrial": "concrete_plant",
+            "landuse": "industrial",
+            "name": "Bauhof Werneuchen"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "28",
+            "addr:postcode": "12277",
+            "addr:street": "Motzener Straße",
+            "addr:suburb": "Marienfelde",
+            "building": "yes",
+            "man_made": "works",
+            "name": "bau + art"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "36",
+            "addr:postcode": "12057",
+            "addr:street": "Dieselstraße",
+            "contact:email": "info@dalhoff-bau.de",
+            "contact:fax": "+49 30 684088734",
+            "contact:phone": "+49 30 68408870",
+            "contact:website": "https://dalhoff-bau.de/",
+            "industrial": "construction_company",
+            "landuse": "industrial",
+            "name": "Dalhoff Straßen- und Tiefbau"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "industrial",
+            "name": "Bauhof Tiefbauamt Treptow-Köpenick"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "17",
+            "addr:street": "Soltauer Straße",
+            "addr:suburb": "Borsigwalde",
+            "landuse": "industrial",
+            "name": "Zi-Do Gerüstbau GmbH"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "industrial",
+            "name": "Hans Englert OHG - Elektronik Leiterplatten Geraetebau",
+            "operator": "Hans Englert OHG"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "industrial",
+            "name": "Betonwerk"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "industrial",
+            "name": "Bauhof"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "fax": "+49 30 754936-99",
+            "man_made": "works",
+            "name": "Kanold Garten- Landschafts- und Sportplatzbau",
+            "phone": "+49 30 754936-0"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "industrial",
+            "name": "BZH / Bau- und Zuschlagsstoffhandel GmbH"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "industrial",
+            "name": "Hans-Peter Schmidt Tiefbau GmbH"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Schöneiche bei Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "4",
+            "addr:postcode": "15566",
+            "addr:street": "Dorfaue",
+            "landuse": "commercial",
+            "man_made": "works",
+            "name": "Bautischlerei Manfred Joachim",
+            "phone": "+49-30-6498390",
+            "works": "carpenter"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Schöneiche bei Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "45",
+            "addr:postcode": "15566",
+            "addr:street": "Dorfaue",
+            "landuse": "commercial",
+            "man_made": "works",
+            "name": "Schmiede und Metallbau Gerhard Marquardt",
+            "phone": "+49-30-6498290",
+            "works": "blacksmith"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "email": "info@berdingbeton.de",
+            "fax": "+4933638 3022 1",
+            "landuse": "industrial",
+            "name": "Berding Beton - Betonsteinwerk Rüdersdorf",
+            "phone": "+4933638 3022 0",
+            "website": "https://www.berdingbeton.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Rüdersdorf bei Berlin",
+            "addr:housenumber": "1",
+            "addr:postcode": "15562",
+            "addr:street": "Tasdorf Süd",
+            "addr:suburb": "Rüdersdorf",
+            "building": "commercial",
+            "man_made": "works",
+            "name": "HKL Baumaschinen"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Rüdersdorf bei Berlin",
+            "addr:housenumber": "1",
+            "addr:postcode": "15562",
+            "addr:street": "Tasdorf Süd",
+            "addr:suburb": "Rüdersdorf",
+            "building": "commercial",
+            "man_made": "works",
+            "name": "HKL Baumaschinen"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "industrial",
+            "name": "bwb Betonwerk Velten"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "barrier": "fence",
+            "landuse": "industrial",
+            "name": "Bezirksamt Hellersdorf von Berlin Tiefbauamt"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "33",
+            "addr:postcode": "12689",
+            "addr:street": "Hellersdorfer Weg",
+            "addr:suburb": "Marzahn",
+            "landuse": "industrial",
+            "name": "AS+BE Asphalt- und Betonstraßenbau",
+            "source": "Geoportal Berlin / Hauskoordinaten",
+            "website": "https://www.asbe-strassenbau.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "14",
+            "addr:postcode": "12681",
+            "addr:street": "Hornoer Ring",
+            "barrier": "fence",
+            "landuse": "industrial",
+            "name": "KaGaWa Rohrleitungs- und Anlagenbau GmbH",
+            "website": "https://kagawa-gmbh.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "27",
+            "addr:postcode": "12681",
+            "addr:street": "Boxberger Straße",
+            "landuse": "industrial",
+            "name": "Bauausrüstungen + Service Behnke & Sänger GmbH",
+            "phone": "+49 30 80 40 81 50"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "23",
+            "addr:postcode": "12681",
+            "addr:street": "Boxberger Straße",
+            "addr:suburb": "Marzahn",
+            "barrier": "fence",
+            "landuse": "industrial",
+            "name": "Bautrocknung Schmittgall GmbH",
+            "website": "https://www.bautrocknung.com/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "industrial",
+            "name": "Schlosserei & Maschinenbau Jürgen Rikwald",
+            "website": "https://www.rikwald.de/index0.html"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "24D",
+            "addr:postcode": "13407",
+            "addr:street": "Flottenstraße",
+            "landuse": "industrial",
+            "name": "Matthäi Bauunternehmen GmbH & Co.KG"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "48c",
+            "addr:postcode": "12681",
+            "addr:street": "Rhinstraße",
+            "addr:suburb": "Marzahn",
+            "landuse": "industrial",
+            "name": "SCHWENK Beton Berlin-Brandenburg"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "industrial": "depot",
+            "landuse": "industrial",
+            "name": "Bauhof Zweckverband TKS",
+            "website": "https://zv-tks.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "description": "Werk 3",
+            "industrial": "factory",
+            "landuse": "industrial",
+            "name": "Hans Timm Fensterbau",
+            "website": "https://www.timm-fensterbau.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "description": "Werk 2",
+            "industrial": "factory",
+            "landuse": "industrial",
+            "name": "Hans Timm Fensterbau",
+            "website": "https://www.timm-fensterbau.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "industrial": "factory",
+            "landuse": "industrial",
+            "name": "Mema Metallbau",
+            "website": "https://www.mema-berlin.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "industrial": "recycling",
+            "landuse": "industrial",
+            "name": "Parey Baustoff-Recycling",
+            "website": "https://www.baukies-parey.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "5",
+            "addr:postcode": "12099",
+            "addr:street": "Saalburgstraße",
+            "addr:suburb": "Tempelhof",
+            "industrial": "concrete_plant",
+            "landuse": "industrial",
+            "name": "Schwenk Beton Werk Tempelhof",
+            "operator": "Schwenk Beton Berlin-Brandenburg GmbH"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "industrial": "concrete_plant",
+            "landuse": "industrial",
+            "name": "Cemex Transportbeton",
+            "website": "https://www.cemex.de/-/transportbeton-r%25C3%25BCdersdorf"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "industrial": "concrete_plant",
+            "landuse": "industrial",
+            "name": "Berger Beton"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "industrial": "concrete_plant",
+            "landuse": "industrial",
+            "name": "Lichtner Beton Brandenburg"
+        },
+        "name": null
+    }
+]
