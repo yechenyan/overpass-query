@@ -1,12 +1,97 @@
 [
     {
         "tags": {
+            "abandoned:railway": "station",
+            "disused:railway": "station",
+            "historic:railway": "yard",
+            "name": "Güterbahnhof Weißensee"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "board_type": "history",
+            "description": "Gedenkort, Deportationen vom Güterbahnhof Moabit",
+            "description:en": "Memorial site, Deportations from Moabit Freight Depot",
+            "information": "board",
+            "name": "Gedenkort Güterbahnhof Moabit",
+            "tourism": "information"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "disused": "yes",
+            "historic:railway": "yard",
+            "name": "Güterbahnhof Buchholz"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "disused": "yes",
+            "historic:railway": "yard",
+            "name": "Güterbahnhof Hohenschönhausen"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "abandoned": "yes",
+            "disused": "yes",
+            "historic:railway": "yard",
+            "name": "Güterbahnhof Heinersdorf"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "board_type": "history",
+            "check_date": "2023-03-11",
+            "description": "Gedenkort Güterbahnhof Moabit",
+            "description:en": "Güterbahnhof Moabit Memorial",
+            "information": "board",
+            "name": "Gedenkort Güterbahnhof Moabit",
+            "tourism": "information"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "name": "Berlin Ostgüterbahnhof (B7)",
             "official_name": "Berlin Warschauer Straße (F-Bahn) Bft",
             "operator": "DB Netz AG",
             "railway": "service_station",
             "railway:ref": "BOSGA",
             "railway:ref:parent": "BHF"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "abandoned:landuse": "industrial",
+            "name": "Güterbahnhof Schönholz"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "16-25",
+            "addr:postcode": "13467",
+            "addr:street": "Ulmenstraße",
+            "addr:suburb": "Hermsdorf",
+            "name": "Güterbahnhof Hermsdorf (stillgelegt)",
+            "operator": "DB Netz AG",
+            "public_transport": "station"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "landuse": "commercial",
+            "name": "ehemals Güterbahnhof Halensee"
         },
         "name": null
     },
@@ -54,9 +139,44 @@
     },
     {
         "tags": {
+            "landuse": "commercial",
+            "name": "Güterbahnhof Tempelhof"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "heritage": "4",
+            "heritage:operator": "lda",
+            "lda:criteria": "Baudenkmal",
+            "name": "Güterbahnhof Reinickendorf",
+            "ref:lda": "09012287",
+            "start_date": "1930"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "disused": "yes",
+            "landuse": "brownfield",
+            "name": "Ehemaliger Güterbahnhof Berlin-Köpenick"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "landuse": "railway",
             "name": "Güterbahnhof Berlin-Treptow",
             "operator": "VEPAS Bahnservice"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "description": "Bebauungsplan 03/19 Gemeinde Schönefeld",
+            "landuse": "brownfield",
+            "name": "Ehemaliger Güterbahnhof"
         },
         "name": null
     },
@@ -66,6 +186,31 @@
             "name": "KV-Terminal Großbeeren",
             "railway": "container_terminal",
             "source": "http://www.gvz-berlin.de/3-standorte/berlin-sued/grossbeeren/karte.html"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Güterbahnhof Ruhleben",
+            "network": "Verkehrsverbund Berlin-Brandenburg",
+            "network:short": "VBB",
+            "operator": "Berliner Verkehrsbetriebe",
+            "operator:short": "BVG",
+            "public_transport": "stop_area",
+            "type": "public_transport"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "artist_name": "raumlabor berlin",
+            "historic": "memorial",
+            "memorial": "plaque",
+            "name": "Gedenkort Güterbahnhof Moabit",
+            "name:en": "Güterbahnhof Moabit Memorial",
+            "type": "multipolygon",
+            "wheelchair": "limited",
+            "wikidata": "Q107124313"
         },
         "name": null
     }

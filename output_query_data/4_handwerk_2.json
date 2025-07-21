@@ -2,605 +2,10 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-16T11:43:11Z",
+    "timestamp_osm_base": "2025-07-21T06:14:05Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
-    {
-      "type": "node",
-      "id": 416660121,
-      "lat": 52.512395,
-      "lon": 13.304749,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "32",
-        "addr:postcode": "10585",
-        "addr:street": "Wilmersdorfer Stra\u00dfe",
-        "addr:suburb": "Charlottenburg",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "check_date": "2023-04-09",
-        "check_date:opening_hours": "2024-04-18",
-        "contact:phone": "+49 30 3479040",
-        "level": "0",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off",
-        "phone": "+49 30 3479040",
-        "shop": "doityourself",
-        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-charlottenburg/fc/812",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 422779946,
-      "lat": 52.5035993,
-      "lon": 13.3440523,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "3-4",
-        "addr:postcode": "10787",
-        "addr:street": "Bayreuther Stra\u00dfe",
-        "addr:suburb": "Sch\u00f6neberg",
-        "branch": "Berlin Sch\u00f6neberg",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "de:Bauhaus (Baumarkt)",
-        "email": "Info.NL840@bauhaus-ag.de",
-        "internet_access": "wlan",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Sa 09:00-20:00",
-        "operator": "Bauhaus",
-        "phone": "+49 30 2351000",
-        "shop": "doityourself",
-        "toilets:wheelchair": "no",
-        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-schoeneberg/fc/840",
-        "wheelchair": "limited",
-        "wheelchair:description": "Das UG ist nur mit einem Lastenaufzug zu erreichen. Zum \u00f6ffnen und schlie\u00dfen der Fahrstuhlt\u00fcren ist man auf Hilfe angewiesen."
-      }
-    },
-    {
-      "type": "node",
-      "id": 490066695,
-      "lat": 52.5950747,
-      "lon": 13.3359213,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "229-245",
-        "addr:postcode": "13435",
-        "addr:street": "Wilhelmsruher Damm",
-        "addr:suburb": "Wittenau",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "check_date:opening_hours": "2023-06-27",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Sa 08:00-20:00",
-        "operator": "Bauhaus Berlin-Wittenau",
-        "phone": "+49 30 4080000",
-        "shop": "doityourself",
-        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-wittenau/fc/850",
-        "wheelchair": "yes",
-        "wheelchair:description": "\u00d6ffnungszeiten: Mo-Sa 08:00 Uhr-20:00 Uhr"
-      }
-    },
-    {
-      "type": "node",
-      "id": 747050568,
-      "lat": 52.5745644,
-      "lon": 13.3264657,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "86-90",
-        "addr:postcode": "13403",
-        "addr:street": "Waldstra\u00dfe",
-        "addr:suburb": "Reinickendorf",
-        "name": "B1 Baumarkt",
-        "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00",
-        "phone": "+49 30 41748910",
-        "shop": "doityourself",
-        "website": "https://www.b1-discount.de/",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
-      "id": 827981343,
-      "lat": 52.7218694,
-      "lon": 13.4333101,
-      "tags": {
-        "addr:city": "Wandlitz",
-        "addr:housenumber": "29a",
-        "addr:postcode": "16348",
-        "addr:street": "Z\u00fchlsdorfer Stra\u00dfe",
-        "addr:suburb": "Basdorf",
-        "name": "ALT-Baufertigteile",
-        "shop": "trade"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1566024810,
-      "lat": 52.4729363,
-      "lon": 13.7111975,
-      "tags": {
-        "man_made": "works",
-        "name": "Bau Clement",
-        "operator": "Reiner Clement",
-        "phone": "+49-30-6493129",
-        "website": "http://bau-clement.de/",
-        "works": "construction"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1566025134,
-      "lat": 52.4719347,
-      "lon": 13.71016,
-      "tags": {
-        "man_made": "works",
-        "name": "Lambers Dachbau Bauausf\u00fchrungs GmbH",
-        "operator": "Wolf-R\u00fcdiger Lambers",
-        "phone": "+49-30-6498502",
-        "works": "construction"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1732270317,
-      "lat": 52.3851318,
-      "lon": 13.1080603,
-      "tags": {
-        "addr:city": "Potsdam",
-        "addr:country": "DE",
-        "addr:housenumber": "123-125",
-        "addr:postcode": "14482",
-        "addr:street": "Gro\u00dfbeerenstra\u00dfe",
-        "addr:suburb": "Babelsberg S\u00fcd",
-        "automatic_door": "infrared",
-        "branch": "Potsdam Babelsberg",
-        "brand": "toom Baumarkt",
-        "brand:wikidata": "Q2442970",
-        "brand:wikipedia": "de:toom Baumarkt",
-        "check_date:opening_hours": "2025-07-15",
-        "contact:phone": "+49 331 743 750",
-        "door": "sliding",
-        "level": "0",
-        "name": "toom Baumarkt",
-        "name:ar": "\u062a\u0648\u0645",
-        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
-        "operator": "toom Baumarkt GmbH",
-        "operator:type": "business",
-        "operator:wikidata": "Q2442970",
-        "operator:wikipedia": "de:toom Baumarkt",
-        "shop": "doityourself",
-        "short_name": "toom",
-        "website": "https://toom.de/m/potsdam-babelsberg/",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2642243462,
-      "lat": 52.5223479,
-      "lon": 13.4655699,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "44",
-        "addr:postcode": "10249",
-        "addr:street": "Hermann-Blankenstein-Stra\u00dfe",
-        "brand": "toom Baumarkt",
-        "brand:wikidata": "Q2442970",
-        "brand:wikipedia": "de:Toom Baumarkt",
-        "check_date:opening_hours": "2024-09-13",
-        "name": "toom Baumarkt",
-        "opening_hours": "Mo-Th,Sa 08:00-20:00; Fr 08:00-20:00",
-        "phone": "+49 30 46776210",
-        "shop": "doityourself",
-        "short_name": "toom",
-        "toilets:wheelchair": "yes",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2660101993,
-      "lat": 52.5352173,
-      "lon": 13.709315,
-      "tags": {
-        "addr:city": "Neuenhagen bei Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "2",
-        "addr:postcode": "15366",
-        "addr:street": "Zum M\u00fchlenflie\u00df",
-        "name": "Baustoff Union Neuenhagen",
-        "shop": "doityourself",
-        "website": "https://www.bun-neuenhagen.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2691023230,
-      "lat": 52.5801951,
-      "lon": 13.3580534,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "32",
-        "addr:postcode": "13407",
-        "addr:street": "Markscheiderstra\u00dfe",
-        "addr:suburb": "Reinickendorf",
-        "man_made": "works",
-        "name": "Lichtner-Dyckerhoff Beton GmbH & Co. KG",
-        "phone": "+493033000276",
-        "source": "http://www.lichtner.dyckerhoff.de/online/de/Home/Standorte/articolo17.html",
-        "website": "http://www.lichtner.dyckerhoff.de/online/de/Home.html"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2960298857,
-      "lat": 52.473603,
-      "lon": 13.7379402,
-      "tags": {
-        "man_made": "works",
-        "name": "Metallbau Will GmbH",
-        "phone": "+49 30 64388218"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2960298858,
-      "lat": 52.4734543,
-      "lon": 13.7365259,
-      "tags": {
-        "man_made": "works",
-        "name": "Weka Holzbau GmbH"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3156254977,
-      "lat": 52.3820324,
-      "lon": 13.2442317,
-      "tags": {
-        "brand": "toom Baumarkt",
-        "brand:wikidata": "Q2442970",
-        "brand:wikipedia": "de:Toom Baumarkt",
-        "name": "toom Baumarkt",
-        "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00",
-        "payment:american_express": "yes",
-        "payment:girocard": "yes",
-        "payment:mastercard": "yes",
-        "payment:visa": "yes",
-        "shop": "doityourself",
-        "short_name": "toom",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3480954770,
-      "lat": 52.3795769,
-      "lon": 13.1124638,
-      "tags": {
-        "addr:city": "Potsdam",
-        "addr:country": "DE",
-        "addr:housenumber": "11",
-        "addr:postcode": "14482",
-        "addr:street": "Orenstein-&-Koppel-Stra\u00dfe",
-        "addr:suburb": "Babelsberg S\u00fcd",
-        "name": "Brun & B\u00f6hm Baustoffe GmbH",
-        "opening_hours": "Mo-Fr 06:30-18:00; Sa 08:00-15:00",
-        "phone": "+49 331 5818880",
-        "shop": "trade",
-        "trade": "building_supplies",
-        "website": "https://www.brunundboehm.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3959492192,
-      "lat": 52.5372605,
-      "lon": 13.6329711,
-      "tags": {
-        "addr:city": "Hoppegarten",
-        "addr:housenumber": "59-63",
-        "addr:postcode": "15366",
-        "addr:street": "Mahlsdorfer Stra\u00dfe",
-        "addr:suburb": "H\u00f6now",
-        "brand": "Sonderpreis Baumarkt",
-        "brand:wikidata": "Q102247917",
-        "name": "Sonderpreis Baumarkt",
-        "shop": "doityourself",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4376414815,
-      "lat": 52.5861048,
-      "lon": 13.3193228,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "180",
-        "addr:postcode": "13509",
-        "addr:street": "Holzhauser Stra\u00dfe",
-        "email": "info@daemmisol.de",
-        "fax": "+49 30 61781 400",
-        "name": "D\u00e4mmisol Baustoffe",
-        "opening_hours": "Mo-Fr 06:00-17:00",
-        "phone": "+49 30 61781 0",
-        "shop": "trade",
-        "website": "https://www.daemmisol.de/standorte/berlin-reinickendorf/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4580891593,
-      "lat": 52.4686018,
-      "lon": 13.3695428,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "18",
-        "addr:postcode": "12103",
-        "addr:street": "Alboinstra\u00dfe",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "check_date:opening_hours": "2024-04-27",
-        "email": "Service.NL597@bauhaus-ag.de",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00",
-        "payment:cash": "yes",
-        "payment:contactless": "yes",
-        "payment:credit_cards": "yes",
-        "phone": "+49 30 7551560",
-        "shop": "doityourself",
-        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-schoeneberg/fc/597",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 5114616547,
-      "lat": 52.3640734,
-      "lon": 13.2055074,
-      "tags": {
-        "addr:city": "Stahnsdorf",
-        "addr:country": "DE",
-        "addr:housenumber": "12",
-        "addr:postcode": "14532",
-        "addr:street": "Gro\u00dfbeerenstra\u00dfe",
-        "addr:suburb": "G\u00fcterfelde",
-        "name": "th-beton GmbH",
-        "shop": "trade"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6715955185,
-      "lat": 52.530429,
-      "lon": 13.110998,
-      "tags": {
-        "addr:city": "Dallgow-D\u00f6beritz",
-        "addr:country": "DE",
-        "addr:housenumber": "200",
-        "addr:postcode": "14624",
-        "addr:street": "Hamburger Chaussee",
-        "amenity": "recycling",
-        "contact:phone": "+49 30 8479170",
-        "contact:website": "https://www.baukies-parey.de/",
-        "name": "Baukies Parey",
-        "recycling:hardcore": "yes",
-        "recycling:rubble": "yes",
-        "recycling_type": "centre",
-        "shop": "trade",
-        "trade": "building_supplies"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6960795385,
-      "lat": 52.4007985,
-      "lon": 13.4406039,
-      "tags": {
-        "addr:city": "Sch\u00f6nefeld",
-        "addr:housenumber": "117",
-        "addr:postcode": "12529",
-        "addr:street": "Karl-Marx-Stra\u00dfe",
-        "addr:suburb": "Gro\u00dfziethen",
-        "brand": "Sonderpreis Baumarkt",
-        "brand:wikidata": "Q102247917",
-        "name": "Sonderpreis Baumarkt",
-        "shop": "doityourself"
-      }
-    },
-    {
-      "type": "node",
-      "id": 7616134539,
-      "lat": 52.497919,
-      "lon": 13.2922728,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "27",
-        "addr:postcode": "10711",
-        "addr:street": "Katharinenstra\u00dfe",
-        "addr:suburb": "Halensee",
-        "name": "EcoBau Elemente",
-        "shop": "trade",
-        "trade": "building_supplies",
-        "website": "https://www.ecobau-elemente.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8146240363,
-      "lat": 52.4510567,
-      "lon": 13.6382429,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "53",
-        "addr:postcode": "12587",
-        "addr:street": "Rahnsdorfer Stra\u00dfe",
-        "addr:suburb": "Friedrichshagen",
-        "man_made": "works",
-        "name": "Friedrichshagener Maschinenbau und F\u00f6rdertechnik GmbH",
-        "phone": "+49 30 64450",
-        "product": "steel and metal constructions",
-        "source": "Geoportal Berlin / Hauskoordinaten",
-        "website": "https://www.metallbau.com/berlin/friedrichshagener-maschinenbau-und-f%C3%B6rdertechnik-gmbh-183617.html"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9215928562,
-      "lat": 52.4208439,
-      "lon": 13.5418826,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "23",
-        "addr:postcode": "12524",
-        "addr:street": "Besenbinderstra\u00dfe",
-        "addr:suburb": "Altglienicke",
-        "contact:website": "https://www.amr-shop.de",
-        "name": "AMR Dachbaustoffe",
-        "opening_hours": "Mo-Th 07:00-17:00; Fr 07:00-13:00",
-        "shop": "trade",
-        "trade": "building_supplies",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9625920511,
-      "lat": 52.6079852,
-      "lon": 13.5272136,
-      "tags": {
-        "addr:city": "Ahrensfelde",
-        "addr:country": "DE",
-        "addr:housenumber": "6",
-        "addr:postcode": "16356",
-        "addr:street": "Rudolf-Diesel-Stra\u00dfe",
-        "addr:suburb": "Lindenberg",
-        "brand": "Globus Baumarkt",
-        "brand:wikidata": "Q457503",
-        "brand:wikipedia": "de:Globus Holding",
-        "check_date:opening_hours": "2025-07-11",
-        "name": "Globus Baumarkt",
-        "opening_hours": "Mo-Sa 08:00-20:00",
-        "shop": "doityourself",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10057200156,
-      "lat": 52.4645921,
-      "lon": 13.3268438,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "1",
-        "addr:postcode": "12163",
-        "addr:street": "Schlo\u00dfstra\u00dfe",
-        "addr:suburb": "Steglitz",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "email": "service.nl894@bauhaus-ag.de",
-        "level": "-1",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Sa 08:00-20:00",
-        "phone": "+49 30 29381980",
-        "shop": "doityourself",
-        "start_date": "2022-10-21",
-        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-steglitz/fc/894"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11059529684,
-      "lat": 52.4075183,
-      "lon": 13.3722721,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "26",
-        "addr:postcode": "12277",
-        "addr:street": "Nahmitzer Damm",
-        "addr:suburb": "Marienfelde",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-marienfelde/fc/604",
-        "email": "service.NL604@bauhaus-ag.de",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
-        "operator": "BAUHAUS Fachcentren Berlin GmbH & Co. KG",
-        "phone": "+49 30 720050",
-        "shop": "doityourself",
-        "source": "Geoportal Berlin / Hauskoordinaten",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11919460425,
-      "lat": 52.6607343,
-      "lon": 13.6328067,
-      "tags": {
-        "name": "Hoffmann Baumaschinen",
-        "opening_hours": "Mo-Fr 07:00-16:00",
-        "shop": "trade"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12148118351,
-      "lat": 52.3890321,
-      "lon": 13.2393874,
-      "tags": {
-        "contact:website": "https://rpbauelemente.de/",
-        "name": "RP Bauelemente",
-        "shop": "trade"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12809977271,
-      "lat": 52.4424478,
-      "lon": 13.4263748,
-      "tags": {
-        "name": "Konak Baustoffhandel",
-        "shop": "trade"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12883061429,
-      "lat": 52.4567392,
-      "lon": 13.5545661,
-      "tags": {
-        "addr:country": "DE",
-        "addr:housenumber": "241",
-        "addr:postcode": "12459",
-        "addr:street": "An der Wuhlheide",
-        "addr:suburb": "Obersch\u00f6neweide",
-        "contact:phone": "+49 305350304",
-        "contact:website": "https://www.maier-tiefbau.de",
-        "man_made": "works",
-        "name": "Oliver Maier Tiefbau BAUHOF Berlin"
-      }
-    },
     {
       "type": "way",
       "id": 23326087,
@@ -630,149 +35,6 @@
         "name": "GSW Wohnungsbau mbH",
         "wikidata": "Q117705688",
         "wikimedia_commons": "Category:Gro\u00dfsiedlung Siemensstadt \u2013 Heiz- und Waschhaus (Bartning)"
-      }
-    },
-    {
-      "type": "way",
-      "id": 24049246,
-      "nodes": [
-        6313307369,
-        6313307368,
-        6313307367,
-        6313307366,
-        6313307365,
-        6313307364,
-        6313307363,
-        3659165731,
-        6313307362,
-        6313307361,
-        6313307360,
-        6313307359,
-        6313307358,
-        6313307357,
-        6313307356,
-        6313307355,
-        6313306708,
-        6313307354,
-        6313307353,
-        6313307352,
-        6313307351,
-        6313307350,
-        6313307349,
-        6313307348,
-        6313306707,
-        6313306694,
-        6313307347,
-        6313307346,
-        6313307345,
-        6313307344,
-        6313307343,
-        6313307342,
-        6313307341,
-        6313307340,
-        6313307339,
-        3659165730,
-        6313307338,
-        6313307337,
-        6313307336,
-        6313307335,
-        6313307334,
-        10599910399,
-        10599910398,
-        10599910400,
-        10599910397,
-        6313307331,
-        6313307330,
-        6313307329,
-        6313307328,
-        6313307327,
-        6313307369
-      ],
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "1-2",
-        "addr:postcode": "13405",
-        "addr:street": "Kapweg",
-        "addr:suburb": "Wedding",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "building": "commercial",
-        "building:levels": "2",
-        "check_date:opening_hours": "2024-02-01",
-        "email": "Service.NL656@bauhaus-ag.de",
-        "fax": "+49 30 364111113",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
-        "phone": "+49 30 36411110",
-        "roof:levels": "0",
-        "roof:shape": "flat",
-        "shop": "doityourself",
-        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-wedding/fc/656",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "way",
-      "id": 24230210,
-      "nodes": [
-        2255293438,
-        7737342995,
-        7737342994,
-        2255293443,
-        3067124847,
-        2833879055,
-        262351982,
-        3067124841,
-        3067124842,
-        3067124839,
-        262351983,
-        4083693085,
-        7737342993,
-        262351986,
-        7737342996,
-        7737342997,
-        2255293438
-      ],
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "139",
-        "addr:postcode": "12439",
-        "addr:street": "Schnellerstra\u00dfe",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "building": "retail",
-        "building:levels": "1",
-        "check_date:opening_hours": "2021-08-14",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
-        "roof:shape": "flat",
-        "shop": "doityourself",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "way",
-      "id": 24694419,
-      "nodes": [
-        268422503,
-        268422504,
-        268422505,
-        268422506,
-        268422503
-      ],
-      "tags": {
-        "addr:city": "Petershagen/Eggersdorf",
-        "addr:housenumber": "2",
-        "addr:postcode": "15345",
-        "addr:street": "Am Fuchsbau",
-        "addr:suburb": "Eggersdorf",
-        "building": "industrial",
-        "building:levels": "2",
-        "name": "Metallbau Kunstschlosserei Dickmann",
-        "roof:shape": "gabled"
       }
     },
     {
@@ -861,56 +123,6 @@
     },
     {
       "type": "way",
-      "id": 25114190,
-      "nodes": [
-        1347948658,
-        1347948659,
-        273433156,
-        5792495495,
-        5792495493,
-        5792495494,
-        5792495496,
-        5792495497,
-        5792495498,
-        5792495502,
-        5792495501,
-        5792495499,
-        5792495500,
-        1347948667,
-        1347948662,
-        1347948663,
-        1347948670,
-        273433148,
-        273433147,
-        7609369465,
-        273433146,
-        273433152,
-        1325643617,
-        273433153,
-        1347948658
-      ],
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "6",
-        "addr:postcode": "13597",
-        "addr:street": "An den Freiheitswiesen",
-        "addr:suburb": "Spandau",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "building": "yes",
-        "contact:email": "Info.NL623@bauhaus-ag.de",
-        "contact:phone": "+49 30 53005990",
-        "contact:website": "http://www.bauhaus.info",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-20:00; Sa 08:00-21:00; Su, PH off",
-        "shop": "doityourself",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "way",
       "id": 25379497,
       "nodes": [
         276629325,
@@ -967,94 +179,6 @@
         "industrial": "concrete_plant",
         "landuse": "industrial",
         "name": "Bauhof Werneuchen"
-      }
-    },
-    {
-      "type": "way",
-      "id": 26832459,
-      "nodes": [
-        1135508612,
-        1135508540,
-        5141461002,
-        5141461001,
-        1135508601,
-        5141461000,
-        5141460999,
-        5141460998,
-        5141460997,
-        1135508610,
-        1135508530,
-        5141460996,
-        5141460995,
-        5141460994,
-        5141460993,
-        1135508571,
-        5141461010,
-        5141461011,
-        1135508585,
-        1135508566,
-        1135508549,
-        294607403,
-        5141460242,
-        7217026898,
-        5141460241,
-        294607405,
-        5141460239,
-        1135508600,
-        1135508517,
-        1135508538,
-        1135508588,
-        1135508570,
-        1135508559,
-        1135508580,
-        1135508526,
-        1135508564,
-        1135508609,
-        294607407,
-        5141460234,
-        5141460226,
-        5141460252,
-        294607402,
-        1135508606,
-        1135508523,
-        1135508562,
-        5141461009,
-        1135508577,
-        5141461008,
-        5141461007,
-        5141461006,
-        5141461005,
-        5141461004,
-        5141461003,
-        1135508612
-      ],
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "106-114",
-        "addr:postcode": "10967",
-        "addr:street": "Hasenheide",
-        "addr:suburb": "Neuk\u00f6lln",
-        "branch": "Berlin-Neuk\u00f6lln",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "building": "retail",
-        "building:levels": "4",
-        "check_date:opening_hours": "2024-03-22",
-        "email": "service.nl814@bauhaus-ag.de",
-        "fee": "yes",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Sa 08:00-20:00",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "phone": "+49 30 627900 0",
-        "ref:vatin": "DE136658025",
-        "roof:colour": "grey",
-        "roof:shape": "flat",
-        "shop": "doityourself",
-        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-neukoelln/fc/814",
-        "wheelchair": "yes"
       }
     },
     {
@@ -1179,42 +303,6 @@
     },
     {
       "type": "way",
-      "id": 27566419,
-      "nodes": [
-        302682235,
-        302682236,
-        4870711849,
-        302682237,
-        302682239,
-        302682240,
-        2128613197,
-        2128613196,
-        2128613194,
-        2128613191,
-        2128613189,
-        2128613184,
-        2128613185,
-        2128613183,
-        2128613180,
-        2128613178,
-        2128613179,
-        302682242,
-        4870711589,
-        4870711585,
-        302682235
-      ],
-      "tags": {
-        "brand": "Toom Baumarkt",
-        "brand:wikidata": "Q2442970",
-        "brand:wikipedia": "de:Toom Baumarkt",
-        "building": "yes",
-        "name": "Toom Baumarkt",
-        "shop": "doityourself",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "way",
       "id": 27914458,
       "nodes": [
         3274700034,
@@ -1279,27 +367,6 @@
         "industrial": "construction_company",
         "landuse": "industrial",
         "name": "Dalhoff Stra\u00dfen- und Tiefbau"
-      }
-    },
-    {
-      "type": "way",
-      "id": 28273460,
-      "nodes": [
-        310483031,
-        310482589,
-        496283703,
-        310482587,
-        496284432,
-        310482586,
-        848795816,
-        4410485946,
-        4410485936,
-        310483033,
-        310483031
-      ],
-      "tags": {
-        "landuse": "industrial",
-        "name": "Bauhof Tiefbauamt Treptow-K\u00f6penick"
       }
     },
     {
@@ -1402,80 +469,6 @@
         "roof:shape": "flat",
         "website": "https://www.wg-wuhletal.de/",
         "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "way",
-      "id": 33542710,
-      "nodes": [
-        3320615000,
-        3320614636,
-        3320614635,
-        3320614995,
-        3320614997,
-        3320613045,
-        3634326052,
-        3320614273,
-        3320611419,
-        3320612431,
-        3320611422,
-        3320613643,
-        3320613423,
-        3320613635,
-        3320611413,
-        3320613597,
-        3320613278,
-        3320602335,
-        3320613703,
-        3320613422,
-        3320614269,
-        3320613739,
-        3320614252,
-        3320616074,
-        3320614143,
-        3320616075,
-        3320614137,
-        3320615000
-      ],
-      "tags": {
-        "addr:city": "Blankenfelde-Mahlow",
-        "addr:country": "DE",
-        "addr:housenumber": "87-91",
-        "addr:postcode": "15831",
-        "addr:street": "Am L\u00fcckefeld",
-        "addr:suburb": "Mahlow",
-        "branch": "Mahlow",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "building": "retail",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH,Su closed",
-        "shop": "doityourself"
-      }
-    },
-    {
-      "type": "way",
-      "id": 36002557,
-      "nodes": [
-        420824051,
-        6798418652,
-        420824053,
-        420824056,
-        6813861616,
-        6813861615,
-        6813861619,
-        420824058,
-        420824051
-      ],
-      "tags": {
-        "addr:city": "Brieselang",
-        "addr:country": "DE",
-        "addr:housenumber": "5",
-        "addr:postcode": "14656",
-        "addr:street": "Hans-Klakow-Stra\u00dfe",
-        "building": "industrial",
-        "name": "K & S Metallbau"
       }
     },
     {
@@ -1615,81 +608,6 @@
     },
     {
       "type": "way",
-      "id": 47419193,
-      "nodes": [
-        5014678546,
-        5014678547,
-        5014678572,
-        5014678571,
-        5014678570,
-        5014678569,
-        5014678568,
-        5014678567,
-        5014678566,
-        5014678565,
-        5014678564,
-        5014678563,
-        5014678562,
-        5014678561,
-        5014678560,
-        5014678559,
-        5014678558,
-        5014678557,
-        5014678556,
-        5014678555,
-        5014678554,
-        5014678553,
-        5014678552,
-        5014678551,
-        5014678550,
-        5014678548,
-        5014678549,
-        1608983296,
-        11534130293,
-        1608983302,
-        11534130324,
-        1608983307,
-        5014678573,
-        5014678574,
-        6724688591,
-        5014678575,
-        5014678576,
-        5014678577,
-        5014678578,
-        1903667101,
-        603567869,
-        603567866,
-        5014678543,
-        5014678546
-      ],
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "360-362",
-        "addr:postcode": "10365",
-        "addr:street": "Landsberger Allee",
-        "addr:suburb": "Lichtenberg",
-        "brand": "Globus Baumarkt",
-        "brand:wikidata": "Q457503",
-        "brand:wikipedia": "de:Globus Holding",
-        "building": "retail",
-        "building:levels": "2",
-        "check_date": "2023-08-01",
-        "name": "Globus Baumarkt",
-        "opening_hours": "Mo-Sa 08:00-20:00",
-        "operator": "Globus Baufachmarkt Berlin Lichtenberg",
-        "phone": "+49 30 54709690",
-        "roof:shape": "flat",
-        "shop": "doityourself",
-        "source": "estimated",
-        "toilets:wheelchair": "yes",
-        "website": "https://www.globus-baumarkt.de/info/markt/berlin-lichtenberg/",
-        "wheelchair": "yes",
-        "wheelchair:description": "ca. 10 Parkpl\u00e4tze f\u00fcr Rollstuhlfahrer, Markt sehr ger\u00e4umig"
-      }
-    },
-    {
-      "type": "way",
       "id": 55464109,
       "nodes": [
         697056556,
@@ -1713,46 +631,6 @@
     },
     {
       "type": "way",
-      "id": 60455187,
-      "nodes": [
-        3140164631,
-        3140161331,
-        3140123753,
-        3140119756,
-        3140150035,
-        3140155377,
-        3140155374,
-        753648546,
-        3140154979,
-        3140156560,
-        3140155477,
-        3140158545,
-        3140159935,
-        3776898362,
-        3140159168,
-        3140159169,
-        3140151761,
-        3140160732,
-        753648597,
-        3140164631
-      ],
-      "tags": {
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "building": "yes",
-        "check_date:opening_hours": "2022-01-29",
-        "email": "Info.NL577@bauhaus-ag.de",
-        "fax": "+49 3303 5206 13",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
-        "phone": "+49 3303 5206 0",
-        "roof:material": "metal",
-        "shop": "doityourself",
-        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-birkenwerder/fc/577"
-      }
-    },
-    {
-      "type": "way",
       "id": 72768976,
       "nodes": [
         863913486,
@@ -1765,76 +643,6 @@
         "building": "commercial",
         "contact:website": "https://www.muffenrohr.de/berlin-johannisthal/",
         "name": "Muffenrohr Tiefbauhandel"
-      }
-    },
-    {
-      "type": "way",
-      "id": 80858331,
-      "nodes": [
-        3504361008,
-        3504361020,
-        3504361022,
-        3504361015,
-        3504361000,
-        3504360999,
-        3504360998,
-        3504360989,
-        3504360990,
-        3504360991,
-        3504360980,
-        3504360978,
-        3504360976,
-        3504360958,
-        3504360944,
-        3504360943,
-        3504360937,
-        3504360952,
-        3504360951,
-        3504360957,
-        3504360955,
-        3504360946,
-        3504360931,
-        3504360921,
-        3504360912,
-        3504360903,
-        3504360936,
-        3504360920,
-        942668497,
-        942668512,
-        3504360961,
-        3504360968,
-        3504360967,
-        3504360971,
-        3504360973,
-        3504360981,
-        3504360994,
-        3504361006,
-        3504361007,
-        3504361008
-      ],
-      "tags": {
-        "access:covid19": "yes",
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "53",
-        "addr:postcode": "13127",
-        "addr:street": "Sch\u00f6nerlinder Stra\u00dfe",
-        "addr:suburb": "Franz\u00f6sisch Buchholz",
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "building": "retail",
-        "building:levels": "1",
-        "email": "Info.NL578@bauhaus-ag.de",
-        "fax": "+49 30 475971 13",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Sa 08:00-20:00",
-        "phone": "+49 30 475971 0",
-        "roof:levels": "0",
-        "shop": "doityourself",
-        "takeaway:covid19": "yes",
-        "website": "https://www.bauhaus.info/",
-        "wheelchair": "yes"
       }
     },
     {
@@ -2060,54 +868,6 @@
     },
     {
       "type": "way",
-      "id": 141873648,
-      "nodes": [
-        1552842844,
-        4092037862,
-        1552842821,
-        1552842813,
-        1552842815,
-        1552842811,
-        1552842800,
-        1552842803,
-        1552842782,
-        1552842783,
-        1552842780,
-        1552842785,
-        1552842788,
-        1552842806,
-        1552842816,
-        1553912654,
-        914485730,
-        1552842828,
-        1553912656,
-        1553912660,
-        1553912659,
-        1552842844
-      ],
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "2",
-        "addr:inclusion": "actual",
-        "addr:postcode": "12487",
-        "addr:street": "Eisenhutweg",
-        "addr:suburb": "Johannisthal",
-        "brand": "Globus Baumarkt",
-        "brand:wikidata": "Q457503",
-        "brand:wikipedia": "de:Globus Holding",
-        "building": "retail",
-        "check_date:opening_hours": "2021-09-02",
-        "name": "Globus Baumarkt",
-        "opening_hours": "Mo-Sa 08:00-20:00",
-        "shop": "doityourself",
-        "source": "Geoportal Berlin / Hauskoordinaten",
-        "website": "https://www.globus-baumarkt.de/marketsites/start/?markt=53",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "way",
       "id": 142454043,
       "nodes": [
         9196119840,
@@ -2164,29 +924,6 @@
     },
     {
       "type": "way",
-      "id": 142808717,
-      "nodes": [
-        1562838723,
-        1562838727,
-        1562838693,
-        1562726827,
-        1562838723
-      ],
-      "tags": {
-        "addr:city": "Sch\u00f6neiche bei Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "45",
-        "addr:postcode": "15566",
-        "addr:street": "Dorfaue",
-        "landuse": "commercial",
-        "man_made": "works",
-        "name": "Schmiede und Metallbau Gerhard Marquardt",
-        "phone": "+49-30-6498290",
-        "works": "blacksmith"
-      }
-    },
-    {
-      "type": "way",
       "id": 160893549,
       "nodes": [
         1728657075,
@@ -2198,31 +935,6 @@
       "tags": {
         "building": "industrial",
         "name": "Berger Bau"
-      }
-    },
-    {
-      "type": "way",
-      "id": 169242185,
-      "nodes": [
-        1804066919,
-        2105271667,
-        2105271668,
-        1804066929,
-        1804066936,
-        1804066934,
-        1804066919
-      ],
-      "tags": {
-        "addr:city": "Oberkr\u00e4mer",
-        "addr:housenumber": "7",
-        "addr:postcode": "16727",
-        "addr:street": "Dr.-R\u00fcdiger-Weber-Stra\u00dfe",
-        "addr:suburb": "Eichst\u00e4dt",
-        "building": "commercial",
-        "name": "Metallbau Selent GmbH",
-        "office": "company",
-        "phone": "+49 3304 253377",
-        "website": "www.metallbau-selent.de"
       }
     },
     {
@@ -2393,30 +1105,6 @@
     },
     {
       "type": "way",
-      "id": 200547844,
-      "nodes": [
-        2105232223,
-        2105232220,
-        2105232225,
-        2105232227,
-        2105232223
-      ],
-      "tags": {
-        "addr:city": "Oberkr\u00e4mer",
-        "addr:country": "DE",
-        "addr:housenumber": "9",
-        "addr:postcode": "16727",
-        "addr:street": "Gewerbestra\u00dfe",
-        "addr:suburb": "Eichst\u00e4dt",
-        "building": "commercial",
-        "name": "JENDRULA - Karosseriebau",
-        "operator": "Czerniewicz Andrzej",
-        "phone:mobile": "+49 177 7811915;+49 177 3402426",
-        "shop": "car_repair"
-      }
-    },
-    {
-      "type": "way",
       "id": 201171146,
       "nodes": [
         2111225419,
@@ -2517,33 +1205,6 @@
         "addr:street": "Ahornallee",
         "building": "commercial",
         "name": "OHV Ger\u00fcstbau GmbH"
-      }
-    },
-    {
-      "type": "way",
-      "id": 202903923,
-      "nodes": [
-        2128393170,
-        2128393171,
-        2128393172,
-        2128393173,
-        2128393169,
-        2128393168,
-        2128393159,
-        2128393158,
-        2128393170
-      ],
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "11",
-        "addr:postcode": "12623",
-        "addr:street": "Iglauer Stra\u00dfe",
-        "addr:suburb": "Mahlsdorf",
-        "building": "commercial",
-        "contact:phone": "+49 30 5677436",
-        "contact:website": "http://www.kohrt-bauschlosserei.de",
-        "name": "Kohrt Bauschlosserei Metallbau"
       }
     },
     {
@@ -2781,73 +1442,1198 @@
     },
     {
       "type": "way",
-      "id": 244829965,
+      "id": 258357801,
       "nodes": [
-        2520990806,
-        2520990784,
-        2520990979,
-        2520991013,
-        2520990874,
-        2520991001,
-        10658575570,
-        10658575568,
-        2520990896,
-        10658575565,
-        10658575566,
-        10658575567,
-        2520990811,
-        2520990806
+        2637229147,
+        2637229148,
+        3327108298,
+        2637229149,
+        2054885702,
+        2637229150,
+        2637229147
       ],
       "tags": {
         "building": "commercial",
-        "name": "Haus 98 Metallbau"
+        "contact:mobile": "+49 172 3835688",
+        "contact:website": "https://www.dachbau-woywod.de/",
+        "craft": "roofer",
+        "name": "Dachbau Woywod",
+        "operator": "Daniel Woywod"
       }
     },
     {
       "type": "way",
-      "id": 244844790,
+      "id": 260484467,
       "nodes": [
-        3887703866,
-        3887703816,
-        3887703813,
-        3887703830,
-        3887703829,
-        3887703851,
-        3887703866
+        2659704711,
+        2659704724,
+        2659704726,
+        2659704729,
+        2659704711
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "44",
+        "addr:postcode": "14478",
+        "addr:street": "Drewitzer Stra\u00dfe",
+        "brand": "GP G\u00fcnter Papenburg",
+        "brand:wikidata": "Q26059315",
+        "brand:wikipedia": "de:GP G\u00fcnter Papenburg",
+        "building": "commercial",
+        "building:material": "metal",
+        "check_date": "2023-04-13",
+        "contact:facebook": "https://www.facebook.com/GP-G%C3%BCnter-Papenburg-Unternehmensgruppe-148505678518185/",
+        "contact:fax": "+49 331 888 774",
+        "contact:phone": "+49 331 888 772",
+        "contact:website": "https://gp.ag/",
+        "name": "GP G\u00fcnter Papenburg AG - Baustoffe Potsdam",
+        "office": "company",
+        "operator": "GP G\u00fcnter Papenburg AG",
+        "operator:type": "business",
+        "operator:wikidata": "Q26059315",
+        "operator:wikipedia": "de:GP G\u00fcnter Papenburg",
+        "roof:material": "metal",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260484471,
+      "nodes": [
+        2659704769,
+        2659704772,
+        2659704775,
+        2659704777,
+        2659704769
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "44",
+        "addr:postcode": "14478",
+        "addr:street": "Drewitzer Stra\u00dfe",
+        "brand": "Loxam",
+        "brand:wikidata": "Q3264407",
+        "brand:wikipedia": "de:Loxam",
+        "building": "commercial",
+        "contact:email": "potsdam@loxam.de",
+        "contact:facebook": "https://www.facebook.com/loxam.gmbh",
+        "contact:fax": "+49 331 869 199",
+        "contact:instagram": "https://www.instagram.com/loxamgmbh/",
+        "contact:phone": "+49 331 869 10",
+        "contact:twitter": "https://twitter.com/LoxamGmbH",
+        "contact:website": "https://niederlassungen.loxam.de/74-loxam-potsdam",
+        "contact:xing": "https://www.xing.com/xbp/pages/loxam-gmbh",
+        "contact:youtube": "https://www.youtube.com/channel/UCRGPzq0yr0ZljQ6l1TE0PPg",
+        "name": "Loxam Baumaschinenvermietung",
+        "office": "company",
+        "opening_hours": "Mar-Nov: Mo-Th 07:00-17:30, Fr 07:00-16:30; Dec-Feb: Mo-Th 07:00-17:00, Fr 07:00-16:00; PH,Sa,Su off",
+        "operator": "Loxam GmbH",
+        "operator:type": "business",
+        "operator:wikidata": "Q3264407",
+        "operator:wikipedia": "de:Loxam",
+        "ref:vatin": "DE812822870",
+        "rental": "machines"
+      }
+    },
+    {
+      "type": "way",
+      "id": 272490270,
+      "nodes": [
+        3437265916,
+        10538003460,
+        3437265912,
+        10538003459,
+        3437265917,
+        3437265921,
+        2774056001,
+        3437265926,
+        3437265929,
+        10538003465,
+        10538003464,
+        3437265931,
+        3437265935,
+        3437265942,
+        10538003463,
+        3437265939,
+        2774056155,
+        10538003462,
+        3437265936,
+        3437265941,
+        3437265937,
+        3437265932,
+        2774056063,
+        3437265927,
+        3437265925,
+        10538003461,
+        3437265915,
+        3437265919,
+        2774055923,
+        3437265916
+      ],
+      "tags": {
+        "addr:city": "Woltersdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "15569",
+        "addr:street": "Vogelsdorfer Platz",
+        "building": "retail",
+        "name": "Bauelemente Service Petersik",
+        "phone": "+49 3362 501260",
+        "shop": "trade",
+        "website": "https://bes-petersik.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 284879771,
+      "nodes": [
+        2885822821,
+        2885822816,
+        2933127227,
+        2885822807,
+        2885822811,
+        2885822821
+      ],
+      "tags": {
+        "addr:city": "R\u00fcdersdorf bei Berlin",
+        "addr:housenumber": "1",
+        "addr:postcode": "15562",
+        "addr:street": "Tasdorf S\u00fcd",
+        "addr:suburb": "R\u00fcdersdorf",
+        "building": "commercial",
+        "man_made": "works",
+        "name": "HKL Baumaschinen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 284879848,
+      "nodes": [
+        2885822762,
+        2885822770,
+        2885822767,
+        2885822757,
+        2885822762
+      ],
+      "tags": {
+        "addr:city": "R\u00fcdersdorf bei Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "15562",
+        "addr:street": "Tasdorf S\u00fcd",
+        "addr:suburb": "R\u00fcdersdorf",
+        "building": "industrial",
+        "email": "lewo@maschinenbau-lehmann.de",
+        "fax": "+4933638 600 49",
+        "name": "Maschinenbau Lehmann GmbH",
+        "phone": "+4933638 600 53",
+        "website": "https://www.maschinenbau-lehmann.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 284879900,
+      "nodes": [
+        2885822793,
+        2885822783,
+        2885822784,
+        3102710001,
+        2885822775,
+        2885822778,
+        2922446855,
+        3102710006,
+        2885822785,
+        2885822787,
+        3102710011,
+        2885822796,
+        2885822793
+      ],
+      "tags": {
+        "addr:city": "R\u00fcdersdorf bei Berlin",
+        "addr:housenumber": "1",
+        "addr:postcode": "15562",
+        "addr:street": "Tasdorf S\u00fcd",
+        "addr:suburb": "R\u00fcdersdorf",
+        "building": "commercial",
+        "man_made": "works",
+        "name": "HKL Baumaschinen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 294948880,
+      "nodes": [
+        2985887846,
+        2985887847,
+        1296071306,
+        1296071305,
+        1296071304,
+        4861551285,
+        2985887846
+      ],
+      "tags": {
+        "landuse": "industrial",
+        "name": "bwb Betonwerk Velten"
+      }
+    },
+    {
+      "type": "way",
+      "id": 316104905,
+      "nodes": [
+        3222129198,
+        3222129175,
+        5432441870,
+        3222129189,
+        5432441874,
+        3222129211,
+        3222129198
       ],
       "tags": {
         "addr:city": "Berlin",
-        "addr:housenumber": "1",
-        "addr:postcode": "13088",
-        "addr:street": "Dar\u00dfer Bogen",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "14167",
+        "addr:street": "Lichterfelder Weg",
+        "addr:suburb": "Lichterfelde",
         "building": "commercial",
-        "building:levels": "2",
-        "name": "Fittkau Metallbau + Kunstschmiede GmbH",
-        "phone": "+49 30 92090101",
-        "website": "https://www.fittkau-metallbau.de/index.php/de/"
+        "building:levels": "1",
+        "contact:email": "info@tietz-baustoffe.com",
+        "contact:fax": "+49 30 84717979",
+        "contact:phone": "+49 30 7728002",
+        "contact:website": "http://www.tietz-baustoffe.com/tietz-baustoffe/",
+        "craft": "stonemason",
+        "name": "Tietz Baustoffe GmbH",
+        "name_alt": "Lichterfelder Baustoffhandel",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 09:00-15:00"
       }
     },
     {
       "type": "way",
-      "id": 251464504,
+      "id": 330324934,
       "nodes": [
-        2576815393,
-        2576815397,
-        2576815399,
-        2576815395,
-        2576815393
+        10161149514,
+        2824403501,
+        1427367258,
+        1427367634,
+        1427367540,
+        8551522410,
+        848395147,
+        378693722,
+        9490055997,
+        9491991910,
+        1896597931,
+        9491991914,
+        1896597924,
+        9491991913,
+        9491991912,
+        848395146,
+        12020553152,
+        10161149514
       ],
       "tags": {
-        "brand": "Bauhaus",
-        "brand:wikidata": "Q672043",
-        "brand:wikipedia": "en:Bauhaus (company)",
-        "building": "retail",
+        "landuse": "retail",
+        "name": "Fachgro\u00dfhandel f\u00fcr Rohre, Tiefbau und Industrie",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "https://www.tfg-gruppe.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 332701110,
+      "nodes": [
+        3398418293,
+        3398418294,
+        3398418295,
+        4110035832,
+        4110035833,
+        3398418296,
+        3398418297,
+        3398418298,
+        3398418299,
+        3398418300,
+        3398418293
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housename": "BEDO",
+        "addr:housenumber": "50",
+        "addr:postcode": "10249",
+        "addr:street": "Hermann-Blankenstein-Stra\u00dfe",
+        "building": "commercial",
         "building:levels": "1",
-        "name": "Bauhaus",
-        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "name": "BEDO Innenausbausysteme und Baustoffe GmbH & Co. KG",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "type": "way",
+      "id": 352526920,
+      "nodes": [
+        3582962805,
+        3582962811,
+        3582962815,
+        3582962806,
+        3582962807,
+        3582962808,
+        3582962809,
+        3591900958,
+        3582962813,
+        3582962814,
+        3582962812,
+        3582962805
+      ],
+      "tags": {
+        "addr:city": "Hennigsdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "19a",
+        "addr:postcode": "16761",
+        "addr:street": "Ruppiner Chaussee",
+        "building": "commercial",
+        "building:levels": "3",
+        "name": "aedium Bauherrenzentrum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 360949428,
+      "nodes": [
+        2406415834,
+        2406415832,
+        2406415830,
+        2406415829,
+        3654876008,
+        3654876007,
+        3654876010,
+        268366408,
+        3654876005,
+        3654876006,
+        3654876009,
+        268366872,
+        2406415834
+      ],
+      "tags": {
+        "landuse": "retail",
+        "name": "Berding Beton - Betonsteinwerk R\u00fcdersdorf",
+        "shop": "trade"
+      }
+    },
+    {
+      "type": "way",
+      "id": 371873852,
+      "nodes": [
+        3754239847,
+        3754239848,
+        3754239849,
+        3754239850,
+        3754239847
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "14482",
+        "addr:street": "Weidendamm",
+        "addr:suburb": "Babelsberg S\u00fcd",
+        "building": "commercial",
+        "building:levels": "1",
+        "contact:email": "info@deltabau-potsdam.de",
+        "contact:phone": "+49 331 706 2990",
+        "contact:website": "https://www.deltabau-gmbh.de/",
+        "name": "Delta Bau GmbH",
+        "office": "company",
+        "roof:levels": "1",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "type": "way",
+      "id": 388125382,
+      "nodes": [
+        3913282736,
+        3327973010,
+        3327973003,
+        3913282733,
+        3913282736
+      ],
+      "tags": {
+        "building": "commercial",
+        "name": "Nikarus Bau- und Planungsgesellschaft mbH",
+        "office": "civil_engineer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 416397902,
+      "nodes": [
+        4171489354,
+        7335428998,
+        7335428999,
+        4171489355,
+        4171489356,
+        4171489357,
+        4171489354
+      ],
+      "tags": {
+        "building": "industrial",
+        "name": "Bau 26"
+      }
+    },
+    {
+      "type": "way",
+      "id": 479752853,
+      "nodes": [
+        4728011536,
+        4728011532,
+        619176407,
+        4728011531,
+        4728011530,
+        619176403,
+        619176402,
+        4728011519,
+        4539854627,
+        4539854628,
+        4539854624,
+        5186355394,
+        4539854623,
+        4728011513,
+        5186355395,
+        4728011516,
+        4728011515,
+        619176405,
+        619176406,
+        4728011537,
+        4728011535,
+        4728011536
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "33",
+        "addr:postcode": "12689",
+        "addr:street": "Hellersdorfer Weg",
+        "addr:suburb": "Marzahn",
+        "landuse": "industrial",
+        "name": "AS+BE Asphalt- und Betonstra\u00dfenbau",
+        "source": "Geoportal Berlin / Hauskoordinaten",
+        "website": "https://www.asbe-strassenbau.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 482267003,
+      "nodes": [
+        4751092989,
+        4751092988,
+        4751092987,
+        4751092986,
+        4751092985,
+        4751092984,
+        4751092983,
+        4751092982,
+        4751092981,
+        4751092980,
+        4751092979,
+        4751092978,
+        4751092977,
+        4751092976,
+        4751092975,
+        4751092974,
+        4751092973,
+        4751092972,
+        4751092971,
+        4751092989
+      ],
+      "tags": {
+        "addr:city": "Velten",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "16727",
+        "addr:street": "Berliner Stra\u00dfe",
+        "building": "commercial",
+        "name": "Gerhard Borchert Baustoff-Fachhandel GmbH",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 482874771,
+      "nodes": [
+        4756545285,
+        4756545264,
+        4756545284,
+        4756545283,
+        4756545282,
+        4756545281,
+        4756545280,
+        5834582345,
+        4756545279,
+        4756545278,
+        4756545277,
+        4756545276,
+        4756545270,
+        4756545275,
+        4756545274,
+        4756545273,
+        4756545272,
+        4756545271,
+        4756545285
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "14",
+        "addr:postcode": "12681",
+        "addr:street": "Hornoer Ring",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "KaGaWa Rohrleitungs- und Anlagenbau GmbH",
+        "website": "https://kagawa-gmbh.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 494698315,
+      "nodes": [
+        4864309427,
+        4864309426,
+        4864309425,
+        4864309424,
+        4864309427
+      ],
+      "tags": {
+        "addr:city": "Velten",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "16727",
+        "addr:street": "Am Hafen",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Baustoffhandel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 503073960,
+      "nodes": [
+        4934206557,
+        4934206556,
+        4934206555,
+        4934206562,
+        5796334089,
+        4934206557
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "27",
+        "addr:postcode": "12681",
+        "addr:street": "Boxberger Stra\u00dfe",
+        "landuse": "industrial",
+        "name": "Bauausr\u00fcstungen + Service Behnke & S\u00e4nger GmbH",
+        "phone": "+49 30 80 40 81 50"
+      }
+    },
+    {
+      "type": "way",
+      "id": 509010348,
+      "nodes": [
+        4983028918,
+        4983028919,
+        12579252129,
+        4983028920,
+        4983029821,
+        4983028918
+      ],
+      "tags": {
+        "addr:city": "Bernau bei Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "6a",
+        "addr:postcode": "16321",
+        "addr:street": "Rudolf-Diesel-Stra\u00dfe",
+        "building": "commercial",
+        "contact:phone": "+49 3338 39860",
+        "contact:website": "ma-krueger-bau.de",
+        "name": "Kr\u00fcger Bau Bernau",
+        "operator": "Bauunternehmung Mark-A. Kr\u00fcger"
+      }
+    },
+    {
+      "type": "way",
+      "id": 512074275,
+      "nodes": [
+        5007569472,
+        5007569471,
+        5007569463,
+        5007569470,
+        5007569465,
+        5007569464,
+        5007569462,
+        2019486980,
+        5007569469,
+        5007569468,
+        5007569467,
+        2019487021,
+        5007569472
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "12681",
+        "addr:street": "Boxberger Stra\u00dfe",
+        "addr:suburb": "Marzahn",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Bautrocknung Schmittgall GmbH",
+        "website": "https://www.bautrocknung.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 528766474,
+      "nodes": [
+        561588682,
+        4136568013,
+        5137799777,
+        5137799776,
+        5137799775,
+        5137799774,
+        5137799773,
+        5137799772,
+        5137799796,
+        4136568026,
+        4136568016,
+        561588682
+      ],
+      "tags": {
+        "landuse": "industrial",
+        "name": "Schlosserei & Maschinenbau J\u00fcrgen Rikwald",
+        "website": "https://www.rikwald.de/index0.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 533000560,
+      "nodes": [
+        5171691335,
+        5171691336,
+        5171691337,
+        5171691338,
+        5171691339,
+        11163077592,
+        5171691335
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "24D",
+        "addr:postcode": "13407",
+        "addr:street": "Flottenstra\u00dfe",
+        "landuse": "industrial",
+        "name": "Matth\u00e4i Bauunternehmen GmbH & Co.KG"
+      }
+    },
+    {
+      "type": "way",
+      "id": 546373258,
+      "nodes": [
+        5279945554,
+        8762201033,
+        8762201032,
+        5279945548,
+        8762201031,
+        5279945552,
+        5279945547,
+        5279945551,
+        5279945550,
+        8762201035,
+        8762201036,
+        11165082576,
+        5279945571,
+        8762201236,
+        4214241254,
+        203388984,
+        203388982,
+        5279945558,
+        5279945557,
+        5279945556,
+        5279945555,
+        4214241269,
+        5279945553,
+        5279945554
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "48c",
+        "addr:postcode": "12681",
+        "addr:street": "Rhinstra\u00dfe",
+        "addr:suburb": "Marzahn",
+        "landuse": "industrial",
+        "name": "SCHWENK Beton Berlin-Brandenburg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591317603,
+      "nodes": [
+        5645361231,
+        5645361230,
+        5645361229,
+        5645361228,
+        5645361231
+      ],
+      "tags": {
+        "addr:city": "K\u00f6nigs Wusterhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "15713",
+        "addr:street": "Niederlehmer Chaussee",
+        "addr:suburb": "Wernsdorf",
+        "building": "commercial",
+        "name": "Born Entsorgung & Beton",
+        "office": "company",
+        "opening_hours": "Mo-Fr 07:00-16:00; Sa \"nach Vereinbarung\"",
+        "phone": "+49 3362 820757",
+        "website": "https://www.born-entsorgung.de"
+      }
+    },
+    {
+      "type": "way",
+      "id": 679031385,
+      "nodes": [
+        6357996977,
+        6357996974,
+        6357996975,
+        6357996976,
+        6357996977
+      ],
+      "tags": {
+        "addr:city": "Sch\u00f6nwalde-Glien",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "14621",
+        "addr:street": "Alte Nauener Chaussee",
+        "addr:suburb": "Perwenitz",
+        "building": "commercial",
+        "contact:email": "info@meyererdbau.de",
+        "contact:fax": "+49 33231 626 219",
+        "contact:phone": "+49 33231 626 20",
+        "contact:website": "https://www.meyererdbau.de/",
+        "name": "Meyer Erdbau",
+        "office": "company",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 699704420,
+      "nodes": [
+        6570624873,
+        9530574712,
+        9530574713,
+        9530601417,
+        9530574715,
+        9530574714,
+        9530574716,
+        6570624874,
+        6570624875,
+        8725363670,
+        9530601419,
+        9530601418,
+        6570624876,
+        7765252519,
+        8957152639,
+        6570624873
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "50",
+        "addr:postcode": "10117",
+        "addr:street": "Zimmerstra\u00dfe",
+        "addr:suburb": "Mitte",
+        "architect": "Rem Koolhaas",
+        "building": "commercial",
+        "building:levels": "10",
+        "building:levels:underground": "2",
+        "name": "Axel-Springer-Neubau",
+        "roof:levels": "1",
         "roof:shape": "flat",
-        "shop": "doityourself",
-        "wheelchair": "yes"
+        "website": "http://www.axelspringer-neubau.de/",
+        "wikimedia_commons": "File:Axel-Springer-Neubau_Berlin,_1._Juli_2019_06.jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 727184598,
+      "nodes": [
+        6814922347,
+        6814922348,
+        6814922349,
+        6814922350,
+        6814922347
+      ],
+      "tags": {
+        "building": "industrial",
+        "building:levels": "3",
+        "name": "Bautransporte R. Breul",
+        "short_name": "BTB"
+      }
+    },
+    {
+      "type": "way",
+      "id": 756396437,
+      "nodes": [
+        7064985702,
+        7064985703,
+        7064985704,
+        7064985705,
+        7064985706,
+        7064985707,
+        7064985702
+      ],
+      "tags": {
+        "addr:city": "Stahnsdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "14532",
+        "addr:street": "Kieler Stra\u00dfe",
+        "building": "industrial",
+        "contact:phone": "+49 3329 698055",
+        "contact:website": "https://l\u00fcderitzbau.de/",
+        "name": "L\u00fcderitz Bau",
+        "office": "company"
+      }
+    },
+    {
+      "type": "way",
+      "id": 908661879,
+      "nodes": [
+        1241659436,
+        1241659438,
+        8437202031,
+        8437202028,
+        8437202027,
+        8437202025,
+        8437202026,
+        8437202029,
+        8437202030,
+        1241659436
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "17a",
+        "addr:postcode": "14482",
+        "addr:street": "Walter-Klausch-Stra\u00dfe",
+        "addr:suburb": "Babelsberg S\u00fcd",
+        "building": "commercial",
+        "building:levels": "2",
+        "contact:phone": "+49 331 704 330",
+        "contact:website": "https://www.bnb-potsdam.de",
+        "name": "Beton und Naturstein Babelsberg",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa,Su,PH off",
+        "roof:shape": "flat",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 911544807,
+      "nodes": [
+        8463887192,
+        8463887191,
+        8463887190,
+        8463887189,
+        8463887192
+      ],
+      "tags": {
+        "building": "commercial",
+        "contact:website": "https://www.hkl-baumaschinen.de/center/berlin-adlershof",
+        "name": "HKL Baumaschinen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 976351558,
+      "nodes": [
+        9035338668,
+        2881483065,
+        2881483066,
+        2881483069,
+        2881483068,
+        2881483050,
+        2881483058,
+        2881483056,
+        2881483055,
+        8871647395,
+        2881483053,
+        2881483054,
+        2881483057,
+        2881483060,
+        2881483061,
+        9035338665,
+        9035338666,
+        7934149114,
+        7934149113,
+        7934149112,
+        7934149111,
+        9035338667,
+        9035338668
+      ],
+      "tags": {
+        "building": "commercial",
+        "contact:website": "https://www.bauer-netz.de/",
+        "name": "Bauer Elektroanlagen NL Berlin"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1031138008,
+      "nodes": [
+        9504547592,
+        9504547589,
+        9504547590,
+        9504547593,
+        9504547592
+      ],
+      "tags": {
+        "addr:city": "Wustermark",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "14641",
+        "addr:street": "Kurt-Nagel-Stra\u00dfe",
+        "building": "commercial",
+        "building:colour": "white",
+        "building:levels": "2",
+        "check_date": "2024-03-13",
+        "contact:phone": "+49 33234 319 70",
+        "contact:website": "https://www.swecon.de",
+        "name": "Swecon Baumaschinen GmbH \u2013 Berlin",
+        "office": "company",
+        "opening_hours": "Mo-Th 07:00-17:00; Fr 07:00-15:45; Sa,Su,PH off",
+        "roof:levels": "0",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087641571,
+      "nodes": [
+        9965248275,
+        9965248273,
+        12309541842,
+        9965248272,
+        966019927,
+        307609705,
+        12309541841,
+        9965248271,
+        12309541840,
+        12309541839,
+        9965248269,
+        12309541838,
+        9965248274,
+        9965248275
+      ],
+      "tags": {
+        "industrial": "depot",
+        "landuse": "industrial",
+        "name": "Bauhof Zweckverband TKS",
+        "website": "https://zv-tks.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1107915658,
+      "nodes": [
+        10137261275,
+        306017958,
+        1657670935,
+        10137261280,
+        10589646697,
+        10589646696,
+        10589646695,
+        10137261279,
+        10589646698,
+        10589646699,
+        10137261278,
+        10137261275
+      ],
+      "tags": {
+        "description": "Werk 3",
+        "industrial": "factory",
+        "landuse": "industrial",
+        "name": "Hans Timm Fensterbau",
+        "website": "https://www.timm-fensterbau.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1108104740,
+      "nodes": [
+        5335079460,
+        5335079470,
+        5335079469,
+        5335079468,
+        5335079467,
+        10131943218,
+        10131943217,
+        5335079460
+      ],
+      "tags": {
+        "description": "Werk 2",
+        "industrial": "factory",
+        "landuse": "industrial",
+        "name": "Hans Timm Fensterbau",
+        "website": "https://www.timm-fensterbau.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110199352,
+      "nodes": [
+        10156271267,
+        10156271269,
+        10156271268,
+        5396967574,
+        245929591,
+        4605372713,
+        4605372710,
+        5396967200,
+        5396967201,
+        5396967202,
+        5396967203,
+        5396967569,
+        5396967566,
+        5396967562,
+        5396967561,
+        5396967556,
+        10156271267
+      ],
+      "tags": {
+        "industrial": "recycling",
+        "landuse": "industrial",
+        "name": "Parey Baustoff-Recycling",
+        "website": "https://www.baukies-parey.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1135137949,
+      "nodes": [
+        10581559201,
+        12398822116,
+        12398822115,
+        12398822108,
+        12398821938,
+        12398821944,
+        12398822107,
+        12398821952,
+        12398822109,
+        10581559181,
+        12398822106,
+        619091682,
+        10581559182,
+        619091661,
+        1194571326,
+        1194571499,
+        10581559201
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "12099",
+        "addr:street": "Saalburgstra\u00dfe",
+        "addr:suburb": "Tempelhof",
+        "industrial": "concrete_plant",
+        "landuse": "industrial",
+        "name": "Schwenk Beton Werk Tempelhof",
+        "operator": "Schwenk Beton Berlin-Brandenburg GmbH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234756865,
+      "nodes": [
+        11461226700,
+        11461226701,
+        11461226702,
+        11461226703,
+        11461226704,
+        11461226700
+      ],
+      "tags": {
+        "industrial": "concrete_plant",
+        "landuse": "industrial",
+        "name": "Cemex Transportbeton",
+        "website": "https://www.cemex.de/-/transportbeton-r%25C3%25BCdersdorf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1235025410,
+      "nodes": [
+        11463848499,
+        11463848498,
+        11463848497,
+        11463848496,
+        11463848499
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "115",
+        "addr:postcode": "14473",
+        "addr:street": "Michendorfer Chaussee",
+        "building": "yes",
+        "contact:email": "info@holzbau-volker-schmidt.de",
+        "contact:fax": "+49 331 2705171",
+        "contact:phone": "+49 331 293338",
+        "contact:website": "http://www.holzbau-volker-schmidt.de/",
+        "name": "Holzbau Volker Schmidt e. K.",
+        "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa 09:00-12:00; PH off",
+        "shop": "trade",
+        "trade": "timber",
+        "wikimedia_commons": "File:20231217 1114-Holzbau Volker Schmidt.jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372596727,
+      "nodes": [
+        12709313685,
+        12709313684,
+        12709313683,
+        9196042283,
+        9196042281,
+        12709313682,
+        12709313685
+      ],
+      "tags": {
+        "industrial": "concrete_plant",
+        "landuse": "industrial",
+        "name": "Berger Beton"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1375780725,
+      "nodes": [
+        12738365700,
+        12738365699,
+        12738365698,
+        12738365697,
+        12738365700
+      ],
+      "tags": {
+        "industrial": "concrete_plant",
+        "landuse": "industrial",
+        "name": "Lichtner Beton Brandenburg"
       }
     },
     {
@@ -3632,84 +3418,6 @@
     },
     {
       "type": "node",
-      "id": 2520990784,
-      "lat": 52.3860665,
-      "lon": 13.1177772
-    },
-    {
-      "type": "node",
-      "id": 2520990806,
-      "lat": 52.3861089,
-      "lon": 13.1179367
-    },
-    {
-      "type": "node",
-      "id": 2520990811,
-      "lat": 52.3861342,
-      "lon": 13.1180316
-    },
-    {
-      "type": "node",
-      "id": 10658575566,
-      "lat": 52.386214,
-      "lon": 13.1184543
-    },
-    {
-      "type": "node",
-      "id": 10658575567,
-      "lat": 52.3861067,
-      "lon": 13.1180512
-    },
-    {
-      "type": "node",
-      "id": 2520990874,
-      "lat": 52.3862977,
-      "lon": 13.1178059
-    },
-    {
-      "type": "node",
-      "id": 2520990896,
-      "lat": 52.3862903,
-      "lon": 13.1187232
-    },
-    {
-      "type": "node",
-      "id": 2520990979,
-      "lat": 52.3864887,
-      "lon": 13.1174736
-    },
-    {
-      "type": "node",
-      "id": 2520991001,
-      "lat": 52.3865017,
-      "lon": 13.1185721
-    },
-    {
-      "type": "node",
-      "id": 2520991013,
-      "lat": 52.3865325,
-      "lon": 13.1176381
-    },
-    {
-      "type": "node",
-      "id": 10658575565,
-      "lat": 52.3862179,
-      "lon": 13.1184514
-    },
-    {
-      "type": "node",
-      "id": 10658575568,
-      "lat": 52.3863538,
-      "lon": 13.1186778
-    },
-    {
-      "type": "node",
-      "id": 10658575570,
-      "lat": 52.3864979,
-      "lon": 13.1185748
-    },
-    {
-      "type": "node",
       "id": 2024407180,
       "lat": 52.3821082,
       "lon": 13.1245096
@@ -4136,30 +3844,6 @@
     },
     {
       "type": "node",
-      "id": 3222129130,
-      "lat": 52.4168707,
-      "lon": 13.2927388
-    },
-    {
-      "type": "node",
-      "id": 3222129134,
-      "lat": 52.4169354,
-      "lon": 13.2928809
-    },
-    {
-      "type": "node",
-      "id": 3222129140,
-      "lat": 52.4170108,
-      "lon": 13.2925742
-    },
-    {
-      "type": "node",
-      "id": 3222129146,
-      "lat": 52.4170743,
-      "lon": 13.2927171
-    },
-    {
-      "type": "node",
       "id": 3222129175,
       "lat": 52.4173654,
       "lon": 13.2921574
@@ -4202,12 +3886,6 @@
     },
     {
       "type": "node",
-      "id": 306430245,
-      "lat": 52.4030075,
-      "lon": 13.3822275
-    },
-    {
-      "type": "node",
       "id": 3274699847,
       "lat": 52.4025861,
       "lon": 13.3824025
@@ -4241,36 +3919,6 @@
       "id": 3274700043,
       "lat": 52.4028403,
       "lon": 13.3823062
-    },
-    {
-      "type": "node",
-      "id": 10131943223,
-      "lat": 52.4030365,
-      "lon": 13.3815466
-    },
-    {
-      "type": "node",
-      "id": 10139155018,
-      "lat": 52.4035062,
-      "lon": 13.3816077
-    },
-    {
-      "type": "node",
-      "id": 3274698113,
-      "lat": 52.4031902,
-      "lon": 13.3825627
-    },
-    {
-      "type": "node",
-      "id": 5335079003,
-      "lat": 52.4034674,
-      "lon": 13.3825819
-    },
-    {
-      "type": "node",
-      "id": 10131943226,
-      "lat": 52.4029945,
-      "lon": 13.3825337
     },
     {
       "type": "node",
@@ -4808,54 +4456,6 @@
     },
     {
       "type": "node",
-      "id": 420824051,
-      "lat": 52.5825338,
-      "lon": 12.9999456
-    },
-    {
-      "type": "node",
-      "id": 420824053,
-      "lat": 52.5824845,
-      "lon": 13.0001738
-    },
-    {
-      "type": "node",
-      "id": 420824056,
-      "lat": 52.5822805,
-      "lon": 13.0000543
-    },
-    {
-      "type": "node",
-      "id": 420824058,
-      "lat": 52.5823299,
-      "lon": 12.9998261
-    },
-    {
-      "type": "node",
-      "id": 6798418652,
-      "lat": 52.5825315,
-      "lon": 12.9999566
-    },
-    {
-      "type": "node",
-      "id": 6813861615,
-      "lat": 52.5822974,
-      "lon": 12.9999763
-    },
-    {
-      "type": "node",
-      "id": 6813861616,
-      "lat": 52.5822905,
-      "lon": 13.0000084
-    },
-    {
-      "type": "node",
-      "id": 6813861619,
-      "lat": 52.5822996,
-      "lon": 12.9999662
-    },
-    {
-      "type": "node",
       "id": 272338798,
       "lat": 52.5500008,
       "lon": 13.1145694
@@ -4877,84 +4477,6 @@
       "id": 12738365699,
       "lat": 52.5237839,
       "lon": 13.206363
-    },
-    {
-      "type": "node",
-      "id": 2871896407,
-      "lat": 52.5339962,
-      "lon": 13.1758113
-    },
-    {
-      "type": "node",
-      "id": 2892689445,
-      "lat": 52.5340126,
-      "lon": 13.1765666
-    },
-    {
-      "type": "node",
-      "id": 2892689473,
-      "lat": 52.5349319,
-      "lon": 13.1753772
-    },
-    {
-      "type": "node",
-      "id": 2892689480,
-      "lat": 52.5354182,
-      "lon": 13.1766994
-    },
-    {
-      "type": "node",
-      "id": 2892689481,
-      "lat": 52.53546,
-      "lon": 13.1754287
-    },
-    {
-      "type": "node",
-      "id": 2892689527,
-      "lat": 52.5339548,
-      "lon": 13.17581
-    },
-    {
-      "type": "node",
-      "id": 2892689540,
-      "lat": 52.5339831,
-      "lon": 13.1765639
-    },
-    {
-      "type": "node",
-      "id": 2892689547,
-      "lat": 52.534055,
-      "lon": 13.1765707
-    },
-    {
-      "type": "node",
-      "id": 2892689561,
-      "lat": 52.5349159,
-      "lon": 13.1758081
-    },
-    {
-      "type": "node",
-      "id": 2892689562,
-      "lat": 52.5349315,
-      "lon": 13.1753844
-    },
-    {
-      "type": "node",
-      "id": 2892689803,
-      "lat": 52.5345126,
-      "lon": 13.1758636
-    },
-    {
-      "type": "node",
-      "id": 2892689804,
-      "lat": 52.534516,
-      "lon": 13.1757704
-    },
-    {
-      "type": "node",
-      "id": 2892689906,
-      "lat": 52.5354635,
-      "lon": 13.175429
     },
     {
       "type": "node",
@@ -5408,228 +4930,6 @@
     },
     {
       "type": "node",
-      "id": 10659445662,
-      "lat": 52.6440673,
-      "lon": 13.2120261
-    },
-    {
-      "type": "node",
-      "id": 10659445663,
-      "lat": 52.6441816,
-      "lon": 13.2120167
-    },
-    {
-      "type": "node",
-      "id": 2576815402,
-      "lat": 52.4948866,
-      "lon": 13.2900046
-    },
-    {
-      "type": "node",
-      "id": 2576815406,
-      "lat": 52.4957422,
-      "lon": 13.288517
-    },
-    {
-      "type": "node",
-      "id": 2576815408,
-      "lat": 52.4958438,
-      "lon": 13.2887207
-    },
-    {
-      "type": "node",
-      "id": 2576815411,
-      "lat": 52.4960506,
-      "lon": 13.2881004
-    },
-    {
-      "type": "node",
-      "id": 2576815416,
-      "lat": 52.4965207,
-      "lon": 13.2890357
-    },
-    {
-      "type": "node",
-      "id": 8755228225,
-      "lat": 52.4962084,
-      "lon": 13.2894551
-    },
-    {
-      "type": "node",
-      "id": 2576815393,
-      "lat": 52.4931106,
-      "lon": 13.2927209
-    },
-    {
-      "type": "node",
-      "id": 2576815395,
-      "lat": 52.4934383,
-      "lon": 13.2932409
-    },
-    {
-      "type": "node",
-      "id": 2576815397,
-      "lat": 52.4935636,
-      "lon": 13.2919224
-    },
-    {
-      "type": "node",
-      "id": 2576815399,
-      "lat": 52.4939566,
-      "lon": 13.2925591
-    },
-    {
-      "type": "node",
-      "id": 2576815404,
-      "lat": 52.4952534,
-      "lon": 13.2907377
-    },
-    {
-      "type": "node",
-      "id": 273433147,
-      "lat": 52.5293253,
-      "lon": 13.2179541
-    },
-    {
-      "type": "node",
-      "id": 273433148,
-      "lat": 52.530169,
-      "lon": 13.2181885
-    },
-    {
-      "type": "node",
-      "id": 273433146,
-      "lat": 52.5290806,
-      "lon": 13.2202252
-    },
-    {
-      "type": "node",
-      "id": 273433152,
-      "lat": 52.5287669,
-      "lon": 13.2201357
-    },
-    {
-      "type": "node",
-      "id": 273433153,
-      "lat": 52.5288735,
-      "lon": 13.2209697
-    },
-    {
-      "type": "node",
-      "id": 273433156,
-      "lat": 52.5298419,
-      "lon": 13.2208883
-    },
-    {
-      "type": "node",
-      "id": 1325643617,
-      "lat": 52.5287575,
-      "lon": 13.2202153
-    },
-    {
-      "type": "node",
-      "id": 1347948658,
-      "lat": 52.5295911,
-      "lon": 13.221177
-    },
-    {
-      "type": "node",
-      "id": 1347948659,
-      "lat": 52.5298166,
-      "lon": 13.2209163
-    },
-    {
-      "type": "node",
-      "id": 1347948662,
-      "lat": 52.5299477,
-      "lon": 13.218844
-    },
-    {
-      "type": "node",
-      "id": 1347948663,
-      "lat": 52.5299551,
-      "lon": 13.2187674
-    },
-    {
-      "type": "node",
-      "id": 1347948667,
-      "lat": 52.5300605,
-      "lon": 13.2188758
-    },
-    {
-      "type": "node",
-      "id": 1347948670,
-      "lat": 52.5301009,
-      "lon": 13.2188025
-    },
-    {
-      "type": "node",
-      "id": 5792495493,
-      "lat": 52.5298535,
-      "lon": 13.2205298
-    },
-    {
-      "type": "node",
-      "id": 5792495494,
-      "lat": 52.5298819,
-      "lon": 13.2202615
-    },
-    {
-      "type": "node",
-      "id": 5792495495,
-      "lat": 52.5298789,
-      "lon": 13.2205393
-    },
-    {
-      "type": "node",
-      "id": 5792495496,
-      "lat": 52.5297994,
-      "lon": 13.2202379
-    },
-    {
-      "type": "node",
-      "id": 5792495497,
-      "lat": 52.5298255,
-      "lon": 13.2199874
-    },
-    {
-      "type": "node",
-      "id": 5792495498,
-      "lat": 52.5299777,
-      "lon": 13.220033
-    },
-    {
-      "type": "node",
-      "id": 5792495499,
-      "lat": 52.5299779,
-      "lon": 13.2195789
-    },
-    {
-      "type": "node",
-      "id": 5792495500,
-      "lat": 52.5299825,
-      "lon": 13.2195811
-    },
-    {
-      "type": "node",
-      "id": 5792495501,
-      "lat": 52.5299596,
-      "lon": 13.2197503
-    },
-    {
-      "type": "node",
-      "id": 5792495502,
-      "lat": 52.5300063,
-      "lon": 13.2197647
-    },
-    {
-      "type": "node",
-      "id": 7609369465,
-      "lat": 52.529203,
-      "lon": 13.2190889
-    },
-    {
-      "type": "node",
       "id": 3418892223,
       "lat": 52.5378657,
       "lon": 13.2751817
@@ -5915,126 +5215,6 @@
       "id": 12398822116,
       "lat": 52.4550485,
       "lon": 13.4168702
-    },
-    {
-      "type": "node",
-      "id": 294607402,
-      "lat": 52.4855991,
-      "lon": 13.421126
-    },
-    {
-      "type": "node",
-      "id": 294607407,
-      "lat": 52.4849202,
-      "lon": 13.4210783
-    },
-    {
-      "type": "node",
-      "id": 1135508523,
-      "lat": 52.4855509,
-      "lon": 13.4212649
-    },
-    {
-      "type": "node",
-      "id": 1135508526,
-      "lat": 52.4849553,
-      "lon": 13.4214973
-    },
-    {
-      "type": "node",
-      "id": 1135508559,
-      "lat": 52.4849062,
-      "lon": 13.4216377
-    },
-    {
-      "type": "node",
-      "id": 1135508562,
-      "lat": 52.4855379,
-      "lon": 13.4217663
-    },
-    {
-      "type": "node",
-      "id": 1135508564,
-      "lat": 52.4849619,
-      "lon": 13.4212234
-    },
-    {
-      "type": "node",
-      "id": 1135508570,
-      "lat": 52.4849507,
-      "lon": 13.4216405
-    },
-    {
-      "type": "node",
-      "id": 1135508577,
-      "lat": 52.4855534,
-      "lon": 13.4217524
-    },
-    {
-      "type": "node",
-      "id": 1135508580,
-      "lat": 52.4849094,
-      "lon": 13.4214947
-    },
-    {
-      "type": "node",
-      "id": 1135508606,
-      "lat": 52.4855958,
-      "lon": 13.4212673
-    },
-    {
-      "type": "node",
-      "id": 1135508609,
-      "lat": 52.4849166,
-      "lon": 13.4212208
-    },
-    {
-      "type": "node",
-      "id": 5141460226,
-      "lat": 52.485035,
-      "lon": 13.4210864
-    },
-    {
-      "type": "node",
-      "id": 5141460234,
-      "lat": 52.4850181,
-      "lon": 13.4210852
-    },
-    {
-      "type": "node",
-      "id": 5141460252,
-      "lat": 52.4850543,
-      "lon": 13.4210877
-    },
-    {
-      "type": "node",
-      "id": 5141461005,
-      "lat": 52.4855947,
-      "lon": 13.4217687
-    },
-    {
-      "type": "node",
-      "id": 5141461006,
-      "lat": 52.4855867,
-      "lon": 13.4217609
-    },
-    {
-      "type": "node",
-      "id": 5141461007,
-      "lat": 52.4855764,
-      "lon": 13.4217564
-    },
-    {
-      "type": "node",
-      "id": 5141461008,
-      "lat": 52.4855672,
-      "lon": 13.4217531
-    },
-    {
-      "type": "node",
-      "id": 5141461009,
-      "lat": 52.4855535,
-      "lon": 13.4217677
     },
     {
       "type": "node",
@@ -6386,324 +5566,6 @@
     },
     {
       "type": "node",
-      "id": 10659445657,
-      "lat": 52.6440789,
-      "lon": 13.2124063
-    },
-    {
-      "type": "node",
-      "id": 10659445660,
-      "lat": 52.6441985,
-      "lon": 13.212571
-    },
-    {
-      "type": "node",
-      "id": 10659445661,
-      "lat": 52.6440842,
-      "lon": 13.2125805
-    },
-    {
-      "type": "node",
-      "id": 3659165730,
-      "lat": 52.5616767,
-      "lon": 13.327658
-    },
-    {
-      "type": "node",
-      "id": 3659165731,
-      "lat": 52.5623186,
-      "lon": 13.3268996
-    },
-    {
-      "type": "node",
-      "id": 6313306694,
-      "lat": 52.5613744,
-      "lon": 13.3272021
-    },
-    {
-      "type": "node",
-      "id": 6313306707,
-      "lat": 52.5613764,
-      "lon": 13.3271658
-    },
-    {
-      "type": "node",
-      "id": 6313306708,
-      "lat": 52.562295,
-      "lon": 13.3268234
-    },
-    {
-      "type": "node",
-      "id": 6313307327,
-      "lat": 52.5623192,
-      "lon": 13.3278722
-    },
-    {
-      "type": "node",
-      "id": 6313307328,
-      "lat": 52.5623095,
-      "lon": 13.3278708
-    },
-    {
-      "type": "node",
-      "id": 6313307329,
-      "lat": 52.562302,
-      "lon": 13.3280141
-    },
-    {
-      "type": "node",
-      "id": 6313307330,
-      "lat": 52.5622476,
-      "lon": 13.3280064
-    },
-    {
-      "type": "node",
-      "id": 6313307331,
-      "lat": 52.562232,
-      "lon": 13.328303
-    },
-    {
-      "type": "node",
-      "id": 6313307334,
-      "lat": 52.5617299,
-      "lon": 13.3281003
-    },
-    {
-      "type": "node",
-      "id": 6313307335,
-      "lat": 52.5617002,
-      "lon": 13.3280961
-    },
-    {
-      "type": "node",
-      "id": 6313307336,
-      "lat": 52.5617063,
-      "lon": 13.3279802
-    },
-    {
-      "type": "node",
-      "id": 6313307337,
-      "lat": 52.5617357,
-      "lon": 13.3279844
-    },
-    {
-      "type": "node",
-      "id": 6313307338,
-      "lat": 52.5617523,
-      "lon": 13.3276687
-    },
-    {
-      "type": "node",
-      "id": 6313307339,
-      "lat": 52.5616502,
-      "lon": 13.3276542
-    },
-    {
-      "type": "node",
-      "id": 6313307340,
-      "lat": 52.5616542,
-      "lon": 13.3275791
-    },
-    {
-      "type": "node",
-      "id": 6313307341,
-      "lat": 52.5616046,
-      "lon": 13.3275721
-    },
-    {
-      "type": "node",
-      "id": 6313307342,
-      "lat": 52.5616087,
-      "lon": 13.3274945
-    },
-    {
-      "type": "node",
-      "id": 6313307343,
-      "lat": 52.5614144,
-      "lon": 13.3274668
-    },
-    {
-      "type": "node",
-      "id": 6313307344,
-      "lat": 52.5614102,
-      "lon": 13.3275464
-    },
-    {
-      "type": "node",
-      "id": 6313307345,
-      "lat": 52.5613582,
-      "lon": 13.3275389
-    },
-    {
-      "type": "node",
-      "id": 6313307346,
-      "lat": 52.5613624,
-      "lon": 13.3274585
-    },
-    {
-      "type": "node",
-      "id": 6313307347,
-      "lat": 52.5613606,
-      "lon": 13.3274583
-    },
-    {
-      "type": "node",
-      "id": 6313307348,
-      "lat": 52.5614022,
-      "lon": 13.3266859
-    },
-    {
-      "type": "node",
-      "id": 6313307349,
-      "lat": 52.5618582,
-      "lon": 13.3267523
-    },
-    {
-      "type": "node",
-      "id": 6313307350,
-      "lat": 52.5618618,
-      "lon": 13.3266845
-    },
-    {
-      "type": "node",
-      "id": 6313307351,
-      "lat": 52.5619523,
-      "lon": 13.3266977
-    },
-    {
-      "type": "node",
-      "id": 6313307352,
-      "lat": 52.5619487,
-      "lon": 13.3267649
-    },
-    {
-      "type": "node",
-      "id": 6313307353,
-      "lat": 52.5622526,
-      "lon": 13.3268092
-    },
-    {
-      "type": "node",
-      "id": 6313307354,
-      "lat": 52.5622521,
-      "lon": 13.3268172
-    },
-    {
-      "type": "node",
-      "id": 6313307355,
-      "lat": 52.5623012,
-      "lon": 13.3268243
-    },
-    {
-      "type": "node",
-      "id": 6313307356,
-      "lat": 52.5623017,
-      "lon": 13.3268161
-    },
-    {
-      "type": "node",
-      "id": 6313307357,
-      "lat": 52.5623116,
-      "lon": 13.3268175
-    },
-    {
-      "type": "node",
-      "id": 6313307358,
-      "lat": 52.5623108,
-      "lon": 13.3268314
-    },
-    {
-      "type": "node",
-      "id": 6313307359,
-      "lat": 52.5623068,
-      "lon": 13.3268308
-    },
-    {
-      "type": "node",
-      "id": 6313307360,
-      "lat": 52.5623036,
-      "lon": 13.3268898
-    },
-    {
-      "type": "node",
-      "id": 6313307361,
-      "lat": 52.562308,
-      "lon": 13.3268905
-    },
-    {
-      "type": "node",
-      "id": 6313307362,
-      "lat": 52.5623076,
-      "lon": 13.326898
-    },
-    {
-      "type": "node",
-      "id": 6313307363,
-      "lat": 52.5623302,
-      "lon": 13.3269013
-    },
-    {
-      "type": "node",
-      "id": 6313307364,
-      "lat": 52.5623306,
-      "lon": 13.3268931
-    },
-    {
-      "type": "node",
-      "id": 6313307365,
-      "lat": 52.5623399,
-      "lon": 13.3268945
-    },
-    {
-      "type": "node",
-      "id": 6313307366,
-      "lat": 52.5623358,
-      "lon": 13.3269709
-    },
-    {
-      "type": "node",
-      "id": 6313307367,
-      "lat": 52.5623569,
-      "lon": 13.3269739
-    },
-    {
-      "type": "node",
-      "id": 6313307368,
-      "lat": 52.5623493,
-      "lon": 13.3271169
-    },
-    {
-      "type": "node",
-      "id": 6313307369,
-      "lat": 52.562359,
-      "lon": 13.3271183
-    },
-    {
-      "type": "node",
-      "id": 10599910397,
-      "lat": 52.5619995,
-      "lon": 13.3282699
-    },
-    {
-      "type": "node",
-      "id": 10599910398,
-      "lat": 52.5619879,
-      "lon": 13.3284895
-    },
-    {
-      "type": "node",
-      "id": 10599910399,
-      "lat": 52.5617115,
-      "lon": 13.3284502
-    },
-    {
-      "type": "node",
-      "id": 10599910400,
-      "lat": 52.5619954,
-      "lon": 13.3283483
-    },
-    {
-      "type": "node",
       "id": 343129534,
       "lat": 52.5524861,
       "lon": 13.3591558
@@ -6872,30 +5734,6 @@
     },
     {
       "type": "node",
-      "id": 1804066919,
-      "lat": 52.6906013,
-      "lon": 13.1190026
-    },
-    {
-      "type": "node",
-      "id": 1804066929,
-      "lat": 52.6907537,
-      "lon": 13.118931
-    },
-    {
-      "type": "node",
-      "id": 1804066934,
-      "lat": 52.6907855,
-      "lon": 13.1193827
-    },
-    {
-      "type": "node",
-      "id": 1804066936,
-      "lat": 52.6908996,
-      "lon": 13.1192322
-    },
-    {
-      "type": "node",
       "id": 2013596360,
       "lat": 52.6899651,
       "lon": 13.1184621
@@ -6956,18 +5794,6 @@
     },
     {
       "type": "node",
-      "id": 2105271667,
-      "lat": 52.6906994,
-      "lon": 13.1188731
-    },
-    {
-      "type": "node",
-      "id": 2105271668,
-      "lat": 52.6907377,
-      "lon": 13.1189521
-    },
-    {
-      "type": "node",
       "id": 2013596366,
       "lat": 52.6902338,
       "lon": 13.1203878
@@ -6977,30 +5803,6 @@
       "id": 2013596367,
       "lat": 52.6902653,
       "lon": 13.1204575
-    },
-    {
-      "type": "node",
-      "id": 2105232220,
-      "lat": 52.6920133,
-      "lon": 13.1213927
-    },
-    {
-      "type": "node",
-      "id": 2105232223,
-      "lat": 52.6921097,
-      "lon": 13.1215966
-    },
-    {
-      "type": "node",
-      "id": 2105232225,
-      "lat": 52.6922827,
-      "lon": 13.1210458
-    },
-    {
-      "type": "node",
-      "id": 2105232227,
-      "lat": 52.6923791,
-      "lon": 13.1212497
     },
     {
       "type": "node",
@@ -7226,282 +6028,6 @@
     },
     {
       "type": "node",
-      "id": 753648546,
-      "lat": 52.7033479,
-      "lon": 13.2677274
-    },
-    {
-      "type": "node",
-      "id": 753648597,
-      "lat": 52.7047333,
-      "lon": 13.2691008
-    },
-    {
-      "type": "node",
-      "id": 3140119756,
-      "lat": 52.7038909,
-      "lon": 13.2677538
-    },
-    {
-      "type": "node",
-      "id": 3140123753,
-      "lat": 52.7045381,
-      "lon": 13.2677854
-    },
-    {
-      "type": "node",
-      "id": 3140150035,
-      "lat": 52.7038943,
-      "lon": 13.2675638
-    },
-    {
-      "type": "node",
-      "id": 3140151761,
-      "lat": 52.7045148,
-      "lon": 13.2689932
-    },
-    {
-      "type": "node",
-      "id": 3140154979,
-      "lat": 52.7033298,
-      "lon": 13.2690324
-    },
-    {
-      "type": "node",
-      "id": 3140155374,
-      "lat": 52.7034018,
-      "lon": 13.2677301
-    },
-    {
-      "type": "node",
-      "id": 3140155377,
-      "lat": 52.7034052,
-      "lon": 13.2675434
-    },
-    {
-      "type": "node",
-      "id": 3140155477,
-      "lat": 52.7035984,
-      "lon": 13.2689553
-    },
-    {
-      "type": "node",
-      "id": 3140156560,
-      "lat": 52.7035968,
-      "lon": 13.2690519
-    },
-    {
-      "type": "node",
-      "id": 3140158545,
-      "lat": 52.7039262,
-      "lon": 13.2689693
-    },
-    {
-      "type": "node",
-      "id": 3140159168,
-      "lat": 52.7043858,
-      "lon": 13.2690856
-    },
-    {
-      "type": "node",
-      "id": 3140159169,
-      "lat": 52.7043873,
-      "lon": 13.2689878
-    },
-    {
-      "type": "node",
-      "id": 3140159935,
-      "lat": 52.7039247,
-      "lon": 13.2690659
-    },
-    {
-      "type": "node",
-      "id": 3140160732,
-      "lat": 52.7045133,
-      "lon": 13.269091
-    },
-    {
-      "type": "node",
-      "id": 3140161331,
-      "lat": 52.7045346,
-      "lon": 13.2680189
-    },
-    {
-      "type": "node",
-      "id": 3140164631,
-      "lat": 52.7047499,
-      "lon": 13.2680283
-    },
-    {
-      "type": "node",
-      "id": 3776898362,
-      "lat": 52.7042201,
-      "lon": 13.2690785
-    },
-    {
-      "type": "node",
-      "id": 3320602335,
-      "lat": 52.3574015,
-      "lon": 13.4356983
-    },
-    {
-      "type": "node",
-      "id": 3320611413,
-      "lat": 52.3580351,
-      "lon": 13.4359516
-    },
-    {
-      "type": "node",
-      "id": 3320611419,
-      "lat": 52.3580967,
-      "lon": 13.4360982
-    },
-    {
-      "type": "node",
-      "id": 3320611422,
-      "lat": 52.3581035,
-      "lon": 13.4359882
-    },
-    {
-      "type": "node",
-      "id": 3320612431,
-      "lat": 52.3581327,
-      "lon": 13.436058
-    },
-    {
-      "type": "node",
-      "id": 3320613045,
-      "lat": 52.3583416,
-      "lon": 13.4366831
-    },
-    {
-      "type": "node",
-      "id": 3320613278,
-      "lat": 52.3577612,
-      "lon": 13.4352962
-    },
-    {
-      "type": "node",
-      "id": 3320613422,
-      "lat": 52.358081,
-      "lon": 13.4370797
-    },
-    {
-      "type": "node",
-      "id": 3320613423,
-      "lat": 52.3580876,
-      "lon": 13.4358942
-    },
-    {
-      "type": "node",
-      "id": 3320613597,
-      "lat": 52.357914,
-      "lon": 13.4356607
-    },
-    {
-      "type": "node",
-      "id": 3320613635,
-      "lat": 52.3580716,
-      "lon": 13.4359113
-    },
-    {
-      "type": "node",
-      "id": 3320613643,
-      "lat": 52.3581192,
-      "lon": 13.4359704
-    },
-    {
-      "type": "node",
-      "id": 3320613703,
-      "lat": 52.3580126,
-      "lon": 13.437158
-    },
-    {
-      "type": "node",
-      "id": 3320613739,
-      "lat": 52.3584806,
-      "lon": 13.4374964
-    },
-    {
-      "type": "node",
-      "id": 3320614137,
-      "lat": 52.3586275,
-      "lon": 13.4368982
-    },
-    {
-      "type": "node",
-      "id": 3320614143,
-      "lat": 52.3586324,
-      "lon": 13.4368997
-    },
-    {
-      "type": "node",
-      "id": 3320614252,
-      "lat": 52.3587512,
-      "lon": 13.4371941
-    },
-    {
-      "type": "node",
-      "id": 3320614269,
-      "lat": 52.3582354,
-      "lon": 13.4369099
-    },
-    {
-      "type": "node",
-      "id": 3320614273,
-      "lat": 52.3582505,
-      "lon": 13.4364649
-    },
-    {
-      "type": "node",
-      "id": 3320614635,
-      "lat": 52.3584762,
-      "lon": 13.4365265
-    },
-    {
-      "type": "node",
-      "id": 3320614636,
-      "lat": 52.358478,
-      "lon": 13.4365312
-    },
-    {
-      "type": "node",
-      "id": 3320614995,
-      "lat": 52.3584717,
-      "lon": 13.4365315
-    },
-    {
-      "type": "node",
-      "id": 3320614997,
-      "lat": 52.3584736,
-      "lon": 13.436536
-    },
-    {
-      "type": "node",
-      "id": 3320615000,
-      "lat": 52.3584752,
-      "lon": 13.4365336
-    },
-    {
-      "type": "node",
-      "id": 3320616074,
-      "lat": 52.3586295,
-      "lon": 13.4369028
-    },
-    {
-      "type": "node",
-      "id": 3320616075,
-      "lat": 52.3586303,
-      "lon": 13.4368952
-    },
-    {
-      "type": "node",
-      "id": 3634326052,
-      "lat": 52.3583328,
-      "lon": 13.4366621
-    },
-    {
-      "type": "node",
       "id": 262425126,
       "lat": 52.381203,
       "lon": 13.4457043
@@ -7583,180 +6109,6 @@
       "id": 7205861255,
       "lat": 52.3813726,
       "lon": 13.4456398
-    },
-    {
-      "type": "node",
-      "id": 2883129846,
-      "lat": 52.4187982,
-      "lon": 13.478563
-    },
-    {
-      "type": "node",
-      "id": 2883129847,
-      "lat": 52.4189583,
-      "lon": 13.478166
-    },
-    {
-      "type": "node",
-      "id": 5393747520,
-      "lat": 52.4188335,
-      "lon": 13.4784654
-    },
-    {
-      "type": "node",
-      "id": 5393749621,
-      "lat": 52.4188428,
-      "lon": 13.478475
-    },
-    {
-      "type": "node",
-      "id": 2883129842,
-      "lat": 52.4191499,
-      "lon": 13.4783587
-    },
-    {
-      "type": "node",
-      "id": 2883129844,
-      "lat": 52.4190647,
-      "lon": 13.4787
-    },
-    {
-      "type": "node",
-      "id": 2883129845,
-      "lat": 52.4190295,
-      "lon": 13.4787977
-    },
-    {
-      "type": "node",
-      "id": 11878960091,
-      "lat": 52.419034,
-      "lon": 13.4786671
-    },
-    {
-      "type": "node",
-      "id": 1552842806,
-      "lat": 52.4337278,
-      "lon": 13.5002018
-    },
-    {
-      "type": "node",
-      "id": 1553912654,
-      "lat": 52.4339646,
-      "lon": 13.5003785
-    },
-    {
-      "type": "node",
-      "id": 914485730,
-      "lat": 52.4339913,
-      "lon": 13.5004218
-    },
-    {
-      "type": "node",
-      "id": 1552842780,
-      "lat": 52.4332515,
-      "lon": 13.5009211
-    },
-    {
-      "type": "node",
-      "id": 1552842782,
-      "lat": 52.4332688,
-      "lon": 13.5009676
-    },
-    {
-      "type": "node",
-      "id": 1552842783,
-      "lat": 52.4332744,
-      "lon": 13.5009583
-    },
-    {
-      "type": "node",
-      "id": 1552842785,
-      "lat": 52.4333368,
-      "lon": 13.5007799
-    },
-    {
-      "type": "node",
-      "id": 1552842788,
-      "lat": 52.433358,
-      "lon": 13.5008143
-    },
-    {
-      "type": "node",
-      "id": 1552842800,
-      "lat": 52.433673,
-      "lon": 13.501739
-    },
-    {
-      "type": "node",
-      "id": 1552842803,
-      "lat": 52.433708,
-      "lon": 13.501681
-    },
-    {
-      "type": "node",
-      "id": 1552842811,
-      "lat": 52.4337625,
-      "lon": 13.5018843
-    },
-    {
-      "type": "node",
-      "id": 1552842813,
-      "lat": 52.433821,
-      "lon": 13.5017177
-    },
-    {
-      "type": "node",
-      "id": 1552842815,
-      "lat": 52.4338423,
-      "lon": 13.5017521
-    },
-    {
-      "type": "node",
-      "id": 1552842816,
-      "lat": 52.4339012,
-      "lon": 13.5004834
-    },
-    {
-      "type": "node",
-      "id": 1552842821,
-      "lat": 52.4339211,
-      "lon": 13.501552
-    },
-    {
-      "type": "node",
-      "id": 1552842828,
-      "lat": 52.4340408,
-      "lon": 13.5005022
-    },
-    {
-      "type": "node",
-      "id": 1552842844,
-      "lat": 52.4345181,
-      "lon": 13.5014668
-    },
-    {
-      "type": "node",
-      "id": 1553912656,
-      "lat": 52.4340258,
-      "lon": 13.5005269
-    },
-    {
-      "type": "node",
-      "id": 1553912659,
-      "lat": 52.4342252,
-      "lon": 13.5009998
-    },
-    {
-      "type": "node",
-      "id": 1553912660,
-      "lat": 52.4342707,
-      "lon": 13.5009246
-    },
-    {
-      "type": "node",
-      "id": 4092037862,
-      "lat": 52.4342018,
-      "lon": 13.5019919
     },
     {
       "type": "node",
@@ -7940,66 +6292,6 @@
     },
     {
       "type": "node",
-      "id": 310482586,
-      "lat": 52.3987786,
-      "lon": 13.5541599
-    },
-    {
-      "type": "node",
-      "id": 310482587,
-      "lat": 52.3984358,
-      "lon": 13.5542252
-    },
-    {
-      "type": "node",
-      "id": 310482589,
-      "lat": 52.3981572,
-      "lon": 13.5542733
-    },
-    {
-      "type": "node",
-      "id": 310483031,
-      "lat": 52.3977286,
-      "lon": 13.5544152
-    },
-    {
-      "type": "node",
-      "id": 310483033,
-      "lat": 52.3974154,
-      "lon": 13.5544685
-    },
-    {
-      "type": "node",
-      "id": 496283703,
-      "lat": 52.398357,
-      "lon": 13.5542358
-    },
-    {
-      "type": "node",
-      "id": 496284432,
-      "lat": 52.3984582,
-      "lon": 13.5542219
-    },
-    {
-      "type": "node",
-      "id": 848795816,
-      "lat": 52.3986594,
-      "lon": 13.5531362
-    },
-    {
-      "type": "node",
-      "id": 4410485936,
-      "lat": 52.3973113,
-      "lon": 13.5537028
-    },
-    {
-      "type": "node",
-      "id": 4410485946,
-      "lat": 52.3983423,
-      "lon": 13.5532439
-    },
-    {
-      "type": "node",
       "id": 5645361228,
       "lat": 52.3641271,
       "lon": 13.6986486
@@ -8024,204 +6316,6 @@
     },
     {
       "type": "node",
-      "id": 294607403,
-      "lat": 52.485565,
-      "lon": 13.4224224
-    },
-    {
-      "type": "node",
-      "id": 294607405,
-      "lat": 52.4849321,
-      "lon": 13.4223783
-    },
-    {
-      "type": "node",
-      "id": 1135508517,
-      "lat": 52.4848946,
-      "lon": 13.4220762
-    },
-    {
-      "type": "node",
-      "id": 1135508530,
-      "lat": 52.4856058,
-      "lon": 13.4219458
-    },
-    {
-      "type": "node",
-      "id": 1135508538,
-      "lat": 52.4848989,
-      "lon": 13.4219091
-    },
-    {
-      "type": "node",
-      "id": 1135508540,
-      "lat": 52.4856215,
-      "lon": 13.4218185
-    },
-    {
-      "type": "node",
-      "id": 1135508549,
-      "lat": 52.4855689,
-      "lon": 13.4222816
-    },
-    {
-      "type": "node",
-      "id": 1135508566,
-      "lat": 52.4855239,
-      "lon": 13.4222776
-    },
-    {
-      "type": "node",
-      "id": 1135508571,
-      "lat": 52.4855654,
-      "lon": 13.4219761
-    },
-    {
-      "type": "node",
-      "id": 1135508585,
-      "lat": 52.4855324,
-      "lon": 13.4219593
-    },
-    {
-      "type": "node",
-      "id": 1135508588,
-      "lat": 52.4849438,
-      "lon": 13.4219112
-    },
-    {
-      "type": "node",
-      "id": 1135508600,
-      "lat": 52.4849388,
-      "lon": 13.4220798
-    },
-    {
-      "type": "node",
-      "id": 1135508601,
-      "lat": 52.4856275,
-      "lon": 13.4218645
-    },
-    {
-      "type": "node",
-      "id": 1135508610,
-      "lat": 52.4856121,
-      "lon": 13.4219357
-    },
-    {
-      "type": "node",
-      "id": 1135508612,
-      "lat": 52.4856178,
-      "lon": 13.421807
-    },
-    {
-      "type": "node",
-      "id": 5141460239,
-      "lat": 52.4849379,
-      "lon": 13.4221236
-    },
-    {
-      "type": "node",
-      "id": 5141460241,
-      "lat": 52.4850749,
-      "lon": 13.4223883
-    },
-    {
-      "type": "node",
-      "id": 5141460242,
-      "lat": 52.4853932,
-      "lon": 13.4224105
-    },
-    {
-      "type": "node",
-      "id": 5141460993,
-      "lat": 52.4855766,
-      "lon": 13.4219731
-    },
-    {
-      "type": "node",
-      "id": 5141460994,
-      "lat": 52.4855862,
-      "lon": 13.4219678
-    },
-    {
-      "type": "node",
-      "id": 5141460995,
-      "lat": 52.4855938,
-      "lon": 13.4219616
-    },
-    {
-      "type": "node",
-      "id": 5141460996,
-      "lat": 52.4856003,
-      "lon": 13.4219539
-    },
-    {
-      "type": "node",
-      "id": 5141460997,
-      "lat": 52.4856166,
-      "lon": 13.4219261
-    },
-    {
-      "type": "node",
-      "id": 5141460998,
-      "lat": 52.4856215,
-      "lon": 13.4219114
-    },
-    {
-      "type": "node",
-      "id": 5141460999,
-      "lat": 52.485625,
-      "lon": 13.421897
-    },
-    {
-      "type": "node",
-      "id": 5141461000,
-      "lat": 52.485627,
-      "lon": 13.4218823
-    },
-    {
-      "type": "node",
-      "id": 5141461001,
-      "lat": 52.4856272,
-      "lon": 13.4218481
-    },
-    {
-      "type": "node",
-      "id": 5141461002,
-      "lat": 52.4856248,
-      "lon": 13.4218336
-    },
-    {
-      "type": "node",
-      "id": 5141461003,
-      "lat": 52.4856114,
-      "lon": 13.4217917
-    },
-    {
-      "type": "node",
-      "id": 5141461004,
-      "lat": 52.4856037,
-      "lon": 13.4217796
-    },
-    {
-      "type": "node",
-      "id": 5141461010,
-      "lat": 52.4855485,
-      "lon": 13.4219766
-    },
-    {
-      "type": "node",
-      "id": 5141461011,
-      "lat": 52.4855485,
-      "lon": 13.4219601
-    },
-    {
-      "type": "node",
-      "id": 7217026898,
-      "lat": 52.4851266,
-      "lon": 13.4223919
-    },
-    {
-      "type": "node",
       "id": 697056556,
       "lat": 52.4945686,
       "lon": 13.4408894
@@ -8237,48 +6331,6 @@
       "id": 697056561,
       "lat": 52.4946375,
       "lon": 13.4410699
-    },
-    {
-      "type": "node",
-      "id": 1945806406,
-      "lat": 52.4917497,
-      "lon": 13.4400938
-    },
-    {
-      "type": "node",
-      "id": 5353594910,
-      "lat": 52.4917993,
-      "lon": 13.4401886
-    },
-    {
-      "type": "node",
-      "id": 5353603759,
-      "lat": 52.4918737,
-      "lon": 13.4400574
-    },
-    {
-      "type": "node",
-      "id": 5353603760,
-      "lat": 52.4918529,
-      "lon": 13.4400163
-    },
-    {
-      "type": "node",
-      "id": 5353603762,
-      "lat": 52.4919406,
-      "lon": 13.43997
-    },
-    {
-      "type": "node",
-      "id": 5353603764,
-      "lat": 52.4919709,
-      "lon": 13.4397941
-    },
-    {
-      "type": "node",
-      "id": 5353603765,
-      "lat": 52.492012,
-      "lon": 13.4398817
     },
     {
       "type": "node",
@@ -8309,12 +6361,6 @@
       "id": 5353622237,
       "lat": 52.4946294,
       "lon": 13.4409437
-    },
-    {
-      "type": "node",
-      "id": 12866758561,
-      "lat": 52.4919166,
-      "lon": 13.4399215
     },
     {
       "type": "node",
@@ -8480,102 +6526,6 @@
     },
     {
       "type": "node",
-      "id": 262351982,
-      "lat": 52.4617379,
-      "lon": 13.5051492
-    },
-    {
-      "type": "node",
-      "id": 262351983,
-      "lat": 52.4612379,
-      "lon": 13.5042396
-    },
-    {
-      "type": "node",
-      "id": 262351986,
-      "lat": 52.4616204,
-      "lon": 13.5030006
-    },
-    {
-      "type": "node",
-      "id": 2255293438,
-      "lat": 52.4622274,
-      "lon": 13.5041129
-    },
-    {
-      "type": "node",
-      "id": 2255293443,
-      "lat": 52.4618209,
-      "lon": 13.5047114
-    },
-    {
-      "type": "node",
-      "id": 2833879055,
-      "lat": 52.4618404,
-      "lon": 13.5049977
-    },
-    {
-      "type": "node",
-      "id": 3067124839,
-      "lat": 52.4612416,
-      "lon": 13.5042341
-    },
-    {
-      "type": "node",
-      "id": 3067124841,
-      "lat": 52.4616471,
-      "lon": 13.5049838
-    },
-    {
-      "type": "node",
-      "id": 3067124842,
-      "lat": 52.4616506,
-      "lon": 13.5049786
-    },
-    {
-      "type": "node",
-      "id": 3067124847,
-      "lat": 52.4619197,
-      "lon": 13.504888
-    },
-    {
-      "type": "node",
-      "id": 4083693085,
-      "lat": 52.4610335,
-      "lon": 13.5038649
-    },
-    {
-      "type": "node",
-      "id": 7737342993,
-      "lat": 52.4612072,
-      "lon": 13.5036091
-    },
-    {
-      "type": "node",
-      "id": 7737342994,
-      "lat": 52.4619446,
-      "lon": 13.5045293
-    },
-    {
-      "type": "node",
-      "id": 7737342995,
-      "lat": 52.4621202,
-      "lon": 13.5042708
-    },
-    {
-      "type": "node",
-      "id": 7737342996,
-      "lat": 52.4620028,
-      "lon": 13.5037013
-    },
-    {
-      "type": "node",
-      "id": 7737342997,
-      "lat": 52.462089,
-      "lon": 13.5038593
-    },
-    {
-      "type": "node",
       "id": 2028050403,
       "lat": 52.4943153,
       "lon": 13.497524
@@ -8687,66 +6637,6 @@
       "id": 4110035833,
       "lat": 52.5207047,
       "lon": 13.4688963
-    },
-    {
-      "type": "node",
-      "id": 394816258,
-      "lat": 52.5073622,
-      "lon": 13.4864743
-    },
-    {
-      "type": "node",
-      "id": 394816259,
-      "lat": 52.5077381,
-      "lon": 13.4865832
-    },
-    {
-      "type": "node",
-      "id": 394816260,
-      "lat": 52.5077007,
-      "lon": 13.4869354
-    },
-    {
-      "type": "node",
-      "id": 394816261,
-      "lat": 52.5073234,
-      "lon": 13.4868216
-    },
-    {
-      "type": "node",
-      "id": 431349290,
-      "lat": 52.5078052,
-      "lon": 13.4859616
-    },
-    {
-      "type": "node",
-      "id": 431349292,
-      "lat": 52.5077663,
-      "lon": 13.4863156
-    },
-    {
-      "type": "node",
-      "id": 431349294,
-      "lat": 52.507392,
-      "lon": 13.4862063
-    },
-    {
-      "type": "node",
-      "id": 431349300,
-      "lat": 52.5074306,
-      "lon": 13.4858501
-    },
-    {
-      "type": "node",
-      "id": 8831527379,
-      "lat": 52.5075779,
-      "lon": 13.4868984
-    },
-    {
-      "type": "node",
-      "id": 8831527382,
-      "lat": 52.5076252,
-      "lon": 13.4869127
     },
     {
       "type": "node",
@@ -8918,264 +6808,6 @@
     },
     {
       "type": "node",
-      "id": 603567866,
-      "lat": 52.532576,
-      "lon": 13.5105342
-    },
-    {
-      "type": "node",
-      "id": 603567869,
-      "lat": 52.5327553,
-      "lon": 13.5105075
-    },
-    {
-      "type": "node",
-      "id": 1608983296,
-      "lat": 52.5324449,
-      "lon": 13.5086235
-    },
-    {
-      "type": "node",
-      "id": 1608983302,
-      "lat": 52.5335312,
-      "lon": 13.5084208
-    },
-    {
-      "type": "node",
-      "id": 1608983307,
-      "lat": 52.5337329,
-      "lon": 13.5083876
-    },
-    {
-      "type": "node",
-      "id": 1903667101,
-      "lat": 52.5336783,
-      "lon": 13.5103307
-    },
-    {
-      "type": "node",
-      "id": 5014678543,
-      "lat": 52.5325277,
-      "lon": 13.5098306
-    },
-    {
-      "type": "node",
-      "id": 5014678546,
-      "lat": 52.5324551,
-      "lon": 13.5087731
-    },
-    {
-      "type": "node",
-      "id": 5014678547,
-      "lat": 52.5324206,
-      "lon": 13.508779
-    },
-    {
-      "type": "node",
-      "id": 5014678548,
-      "lat": 52.5323906,
-      "lon": 13.5086939
-    },
-    {
-      "type": "node",
-      "id": 5014678549,
-      "lat": 52.5324489,
-      "lon": 13.5086823
-    },
-    {
-      "type": "node",
-      "id": 5014678550,
-      "lat": 52.5323867,
-      "lon": 13.5086903
-    },
-    {
-      "type": "node",
-      "id": 5014678551,
-      "lat": 52.5323745,
-      "lon": 13.5086842
-    },
-    {
-      "type": "node",
-      "id": 5014678552,
-      "lat": 52.5323618,
-      "lon": 13.5086827
-    },
-    {
-      "type": "node",
-      "id": 5014678553,
-      "lat": 52.5323492,
-      "lon": 13.5086858
-    },
-    {
-      "type": "node",
-      "id": 5014678554,
-      "lat": 52.5323374,
-      "lon": 13.5086935
-    },
-    {
-      "type": "node",
-      "id": 5014678555,
-      "lat": 52.5323269,
-      "lon": 13.5087054
-    },
-    {
-      "type": "node",
-      "id": 5014678556,
-      "lat": 52.5323182,
-      "lon": 13.5087208
-    },
-    {
-      "type": "node",
-      "id": 5014678557,
-      "lat": 52.5323119,
-      "lon": 13.5087389
-    },
-    {
-      "type": "node",
-      "id": 5014678558,
-      "lat": 52.5323082,
-      "lon": 13.5087589
-    },
-    {
-      "type": "node",
-      "id": 5014678559,
-      "lat": 52.5323073,
-      "lon": 13.5087798
-    },
-    {
-      "type": "node",
-      "id": 5014678560,
-      "lat": 52.5323092,
-      "lon": 13.5088005
-    },
-    {
-      "type": "node",
-      "id": 5014678561,
-      "lat": 52.5323139,
-      "lon": 13.5088199
-    },
-    {
-      "type": "node",
-      "id": 5014678562,
-      "lat": 52.5323211,
-      "lon": 13.5088372
-    },
-    {
-      "type": "node",
-      "id": 5014678563,
-      "lat": 52.5323305,
-      "lon": 13.5088514
-    },
-    {
-      "type": "node",
-      "id": 5014678564,
-      "lat": 52.5323415,
-      "lon": 13.5088618
-    },
-    {
-      "type": "node",
-      "id": 5014678565,
-      "lat": 52.5323537,
-      "lon": 13.5088679
-    },
-    {
-      "type": "node",
-      "id": 5014678566,
-      "lat": 52.5323664,
-      "lon": 13.5088694
-    },
-    {
-      "type": "node",
-      "id": 5014678567,
-      "lat": 52.532379,
-      "lon": 13.5088662
-    },
-    {
-      "type": "node",
-      "id": 5014678568,
-      "lat": 52.5323908,
-      "lon": 13.5088585
-    },
-    {
-      "type": "node",
-      "id": 5014678569,
-      "lat": 52.5324013,
-      "lon": 13.5088467
-    },
-    {
-      "type": "node",
-      "id": 5014678570,
-      "lat": 52.5324099,
-      "lon": 13.5088313
-    },
-    {
-      "type": "node",
-      "id": 5014678571,
-      "lat": 52.5324162,
-      "lon": 13.5088131
-    },
-    {
-      "type": "node",
-      "id": 5014678572,
-      "lat": 52.53242,
-      "lon": 13.5087931
-    },
-    {
-      "type": "node",
-      "id": 5014678573,
-      "lat": 52.5337714,
-      "lon": 13.5089686
-    },
-    {
-      "type": "node",
-      "id": 5014678574,
-      "lat": 52.5338247,
-      "lon": 13.5089589
-    },
-    {
-      "type": "node",
-      "id": 5014678575,
-      "lat": 52.533837,
-      "lon": 13.5091433
-    },
-    {
-      "type": "node",
-      "id": 5014678576,
-      "lat": 52.5337852,
-      "lon": 13.5091537
-    },
-    {
-      "type": "node",
-      "id": 5014678577,
-      "lat": 52.5338156,
-      "lon": 13.5095977
-    },
-    {
-      "type": "node",
-      "id": 5014678578,
-      "lat": 52.5336321,
-      "lon": 13.5096362
-    },
-    {
-      "type": "node",
-      "id": 6724688591,
-      "lat": 52.5338308,
-      "lon": 13.5090506
-    },
-    {
-      "type": "node",
-      "id": 11534130293,
-      "lat": 52.5327923,
-      "lon": 13.5085587
-    },
-    {
-      "type": "node",
-      "id": 11534130324,
-      "lat": 52.5335368,
-      "lon": 13.5084199
-    },
-    {
-      "type": "node",
       "id": 1339442526,
       "lat": 52.4570024,
       "lon": 13.5295791
@@ -9314,78 +6946,6 @@
     },
     {
       "type": "node",
-      "id": 3438056115,
-      "lat": 52.454713,
-      "lon": 13.592826
-    },
-    {
-      "type": "node",
-      "id": 3438056116,
-      "lat": 52.4548069,
-      "lon": 13.5930123
-    },
-    {
-      "type": "node",
-      "id": 3438056117,
-      "lat": 52.454813,
-      "lon": 13.5927798
-    },
-    {
-      "type": "node",
-      "id": 3438056118,
-      "lat": 52.4548302,
-      "lon": 13.5931551
-    },
-    {
-      "type": "node",
-      "id": 3438056119,
-      "lat": 52.4548495,
-      "lon": 13.5929928
-    },
-    {
-      "type": "node",
-      "id": 3558431738,
-      "lat": 52.4547643,
-      "lon": 13.5931611
-    },
-    {
-      "type": "node",
-      "id": 5443346355,
-      "lat": 52.4547687,
-      "lon": 13.5931596
-    },
-    {
-      "type": "node",
-      "id": 5443346356,
-      "lat": 52.4547687,
-      "lon": 13.5931846
-    },
-    {
-      "type": "node",
-      "id": 5443346357,
-      "lat": 52.4547497,
-      "lon": 13.5930423
-    },
-    {
-      "type": "node",
-      "id": 5443346358,
-      "lat": 52.4547098,
-      "lon": 13.5930659
-    },
-    {
-      "type": "node",
-      "id": 5443346359,
-      "lat": 52.454688,
-      "lon": 13.5929445
-    },
-    {
-      "type": "node",
-      "id": 5443346360,
-      "lat": 52.4547302,
-      "lon": 13.5929225
-    },
-    {
-      "type": "node",
       "id": 6814922347,
       "lat": 52.5351185,
       "lon": 13.5313242
@@ -9494,132 +7054,6 @@
     },
     {
       "type": "node",
-      "id": 4421857770,
-      "lat": 52.502082,
-      "lon": 13.6074701
-    },
-    {
-      "type": "node",
-      "id": 4470366944,
-      "lat": 52.5011193,
-      "lon": 13.607818
-    },
-    {
-      "type": "node",
-      "id": 4711956191,
-      "lat": 52.5016279,
-      "lon": 13.6071237
-    },
-    {
-      "type": "node",
-      "id": 4711956193,
-      "lat": 52.5012025,
-      "lon": 13.6068517
-    },
-    {
-      "type": "node",
-      "id": 4711956195,
-      "lat": 52.5017345,
-      "lon": 13.6077344
-    },
-    {
-      "type": "node",
-      "id": 4711956196,
-      "lat": 52.5018225,
-      "lon": 13.6078119
-    },
-    {
-      "type": "node",
-      "id": 4711956197,
-      "lat": 52.5020225,
-      "lon": 13.6078824
-    },
-    {
-      "type": "node",
-      "id": 4711956199,
-      "lat": 52.5012106,
-      "lon": 13.606807
-    },
-    {
-      "type": "node",
-      "id": 4711956200,
-      "lat": 52.5011947,
-      "lon": 13.6068947
-    },
-    {
-      "type": "node",
-      "id": 4711956201,
-      "lat": 52.5010707,
-      "lon": 13.6077955
-    },
-    {
-      "type": "node",
-      "id": 4711956202,
-      "lat": 52.5016921,
-      "lon": 13.6080317
-    },
-    {
-      "type": "node",
-      "id": 5755472929,
-      "lat": 52.5013868,
-      "lon": 13.6069399
-    },
-    {
-      "type": "node",
-      "id": 6611964102,
-      "lat": 52.501828,
-      "lon": 13.6077671
-    },
-    {
-      "type": "node",
-      "id": 2128393158,
-      "lat": 52.4976509,
-      "lon": 13.6221994
-    },
-    {
-      "type": "node",
-      "id": 2128393159,
-      "lat": 52.4976631,
-      "lon": 13.6220718
-    },
-    {
-      "type": "node",
-      "id": 2128393168,
-      "lat": 52.4978685,
-      "lon": 13.6221249
-    },
-    {
-      "type": "node",
-      "id": 2128393169,
-      "lat": 52.4978734,
-      "lon": 13.6220739
-    },
-    {
-      "type": "node",
-      "id": 2128393170,
-      "lat": 52.4978777,
-      "lon": 13.622258
-    },
-    {
-      "type": "node",
-      "id": 2128393171,
-      "lat": 52.4978805,
-      "lon": 13.6222283
-    },
-    {
-      "type": "node",
-      "id": 2128393172,
-      "lat": 52.4979696,
-      "lon": 13.6222513
-    },
-    {
-      "type": "node",
-      "id": 2128393173,
-      "lat": 52.4979839,
-      "lon": 13.6221024
-    },
-    {
-      "type": "node",
       "id": 2054885702,
       "lat": 52.5611277,
       "lon": 13.4747149
@@ -9653,276 +7087,6 @@
       "id": 3327108298,
       "lat": 52.5611655,
       "lon": 13.4745669
-    },
-    {
-      "type": "node",
-      "id": 3887703813,
-      "lat": 52.5655038,
-      "lon": 13.4771123
-    },
-    {
-      "type": "node",
-      "id": 3887703816,
-      "lat": 52.5655399,
-      "lon": 13.4768105
-    },
-    {
-      "type": "node",
-      "id": 3887703829,
-      "lat": 52.5656351,
-      "lon": 13.4773652
-    },
-    {
-      "type": "node",
-      "id": 3887703830,
-      "lat": 52.565659,
-      "lon": 13.4771627
-    },
-    {
-      "type": "node",
-      "id": 3887703851,
-      "lat": 52.5657925,
-      "lon": 13.4774161
-    },
-    {
-      "type": "node",
-      "id": 3887703866,
-      "lat": 52.565853,
-      "lon": 13.4769115
-    },
-    {
-      "type": "node",
-      "id": 942668497,
-      "lat": 52.6148467,
-      "lon": 13.4329424
-    },
-    {
-      "type": "node",
-      "id": 942668512,
-      "lat": 52.6148993,
-      "lon": 13.4332499
-    },
-    {
-      "type": "node",
-      "id": 3504360903,
-      "lat": 52.6145301,
-      "lon": 13.4333273
-    },
-    {
-      "type": "node",
-      "id": 3504360912,
-      "lat": 52.6145826,
-      "lon": 13.4336343
-    },
-    {
-      "type": "node",
-      "id": 3504360920,
-      "lat": 52.614621,
-      "lon": 13.433047
-    },
-    {
-      "type": "node",
-      "id": 3504360921,
-      "lat": 52.6146218,
-      "lon": 13.4336161
-    },
-    {
-      "type": "node",
-      "id": 3504360931,
-      "lat": 52.6146477,
-      "lon": 13.433768
-    },
-    {
-      "type": "node",
-      "id": 3504360936,
-      "lat": 52.6146587,
-      "lon": 13.4332676
-    },
-    {
-      "type": "node",
-      "id": 3504360937,
-      "lat": 52.6146642,
-      "lon": 13.433896
-    },
-    {
-      "type": "node",
-      "id": 3504360943,
-      "lat": 52.6146925,
-      "lon": 13.4340618
-    },
-    {
-      "type": "node",
-      "id": 3504360944,
-      "lat": 52.6147086,
-      "lon": 13.4341558
-    },
-    {
-      "type": "node",
-      "id": 3504360946,
-      "lat": 52.6147372,
-      "lon": 13.4337265
-    },
-    {
-      "type": "node",
-      "id": 3504360951,
-      "lat": 52.6147845,
-      "lon": 13.4337656
-    },
-    {
-      "type": "node",
-      "id": 3504360952,
-      "lat": 52.6147963,
-      "lon": 13.4338347
-    },
-    {
-      "type": "node",
-      "id": 3504360955,
-      "lat": 52.6148524,
-      "lon": 13.4336731
-    },
-    {
-      "type": "node",
-      "id": 3504360957,
-      "lat": 52.614862,
-      "lon": 13.4337296
-    },
-    {
-      "type": "node",
-      "id": 3504360958,
-      "lat": 52.6148693,
-      "lon": 13.4340813
-    },
-    {
-      "type": "node",
-      "id": 3504360961,
-      "lat": 52.6149451,
-      "lon": 13.4332287
-    },
-    {
-      "type": "node",
-      "id": 3504360967,
-      "lat": 52.6150423,
-      "lon": 13.4331539
-    },
-    {
-      "type": "node",
-      "id": 3504360968,
-      "lat": 52.615047,
-      "lon": 13.4331814
-    },
-    {
-      "type": "node",
-      "id": 3504360971,
-      "lat": 52.6150977,
-      "lon": 13.4331282
-    },
-    {
-      "type": "node",
-      "id": 3504360973,
-      "lat": 52.6151029,
-      "lon": 13.4331588
-    },
-    {
-      "type": "node",
-      "id": 3504360976,
-      "lat": 52.6151251,
-      "lon": 13.4339627
-    },
-    {
-      "type": "node",
-      "id": 3504360978,
-      "lat": 52.6151269,
-      "lon": 13.433973
-    },
-    {
-      "type": "node",
-      "id": 3504360980,
-      "lat": 52.6151324,
-      "lon": 13.4340053
-    },
-    {
-      "type": "node",
-      "id": 3504360981,
-      "lat": 52.6151517,
-      "lon": 13.4331362
-    },
-    {
-      "type": "node",
-      "id": 3504360989,
-      "lat": 52.6152872,
-      "lon": 13.4338888
-    },
-    {
-      "type": "node",
-      "id": 3504360990,
-      "lat": 52.6152887,
-      "lon": 13.433898
-    },
-    {
-      "type": "node",
-      "id": 3504360991,
-      "lat": 52.6152943,
-      "lon": 13.4339303
-    },
-    {
-      "type": "node",
-      "id": 3504360994,
-      "lat": 52.6153615,
-      "lon": 13.433039
-    },
-    {
-      "type": "node",
-      "id": 3504360998,
-      "lat": 52.6153815,
-      "lon": 13.4338451
-    },
-    {
-      "type": "node",
-      "id": 3504360999,
-      "lat": 52.6153835,
-      "lon": 13.4338568
-    },
-    {
-      "type": "node",
-      "id": 3504361000,
-      "lat": 52.6153887,
-      "lon": 13.4338874
-    },
-    {
-      "type": "node",
-      "id": 3504361006,
-      "lat": 52.6154626,
-      "lon": 13.4329921
-    },
-    {
-      "type": "node",
-      "id": 3504361007,
-      "lat": 52.6154742,
-      "lon": 13.43306
-    },
-    {
-      "type": "node",
-      "id": 3504361008,
-      "lat": 52.6154792,
-      "lon": 13.4330578
-    },
-    {
-      "type": "node",
-      "id": 3504361015,
-      "lat": 52.6155528,
-      "lon": 13.4338113
-    },
-    {
-      "type": "node",
-      "id": 3504361020,
-      "lat": 52.6155969,
-      "lon": 13.4337467
-    },
-    {
-      "type": "node",
-      "id": 3504361022,
-      "lat": 52.6156053,
-      "lon": 13.4337864
     },
     {
       "type": "node",
@@ -10328,12 +7492,6 @@
     },
     {
       "type": "node",
-      "id": 1562726827,
-      "lat": 52.4839428,
-      "lon": 13.7070476
-    },
-    {
-      "type": "node",
       "id": 1562838642,
       "lat": 52.483522,
       "lon": 13.7066802
@@ -10358,12 +7516,6 @@
     },
     {
       "type": "node",
-      "id": 1562838693,
-      "lat": 52.4840471,
-      "lon": 13.7073204
-    },
-    {
-      "type": "node",
       "id": 1562838707,
       "lat": 52.4841259,
       "lon": 13.7063997
@@ -10373,18 +7525,6 @@
       "id": 1562838710,
       "lat": 52.4841458,
       "lon": 13.7064545
-    },
-    {
-      "type": "node",
-      "id": 1562838723,
-      "lat": 52.484261,
-      "lon": 13.7067483
-    },
-    {
-      "type": "node",
-      "id": 1562838727,
-      "lat": 52.484362,
-      "lon": 13.7070007
     },
     {
       "type": "node",
@@ -11120,30 +8260,6 @@
     },
     {
       "type": "node",
-      "id": 268422505,
-      "lat": 52.531859,
-      "lon": 13.8083937
-    },
-    {
-      "type": "node",
-      "id": 268422506,
-      "lat": 52.5319865,
-      "lon": 13.8083077
-    },
-    {
-      "type": "node",
-      "id": 268422503,
-      "lat": 52.5320903,
-      "lon": 13.8087236
-    },
-    {
-      "type": "node",
-      "id": 268422504,
-      "lat": 52.5319627,
-      "lon": 13.8088096
-    },
-    {
-      "type": "node",
       "id": 2127690074,
       "lat": 52.6261482,
       "lon": 13.7268661
@@ -11447,126 +8563,6 @@
       "id": 12579252129,
       "lat": 52.686573,
       "lon": 13.5686728
-    },
-    {
-      "type": "node",
-      "id": 302682235,
-      "lat": 52.6660705,
-      "lon": 13.5837368
-    },
-    {
-      "type": "node",
-      "id": 302682236,
-      "lat": 52.6674134,
-      "lon": 13.5832869
-    },
-    {
-      "type": "node",
-      "id": 302682237,
-      "lat": 52.6673668,
-      "lon": 13.5829093
-    },
-    {
-      "type": "node",
-      "id": 302682239,
-      "lat": 52.6670514,
-      "lon": 13.583015
-    },
-    {
-      "type": "node",
-      "id": 302682240,
-      "lat": 52.6670092,
-      "lon": 13.5826673
-    },
-    {
-      "type": "node",
-      "id": 302682242,
-      "lat": 52.6659861,
-      "lon": 13.5830518
-    },
-    {
-      "type": "node",
-      "id": 2128613178,
-      "lat": 52.6663924,
-      "lon": 13.5828919
-    },
-    {
-      "type": "node",
-      "id": 2128613179,
-      "lat": 52.6663927,
-      "lon": 13.582899
-    },
-    {
-      "type": "node",
-      "id": 2128613180,
-      "lat": 52.6664058,
-      "lon": 13.5828355
-    },
-    {
-      "type": "node",
-      "id": 2128613183,
-      "lat": 52.6664242,
-      "lon": 13.5827899
-    },
-    {
-      "type": "node",
-      "id": 2128613184,
-      "lat": 52.6664796,
-      "lon": 13.5827184
-    },
-    {
-      "type": "node",
-      "id": 2128613185,
-      "lat": 52.6664496,
-      "lon": 13.582749
-    },
-    {
-      "type": "node",
-      "id": 2128613189,
-      "lat": 52.6665187,
-      "lon": 13.5826972
-    },
-    {
-      "type": "node",
-      "id": 2128613191,
-      "lat": 52.6665926,
-      "lon": 13.5827018
-    },
-    {
-      "type": "node",
-      "id": 2128613194,
-      "lat": 52.6666375,
-      "lon": 13.5827349
-    },
-    {
-      "type": "node",
-      "id": 2128613196,
-      "lat": 52.6666726,
-      "lon": 13.5827851
-    },
-    {
-      "type": "node",
-      "id": 2128613197,
-      "lat": 52.6666745,
-      "lon": 13.5827931
-    },
-    {
-      "type": "node",
-      "id": 4870711585,
-      "lat": 52.6660673,
-      "lon": 13.5837109
-    },
-    {
-      "type": "node",
-      "id": 4870711589,
-      "lat": 52.6659982,
-      "lon": 13.5831497
-    },
-    {
-      "type": "node",
-      "id": 4870711849,
-      "lat": 52.667369,
-      "lon": 13.582927
     }
   ]
 }

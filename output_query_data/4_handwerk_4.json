@@ -2,633 +2,10 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-16T08:07:12Z",
+    "timestamp_osm_base": "2025-07-21T06:00:41Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
-    {
-      "type": "node",
-      "id": 732715804,
-      "lat": 52.5945098,
-      "lon": 13.4348908,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "9",
-        "addr:postcode": "13127",
-        "addr:street": "Bahnhofstra\u00dfe",
-        "addr:suburb": "Franz\u00f6sisch Buchholz",
-        "check_date:opening_hours": "2025-05-12",
-        "craft": "carpenter",
-        "fuel:cng": "no",
-        "fuel:lpg": "yes",
-        "name": "Tischlerei Fuhsy",
-        "opening_hours:signed": "no",
-        "source": "http://www.gas-tankstellen.de"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1242905482,
-      "lat": 52.5426401,
-      "lon": 13.3633157,
-      "tags": {
-        "craft": "carpenter",
-        "name": "Tischlerei Manfred Reischke",
-        "note": "Beim Rundgang am 20.10.14 nicht gefunden"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1339919275,
-      "lat": 52.4955899,
-      "lon": 13.5319122,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housename": "Fedtke Bautischlerei",
-        "addr:housenumber": "13",
-        "addr:postcode": "10318",
-        "addr:street": "Ursula-Goetze-Stra\u00dfe",
-        "addr:suburb": "Karlshorst",
-        "check_date:opening_hours": "2022-03-22",
-        "craft": "carpenter",
-        "name": "Fedtke Bautischlerei",
-        "opening_hours:signed": "no",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1562726042,
-      "lat": 52.4767461,
-      "lon": 13.6989473,
-      "tags": {
-        "craft": "carpenter",
-        "name": "Innenausbau-Tischlerei Gr\u00e4fe"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1935182225,
-      "lat": 52.4289096,
-      "lon": 13.5209926,
-      "tags": {
-        "craft": "carpenter",
-        "name": "Tischlerei Ruhdi",
-        "website": "https://www.ruhdi.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2668465565,
-      "lat": 52.3876968,
-      "lon": 13.0805723,
-      "tags": {
-        "addr:city": "Potsdam",
-        "addr:country": "DE",
-        "addr:housenumber": "9",
-        "addr:postcode": "14473",
-        "addr:street": "Schlaatzweg",
-        "addr:suburb": "Teltower Vorstadt",
-        "contact:facebook": "https://www.facebook.com/p/Tischlerei-Construct-Beschlaghandel-100059939190133/",
-        "contact:fax": "+49 331 60054400",
-        "contact:mobile": "+49 171 5293703",
-        "contact:phone": "+49 331 60086199",
-        "contact:website": "https://tischlerei-construct-beschlaghandel.de/",
-        "craft": "carpenter",
-        "name": "Tischlerei Construct & Beschlaghandel",
-        "operator": "Ren\u00e9 Nowotny, Thomas Mielke"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2733146374,
-      "lat": 52.6290053,
-      "lon": 13.7314087,
-      "tags": {
-        "craft": "joiner",
-        "name": "Werneuchener Tischlerei & Handels GmbH"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2763865265,
-      "lat": 52.4632507,
-      "lon": 13.4421101,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "11",
-        "addr:postcode": "12051",
-        "addr:street": "Juliushof",
-        "craft": "carpenter",
-        "name": "Tischlerei Krautzig GmbH",
-        "phone": "+49 30 50898480",
-        "source": "http://www.tischlerei-krautzig.de/",
-        "website": "http://www.tischlerei-krautzig.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3919438458,
-      "lat": 52.4406221,
-      "lon": 13.3121403,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "7",
-        "addr:postcode": "12203",
-        "addr:street": "D\u00fcrerstra\u00dfe",
-        "craft": "carpenter",
-        "name": "Tischlerei Risse",
-        "opening_hours": "Mo-Fr 07:00-16:00",
-        "operator": "Martina Risse"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4383735009,
-      "lat": 52.4900945,
-      "lon": 13.356336,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "88",
-        "addr:postcode": "10823",
-        "addr:street": "Grunewaldstra\u00dfe",
-        "addr:suburb": "Sch\u00f6neberg",
-        "craft": "joiner",
-        "email": "mail@schreinermeister-link.de",
-        "fax": "+49 30 85 72 83 90",
-        "name": "Schreinermeister Matthias Link",
-        "phone": "+49 30 85 72 78 72",
-        "website": "http://www.schreinermeister-link.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4672835105,
-      "lat": 52.499019,
-      "lon": 13.4641966,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "56",
-        "addr:postcode": "10245",
-        "addr:street": "Corinthstra\u00dfe",
-        "check_date:opening_hours": "2020-11-30",
-        "contact:phone": "+49302920628",
-        "craft": "carpenter",
-        "description": "2. Hof",
-        "name": "Tischlerei F. Vogt",
-        "opening_hours": "07:00-15:00"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4919044469,
-      "lat": 52.5565734,
-      "lon": 13.3843857,
-      "tags": {
-        "check_date": "2023-07-13",
-        "craft": "joiner",
-        "name": "Tischlerei Holzbock",
-        "phone": "+49 30 4921663"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4969666321,
-      "lat": 52.4140549,
-      "lon": 13.0308272,
-      "tags": {
-        "addr:city": "Potsdam",
-        "addr:country": "DE",
-        "addr:housenumber": "3",
-        "addr:postcode": "14469",
-        "addr:street": "Schulplatz",
-        "carpenter": "cabinetmaker",
-        "craft": "carpenter",
-        "name": "Stellmacherei und Tischlerei Riek",
-        "phone": "+49 331 86742167",
-        "website": "https://www.stellmacherei-riek.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 5810887818,
-      "lat": 52.4802715,
-      "lon": 13.3512842,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "50",
-        "addr:postcode": "10827",
-        "addr:street": "Dominicusstra\u00dfe",
-        "craft": "joiner",
-        "name": "Bau- und M\u00f6beltischlerei Mohajer",
-        "operator": "Mohajer-Mohhasel Massoud"
-      }
-    },
-    {
-      "type": "node",
-      "id": 5818231106,
-      "lat": 52.504762,
-      "lon": 13.5887857,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "52",
-        "addr:postcode": "12621",
-        "addr:street": "Alt-Kaulsdorf",
-        "addr:suburb": "Kaulsdorf",
-        "check_date": "2024-02-13",
-        "craft": "joiner",
-        "name": "Hobbytischlerei f\u00fcr Jederman",
-        "source": "Geoportal Berlin / Hauskoordinaten",
-        "website": "https://www.hobbytischlerei.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 5832034239,
-      "lat": 52.3920519,
-      "lon": 13.5433227,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "70",
-        "addr:postcode": "12526",
-        "addr:street": "Alexander-Mei\u00dfner-Stra\u00dfe",
-        "addr:suburb": "Bohnsdorf",
-        "craft": "joiner",
-        "name": "J. Beckmann Tischlerei"
-      }
-    },
-    {
-      "type": "node",
-      "id": 5913405343,
-      "lat": 52.5365494,
-      "lon": 13.4545961,
-      "tags": {
-        "craft": "carpenter",
-        "name": "Tischlerei Liebel",
-        "operator": "Harald Liebel",
-        "website": "https://www.tischlerei-liebel.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6176650523,
-      "lat": 52.5689294,
-      "lon": 13.3808667,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "5",
-        "addr:postcode": "13409",
-        "addr:street": "Granatenstra\u00dfe",
-        "addr:suburb": "Reinickendorf",
-        "contact:email": "info@tischlerei-stellmacher.de",
-        "contact:fax": "+49 30 4922982",
-        "contact:phone": "+49 30 4911367",
-        "contact:website": "http://www.tischlerei-stellmacher.de",
-        "craft": "window_construction",
-        "description": "Tischlerei Stellmacher GmbH - Alles rund um Fenster und T\u00fcren",
-        "name": "Tischlerei Stellmacher",
-        "operator": "Gesch\u00e4ftsf\u00fchrer: Dipl. Ing. Katrin Stellmacher, Dipl. Ing. Christoph Linke, G\u00fcnter Stellmacher (Tischlermeister)",
-        "start_date": "1957"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6228371327,
-      "lat": 52.5682374,
-      "lon": 13.3677379,
-      "tags": {
-        "addr:housenumber": "17",
-        "addr:street": "Amendestra\u00dfe",
-        "check_date:opening_hours": "2025-01-17",
-        "craft": "carpenter",
-        "description": "Bau- und M\u00f6beltischlerei",
-        "fax": "+49 30 4962229",
-        "name": "Tischlerei Petzold",
-        "opening_hours:signed": "no",
-        "phone": "+49 30 4960202",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6717815374,
-      "lat": 52.6515932,
-      "lon": 13.0094486,
-      "tags": {
-        "addr:city": "Sch\u00f6nwalde-Glien",
-        "addr:country": "DE",
-        "addr:housenumber": "2",
-        "addr:postcode": "14621",
-        "addr:street": "Steege",
-        "addr:suburb": "Perwenitz",
-        "carpenter": "trim",
-        "contact:email": "Holz@Tischlerei-Duering.de",
-        "contact:phone": "+49 33231 602 38",
-        "contact:website": "http://www.tischlerei-duering.de/",
-        "craft": "carpenter",
-        "name": "Tischlerei D\u00fcring",
-        "start_date": "1900"
-      }
-    },
-    {
-      "type": "node",
-      "id": 7280859416,
-      "lat": 52.5440795,
-      "lon": 13.4177383,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "45",
-        "addr:postcode": "10437",
-        "addr:street": "Lychener Stra\u00dfe",
-        "addr:suburb": "Prenzlauer Berg",
-        "check_date": "2024-01-02",
-        "craft": "carpenter",
-        "name": "Tischlerei Korkladen",
-        "opening_hours": "Mo-Fr 14:00-18:30"
-      }
-    },
-    {
-      "type": "node",
-      "id": 7573498986,
-      "lat": 52.4354536,
-      "lon": 13.6993826,
-      "tags": {
-        "craft": "joiner",
-        "name": "Tischlerei Zedler"
-      }
-    },
-    {
-      "type": "node",
-      "id": 7659404099,
-      "lat": 52.480006,
-      "lon": 13.345657,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "59",
-        "addr:postcode": "10827",
-        "addr:street": "Hauptstra\u00dfe",
-        "addr:suburb": "Sch\u00f6neberg",
-        "craft": "joiner",
-        "name": "Otto Bau- und M\u00f6beltischlerei"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8261764937,
-      "lat": 52.4303556,
-      "lon": 13.755202,
-      "tags": {
-        "addr:city": "Erkner",
-        "addr:housenumber": "12",
-        "addr:postcode": "15537",
-        "addr:street": "Julius-R\u00fctgers-Stra\u00dfe",
-        "craft": "joiner",
-        "name": "Tischlerei R. Busse GmbH"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8393944494,
-      "lat": 52.5618161,
-      "lon": 13.3776003,
-      "tags": {
-        "check_date": "2023-08-15",
-        "craft": "cabinet_maker",
-        "email": "info@tischlerei-thiemich.de",
-        "name": "V. Thiemich Bau- und M\u00f6beltischlerei"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8744166659,
-      "lat": 52.4527706,
-      "lon": 13.3217816,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "19",
-        "addr:postcode": "12165",
-        "addr:street": "Sch\u00fctzenstra\u00dfe",
-        "craft": "joiner",
-        "name": "Tischlerei Wild-Werkst\u00e4tten",
-        "phone": "+49 30 4514016",
-        "website": "http://www.wildwerkstaetten.de"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9450251715,
-      "lat": 52.4533925,
-      "lon": 13.548684,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "140",
-        "addr:inclusion": "potential",
-        "addr:postcode": "12439",
-        "addr:street": "Bruno-B\u00fcrgel-Weg",
-        "addr:suburb": "Niedersch\u00f6neweide",
-        "contact:email": "info@tischlerei-kuehne.de",
-        "contact:phone": "+49 30 29001570",
-        "craft": "joiner",
-        "name": "Tischlerei Thomas K\u00fchne",
-        "opening_hours": "Mo-Th 7:00-16:30; Fr 7:00-12:30"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9592635559,
-      "lat": 52.6034506,
-      "lon": 13.8207478,
-      "tags": {
-        "addr:city": "Altlandsberg",
-        "addr:housenumber": "20A",
-        "addr:postcode": "15345",
-        "addr:street": "Dorfstra\u00dfe",
-        "addr:suburb": "Wesendahl",
-        "craft": "joiner",
-        "name": "Tischlerei Hochschild",
-        "phone": "+4917670436730",
-        "website": "https://www.tischlerei-hochschild.de"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9633283245,
-      "lat": 52.5759138,
-      "lon": 13.3520256,
-      "tags": {
-        "craft": "builder",
-        "name": "F.B. Tischlerei Kliche GmbH"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9816576690,
-      "lat": 52.5095531,
-      "lon": 13.2786483,
-      "tags": {
-        "check_date": "2024-10-16",
-        "craft": "joiner",
-        "name": "Tischlerei Peter Carstensen"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9885257715,
-      "lat": 52.4336599,
-      "lon": 13.3660376,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "67A",
-        "addr:postcode": "12249",
-        "addr:street": "Haynauer Stra\u00dfe",
-        "addr:suburb": "Lankwitz",
-        "contact:email": "post@tischleria.de",
-        "contact:phone": "03068088796",
-        "contact:website": "www.tischleria.de",
-        "craft": "cabinet_maker",
-        "email": "post@tischleria.de",
-        "name": "Tischleria GmbH",
-        "opening_hours": "Mo-Fr 08:00-17:00 \"auf Anfrage\"",
-        "operator": "Tischleria GmbH",
-        "phone": "03068088796",
-        "website": "www.tischleria.de"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9957295655,
-      "lat": 52.3935531,
-      "lon": 13.2436154,
-      "tags": {
-        "addr:city": "Teltow",
-        "addr:country": "DE",
-        "addr:floor": "1",
-        "addr:housename": "Haus 2",
-        "addr:housenumber": "8",
-        "addr:postcode": "14513",
-        "addr:street": "Iserstra\u00dfe",
-        "craft": "joiner",
-        "name": "Tischlerei",
-        "operator": "USE gGmbH",
-        "website": "https://u-s-e.org/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10003860053,
-      "lat": 52.5136575,
-      "lon": 13.2924869,
-      "tags": {
-        "check_date": "2022-09-06",
-        "craft": "joiner",
-        "name": "Kunst - und M\u00f6beltischlerei Charlottenburg",
-        "operator": "Thomas Jaunig",
-        "phone": "+49 30 30306461"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10772558234,
-      "lat": 52.5068999,
-      "lon": 13.4940203,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "31-34",
-        "addr:postcode": "10317",
-        "addr:street": "Sophienstra\u00dfe",
-        "contact:phone": "+49 30 52698833",
-        "contact:website": "https://www.tischlerei-megat.de/",
-        "craft": "joiner",
-        "name": "Tischlerei megat",
-        "operator": "Tischlerei megat GmbH"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11252629888,
-      "lat": 52.5007114,
-      "lon": 13.4294591,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "1",
-        "addr:postcode": "10997",
-        "addr:street": "Lausitzerplatz",
-        "craft": "carpenter",
-        "name": "Kieztischler",
-        "opening_hours": "Mo-Fr 09:00-17:00",
-        "phone": "+49 170 9599742"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11437707494,
-      "lat": 52.6685086,
-      "lon": 13.5287916,
-      "tags": {
-        "addr:city": "Bernau bei Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "33",
-        "addr:postcode": "16321",
-        "addr:street": "Berliner Allee",
-        "addr:suburb": "Sch\u00f6now",
-        "craft": "carpenter",
-        "name": "Tischler Peter"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12176463697,
-      "lat": 52.5206319,
-      "lon": 13.4669785,
-      "tags": {
-        "addr:housenumber": "35",
-        "addr:street": "Eldenaer Stra\u00dfe",
-        "craft": "joiner",
-        "name": "Horeba - Holzrestauration und Bautischlerei",
-        "phone": "+49 30 2938160",
-        "website": "http://horeba.berlin/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12389886406,
-      "lat": 52.6572237,
-      "lon": 13.4445048,
-      "tags": {
-        "addr:city": "Wandlitz",
-        "addr:country": "DE",
-        "addr:housenumber": "7a",
-        "addr:postcode": "16348",
-        "addr:street": "Sch\u00f6nerlinder Chaussee",
-        "addr:suburb": "Sch\u00f6nerlinde",
-        "contact:mobile": "+49 160 2800800",
-        "contact:website": "https://www.tischlerei-mietzner.de/",
-        "craft": "joiner",
-        "name": "Tischlerei Marco Mietzner",
-        "operator": "Tischlerei Marco Mietzner UG (haftungsbeschr\u00e4nkt)"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12709986026,
-      "lat": 52.4687839,
-      "lon": 13.4339577,
-      "tags": {
-        "craft": "joiner",
-        "name": "Tischlerei Thiess"
-      }
-    },
     {
       "type": "way",
       "id": 28574663,
@@ -781,6 +158,30 @@
         "craft": "carpenter",
         "name": "Tischlerei B. Rieger",
         "phone": "+49 33397 72906"
+      }
+    },
+    {
+      "type": "way",
+      "id": 105154717,
+      "nodes": [
+        1211893302,
+        1211893354,
+        1211893311,
+        1211893372,
+        1211893373,
+        1211893344,
+        1211893302
+      ],
+      "tags": {
+        "addr:city": "Wustermark",
+        "addr:country": "DE",
+        "addr:housenumber": "1E",
+        "addr:postcode": "14641",
+        "addr:street": "Chaussee",
+        "addr:suburb": "Priort",
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "Zimmerei Schramm"
       }
     },
     {
@@ -987,6 +388,33 @@
         "craft": "carpenter",
         "name": "Tischlerei Perschke",
         "phone": "+49 3362 504467"
+      }
+    },
+    {
+      "type": "way",
+      "id": 509008825,
+      "nodes": [
+        4982989272,
+        4982989273,
+        4982989274,
+        4982989275,
+        4982989272
+      ],
+      "tags": {
+        "addr:city": "Bernau bei Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "16321",
+        "addr:street": "Rudolf-Diesel-Stra\u00dfe",
+        "building": "yes",
+        "contact:email": "kontakt@duh-dachbau.de",
+        "contact:mobile": "+49 172 2413808",
+        "contact:phone": "+49 3338 764719",
+        "contact:website": "http://www.duh-dachbau.de/",
+        "craft": "carpenter",
+        "name": "D & H Hozbau & Zimmerei",
+        "opening_hours": "Mo-Fr 09:00-13:00",
+        "operator": "D&H Holzbau GmbH"
       }
     },
     {
@@ -1213,6 +641,42 @@
       "id": 9776584680,
       "lat": 52.402832,
       "lon": 13.1036661
+    },
+    {
+      "type": "node",
+      "id": 1211893302,
+      "lat": 52.516375,
+      "lon": 12.9737951
+    },
+    {
+      "type": "node",
+      "id": 1211893311,
+      "lat": 52.5164981,
+      "lon": 12.9738557
+    },
+    {
+      "type": "node",
+      "id": 1211893344,
+      "lat": 52.5164468,
+      "lon": 12.973691
+    },
+    {
+      "type": "node",
+      "id": 1211893354,
+      "lat": 52.5164472,
+      "lon": 12.9739295
+    },
+    {
+      "type": "node",
+      "id": 1211893372,
+      "lat": 52.5164705,
+      "lon": 12.9738043
+    },
+    {
+      "type": "node",
+      "id": 1211893373,
+      "lat": 52.5164914,
+      "lon": 12.973774
     },
     {
       "type": "node",
@@ -1849,6 +1313,30 @@
       "id": 8570521905,
       "lat": 52.6835331,
       "lon": 13.5579251
+    },
+    {
+      "type": "node",
+      "id": 4982989272,
+      "lat": 52.6860635,
+      "lon": 13.5680941
+    },
+    {
+      "type": "node",
+      "id": 4982989273,
+      "lat": 52.686036,
+      "lon": 13.5682029
+    },
+    {
+      "type": "node",
+      "id": 4982989274,
+      "lat": 52.685955,
+      "lon": 13.5681471
+    },
+    {
+      "type": "node",
+      "id": 4982989275,
+      "lat": 52.6859826,
+      "lon": 13.5680384
     }
   ]
 }

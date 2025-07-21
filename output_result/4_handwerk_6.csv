@@ -1,37 +1,4 @@
 type,name,lat,lon,area_m2
-node,Malereibetrieb Gerlach,52.4113788,13.5614111,0
-node,Malerei Werner,52.4228696,13.5284672,0
-node,Malerfreunde Berlin,52.4187904,13.5782145,0
-node,Malereibetrieb Gerd Schwarzlose,52.3591995,13.1126088,0
-node,Die Maler - Marotzke,52.4108481,13.4399522,0
-node,Malermeister Melde,52.5644749,13.2093799,0
-node,MyTiler - Mein Fliesenleger,52.6590264,13.3109422,0
-node,Salewski Lackiererei GmbH,52.4053466,13.3846139,0
-node,Fliesenlegermeister Uwe Schröter,52.5707412,13.3301229,0
-node,Malermeister Stefan Paulick,52.5428982,13.392114,0
-node,Malereibetrieb Palette,52.5659531,13.3789342,0
-node,Malerbetrieb Knut Mittasch,52.5104087,13.5063548,0
-node,Maler-Gerlach,52.3642429,13.1282772,0
-node,Malerbetrieb Galesky,52.4693932,13.3333589,0
-node,MalerMeister,52.4797285,13.3249267,0
-node,mewes Kamin- und Fliesenbau,52.4803031,13.320102,0
-node,Maler-Fachbetrieb Ertenbach,52.6488459,13.5507834,0
-node,Fußbodenleger Krüger&Blasek,52.6417612,13.5468315,0
-node,Malermeister Gertenbach,52.629161,13.5453232,0
-node,Malereibetrieb Roland Geißler,52.6603948,13.2919164,0
-node,DN Denis Trockenbau,52.5507316,13.4626728,0
-node,Gensert Malereibetrieb,52.5612458,13.3730342,0
-node,TE-MI Trockenbau,52.4667614,13.3222437,0
-node,Malereibetrieb H. Rauber & A. Mahl,52.4628587,13.3420985,0
-node,Malermeister Lieckfeldt,52.5142524,13.5544246,0
-node,A. Breslauer - Schildermalerei,52.4479433,13.3313166,0
-node,Fliesen Michael,52.4876181,13.5746334,0
-node,FSB Spezial Bau und Fassaden GmbH,52.532144,13.5506616,0
-node,Maler- und Lackiermeister GmbH René Mahr,52.5819642,13.4101614,0
-node,Fliesenleger Fachbetrieb Jens Gehrke,52.4973088,13.580999,0
-node,"Jane Kaszuba
-Malermeisterin",52.5272498,13.7912039,0
-node,Thomas Honeycutt Malermeister e. K.,52.4296971,13.3365409,0
-node,René Gehentges Trockenbau,52.395232,13.0876822,0
 way,Malerei Solga,52.41236162,13.663211719999998,213.53001314173386
+way,Lackiererei Janetschek GbR,52.682621319999996,13.55756954,412.2863187400874
 way,Malerbetriebe Kind,52.68675000909091,13.568013700000002,622.2653026996841

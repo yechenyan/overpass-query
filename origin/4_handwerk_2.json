@@ -2,23 +2,33 @@
   [
     {
       "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
-      "landuse": "industrial"
+      "landuse": "industrial",
+      "_types": ["way", "relation"],
+      "name$neg$i": "amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau"
     },
     {
       "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
-      "industrial": "construction_company|concrete_plant"
+      "industrial": "construction_company|concrete_plant",
+      "name$neg$i": "amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau",
+      "_types": ["way", "relation"]
     },
     {
       "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
-      "shop$match": "trade|doityourself"
+      "shop$match": "trade|doityourself",
+      "name$neg$i": "amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau",
+      "_types": ["way", "relation"]
     },
     {
       "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
-      "building$match": "industrial|industrial|commercial"
+      "building$match": "industrial|commercial",
+      "name$neg$i": "amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau",
+      "_types": ["way", "relation"]
     },
     {
       "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
-      "man_made": "works"
+      "man_made": "works",
+      "name$neg$i": "amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau",
+      "_types": ["way", "relation"]
     }
   ]
 ]

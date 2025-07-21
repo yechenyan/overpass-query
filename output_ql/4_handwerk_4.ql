@@ -4,14 +4,11 @@
 (
 
   // query
-  node(52.344149, 12.967987, 52.727144, 13.862)
-    ["name"~"roofing|carpentry|joiner|woodworking|interior|zimmerer|tischler|schreiner|holzbau", i]
-    ["craft"~"."];
   way(52.344149, 12.967987, 52.727144, 13.862)
-    ["name"~"roofing|carpentry|joiner|woodworking|interior|zimmerer|tischler|schreiner|holzbau", i]
+    ["name"~"roofing|carpentry|joiner|woodworking|interior|zimmerer|tischler|schreiner|holzbau|Zimmerei", i]
     ["craft"~"."];
   relation(52.344149, 12.967987, 52.727144, 13.862)
-    ["name"~"roofing|carpentry|joiner|woodworking|interior|zimmerer|tischler|schreiner|holzbau", i]
+    ["name"~"roofing|carpentry|joiner|woodworking|interior|zimmerer|tischler|schreiner|holzbau|Zimmerei", i]
     ["craft"~"."];
 );
 

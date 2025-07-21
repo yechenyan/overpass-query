@@ -1,55 +1,16 @@
 [
     {
         "tags": {
-            "amenity": "waste_disposal",
-            "operator": "Rhenus",
-            "source": "SenStadtU DOP10-C 2011 Erlaubnis 1002-12"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "industrial": "warehouse",
-            "landuse": "industrial",
-            "name": "Rhenus"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Velten",
-            "addr:country": "DE",
-            "addr:housenumber": "8",
-            "addr:postcode": "16727",
-            "addr:street": "Berliner Straße",
-            "building": "commercial",
-            "name": "Lagerleitstand Rhenus SE & Co KG"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Velten",
-            "addr:country": "DE",
-            "addr:housenumber": "8",
-            "addr:postcode": "16727",
-            "addr:street": "Berliner Straße",
-            "building": "commercial",
-            "name": "Verwaltungsgebäude Rhenus SE & Co KG",
-            "website": "https://www.de.rhenus.com/"
-        },
-        "name": null
-    },
-    {
-        "tags": {
-            "addr:city": "Hoppegarten",
-            "addr:country": "DE",
-            "addr:housenumber": "14",
-            "addr:postcode": "15366",
-            "addr:street": "Industriestraße",
-            "addr:suburb": "Dahlwitz-Hoppegarten",
-            "building": "yes",
-            "name": "Rhenus Logistics"
+            "access:covid19": "yes",
+            "amenity": "fast_food",
+            "check_date": "2024-05-31",
+            "delivery:covid19": "no",
+            "drive_through:covid19": "no",
+            "name": "Dussmann Deli",
+            "opening_hours": "Mo-Fr 07:30-18:30",
+            "opening_hours:covid19": "Mo-Fr 11:00-15:00",
+            "takeaway:covid19": "yes",
+            "wheelchair": "no"
         },
         "name": null
     },

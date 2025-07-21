@@ -2,7 +2,8 @@
   [
     {
       "name$match$i": "Maler|Lackierer|Stuckateur|Fliesen|Fliesenleger|Bodenleger|Trockenbau|Fassaden",
-      "craft$match": "."
+      "craft$match": ".",
+      "_types": ["way", "relation"]
     }
   ]
 ]

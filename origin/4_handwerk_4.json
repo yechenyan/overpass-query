@@ -1,8 +1,9 @@
 [
   [
     {
-      "name$match$i": "roofing|carpentry|joiner|woodworking|interior|zimmerer|tischler|schreiner|holzbau",
-      "craft$match": "."
+      "name$match$i": "roofing|carpentry|joiner|woodworking|interior|zimmerer|tischler|schreiner|holzbau|Zimmerei",
+      "craft$match": ".",
+      "_types": ["way", "relation"]
     }
   ]
 ]

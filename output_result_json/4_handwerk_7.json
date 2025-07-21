@@ -16,9 +16,117 @@
     },
     {
         "tags": {
-            "name": "Autoverwertung Berk",
-            "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-14:00",
-            "shop": "car_parts"
+            "amenity": "car_wash",
+            "automated": "yes",
+            "name": "Auto Service Seelke GmbH",
+            "self_service": "no"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "379",
+            "addr:place": "Stadtbahnbogen",
+            "addr:postcode": "10557",
+            "addr:suburb": "Moabit",
+            "entrance": "yes",
+            "name": "Auto Service Moabit"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "20",
+            "addr:postcode": "14480",
+            "addr:street": "Am Silbergraben",
+            "addr:suburb": "Drewitz",
+            "contact:email": "abschleppdienst-potsdam-nord@web.de",
+            "contact:fax": "+49 331 887 34253",
+            "contact:mobile": "+49 163 288 0311",
+            "contact:phone": "+49 331 601 5513",
+            "contact:website": "https://www.abschleppdienst-potsdam.com/",
+            "hgv": "designated",
+            "name": "Abschleppdienst Potsdam-Nord",
+            "office": "company",
+            "operator": "Abschleppdienst Potsdam-Nord A.P.N. GmbH",
+            "operator:type": "business"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:housenumber": "8-9",
+            "addr:postcode": "13347",
+            "addr:street": "Lindower Straße",
+            "check_date": "2023-10-02",
+            "name": "Schramm Abschleppdienst",
+            "office": "company",
+            "phone": "+49 30 495209 8",
+            "website": "https://www.schrammberlin.de"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "72",
+            "addr:postcode": "13055",
+            "addr:street": "Genslerstraße",
+            "name": "Car Service Abschlepp- & Bergungsdienst",
+            "office": "company",
+            "opening_hours": "24/7",
+            "operator": "CSA Car Service Abschlepp- & Bergungsdienst GmbH",
+            "phone": "+49 30 5588888",
+            "short_name": "CSA",
+            "toilets:wheelchair": "no",
+            "website": "https://www.csa-abschleppdienst-berlin.de/",
+            "wheelchair": "yes"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "20a",
+            "addr:postcode": "14480",
+            "addr:street": "Am Silbergraben",
+            "addr:suburb": "Drewitz",
+            "contact:mobile": "+49 172 302 1035",
+            "contact:website": "https://home.mobile.de/home/index.html?customerId=457257",
+            "name": "Abschleppdienst Lausch",
+            "office": "company"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "16",
+            "addr:postcode": "12169",
+            "addr:street": "Bismarckstraße",
+            "addr:suburb": "Steglitz",
+            "brand": "ADAC",
+            "name": "City-Autodienst",
+            "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+            "operator": "ADAC",
+            "service:vehicle:towing": "yes",
+            "shop": "car_repair",
+            "website": "https://www.city-autodienst.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "name": "Ludwig Kindler Abschleppdienst",
+            "service:vehicle:towing": "yes",
+            "shop": "car_repair"
         },
         "name": null
     },
@@ -33,6 +141,81 @@
             "contact:website": "https://www.abschleppdienst-reinhold.de",
             "name": "Abschleppdienst Reinhold",
             "shop": "towing"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "contact:phone": "+49 30 679721511",
+            "contact:website": "http://www.abschleppdienst-koglin.de",
+            "emergency:phone": "0800 8993556",
+            "name": "Koglin Abschleppdienst",
+            "operator": "Peter Koglin GmbH",
+            "service:vehicle:towing": "yes",
+            "shop": "car_repair"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "4",
+            "addr:postcode": "12277",
+            "addr:street": "Richard-Tauber-Damm",
+            "name": "Easy Car Logistics",
+            "phone": "+49 30 76808900",
+            "service:vehicle:car_repair": "yes",
+            "service:vehicle:towing": "yes",
+            "shop": "car_repair"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "name": "Autoverwertung Lichtenberg",
+            "old_name": "Deutsche Treibstoffwerke; Kombinat Minol"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "76c",
+            "addr:postcode": "12103",
+            "addr:street": "Bessemerstraße",
+            "building": "commercial",
+            "name": "Kroll Abschlepp- und Bergungsdienst",
+            "website": "https://www.abschlepp-kroll.de/"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Falkensee",
+            "addr:country": "DE",
+            "addr:housenumber": "35",
+            "addr:postcode": "14612",
+            "addr:street": "Finkenkruger Straße",
+            "building": "commercial",
+            "building:levels": "2",
+            "car_service": "wrecker",
+            "contact:phone": "+49 3322 5000 0",
+            "contact:website": "http://www.abschleppdienst-kobra.de/",
+            "name": "Abschlepp- und Bergungsdienst Kobra",
+            "operator": "Abschlepp- und Bergungsdienst Nord-Süd Kobra GmbH"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "58",
+            "addr:postcode": "12681",
+            "addr:street": "Rhinstraße",
+            "barrier": "fence",
+            "name": "Trost Auto Service Technik",
+            "website": "https://de.trost.com/"
         },
         "name": null
     }

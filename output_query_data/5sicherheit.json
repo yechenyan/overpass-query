@@ -2,1267 +2,10 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-16T04:32:15Z",
+    "timestamp_osm_base": "2025-07-21T07:52:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
-    {
-      "type": "node",
-      "id": 29695282,
-      "lat": 52.5336632,
-      "lon": 13.3536389,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "61A",
-        "addr:postcode": "10559",
-        "addr:street": "Perleberger Stra\u00dfe",
-        "addr:suburb": "Moabit",
-        "amenity": "police",
-        "check_date": "2024-06-14",
-        "name": "Polizei Abschnitt 27",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
-      "id": 84644753,
-      "lat": 52.5049589,
-      "lon": 13.3905699,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "219",
-        "addr:postcode": "10969",
-        "addr:street": "Friedrichstra\u00dfe",
-        "addr:suburb": "Kreuzberg",
-        "amenity": "police",
-        "check_date": "2025-05-09",
-        "level": "0;1",
-        "name": "Abschnitt 53 Kreuzberg-Nord",
-        "name:de": "Abschnitt 53 Kreuzberg-Nord",
-        "name:en": "District 53 North Kreuzberg",
-        "operator": "Polizei Berlin",
-        "operator:wikidata": "Q328480",
-        "operator:wikipedia": "de:Polizei Berlin",
-        "wheelchair": "no",
-        "wikidata": "Q108875638"
-      }
-    },
-    {
-      "type": "node",
-      "id": 98896966,
-      "lat": 52.4874539,
-      "lon": 13.3206881,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "19-20",
-        "addr:postcode": "10717",
-        "addr:street": "Gasteiner Stra\u00dfe",
-        "amenity": "fire_station",
-        "check_date": "2025-06-09",
-        "name": "Berufsfeuerwache Wilmersdorf",
-        "operator": "Berliner Feuerwehr",
-        "operator:wikidata": "Q821517",
-        "operator:wikipedia": "de:Berliner Feuerwehr",
-        "ref": "3400"
-      }
-    },
-    {
-      "type": "node",
-      "id": 206102770,
-      "lat": 52.4276915,
-      "lon": 13.3475906,
-      "tags": {
-        "amenity": "police",
-        "name": "Polizei Abschnitt 46",
-        "operator": "Polizei Berlin",
-        "operator:wikidata": "Q328480",
-        "operator:wikipedia": "de:Polizei Berlin",
-        "phone": "+49 30 4664 446 701",
-        "website": "http://www.berlin.de/polizei/bezirk/dir4/a46.html",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 242769298,
-      "lat": 52.5280167,
-      "lon": 13.2269115,
-      "tags": {
-        "amenity": "police",
-        "name": "Polizei Abschnitt 22",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 244118624,
-      "lat": 52.479156,
-      "lon": 13.4347588,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "9",
-        "addr:postcode": "12053",
-        "addr:street": "Rollbergstra\u00dfe",
-        "amenity": "police",
-        "contact:fax": "+49 30 4664555799",
-        "contact:phone": "+49 30 4664555700",
-        "contact:website": "https://www.berlin.de/polizei/dienststellen/polizei-in-den-bezirken/direktion-5/abschnitt-55/",
-        "name": "Polizeiabschnitt 55",
-        "wheelchair": "limited",
-        "wikidata": "Q108875640"
-      }
-    },
-    {
-      "type": "node",
-      "id": 253618460,
-      "lat": 52.5118289,
-      "lon": 13.4445489,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "56",
-        "addr:postcode": "10243",
-        "addr:street": "R\u00fcdersdorfer Stra\u00dfe",
-        "addr:suburb": "Friedrichshain",
-        "amenity": "fire_station",
-        "check_date": "2024-11-26",
-        "contact:website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/feuerwachen/fw-friedrichshain-1200/",
-        "name": "Berufsfeuerwache Friedrichshain",
-        "note": "FW 1200 ist Betreuungswache f\u00fcr FF Friedrichshain (1201)",
-        "operator": "Berliner Feuerwehr",
-        "operator:wikidata": "Q821517",
-        "ref": "1200",
-        "wikidata": "Q61697268",
-        "wikimedia_commons": "Category:Feuerwache Friedrichshain",
-        "wikipedia": "de:Feuerwache Friedrichshain"
-      }
-    },
-    {
-      "type": "node",
-      "id": 254089285,
-      "lat": 52.3689395,
-      "lon": 13.7020795,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Wernsdorf",
-        "ref": "WDF"
-      }
-    },
-    {
-      "type": "node",
-      "id": 261965140,
-      "lat": 52.4922153,
-      "lon": 13.4562264,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "5-8",
-        "addr:postcode": "12435",
-        "addr:street": "Am Treptower Park",
-        "amenity": "police",
-        "building": "yes",
-        "name": "Gemeinsames Terrorismusabwehrzentrum",
-        "short_name": "GTAZ",
-        "url": "https://www.bka.de/DE/UnsereAufgaben/Kooperationen/GTAZ/gtaz_node.html",
-        "wikidata": "Q1411368",
-        "wikipedia": "de:Gemeinsames Terrorismusabwehrzentrum"
-      }
-    },
-    {
-      "type": "node",
-      "id": 262960560,
-      "lat": 52.412424,
-      "lon": 13.7535317,
-      "tags": {
-        "addr:city": "Erkner",
-        "addr:housenumber": "16",
-        "addr:postcode": "15537",
-        "addr:street": "Am Kurpark",
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Erkner",
-        "phone": "+49 3362 19296",
-        "ref": "FDER",
-        "website": "feuerwehr-erkner.de"
-      }
-    },
-    {
-      "type": "node",
-      "id": 265636858,
-      "lat": 52.7056914,
-      "lon": 13.5411917,
-      "tags": {
-        "addr:city": "Bernau bei Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "10",
-        "addr:postcode": "16321",
-        "addr:street": "Hans-Wittwer-Stra\u00dfe",
-        "addr:suburb": "Waldfrieden",
-        "amenity": "police",
-        "name": "Polizeirevier (BAB)"
-      }
-    },
-    {
-      "type": "node",
-      "id": 270905719,
-      "lat": 52.4367173,
-      "lon": 13.716157,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Wilhelmshagen",
-        "ref": "5430",
-        "wikidata": "Q107538464"
-      }
-    },
-    {
-      "type": "node",
-      "id": 297793037,
-      "lat": 52.5472525,
-      "lon": 13.0575695,
-      "tags": {
-        "addr:city": "Dallgow-D\u00f6beritz",
-        "addr:country": "DE",
-        "addr:housenumber": "1",
-        "addr:postcode": "14624",
-        "addr:street": "Triftstra\u00dfe",
-        "amenity": "fire_station",
-        "check_date": "2024-03-25",
-        "name": "Freiwillige Feuerwehr Dallgow-D\u00f6beritz"
-      }
-    },
-    {
-      "type": "node",
-      "id": 309402997,
-      "lat": 52.3733085,
-      "lon": 13.2605811,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Ruhlsdorf"
-      }
-    },
-    {
-      "type": "node",
-      "id": 330880463,
-      "lat": 52.5265525,
-      "lon": 13.3891997,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Mitte",
-        "operator": "Berliner Feuerwehr",
-        "operator:wikidata": "Q821517",
-        "ref": "1110",
-        "wikidata": "Q107538332",
-        "wikimedia_commons": "Category:Volunteer fire department in Berlin-Mitte"
-      }
-    },
-    {
-      "type": "node",
-      "id": 332612710,
-      "lat": 52.6065955,
-      "lon": 13.2114269,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Heiligensee",
-        "ref": "2410"
-      }
-    },
-    {
-      "type": "node",
-      "id": 339387524,
-      "lat": 52.6111032,
-      "lon": 13.4830902,
-      "tags": {
-        "amenity": "fire_station",
-        "check_date": "2024-03-17",
-        "name": "Freiwillige Feuerwehr Karow",
-        "ref": "2720"
-      }
-    },
-    {
-      "type": "node",
-      "id": 343472804,
-      "lat": 52.484016,
-      "lon": 13.5206765,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Berufsfeuerwache Karlshorst",
-        "operator": "Berliner Feuerwehr",
-        "operator:wikidata": "Q821517",
-        "ref": "6500",
-        "wikidata": "Q107538294"
-      }
-    },
-    {
-      "type": "node",
-      "id": 365075276,
-      "lat": 52.3588236,
-      "lon": 13.5912062,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Schulzendorf",
-        "website": "https://feuerwehr-schulzendorf.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 394556313,
-      "lat": 52.6790371,
-      "lon": 13.4394366,
-      "tags": {
-        "amenity": "fire_station",
-        "website": "http://www.feuerwehr-schoenwalde.de"
-      }
-    },
-    {
-      "type": "node",
-      "id": 450174418,
-      "lat": 52.4838386,
-      "lon": 13.520221,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Karlshorst",
-        "ref": "6501"
-      }
-    },
-    {
-      "type": "node",
-      "id": 471297769,
-      "lat": 52.5239252,
-      "lon": 13.7735422,
-      "tags": {
-        "amenity": "fire_station",
-        "check_date": "2024-05-26",
-        "name": "Freiwillige Feuerwehr Petershagen"
-      }
-    },
-    {
-      "type": "node",
-      "id": 509897018,
-      "lat": 52.5093215,
-      "lon": 13.4968683,
-      "tags": {
-        "amenity": "police",
-        "check_date": "2025-02-03",
-        "level": "1",
-        "name": "Bundespolizei",
-        "operator": "Bundespolizei",
-        "operator:short": "BPOL",
-        "operator:wikidata": "Q56026",
-        "operator:wikipedia": "de:Bundespolizei (Deutschland)",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 573418582,
-      "lat": 52.513314,
-      "lon": 13.238435,
-      "tags": {
-        "amenity": "police",
-        "name": "Stadionwache",
-        "name:ja": "\u30b9\u30bf\u30b8\u30a2\u30e0\u8b66\u5099",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 577355077,
-      "lat": 52.5407044,
-      "lon": 13.3671285,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "9",
-        "addr:postcode": "13353",
-        "addr:street": "Fennstra\u00dfe",
-        "addr:suburb": "Wedding",
-        "amenity": "fire_station",
-        "name:signed": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 614482788,
-      "lat": 52.524282,
-      "lon": 13.4156959,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "35",
-        "addr:postcode": "10178",
-        "addr:street": "Keibelstra\u00dfe",
-        "addr:suburb": "Mitte",
-        "amenity": "police",
-        "contact:phone": "+49 30 4664332700",
-        "contact:website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-5/abschnitt-57/",
-        "name": "Polizei Berlin \u2013 Abschnitt 57",
-        "operator": "Polizei Berlin",
-        "operator:wikidata": "Q328480",
-        "operator:wikipedia": "de:Polizei Berlin",
-        "wheelchair": "yes",
-        "wikidata": "Q108875642"
-      }
-    },
-    {
-      "type": "node",
-      "id": 659031944,
-      "lat": 52.5379765,
-      "lon": 13.4523417,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "101",
-        "addr:postcode": "10407",
-        "addr:street": "Storkower Stra\u00dfe",
-        "addr:suburb": "Prenzlauer Berg",
-        "amenity": "police",
-        "check_date": "2025-06-30",
-        "name": "Polizei Berlin Abschnitt 16",
-        "operator": "Polizei Berlin",
-        "operator:wikidata": "Q328480",
-        "operator:wikipedia": "de:Polizei Berlin",
-        "website": "http://www.berlin.de/polizei/bezirk/dir1/a16.html",
-        "wheelchair": "limited",
-        "wikidata": "Q108875617"
-      }
-    },
-    {
-      "type": "node",
-      "id": 674086104,
-      "lat": 52.5448495,
-      "lon": 13.2103551,
-      "tags": {
-        "amenity": "fire_station",
-        "check_date": "2024-03-08",
-        "name": "Freiwillige Feuerwehr Spandau-Nord",
-        "ref": "3101"
-      }
-    },
-    {
-      "type": "node",
-      "id": 845722378,
-      "lat": 52.5000473,
-      "lon": 13.7403592,
-      "tags": {
-        "addr:city": "Fredersdorf-Vogelsdorf",
-        "addr:housenumber": "76",
-        "addr:postcode": "15370",
-        "addr:street": "Frankfurter Chaussee",
-        "addr:suburb": "Vogelsdorf",
-        "amenity": "fire_station",
-        "name": "Feuerwehr Vogelsdorf",
-        "website": "https://www.feuerwehr-fredersdorf-vogelsdorf.de"
-      }
-    },
-    {
-      "type": "node",
-      "id": 845728782,
-      "lat": 52.468514,
-      "lon": 13.7785962,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Feuerwehr R\u00fcdersdorf"
-      }
-    },
-    {
-      "type": "node",
-      "id": 919848981,
-      "lat": 52.7270744,
-      "lon": 12.9878884,
-      "tags": {
-        "addr:city": "Kremmen",
-        "addr:country": "DE",
-        "addr:housenumber": "14b",
-        "addr:postcode": "16766",
-        "addr:street": "Nauener Chaussee",
-        "addr:suburb": "Staffelde",
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Staffelde/Gro\u00df-Ziethen"
-      }
-    },
-    {
-      "type": "node",
-      "id": 944868560,
-      "lat": 52.627041,
-      "lon": 13.484559,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "GZS"
-      }
-    },
-    {
-      "type": "node",
-      "id": 961413931,
-      "lat": 52.7219355,
-      "lon": 13.6277077,
-      "tags": {
-        "amenity": "fire_station",
-        "check_date": "2024-04-19",
-        "name": "Freiwillige Feuerwehr R\u00fcdnitz"
-      }
-    },
-    {
-      "type": "node",
-      "id": 988558167,
-      "lat": 52.5220276,
-      "lon": 13.3659377,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "145",
-        "addr:postcode": "10557",
-        "addr:street": "Alt-Moabit",
-        "addr:suburb": "Moabit",
-        "amenity": "police",
-        "contact:phone": "+49 30 4664334700",
-        "name": "Polizei Abschnitt 28",
-        "operator": "Polizei Berlin",
-        "operator:wikidata": "Q328480",
-        "operator:wikipedia": "de:Polizei Berlin",
-        "wheelchair": "yes",
-        "wikidata": "Q108875627"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1003091301,
-      "lat": 52.6003508,
-      "lon": 13.7547968,
-      "tags": {
-        "addr:city": "Altlandsberg",
-        "addr:country": "DE",
-        "addr:housenumber": "7",
-        "addr:postcode": "15345",
-        "addr:street": "Alte Schulstra\u00dfe",
-        "addr:suburb": "Wegendorf",
-        "amenity": "fire_station",
-        "entrance": "main",
-        "image": "http://wiki.openstreetmap.org/wiki/File:Feuerwehr_Wegendorf.jpg",
-        "name": "Freiwillige Feuerwehr Altlandsberg - L\u00f6schgruppe Wegendorf",
-        "phone": "+49 33438 61814",
-        "website": "http://feuerwehr.altlandsberg.de/index.php?page=kp_wegendorf"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1235571254,
-      "lat": 52.6171547,
-      "lon": 13.2446746,
-      "tags": {
-        "amenity": "police",
-        "name": "2. Bereitschaftspolizeiabteilung",
-        "short_name": "2. BPA",
-        "website": "https://www.berlin.de/polizei/dienststellen/direktion-einsatz/bereitschaftspolizei/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1271558626,
-      "lat": 52.628927,
-      "lon": 13.673693,
-      "tags": {
-        "addr:city": "Werneuchen",
-        "addr:housenumber": "41a",
-        "addr:postcode": "16356",
-        "addr:street": "L\u00f6hmer Dorfstra\u00dfe",
-        "addr:suburb": "L\u00f6hme",
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr L\u00f6hme"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1271558629,
-      "lat": 52.6220296,
-      "lon": 13.6786091,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Seefeld"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1288824514,
-      "lat": 52.5094753,
-      "lon": 13.4353317,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:postcode": "10243",
-        "addr:suburb": "Friedrichshain",
-        "amenity": "police",
-        "check_date": "2024-11-27",
-        "level": "0",
-        "name": "Bundespolizei",
-        "operator": "Bundespolizei",
-        "operator:short": "BPOL",
-        "operator:wikidata": "Q56026",
-        "operator:wikipedia": "de:Bundespolizei (Deutschland)",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1289506014,
-      "lat": 52.5852358,
-      "lon": 13.7895185,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Altlandsberg - L\u00f6schgruppe Buchholz"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1383496499,
-      "lat": 52.392448,
-      "lon": 13.5057116,
-      "tags": {
-        "addr:city": "Sch\u00f6nefeld",
-        "addr:country": "DE",
-        "addr:housenumber": "23",
-        "addr:postcode": "12529",
-        "addr:street": "Hans-Grade-Allee",
-        "amenity": "fire_station",
-        "check_date": "2025-05-25",
-        "name": "Freiwillige Feuerwehr Sch\u00f6nefeld",
-        "operator": "Gemeinde Sch\u00f6nefeld",
-        "website": "http://www.ff-schoenefeld.de"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1450877655,
-      "lat": 52.6253986,
-      "lon": 13.5421057,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Schwanebeck"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1631758479,
-      "lat": 52.5481974,
-      "lon": 13.8595905,
-      "tags": {
-        "amenity": "police",
-        "check_date": "2024-06-14",
-        "name": "Strausberg, Polizeiinspektion M\u00e4rkisch-Oderland",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1757027618,
-      "lat": 52.5524552,
-      "lon": 13.7764693,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Altlandsberg - L\u00f6schgruppe Bruchm\u00fchle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2007352905,
-      "lat": 52.637224,
-      "lon": 13.0416805,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Pausin"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2472635508,
-      "lat": 52.6548354,
-      "lon": 13.4466076,
-      "tags": {
-        "amenity": "fire_station"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2891400692,
-      "lat": 52.5824041,
-      "lon": 13.289049,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "35",
-        "addr:postcode": "13507",
-        "addr:street": "Berliner Stra\u00dfe",
-        "addr:suburb": "Tegel",
-        "amenity": "police",
-        "contact:fax": "+49 30 4664111799",
-        "contact:phone": "+49 30 4664111701",
-        "contact:website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-1/abschnitt-11/",
-        "name": "Polizei Berlin \u2013 Abschnitt 11",
-        "operator": "Polizei Berlin",
-        "operator:wikidata": "Q328480",
-        "wikidata": "Q108875609"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2960443393,
-      "lat": 52.4266524,
-      "lon": 13.7418331,
-      "tags": {
-        "amenity": "police",
-        "check_date": "2024-05-19",
-        "name": "Polizei Land Brandenburg - Polizeirevier",
-        "note": "not a duplicate, there are indeed three police institutions in this building",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2960443394,
-      "lat": 52.4266407,
-      "lon": 13.7419452,
-      "tags": {
-        "amenity": "police",
-        "check_date": "2024-05-19",
-        "name": "Polizei Land Brandenburg - Revierpolizei",
-        "note": "not a duplicate, there are indeed three police institutions in this building",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2984877999,
-      "lat": 52.4053027,
-      "lon": 12.9907939,
-      "tags": {
-        "addr:city": "Potsdam",
-        "addr:country": "DE",
-        "addr:housenumber": "1",
-        "addr:postcode": "14469",
-        "addr:street": "Baumschulenweg",
-        "addr:suburb": "Eiche",
-        "amenity": "fire_station",
-        "check_date": "2024-09-22",
-        "contact:email": "ff-eiche@gmx.de",
-        "contact:phone": "+49 331 500758",
-        "contact:website": "https://feuerwehr-eiche.jimdofree.com/",
-        "name": "Freiwillige Feuerwehr Eiche"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3127986846,
-      "lat": 52.3551909,
-      "lon": 13.3089087,
-      "tags": {
-        "addr:city": "Gro\u00dfbeeren",
-        "addr:country": "DE",
-        "addr:housenumber": "2",
-        "addr:postcode": "14979",
-        "addr:street": "Am Rathaus",
-        "amenity": "police",
-        "name": "Sprechzimmer Revierpolizei Gro\u00dfbeeren",
-        "police": "offices"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3230826578,
-      "lat": 52.5122072,
-      "lon": 13.444588,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "10",
-        "addr:postcode": "10243",
-        "addr:street": "Wedekindstra\u00dfe",
-        "addr:suburb": "Friedrichshain",
-        "amenity": "police",
-        "check_date": "2024-11-26",
-        "contact:website": "https://www.berlin.de/polizei/dienststellen/polizei-in-den-bezirken/direktion-5/abschnitt-51/",
-        "name": "Polizei Berlin Abschnitt 51",
-        "operator": "Polizei Berlin",
-        "operator:wikidata": "Q328480",
-        "operator:wikipedia": "de:Polizei Berlin",
-        "wheelchair": "yes",
-        "wikidata": "Q108875636"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3354419269,
-      "lat": 52.5017233,
-      "lon": 13.3325773,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "10-12",
-        "addr:postcode": "10789",
-        "addr:street": "Rankestra\u00dfe",
-        "addr:suburb": "Charlottenburg",
-        "amenity": "fire_station",
-        "emergency": "ambulance_station",
-        "name": "Berufsfeuerwache Ranke",
-        "operator": "Berliner Feuerwehr",
-        "operator:wikidata": "Q821517",
-        "ref": "3500",
-        "website": "http://www.feuerwehr.info/feuerwehren/berliner-feuerwehr-wache-3500-ranke/",
-        "wikidata": "Q107538144"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3431432018,
-      "lat": 52.6572049,
-      "lon": 13.3388101,
-      "tags": {
-        "addr:city": "M\u00fchlenbecker Land",
-        "addr:housenumber": "1",
-        "addr:postcode": "16567",
-        "addr:street": "Am Anger",
-        "addr:suburb": "Sch\u00f6nflie\u00df",
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Sch\u00f6nflie\u00df",
-        "operator": "Gemeinde M\u00fchlenbecker Land"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3618200199,
-      "lat": 52.471959,
-      "lon": 13.7847734,
-      "tags": {
-        "amenity": "police"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3868548230,
-      "lat": 52.351423,
-      "lon": 13.419108,
-      "tags": {
-        "addr:city": "Blankenfelde-Mahlow",
-        "addr:country": "DE",
-        "addr:housenumber": "2",
-        "addr:postcode": "15827",
-        "addr:street": "Heckenrosenstra\u00dfe",
-        "amenity": "police",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4177142284,
-      "lat": 52.7089499,
-      "lon": 13.7200278,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Tempelfelde"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4298100229,
-      "lat": 52.724211,
-      "lon": 13.1912854,
-      "tags": {
-        "amenity": "police",
-        "name": "Polizeirevier Leegebruch"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4314579068,
-      "lat": 52.4689781,
-      "lon": 13.4384198,
-      "tags": {
-        "amenity": "fire_station",
-        "check_date": "2024-04-23",
-        "name": "Freiwillige Feuerwehr Neuk\u00f6lln",
-        "ref": "5101"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4706714959,
-      "lat": 52.5095529,
-      "lon": 13.5564884,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "58",
-        "addr:postcode": "12683",
-        "addr:street": "Alt-Biesdorf",
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Biesdorf",
-        "operator": "Berliner Feuerwehr",
-        "operator:wikidata": "Q821517",
-        "phone": "+49 30 3876120105",
-        "ref": "6120",
-        "website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/freiwillige-feuerwehr/ff-biesdorf/",
-        "wikidata": "Q107526693"
-      }
-    },
-    {
-      "type": "node",
-      "id": 5523199172,
-      "lat": 52.5682808,
-      "lon": 13.1035647,
-      "tags": {
-        "amenity": "fire_station",
-        "contact:website": "http://www.feuerwehr-falkensee.de/",
-        "name": "Feuerwache Falkensee"
-      }
-    },
-    {
-      "type": "node",
-      "id": 5764101263,
-      "lat": 52.495526,
-      "lon": 13.4032215,
-      "tags": {
-        "amenity": "fire_station",
-        "check_date": "2025-02-25",
-        "name": "Freiwillige Feuerwehr Urban",
-        "ref": "1501"
-      }
-    },
-    {
-      "type": "node",
-      "id": 5764101264,
-      "lat": 52.4955406,
-      "lon": 13.4029642,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Berufsfeuerwache Urban",
-        "operator": "Berliner Feuerwehr",
-        "operator:wikidata": "Q821517",
-        "ref": "1500",
-        "wikidata": "Q107538288",
-        "wikimedia_commons": "Category:Feuerwache Urban"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6482848243,
-      "lat": 52.6625773,
-      "lon": 13.3781408,
-      "tags": {
-        "amenity": "police",
-        "name": "Revierpolizist",
-        "opening_hours": "Tu 15:00-18:00"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6621423513,
-      "lat": 52.5875384,
-      "lon": 13.3410448,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "55",
-        "addr:postcode": "13437",
-        "addr:street": "Roedernallee",
-        "addr:suburb": "Reinickendorf",
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Wittenau",
-        "ref": "2201"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6621423514,
-      "lat": 52.4296508,
-      "lon": 13.3802828,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "15",
-        "addr:postcode": "12277",
-        "addr:street": "Wilhelm-von-Siemens-Stra\u00dfe",
-        "addr:suburb": "Mariendorf",
-        "amenity": "fire_station",
-        "check_date": "2025-06-13",
-        "name": "Freiwillige Feuerwehr Marienfelde",
-        "ref": "4701"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6621423515,
-      "lat": 52.5866698,
-      "lon": 13.2860944,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "16",
-        "addr:postcode": "13507",
-        "addr:street": "Berliner Stra\u00dfe",
-        "addr:suburb": "Tegel",
-        "amenity": "fire_station",
-        "check_date": "2024-04-06",
-        "name": "Freiwillige Feuerwehr Tegel",
-        "ref": "2401"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6621423516,
-      "lat": 52.5091185,
-      "lon": 13.2960373,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "9-10",
-        "addr:postcode": "14057",
-        "addr:street": "Suarezstra\u00dfe",
-        "addr:suburb": "Charlottenburg",
-        "amenity": "fire_station",
-        "check_date": "2024-03-19",
-        "name": "Freiwillige Feuerwehr Suarez",
-        "ref": "3301"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6621423517,
-      "lat": 52.5117447,
-      "lon": 13.4446081,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "57",
-        "addr:postcode": "10243",
-        "addr:street": "R\u00fcdersdorfer Stra\u00dfe",
-        "addr:suburb": "Friedrichshain",
-        "amenity": "fire_station",
-        "check_date": "2024-09-10",
-        "contact:website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/freiwillige-feuerwehr/ff-friedrichshain-1201/",
-        "name": "Freiwillige Feuerwehr Friedrichshain",
-        "ref": "1201"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8895164256,
-      "lat": 52.5714204,
-      "lon": 13.6173027,
-      "tags": {
-        "addr:city": "Ahrensfelde",
-        "addr:housenumber": "1",
-        "addr:postcode": "16356",
-        "addr:street": "Krummenseer Weg",
-        "addr:suburb": "Mehrow",
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Mehrow",
-        "wikidata": "Q107357121"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9016039014,
-      "lat": 52.3664696,
-      "lon": 13.8385436,
-      "tags": {
-        "addr:city": "Gr\u00fcnheide (Mark)",
-        "addr:housenumber": "1",
-        "addr:postcode": "15537",
-        "addr:street": "Sieverslaker Stra\u00dfe",
-        "addr:suburb": "Spreeau",
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Gr\u00fcnheide (Mark) - Ortswehr Spreeau",
-        "operator": "Gemeinde Gr\u00fcnheide (Mark)"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9673650886,
-      "lat": 52.3833671,
-      "lon": 13.1443528,
-      "tags": {
-        "amenity": "police",
-        "name": "Bundespolizei",
-        "operator": "Bundespolizei",
-        "operator:short": "BPOL",
-        "operator:wikidata": "Q56026",
-        "police": "offices"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10039426205,
-      "lat": 52.5564395,
-      "lon": 13.4598304,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Wei\u00dfensee",
-        "ref": "6301"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10671508605,
-      "lat": 52.5001222,
-      "lon": 13.4183773,
-      "tags": {
-        "amenity": "police",
-        "name": "Polizeistation",
-        "name:en": "Police station"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10725838709,
-      "lat": 52.6999222,
-      "lon": 13.5933694,
-      "tags": {
-        "addr:city": "Bernau bei Berlin",
-        "addr:housenumber": "1a",
-        "addr:postcode": "16321",
-        "addr:street": "Otto-Schmidt-Stra\u00dfe",
-        "addr:suburb": "Ladeburg",
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Bernau bei Berlin - L\u00f6schzug Ladeburg",
-        "operator": "Stadt Bernau bei Berlin",
-        "website": "www.feuerwehr-bernau.de"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10815091249,
-      "lat": 52.6547433,
-      "lon": 12.9783377,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Paaren im Glien"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11207192534,
-      "lat": 52.6962091,
-      "lon": 13.1121651,
-      "tags": {
-        "addr:city": "Oberkr\u00e4mer",
-        "addr:housenumber": "29",
-        "addr:postcode": "16727",
-        "addr:street": "Am Eichenring",
-        "amenity": "police",
-        "name": "Sprechzimmer Revierpolizei",
-        "opening_hours": "Tu 16:00-18:00",
-        "operator": "Polizei Brandenburg",
-        "operator:wikidata": "Q2101665",
-        "phone": "+49 3301 8511056",
-        "website": "https://polizei.brandenburg.de/standorte_und_erreichbarkeiten/id/66330/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11208742256,
-      "lat": 52.5224588,
-      "lon": 13.3330505,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Berlin-Moabit",
-        "ref": "1401"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11208742257,
-      "lat": 52.5226342,
-      "lon": 13.3330907,
-      "tags": {
-        "amenity": "fire_station",
-        "emergency": "ambulance_station",
-        "name": "Berufsfeuerwache Berlin-Moabit",
-        "phone": "+49 30 387 1400 105",
-        "ref": "1400",
-        "website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/feuerwache-moabit/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11568947841,
-      "lat": 52.5083788,
-      "lon": 13.333723,
-      "tags": {
-        "amenity": "police",
-        "name": "Bundespolizei",
-        "operator": "Bundespolizei",
-        "operator:short": "BPOL",
-        "operator:wikidata": "Q56026",
-        "operator:wikipedia": "de:Bundespolizei (Deutschland)",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12001100031,
-      "lat": 52.3472656,
-      "lon": 13.6458215,
-      "tags": {
-        "amenity": "fire_station"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12161696502,
-      "lat": 52.4689123,
-      "lon": 13.3758937,
-      "tags": {
-        "amenity": "police",
-        "name": "Polizei / Police"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12643808080,
-      "lat": 52.437223,
-      "lon": 13.2647815,
-      "tags": {
-        "amenity": "fire_station",
-        "name": "Freiwillige Feuerwehr Zehlendorf",
-        "ref": "4101"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12705321651,
-      "lat": 52.5388723,
-      "lon": 13.8178673,
-      "tags": {
-        "amenity": "police",
-        "name": "Revierpolizei Land Brandenburg"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12743368984,
-      "lat": 52.5390011,
-      "lon": 13.8402805,
-      "tags": {
-        "amenity": "police",
-        "name": "Revierpolizei",
-        "operator": "Polizeidirektion Ost",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12847789059,
-      "lat": 52.4978807,
-      "lon": 13.4678385,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "3",
-        "addr:postcode": "10317",
-        "addr:street": "Kynaststra\u00dfe",
-        "amenity": "police",
-        "name": "Bundeskriminalamt Berlin - Liegenschaft B4",
-        "operator": "Bundeskriminalamt",
-        "operator:short": "BKA",
-        "operator:wikidata": "Q56030"
-      }
-    },
     {
       "type": "way",
       "id": 4675996,
@@ -1742,6 +485,4179 @@
         "operator": "Bundespolizei",
         "operator:short": "BPOL",
         "operator:wikidata": "Q56026"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28974454,
+      "nodes": [
+        344480867,
+        318600773,
+        2340144506,
+        12160474587,
+        344479991,
+        2340144498,
+        318600774,
+        2340144495,
+        2340144489,
+        2340144487,
+        2340144480,
+        318600775,
+        8790224533,
+        318600776,
+        318600777,
+        318600778,
+        8790224525,
+        318600779,
+        8790224527,
+        8790224528,
+        2467614685,
+        12160474600,
+        318600780,
+        2340144496,
+        2340144510,
+        2340144508,
+        344481375,
+        2340144512,
+        2340144516,
+        318600781,
+        344480939,
+        344480867
+      ],
+      "tags": {
+        "addr:city": "Ahrensfelde",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "16356",
+        "addr:street": "Bundespolizeiallee",
+        "amenity": "police",
+        "name": "Bundespolizeiabteilung Blumberg",
+        "operator": "Bundespolizei",
+        "operator:short": "BPOL",
+        "operator:wikidata": "Q56026",
+        "short_name": "BPOLABT BLU"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29404801,
+      "nodes": [
+        323931078,
+        323931080,
+        323931083,
+        323931084,
+        323931086,
+        323931088,
+        8548603087,
+        323931090,
+        323931092,
+        8548603084,
+        323931078
+      ],
+      "tags": {
+        "addr:city": "Ahrensfelde",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "16356",
+        "addr:street": "Alte Schulstra\u00dfe",
+        "addr:suburb": "Lindenberg",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "name": "Freiwillige Feuerwehr"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29978455,
+      "nodes": [
+        6126583129,
+        330020175,
+        330020176,
+        6126583130,
+        6126583129
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "55",
+        "addr:postcode": "13437",
+        "addr:street": "Roedernallee",
+        "addr:suburb": "Reinickendorf",
+        "amenity": "fire_station",
+        "name": "Berufsfeuerwache Wittenau",
+        "ref": "2200"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30617349,
+      "nodes": [
+        338556586,
+        338556587,
+        338556589,
+        2859119759,
+        338556591,
+        338556592,
+        2859119760,
+        338556593,
+        338556594,
+        338556596,
+        338556586
+      ],
+      "tags": {
+        "addr:city": "Hennigsdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "14c",
+        "addr:postcode": "16761",
+        "addr:street": "Parkstra\u00dfe",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Hennigsdorf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30627912,
+      "nodes": [
+        338754859,
+        3196969345,
+        338754860,
+        338754861,
+        338754862,
+        338754859
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "13627",
+        "addr:street": "Nikolaus-Gro\u00df-Weg",
+        "addr:suburb": "Charlottenburg-Nord",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "capacity": "94",
+        "emergency": "ambulance_station",
+        "name": "FW Charlottenburg- Nord (BF 3600)",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "ref": "D4722",
+        "website": "https://www.berliner-feuerwehr.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30627921,
+      "nodes": [
+        338754913,
+        338754914,
+        338754915,
+        338754916,
+        338754917,
+        338754918,
+        338754919,
+        338754912,
+        3196969344,
+        338754913
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "13627",
+        "addr:street": "Nikolaus-Gro\u00df-Weg",
+        "addr:suburb": "Charlottenburg-Nord",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "name": "Technischer Dienst I (TD 1 3639)",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "ref": "3639",
+        "website": "https://www.berliner-feuerwehr.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30627939,
+      "nodes": [
+        338755217,
+        662289966,
+        662289959,
+        338755218,
+        338755219,
+        6718682693,
+        6718682696,
+        338755220,
+        338755217
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "2",
+        "addr:postcode": "13627",
+        "addr:street": "Nikolaus-Gro\u00df-Weg",
+        "amenity": "fire_station",
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30628046,
+      "nodes": [
+        2891400307,
+        338756897,
+        4337299765,
+        4337299773,
+        4337299763,
+        4337299757,
+        4337299689,
+        4337299690,
+        4337299687,
+        4337299673,
+        2128900358,
+        4337299665,
+        338756887,
+        4337299675,
+        2128900371,
+        4337299696,
+        2891400307
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "13507",
+        "addr:street": "Berliner Stra\u00dfe",
+        "addr:suburb": "Tegel",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "building:levels": "3",
+        "contact:phone": "+49 30 3872400105",
+        "contact:website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/feuerwache-tegel/",
+        "emergency": "ambulance_station",
+        "name": "Berufsfeuerwache Tegel",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "ref": "2400",
+        "roof:levels": "0",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30979725,
+      "nodes": [
+        344479024,
+        344479025,
+        344479026,
+        344479027,
+        344479028,
+        344479024
+      ],
+      "tags": {
+        "amenity": "police",
+        "barrier": "fence",
+        "name:signed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31578056,
+      "nodes": [
+        353329449,
+        353329451,
+        353329452,
+        353329453,
+        3381630374,
+        353329454,
+        3348290419,
+        3348290418,
+        3381630369,
+        353329457,
+        353329462,
+        353329464,
+        353329466,
+        353329449
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "21 - 25",
+        "addr:postcode": "14467",
+        "addr:street": "Berliner Stra\u00dfe",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "5",
+        "check_date": "2024-05-16",
+        "name": "Bundespolizeipr\u00e4sidium Au\u00dfenstelle",
+        "police": "offices",
+        "roof:levels": "0",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32551048,
+      "nodes": [
+        366075537,
+        366075536,
+        366075532,
+        366075527,
+        366075530,
+        366075535,
+        366075534,
+        366075528,
+        5923922536,
+        5923922537,
+        5923922535,
+        5923922534,
+        366075537
+      ],
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "ref": "Halle A4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35478455,
+      "nodes": [
+        416055418,
+        416055419,
+        416055420,
+        416055421,
+        9534515247,
+        9534515248,
+        9534515242,
+        9534515243,
+        9534515244,
+        9534515241,
+        416055418
+      ],
+      "tags": {
+        "addr:city": "Sch\u00f6nefeld",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "12529",
+        "addr:street": "Diepenseer Stra\u00dfe",
+        "addr:suburb": "Waltersdorf",
+        "amenity": "fire_station",
+        "building": "public",
+        "name": "Freiwillige Feuerwehr Waltersdorf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35610252,
+      "nodes": [
+        417379580,
+        417379581,
+        417379582,
+        10206505147,
+        10206505148,
+        10206505150,
+        10206505149,
+        417379583,
+        417379580
+      ],
+      "tags": {
+        "addr:city": "Gosen-Neu Zittau",
+        "addr:housenumber": "1",
+        "addr:postcode": "15537",
+        "addr:street": "Seestra\u00dfe",
+        "addr:suburb": "Gosen",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "email": "info@ff-gosen.de",
+        "name": "Freiwillige Feuerwehr Gosen",
+        "name:en": "Fire Department Gosen",
+        "ref": "FDGN",
+        "website": "https://www.ff-gosen.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37549850,
+      "nodes": [
+        5352673618,
+        5352673617,
+        5352673616,
+        5352673615,
+        5352673614,
+        5352673613,
+        11602138994,
+        11602138993,
+        5352673612,
+        5352673611,
+        11602138998,
+        11602138999,
+        11602139000,
+        3155249504,
+        11602172936,
+        5352673610,
+        11602139023,
+        11602139024,
+        11602139025,
+        5352673609,
+        11602218322,
+        5352673608,
+        5352673607,
+        11602139006,
+        11602139007,
+        5352673606,
+        5352673605,
+        11602139008,
+        11602139009,
+        5352673604,
+        5352673603,
+        11602218318,
+        5352673602,
+        5352673601,
+        11602139015,
+        11602139016,
+        5352673600,
+        5352673599,
+        11602139017,
+        11602139018,
+        5352673598,
+        5352673597,
+        11602139020,
+        11602139019,
+        5352673596,
+        5352673595,
+        5352673594,
+        5352673593,
+        5352673592,
+        439826608,
+        5352673591,
+        5352673590,
+        5352673589,
+        11602139022,
+        11602139021,
+        5352673588,
+        5352673587,
+        5352673586,
+        5352673585,
+        11602139013,
+        11602139014,
+        5352673584,
+        11602139005,
+        11602139004,
+        5352673583,
+        5352673582,
+        5352673581,
+        5352673580,
+        5352673579,
+        5352673578,
+        5352673618
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "64",
+        "addr:postcode": "10999",
+        "addr:street": "Wiener Stra\u00dfe",
+        "addr:suburb": "Kreuzberg",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "building:levels": "5",
+        "contact:phone": "+49 30 3871600105",
+        "emergency": "ambulance_station",
+        "name": "Berufsfeuerwache Kreuzberg",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "operator:wikipedia": "de:Berliner Feuerwehr",
+        "ref": "1600",
+        "roof:colour": "#83888b",
+        "roof:shape": "flat",
+        "source": "Geoportal Berlin / Hausumringe",
+        "wikidata": "Q63249299",
+        "wikimedia_commons": "Category:Feuerwache Kreuzberg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37746717,
+      "nodes": [
+        442722586,
+        442722587,
+        627942167,
+        627942168,
+        442722588,
+        442722589,
+        627942170,
+        627942176,
+        627942174,
+        627942172,
+        442722586
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "193a",
+        "addr:postcode": "14469",
+        "addr:street": "Potsdamer Stra\u00dfe",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "check_date": "2024-04-23",
+        "name": "Freiwillige Feuerwehr Bornstedt",
+        "website": "http://www.ff-bornstedt.de"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37901384,
+      "nodes": [
+        444822040,
+        444822043,
+        444822053,
+        444822057,
+        444822040
+      ],
+      "tags": {
+        "addr:housename": "Geb\u00e4ude 26",
+        "amenity": "fire_station",
+        "man_made": "works",
+        "name": "BtFw Mercedes-Benz AG 4708"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38164401,
+      "nodes": [
+        449327747,
+        449327751,
+        449327753,
+        449327754,
+        449327756,
+        449327757,
+        449327747
+      ],
+      "tags": {
+        "addr:city": "Wandlitz",
+        "addr:housenumber": "19",
+        "addr:postcode": "16348",
+        "addr:street": "Prenzlauer Stra\u00dfe",
+        "addr:suburb": "Basdorf",
+        "amenity": "fire_station",
+        "building": "yes",
+        "emergency": "yes",
+        "name": "Ortsfeuerwehr Basdorf",
+        "operator": "Feuerwehr Wandlitz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40955402,
+      "nodes": [
+        2495554847,
+        3163972974,
+        498886947,
+        498886953,
+        498886954,
+        498886955,
+        2610754831,
+        498886956,
+        498886957,
+        498886958,
+        498886960,
+        498886959,
+        498886948,
+        2495554831,
+        2495554830,
+        498886949,
+        2495554796,
+        2495554788,
+        1586627004,
+        1586627009,
+        1586627010,
+        1586627007,
+        2495554825,
+        2495554829,
+        2495554832,
+        1586627008,
+        1586627011,
+        2495554834,
+        2495554841,
+        498886950,
+        9383604379,
+        2495554817,
+        2495554827,
+        1586627005,
+        2495554847
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "10965",
+        "addr:street": "Friesenstra\u00dfe",
+        "addr:suburb": "Kreuzberg",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "5",
+        "contact:website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-5/abschnitt-52/",
+        "name": "Polizeiabschnitt 52",
+        "operator": "Polizei Berlin",
+        "operator:wikidata": "Q328480",
+        "phone": "+49 30 4664552700",
+        "wheelchair": "no",
+        "wikidata": "Q108875637"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43722263,
+      "nodes": [
+        553402172,
+        2456745525,
+        2456745460,
+        553402175,
+        553402177,
+        6486081591,
+        6486081592,
+        553402176,
+        553402172
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Hohensch\u00f6nhausen",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "ref": "6310",
+        "wikidata": "Q107538300"
+      }
+    },
+    {
+      "type": "way",
+      "id": 44115854,
+      "nodes": [
+        11165055220,
+        560596018,
+        2301537047,
+        2301537043,
+        5256278316,
+        2301537039,
+        560596019,
+        2301537035,
+        2301537030,
+        5256278745,
+        4112395040,
+        5256278742,
+        4112395032,
+        5256278743,
+        4112395035,
+        4112395042,
+        4112395043,
+        4112395044,
+        9909146385,
+        9909146362,
+        9909146386,
+        9909146387,
+        9909146388,
+        9909146389,
+        9909146390,
+        9909146391,
+        11202159437,
+        9909146395,
+        9909146394,
+        9909146393,
+        11202159444,
+        9909146392,
+        4112395248,
+        1633061243,
+        1633061248,
+        11202156919,
+        11202032784,
+        5256278744,
+        1633061250,
+        11192843526,
+        1633061252,
+        1633061265,
+        3882051416,
+        5256278735,
+        5256278734,
+        3882051502,
+        11465311277,
+        11465311280,
+        3882051520,
+        5256278721,
+        5256278320,
+        5256278317,
+        12082913919,
+        5256278318,
+        11998491560,
+        11998491561,
+        11165055221,
+        11165055220
+      ],
+      "tags": {
+        "amenity": "police",
+        "name": "Polizei Berlin Direktion 3 - Abschnitt 32",
+        "operator": "Polizei Berlin",
+        "operator:wikidata": "Q328480",
+        "operator:wikipedia": "de:Polizei Berlin",
+        "website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-3/abschnitt-32/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Parkplatz f\u00fcr Rollstuhlfahrer am Eingang",
+        "wikidata": "Q108873783"
+      }
+    },
+    {
+      "type": "way",
+      "id": 46824589,
+      "nodes": [
+        598116435,
+        598116431,
+        2283078191,
+        2283078184,
+        2283078182,
+        2283078187,
+        598116420,
+        2070111625,
+        2070111626,
+        598116433,
+        598116435
+      ],
+      "tags": {
+        "addr:city": "Birkenwerder",
+        "addr:housenumber": "57",
+        "addr:postcode": "16547",
+        "addr:street": "Hauptstra\u00dfe",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Birkenwerder"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48080606,
+      "nodes": [
+        611185101,
+        611185012,
+        611185159,
+        611185160,
+        3052081384,
+        611185101
+      ],
+      "tags": {
+        "addr:city": "Sch\u00f6neiche bei Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "86",
+        "addr:postcode": "15566",
+        "addr:street": "Brandenburgische Stra\u00dfe",
+        "amenity": "fire_station",
+        "check_date": "2024-04-28",
+        "name": "Freiwillige Feuerwehr Sch\u00f6neiche bei Berlin",
+        "ref": "FDSB"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48898764,
+      "nodes": [
+        10556611943,
+        623591304,
+        10556613131,
+        9090186370,
+        623591305,
+        5792562759,
+        34784766,
+        5792562755,
+        5792562754,
+        218417185,
+        5792562753,
+        5792562052,
+        218417188,
+        9090186371,
+        218417190,
+        797129162,
+        5792562051,
+        218417196,
+        218417201,
+        620487372,
+        250186731,
+        9998693340,
+        250186728,
+        250186722,
+        9998704664,
+        11511770802,
+        5482756104,
+        11511770803,
+        11511770804,
+        318297352,
+        7728111977,
+        7728111978,
+        318297353,
+        9998704665,
+        7728111979,
+        2826565895,
+        9998693397,
+        318297354,
+        318297355,
+        797129164,
+        623591315,
+        318297521,
+        10556611941,
+        10556611938,
+        10556611943
+      ],
+      "tags": {
+        "amenity": "police",
+        "leaf_type": "mixed",
+        "name": "Polizei\u00fcbungsgel\u00e4nde \u201eFighting City Ruhleben\u201c",
+        "source": "Yahoo WMS;local knowledge",
+        "wikipedia": "de:Fighting City"
+      }
+    },
+    {
+      "type": "way",
+      "id": 49418015,
+      "nodes": [
+        627624971,
+        627624972,
+        2074491562,
+        627624990,
+        627624991,
+        627624975,
+        7533717280,
+        627624971
+      ],
+      "tags": {
+        "addr:city": "Panketal",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "16341",
+        "addr:street": "Neckarstra\u00dfe",
+        "addr:suburb": "Zepernick",
+        "amenity": "fire_station",
+        "building": "yes",
+        "check_date": "2024-08-21",
+        "name": "Freiwillige Feuerwehr Zepernick"
+      }
+    },
+    {
+      "type": "way",
+      "id": 49895351,
+      "nodes": [
+        634122675,
+        634122676,
+        634122677,
+        634122678,
+        634122679,
+        3675468443,
+        634122680,
+        634122675
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "12309",
+        "addr:street": "Im Domstift",
+        "addr:suburb": "Lichtenrade",
+        "amenity": "fire_station",
+        "barrier": "fence",
+        "name": "Freiwillige Feuerwehr Lichtenrade",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "ref": "4710",
+        "source": "Geoportal Berlin / Hauskoordinaten",
+        "wikidata": "Q107538426"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51906459,
+      "nodes": [
+        662289952,
+        12918842759,
+        12918842704,
+        662289973,
+        662289970,
+        662289972,
+        662289978,
+        6718669878,
+        6718690787,
+        6718690786,
+        6718669879,
+        662289998,
+        2924809807,
+        662290003,
+        662290012,
+        2493634021,
+        2924809813,
+        6718669877,
+        2924809815,
+        2924809817,
+        6718669874,
+        2924809822,
+        6718669875,
+        2924809826,
+        6718669876,
+        6718669873,
+        6718669872,
+        2493634022,
+        2493634024,
+        6718669871,
+        2493634023,
+        11405570564,
+        6718669870,
+        2493634025,
+        6718673973,
+        6718673972,
+        662289993,
+        11405488862,
+        12918842709,
+        662289967,
+        338754860,
+        6718673971,
+        3280733062,
+        6718673970,
+        6718673969,
+        2924809812,
+        662289952
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "2",
+        "addr:postcode": "13627",
+        "addr:street": "Nikolaus-Gro\u00df-Weg",
+        "amenity": "fire_station",
+        "barrier": "fence",
+        "name": "Dienstgel\u00e4nde Nikolaus-Gro\u00df-Weg",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52044902,
+      "nodes": [
+        663429342,
+        663429343,
+        663429344,
+        10216804537,
+        10216804536,
+        10216804534,
+        10216804535,
+        663429345,
+        663429346,
+        10216804532,
+        10216804533,
+        10216804531,
+        663429347,
+        10216804530,
+        663429348,
+        10216805344,
+        663429349,
+        10216805343,
+        10216805345,
+        663429350,
+        663429351,
+        10216805341,
+        10216805342,
+        663429352,
+        663429353,
+        663429354,
+        10216805340,
+        634180952,
+        1899972434,
+        634180942,
+        663429342
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "12203",
+        "addr:street": "Augustaplatz",
+        "addr:suburb": "Lichterfelde",
+        "amenity": "police",
+        "barrier": "wall",
+        "name": "Polizeidirektion 4 - Abschnitt 45",
+        "wikidata": "Q108875632"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52330946,
+      "nodes": [
+        665766120,
+        665766132,
+        665766080,
+        2861353204,
+        2861347935,
+        2861349534,
+        2861349449,
+        665766081,
+        2861347934,
+        2861352804,
+        2861348531,
+        2861348142,
+        665766120
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:colour": "#97a1b3",
+        "building:levels": "1",
+        "name": "Freiwillige Feuerwehr L\u00fcbars",
+        "roof:colour": "#272e23",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53273568,
+      "nodes": [
+        5217136692,
+        674076634,
+        674076601,
+        674076655,
+        5217136692
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Eichst\u00e4dt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53282942,
+      "nodes": [
+        674166076,
+        674166048,
+        674166066,
+        674166070,
+        316962153,
+        674166072,
+        674166074,
+        674166050,
+        674166076
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "14482",
+        "addr:street": "Tuchmacherstra\u00dfe",
+        "addr:suburb": "Babelsberg Nord",
+        "amenity": "fire_station",
+        "building": "yes",
+        "check_date": "2024-08-13",
+        "name": "Feuerwehr Babelsberg - Klein Glienicke"
+      }
+    },
+    {
+      "type": "way",
+      "id": 56456892,
+      "nodes": [
+        3145544457,
+        3145543583,
+        3145543543,
+        3145544108,
+        3145544457
+      ],
+      "tags": {
+        "addr:city": "M\u00fchlenbecker Land",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "16552",
+        "addr:street": "Franz-Schmidt-Stra\u00dfe",
+        "addr:suburb": "Schildow",
+        "amenity": "fire_station",
+        "building": "public",
+        "building:levels": "2",
+        "email": "verein@feuerwehr-schildow.de",
+        "name": "Freiwillige Feuerwehr Schildow",
+        "phone": "+49 33056 23671",
+        "roof:levels": "0",
+        "roof:shape": "gabled",
+        "website": "http://feuerwehr-schildow.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 58699648,
+      "nodes": [
+        2982404973,
+        2982404955,
+        2982404947,
+        2982404934,
+        2982404968,
+        2982404988,
+        2982404973
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "13159",
+        "addr:street": "Hauptstra\u00dfe",
+        "addr:suburb": "Blankenfelde",
+        "amenity": "fire_station",
+        "building": "yes",
+        "email": "info@ff-blankenfelde.de",
+        "fax": "+4930 47470006",
+        "name": "Freiwillige Feuerwehr Blankenfelde",
+        "phone": "+4930 47470006",
+        "ref": "2630",
+        "source": "Geoportal Berlin / Hausumringe",
+        "website": "https://www.ff-blankenfelde.de/",
+        "wikidata": "Q107538351"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59560344,
+      "nodes": [
+        3031527788,
+        3031527767,
+        3031527281,
+        3031527301,
+        3031527631,
+        3031527744,
+        3031527762,
+        3031527764,
+        3031527814,
+        3031527813,
+        3031527939,
+        3031527824,
+        3031527788
+      ],
+      "tags": {
+        "addr:city": "Hohen Neuendorf",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "16540",
+        "addr:street": "Waldstra\u00dfe",
+        "amenity": "fire_station",
+        "building": "civic",
+        "building:levels": "2",
+        "check_date": "2025-02-05",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipObTVIWDck7vDwDncTh5_fn2Mv_WHcxTi605e1M=w1080-k-no",
+        "name": "Freiwillige Feuerwehr Hohen Neuendorf",
+        "phone": "+49 3303 528164",
+        "roof:levels": "1",
+        "roof:shape": "many",
+        "website": "https://feuerwehr.hohen-neuendorf.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59806046,
+      "nodes": [
+        986604140,
+        1494791813,
+        4053039092,
+        1494791811,
+        4052020170,
+        1494791805,
+        4052052708,
+        4052052704,
+        1494791796,
+        4052052702,
+        4275071777,
+        3627158025,
+        4275071776,
+        4275071775,
+        4054691905,
+        4054691907,
+        3629223338,
+        4054691906,
+        774126187,
+        986604140
+      ],
+      "tags": {
+        "amenity": "police",
+        "indoor": "yes",
+        "level": "1",
+        "name": "Bundespolizei",
+        "name:ja": "\u9023\u90a6\u8b66\u5bdf",
+        "operator": "Bundespolizei",
+        "operator:short": "BPOL",
+        "operator:wikidata": "Q56026",
+        "operator:wikipedia": "de:Bundespolizei (Deutschland)",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61649575,
+      "nodes": [
+        768554116,
+        768554109,
+        768554131,
+        768554127,
+        768554116
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "101",
+        "addr:postcode": "14473",
+        "addr:street": "Friedrich-Engels-Stra\u00dfe",
+        "amenity": "police",
+        "check_date": "2024-03-20",
+        "contact:email": "bpoli.b-obf@polizei.bund.de",
+        "contact:fax": "+49 331 901 284",
+        "contact:phone": "+49 331 967 150",
+        "contact:website": "https://www.bundespolizei.de/",
+        "indoor": "room",
+        "layer": "1",
+        "level": "1",
+        "name": "Bundespolizeirevier Potsdam",
+        "operator": "Bundespolizei",
+        "operator:short": "BPOL",
+        "operator:type": "public",
+        "operator:wikidata": "Q56026",
+        "operator:wikipedia": "de:Bundespolizei (Deutschland)",
+        "police": "offices",
+        "room": "office",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79264475,
+      "nodes": [
+        925747593,
+        925747548,
+        3354678407,
+        925747177,
+        925747359,
+        925747593
+      ],
+      "tags": {
+        "addr:city": "Sch\u00f6nefeld",
+        "addr:country": "DE",
+        "addr:housenumber": "44a",
+        "addr:postcode": "12529",
+        "addr:street": "Dorfstra\u00dfe",
+        "addr:suburb": "Wa\u00dfmannsdorf",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Freiwillige Feuerwehr Wa\u00dfmannsdorf",
+        "phone": "+49 3379 445828"
+      }
+    },
+    {
+      "type": "way",
+      "id": 81283626,
+      "nodes": [
+        946947638,
+        2235343922,
+        946947178,
+        946947333,
+        946947486,
+        2235343925,
+        946947638
+      ],
+      "tags": {
+        "addr:city": "Sch\u00f6nefeld",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "12529",
+        "addr:street": "Mittenwalder Stra\u00dfe",
+        "addr:suburb": "Selchow",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Selchow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 85248048,
+      "nodes": [
+        673027722,
+        673027783,
+        4215436013,
+        673027798,
+        673027730,
+        5318102383,
+        5318102384,
+        2757311966,
+        4215436157,
+        5318102385,
+        4215435990,
+        988558226,
+        3269828757,
+        5318102381,
+        5316908846,
+        1459876619,
+        3269828735,
+        1459876614,
+        3269828741,
+        4215435530,
+        3269828748,
+        1459876622,
+        4215435943,
+        4215435958,
+        4215435985,
+        673027722
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "10557",
+        "addr:street": "Kruppstra\u00dfe",
+        "addr:suburb": "Moabit",
+        "amenity": "police",
+        "check_date": "2024-05-26",
+        "name": "1. Bereitschaftspolizeiabteilung"
+      }
+    },
+    {
+      "type": "way",
+      "id": 86119825,
+      "nodes": [
+        999437150,
+        4487526496,
+        999437155,
+        999437160,
+        12643784162,
+        999437163,
+        999437150
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "contact:facebook": "https://www.facebook.com/FFNeuFahrland",
+        "name": "Freiwillige Feuerwehr Neu Fahrland",
+        "website": "https://neu-fahrland.net/feuerwehr.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 97158906,
+      "nodes": [
+        1125439546,
+        2306374078,
+        3118873360,
+        5808399498,
+        2542066928,
+        3118824678,
+        1125439369,
+        4915024717,
+        4915024716,
+        1125439326,
+        1125439397,
+        4915024714,
+        4915024713,
+        4915024712,
+        4915024711,
+        4915024710,
+        4915024709,
+        4915024708,
+        2306374077,
+        4915024715,
+        1125439546
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "building:levels": "2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 97936944,
+      "nodes": [
+        1133533906,
+        1133533974,
+        1133533895,
+        1133533937,
+        1133533906
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housename": "Haus 12",
+        "addr:housenumber": "104-106",
+        "addr:postcode": "14480",
+        "addr:street": "Steinstra\u00dfe",
+        "addr:suburb": "Am Stern",
+        "amenity": "fire_station",
+        "building": "yes",
+        "check_date": "2024-10-17",
+        "name": "Katastrophenschutzzentrum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 104810681,
+      "nodes": [
+        467779461,
+        1208978232,
+        1208978230,
+        1208978234,
+        1208978233,
+        1208978221,
+        467779461
+      ],
+      "tags": {
+        "addr:city": "Wustermark",
+        "addr:country": "DE",
+        "addr:housenumber": "2E",
+        "addr:postcode": "14641",
+        "addr:street": "Potsdamer Weg",
+        "addr:suburb": "Priort",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Priort"
+      }
+    },
+    {
+      "type": "way",
+      "id": 105782101,
+      "nodes": [
+        1218048377,
+        1218048400,
+        1218048257,
+        1218048376,
+        1218048377
+      ],
+      "tags": {
+        "addr:city": "Wustermark",
+        "addr:country": "DE",
+        "addr:housenumber": "43",
+        "addr:postcode": "14641",
+        "addr:street": "Ernst-Walter-Weg",
+        "addr:suburb": "Elstal",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Elstal"
+      }
+    },
+    {
+      "type": "way",
+      "id": 109204028,
+      "nodes": [
+        1250794365,
+        2324089783,
+        988558206,
+        2338638711,
+        2395324593,
+        3439482554,
+        2338638709,
+        2338638708,
+        1250794365
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "10557",
+        "addr:street": "Elisabeth-Abegg-Stra\u00dfe",
+        "addr:suburb": "Moabit",
+        "amenity": "fire_station",
+        "emergency": "ambulance_station",
+        "name": "Berufsfeuerwache Berlin-Tiergarten",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "operator:wikipedia": "de:Berliner Feuerwehr",
+        "ref": "1700",
+        "short_name": "FW Tiergarten",
+        "source": "http://www.berliner-feuerwehr.de/standorte/feuerwachen/fw-tiergarten/",
+        "wikidata": "Q107208395"
+      }
+    },
+    {
+      "type": "way",
+      "id": 111211778,
+      "nodes": [
+        1267619496,
+        1267619509,
+        1267619387,
+        1267619492,
+        1267619496
+      ],
+      "tags": {
+        "addr:city": "Sch\u00f6nwalde-Glien",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "14621",
+        "addr:street": "Stra\u00dfe der Jugend",
+        "addr:suburb": "Sch\u00f6nwalde-Siedlung",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Sch\u00f6nwalde"
+      }
+    },
+    {
+      "type": "way",
+      "id": 115712873,
+      "nodes": [
+        2963450864,
+        2963442219,
+        2963451061,
+        2963441923,
+        2963441921,
+        2963451055,
+        2963442208,
+        2963442216,
+        2963450868,
+        2963450864
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Niedersch\u00f6nhausen (2610)",
+        "ref": "2610",
+        "wikidata": "Q107538361",
+        "wikimedia_commons": "Category:Volunteer fire department in Berlin-Niedersch\u00f6nhausen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 122072500,
+      "nodes": [
+        220481481,
+        12060146761,
+        1364896270,
+        11722272119,
+        3577165922,
+        1364896234,
+        1364897129,
+        3577165914,
+        1364897609,
+        220481481
+      ],
+      "tags": {
+        "amenity": "police",
+        "name": "Direktion 6 Verkehrsermittlungsdienst"
+      }
+    },
+    {
+      "type": "way",
+      "id": 124371792,
+      "nodes": [
+        1384619195,
+        1384618607,
+        7929300895,
+        1384618986,
+        4584376564,
+        1384620168,
+        1384620015,
+        1384619307,
+        1384619195
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Feuerwehrhaus"
+      }
+    },
+    {
+      "type": "way",
+      "id": 128277554,
+      "nodes": [
+        3686586806,
+        3686586771,
+        3686586721,
+        3686586734,
+        3686586806
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "14476",
+        "addr:street": "Priesterstra\u00dfe",
+        "addr:suburb": "Fahrland",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Fahrland"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129558744,
+      "nodes": [
+        6789674157,
+        6789674156,
+        6789674155,
+        6789674154,
+        6789674153,
+        6789674152,
+        6789674151,
+        6789674150,
+        6789674149,
+        6789674140,
+        6789674148,
+        6789674147,
+        6789674146,
+        6789674144,
+        6789674145,
+        6789674157
+      ],
+      "tags": {
+        "addr:city": "Brieselang",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "14656",
+        "addr:street": "Schulplatz",
+        "amenity": "fire_station",
+        "building": "house",
+        "contact:website": "http://www.feuerwehr-brieselang.de/",
+        "name": "Freiwillige Feuerwehr Brieselang"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136430236,
+      "nodes": [
+        6893340453,
+        6893340452,
+        6893340451,
+        6893340450,
+        6893340449,
+        6893340448,
+        6893340447,
+        6893340446,
+        6893340445,
+        6893340444,
+        6893340443,
+        6893340442,
+        6893340441,
+        6893340440,
+        6893340439,
+        6893340438,
+        6893340437,
+        6893340436,
+        6893340453
+      ],
+      "tags": {
+        "addr:city": "Sch\u00f6nefeld",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "12529",
+        "addr:street": "Alt Gro\u00dfziethen",
+        "addr:suburb": "Gro\u00dfziethen",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Gro\u00dfziethen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 141648147,
+      "nodes": [
+        1550494674,
+        1550494657,
+        1550494638,
+        1550494652,
+        1550494674
+      ],
+      "tags": {
+        "addr:city": "Werneuchen",
+        "addr:housenumber": "18a",
+        "addr:postcode": "16356",
+        "addr:street": "Ernst-Th\u00e4lmann-Stra\u00dfe",
+        "addr:suburb": "Hirschfelde",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Hirschfelde"
+      }
+    },
+    {
+      "type": "way",
+      "id": 142035886,
+      "nodes": [
+        270908220,
+        1554522036,
+        1554522037,
+        7404882646,
+        1554522019,
+        1554522011,
+        7404806962,
+        7404806960,
+        270908220
+      ],
+      "tags": {
+        "addr:city": "Woltersdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "15569",
+        "addr:street": "Berliner Stra\u00dfe",
+        "amenity": "fire_station",
+        "check_date": "2024-05-05",
+        "name": "Freiwillige Feuerwehr Woltersdorf",
+        "ref": "FDWD",
+        "website": "https://www.woltersdorf-schleuse.de/seite/124979/feuerwehr.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 143308500,
+      "nodes": [
+        1568241222,
+        11108619916,
+        1568241196,
+        1568241183,
+        1568241220,
+        11108619920,
+        11108619921,
+        1568241222
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:postcode": "12524",
+        "addr:street": "Semmelweisstra\u00dfe",
+        "addr:suburb": "Altglienicke",
+        "amenity": "fire_station",
+        "name": "Freiwillige Feuerwehr Altglienicke",
+        "ref": "5330"
+      }
+    },
+    {
+      "type": "way",
+      "id": 143308531,
+      "nodes": [
+        1568242038,
+        1568241907,
+        1568241927,
+        1568241923,
+        1568241926,
+        1568242021,
+        1568242053,
+        1568242043,
+        1568242038
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "42",
+        "addr:postcode": "12487",
+        "addr:street": "Segelfliegerdamm",
+        "addr:suburb": "Johannisthal",
+        "amenity": "police",
+        "barrier": "fence",
+        "description": "ehem. Kreisdirektion der Staatssicherheit",
+        "name": "Polizei Berlin Abschnitt 35",
+        "name:en": "Berlin Police 35th district",
+        "operator": "Polizei Berlin",
+        "operator:wikidata": "Q328480",
+        "operator:wikipedia": "de:Polizei Berlin",
+        "wikidata": "Q108875607"
+      }
+    },
+    {
+      "type": "way",
+      "id": 145796794,
+      "nodes": [
+        3844572150,
+        3844572149,
+        3844572147,
+        3844572120,
+        3844572130,
+        3844570999,
+        3844572123,
+        3844572091,
+        3844572092,
+        3844572027,
+        3844572025,
+        3844571007,
+        3844571979,
+        3844571980,
+        3844571026,
+        3844571023,
+        3844571010,
+        3844571013,
+        3844571016,
+        3844571006,
+        3844571022,
+        3844571018,
+        3844571020,
+        3844571041,
+        3844571039,
+        3844571048,
+        3844571046,
+        3844571043,
+        3844571037,
+        3851681141,
+        3844571031,
+        3844571036,
+        3844571035,
+        3844571958,
+        3844571959,
+        3844571970,
+        3844571969,
+        3844571976,
+        3844571975,
+        3844571042,
+        3844571040,
+        3844571982,
+        3844571989,
+        3844571992,
+        3844572022,
+        3844572020,
+        9656260151,
+        3851684664,
+        3844572031,
+        3851684674,
+        3844572086,
+        3844572101,
+        3844572105,
+        3844572110,
+        3844572114,
+        3844572116,
+        3844572117,
+        3844572118,
+        3844572119,
+        3844572122,
+        3844572154,
+        3844572153,
+        3844572152,
+        3844572151,
+        3844572155,
+        3844571000,
+        3844572150
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "10823",
+        "addr:street": "Gothaer Stra\u00dfe",
+        "addr:suburb": "Sch\u00f6neberg",
+        "amenity": "police",
+        "building": "public",
+        "building:levels": "4",
+        "name": "Abschnitt 41",
+        "operator": "Polizei Berlin",
+        "operator:wikidata": "Q328480",
+        "roof:levels": "1",
+        "roof:shape": "hipped",
+        "wheelchair": "limited",
+        "wheelchair:description": "Eingang \u00fcber die Apostel-Paulus-Stra\u00dfe durch den Hof",
+        "wikidata": "Q108875628"
+      }
+    },
+    {
+      "type": "way",
+      "id": 152197361,
+      "nodes": [
+        5435202175,
+        5435202174,
+        1037216359,
+        1650328179,
+        1650328178,
+        5435201906,
+        5435201904,
+        5435201902,
+        1037216325,
+        1650328163,
+        5435201903,
+        5435201905,
+        1650328165,
+        1650328167,
+        1650328173,
+        5435201909,
+        1650328171,
+        1650328170,
+        1650328166,
+        5435202179,
+        5435202178,
+        5435202177,
+        5435202176,
+        5435202173,
+        5435202172,
+        1650328161,
+        5435201913,
+        5435201912,
+        5435202126,
+        1037216368,
+        5435202157,
+        5435202171,
+        5435201911,
+        1037216332,
+        5435202175
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "107",
+        "addr:postcode": "12045",
+        "addr:street": "Sonnenallee",
+        "addr:suburb": "Neuk\u00f6lln",
+        "amenity": "police",
+        "building": "public",
+        "building:levels": "5",
+        "contact:fax": "+49 30 4664554799",
+        "contact:phone": "+49 30 4664554700",
+        "contact:website": "https://www.berlin.de/polizei/dienststellen/polizei-in-den-bezirken/direktion-5/abschnitt-54/",
+        "heritage": "4",
+        "heritage:operator": "lda",
+        "heritage:website": "https://denkmaldatenbank.berlin.de/daobj.php?obj_dok_nr=09090532",
+        "name": "Polizeiabschnitt 54",
+        "ref:lda": "09090532",
+        "start_date": "1901..1902",
+        "wheelchair": "no",
+        "wikidata": "Q108875639",
+        "wikimedia_commons": "File:09090532_Sonnenallee_107.jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157812064,
+      "nodes": [
+        1700638406,
+        1700638407,
+        1700638400,
+        1700638393,
+        1700638406
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "check_date": "2025-03-16",
+        "fire_station:type": "airport",
+        "name": "BER-Feuerwache Ost",
+        "short_name": "FWO"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169314326,
+      "nodes": [
+        3140181243,
+        3140178212,
+        3140181447,
+        3140174984,
+        3140174985,
+        3140178098,
+        3140175523,
+        3140178845,
+        3140178941,
+        3140175520,
+        3140178298,
+        3140181248,
+        3140181243
+      ],
+      "tags": {
+        "addr:city": "Hohen Neuendorf",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "16556",
+        "addr:street": "Karl-Marx-Stra\u00dfe",
+        "addr:suburb": "Borgsdorf",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "construction_year": "1999",
+        "name": "Freiwillige Feuerwehr Borgsdorf",
+        "website": "https://www.hohen-neuendorf.de/hnd/admin/feuerwehr.htm"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169976819,
+      "nodes": [
+        2169650762,
+        8669050145,
+        2169650754,
+        2169650748,
+        1811238128,
+        1811238166,
+        2169650766,
+        8669050146,
+        8669050147,
+        8669050148,
+        1811238237,
+        1811238257,
+        2169650762
+      ],
+      "tags": {
+        "addr:city": "Neuenhagen bei Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "15366",
+        "addr:street": "Lahnsteiner Stra\u00dfe",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "building:colour": "#FFFBDB",
+        "building:levels": "3",
+        "name": "Freiwillige Feuerwehr Neuenhagen",
+        "roof:colour": "#816155",
+        "roof:levels": "0",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "type": "way",
+      "id": 175568051,
+      "nodes": [
+        11309391849,
+        5096055253,
+        3464866837,
+        10317038447,
+        11309391849
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "35",
+        "addr:postcode": "10317",
+        "addr:street": "N\u00f6ldnerstra\u00dfe",
+        "amenity": "police",
+        "name": "Polizei Abschnitt 34",
+        "operator": "Polizei Berlin",
+        "operator:wikidata": "Q328480",
+        "operator:wikipedia": "de:Polizei Berlin",
+        "website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-3/abschnitt-34/",
+        "wheelchair": "yes",
+        "wikidata": "Q108875606"
+      }
+    },
+    {
+      "type": "way",
+      "id": 176531097,
+      "nodes": [
+        3151603066,
+        3151602943,
+        3151602945,
+        3151602886,
+        3151602891,
+        3151603072,
+        3151603066
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "12621",
+        "addr:street": "M\u00e4dewalder Weg",
+        "addr:suburb": "Kaulsdorf",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Kaulsdorf",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "operator:wikipedia": "de:Berliner Feuerwehr",
+        "phone": "+49 30 56702060",
+        "ref": "6210",
+        "short_name": "FF Kaulsdorf",
+        "website": "https://www.ff-kaulsdorf.de/",
+        "wheelchair": "no",
+        "wikidata": "Q107538314"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179315911,
+      "nodes": [
+        1896580586,
+        1896580587,
+        9327430201,
+        1896580579,
+        1897684344,
+        9327430193,
+        1896580586
+      ],
+      "tags": {
+        "addr:city": "Schwielowsee",
+        "addr:country": "DE",
+        "addr:housenumber": "34a",
+        "addr:postcode": "14548",
+        "addr:street": "Hauffstra\u00dfe",
+        "addr:suburb": "Geltow",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "name": "Freiwillige Feuerwehr Geltow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 186965570,
+      "nodes": [
+        1977142156,
+        1977142160,
+        1977142162,
+        1977142159,
+        1977142158,
+        1977142157,
+        1977142156
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "16b",
+        "addr:postcode": "14476",
+        "addr:street": "Dorfstra\u00dfe",
+        "addr:suburb": "Satzkorn",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Satzkorn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199986078,
+      "nodes": [
+        2099662292,
+        2099662295,
+        2099662302,
+        2099662300,
+        2099662292
+      ],
+      "tags": {
+        "addr:city": "Oberkr\u00e4mer",
+        "addr:country": "DE",
+        "addr:housenumber": "66",
+        "addr:postcode": "16727",
+        "addr:street": "Breite Stra\u00dfe",
+        "addr:suburb": "Marwitz",
+        "amenity": "fire_station",
+        "building": "house",
+        "check_date": "2024-03-31",
+        "name": "Freiwillige Feuerwehr Marwitz",
+        "roof:shape": "half-hipped"
+      }
+    },
+    {
+      "type": "way",
+      "id": 200019400,
+      "nodes": [
+        2100044217,
+        2100044223,
+        2100044226,
+        2100044222,
+        2100044217
+      ],
+      "tags": {
+        "addr:city": "Oberkr\u00e4mer",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "16727",
+        "addr:street": "Fennstra\u00dfe",
+        "addr:suburb": "B\u00f6tzow",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr B\u00f6tzow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 200303282,
+      "nodes": [
+        2103004244,
+        2103004241,
+        2103004243,
+        2103004245,
+        2103004244
+      ],
+      "tags": {
+        "addr:city": "Velten",
+        "addr:country": "DE",
+        "addr:housenumber": "36",
+        "addr:postcode": "16727",
+        "addr:street": "Mittelstra\u00dfe",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwilige Feuerwehr Stadt Velten",
+        "website": "https://www.feuerwehr-velten.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 201855153,
+      "nodes": [
+        2118738603,
+        2118738602,
+        2118738618,
+        2118738667,
+        2118738666,
+        2118738642,
+        2118738620,
+        2118738603
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "13347",
+        "addr:street": "Oudenarder Stra\u00dfe",
+        "addr:suburb": "Wedding",
+        "amenity": "police",
+        "building": "civic",
+        "building:levels": "4",
+        "contact:phone": "+49 30 4664117701",
+        "email": "direktion1@Polizei.Berlin.de",
+        "fax": "+49 30 4664117799",
+        "name": "Polizei Abschnitt 17",
+        "roof:levels": "1",
+        "website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-1/abschnitt-17/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 207756383,
+      "nodes": [
+        2180050378,
+        2180050342,
+        2180050320,
+        2180050337,
+        2180050378
+      ],
+      "tags": {
+        "addr:city": "Blankenfelde-Mahlow",
+        "addr:country": "DE",
+        "addr:housename": "Freiwillige Feuerwehr Mahlow",
+        "addr:housenumber": "1",
+        "addr:postcode": "15831",
+        "addr:street": "Beethovenstra\u00dfe",
+        "addr:suburb": "Mahlow",
+        "amenity": "fire_station",
+        "building": "yes",
+        "check_date": "2024-03-28",
+        "name": "Freiwillige Feuerwehr Mahlow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 208535363,
+      "nodes": [
+        4362473026,
+        4362472999,
+        4362472984,
+        4362472947,
+        4362472971,
+        4362472968,
+        4362472981,
+        4362472982,
+        4362472987,
+        4362473028,
+        4362473018,
+        4362473051,
+        4362473026
+      ],
+      "tags": {
+        "addr:city": "Ahrensfelde",
+        "addr:country": "DE",
+        "addr:housenumber": "51",
+        "addr:postcode": "16356",
+        "addr:street": "Dorfstra\u00dfe",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Ahrensfelde",
+        "wikidata": "Q113508648",
+        "wikimedia_commons": "Category:Freiwillige Feuerwehr Ahrensfelde"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215084592,
+      "nodes": [
+        2245028672,
+        2245028715,
+        2245028655,
+        2245028639,
+        2245028672
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "26A",
+        "addr:postcode": "14480",
+        "addr:street": "Alt Drewitz",
+        "addr:suburb": "Drewitz",
+        "amenity": "fire_station",
+        "building": "yes",
+        "email": "ffw-Drewitz@t-online.de",
+        "name": "Freiwillige Feuerwehr Drewitz",
+        "phone": "+49 331 617986",
+        "website": "http://www.feuerwehr-drewitz.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217353511,
+      "nodes": [
+        2266255209,
+        10697710482,
+        10649062304,
+        2266255207,
+        2266255182,
+        2266255184,
+        2266255179,
+        2266255177,
+        2266255176,
+        2266255170,
+        2266255167,
+        5693338750,
+        5693338751,
+        7673411900,
+        2266255206,
+        2266255208,
+        2266255209
+      ],
+      "tags": {
+        "amenity": "police",
+        "name": "Polizei Berlin Abschnitt 33",
+        "opening_hours": "24/7",
+        "operator": "Polizei Berlin",
+        "operator:wikidata": "Q328480",
+        "operator:wikipedia": "de:Polizei Berlin",
+        "website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-3/abschnitt-33/",
+        "wheelchair": "limited",
+        "wikidata": "Q108875588"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218512312,
+      "nodes": [
+        2277478742,
+        2277478743,
+        2277478734,
+        2277478732,
+        2277478731,
+        2277478742
+      ],
+      "tags": {
+        "addr:city": "Neuenhagen bei Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "75",
+        "addr:postcode": "15366",
+        "addr:street": "Berliner Stra\u00dfe",
+        "amenity": "police",
+        "building": "public",
+        "building:levels": "3",
+        "check_date": "2024-05-29",
+        "name": "Polizeiwache Neuenhagen",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 221474749,
+      "nodes": [
+        2305034055,
+        2305034053,
+        2305034051,
+        9081193828,
+        2305034045,
+        2305034046,
+        2305034047,
+        2305034057,
+        2305034055
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "3",
+        "building:material": "brick",
+        "roof:colour": "#ffb5b5",
+        "roof:height": "2",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222290190,
+      "nodes": [
+        2312715929,
+        2312715899,
+        2312715938,
+        2312715897,
+        2312715907,
+        2312715918,
+        2312715929
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "13125",
+        "addr:street": "P\u00f6lnitzweg",
+        "addr:suburb": "Buch",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "name": "Freiwillige Feuerwehr Buch",
+        "ref": "2710",
+        "short_name": "FF Buch",
+        "wikidata": "Q107538353"
+      }
+    },
+    {
+      "type": "way",
+      "id": 227206140,
+      "nodes": [
+        2359203013,
+        2359203021,
+        8059816325,
+        8059816324,
+        2359203017,
+        9167723479,
+        8059816323,
+        8059816322,
+        2359203009,
+        2359203013
+      ],
+      "tags": {
+        "addr:city": "Sch\u00f6nwalde-Glien",
+        "addr:country": "DE",
+        "addr:housenumber": "63",
+        "addr:postcode": "14621",
+        "addr:street": "Perwenitzer Dorfstra\u00dfe",
+        "addr:suburb": "Perwenitz",
+        "amenity": "fire_station",
+        "building": "public",
+        "name": "Freiwillige Feuerwehr Perwenitz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 236021574,
+      "nodes": [
+        2440983527,
+        2440983523,
+        2440983331,
+        2440983212,
+        2440983527
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "14469",
+        "addr:street": "Kladower Stra\u00dfe",
+        "addr:suburb": "Sacrow",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "name": "Freiwillige Feuerwehr Potsdam-Sacrow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 236834423,
+      "nodes": [
+        2448024033,
+        1865610891,
+        2448023983,
+        9560825315,
+        2448024029,
+        9560825312,
+        9560826418,
+        4514459589,
+        2448024033
+      ],
+      "tags": {
+        "addr:city": "M\u00fchlenbecker Land",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "16567",
+        "addr:street": "Hauptstra\u00dfe",
+        "addr:suburb": "M\u00fchlenbeck",
+        "amenity": "fire_station",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256577612,
+      "nodes": [
+        2622273004,
+        10298642492,
+        10298642493,
+        2622273006,
+        2622273008,
+        2622273009,
+        12740090381,
+        10298642478,
+        10298642479,
+        2622273011,
+        10298642490,
+        10298642489,
+        2622273013,
+        10298642491,
+        2622273004
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "yes",
+        "check_date": "2025-01-09",
+        "name": "Freiwillige Feuerwehr Petershagen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256960081,
+      "nodes": [
+        2625811641,
+        2625811642,
+        2625811643,
+        2625811644,
+        2625811641
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267404285,
+      "nodes": [
+        2728610092,
+        2728610094,
+        2728610095,
+        2728610097,
+        2728610099,
+        2728610101,
+        2728610102,
+        2728610104,
+        2728610106,
+        12558761980,
+        12558761979,
+        2728610107,
+        2728610092
+      ],
+      "tags": {
+        "addr:city": "Werneuchen",
+        "addr:housenumber": "8a",
+        "addr:postcode": "16356",
+        "addr:street": "Wesendahler Stra\u00dfe",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Werneuchen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270569473,
+      "nodes": [
+        2755896680,
+        4569462923,
+        2755896681,
+        2755896672,
+        2755896679,
+        2755896680
+      ],
+      "tags": {
+        "addr:city": "Fredersdorf-Vogelsdorf",
+        "addr:housenumber": "30",
+        "addr:postcode": "15370",
+        "addr:street": "Platanenstra\u00dfe",
+        "addr:suburb": "Fredersdorf-S\u00fcd",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Revierpolizei"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270844656,
+      "nodes": [
+        2758105183,
+        2758105184,
+        2758105182,
+        2758105180,
+        6983688058,
+        2758105179,
+        2758105183
+      ],
+      "tags": {
+        "addr:city": "Fredersdorf-Vogelsdorf",
+        "addr:housenumber": "19",
+        "addr:postcode": "15370",
+        "addr:street": "Gartenstra\u00dfe",
+        "addr:suburb": "Fredersdorf-S\u00fcd",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Feuerwehr Fredersdorf-S\u00fcd",
+        "website": "https://www.feuerwehr-fredersdorf-vogelsdorf.de"
+      }
+    },
+    {
+      "type": "way",
+      "id": 278093336,
+      "nodes": [
+        30057221,
+        1105619758,
+        1105619505,
+        416973362,
+        1105619549,
+        1105619686,
+        10936759374,
+        10936759373,
+        5333547669,
+        1105619528,
+        1105619730,
+        1105619673,
+        1105619772,
+        1105619667,
+        1105619588,
+        1105619699,
+        30057221
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "31-34",
+        "addr:postcode": "10555",
+        "addr:street": "Jagowstra\u00dfe",
+        "addr:suburb": "Moabit",
+        "amenity": "fire_station",
+        "wikidata": "Q107538328"
+      }
+    },
+    {
+      "type": "way",
+      "id": 280370840,
+      "nodes": [
+        29697001,
+        2845018928,
+        2845018924,
+        2845018951,
+        2845018952,
+        4706932716,
+        4706932717,
+        2845018953,
+        2845018954,
+        4850364981,
+        4775025157,
+        29697001
+      ],
+      "tags": {
+        "amenity": "police",
+        "name": "Direktion 5 Brennpunkt- und Pr\u00e4senzeinheit",
+        "note": "Au\u00dfenstelle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281956612,
+      "nodes": [
+        2859169762,
+        2859169758,
+        2859169757,
+        2859169756,
+        2859169755,
+        2859169759,
+        2859169760,
+        2859169761,
+        2859169762
+      ],
+      "tags": {
+        "addr:city": "Leegebruch",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "16767",
+        "addr:street": "Dorfstra\u00dfe",
+        "amenity": "fire_station",
+        "building": "public",
+        "name": "Freiwillige Feuerwehr Leegebruch",
+        "phone": "+49 3304 24980",
+        "website": "http://www.feuerwehr-leegebruch.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 284674336,
+      "nodes": [
+        2883965902,
+        12358147802,
+        2883965906,
+        2883965909,
+        2883965908,
+        2883965910,
+        267521140,
+        12358147803,
+        2883965902
+      ],
+      "tags": {
+        "addr:city": "R\u00fcdersdorf bei Berlin",
+        "addr:housenumber": "16a",
+        "addr:postcode": "15378",
+        "addr:street": "Ernst-Th\u00e4lmann-Stra\u00dfe",
+        "addr:suburb": "Hennickendorf",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Ortsfeuerwehr Hennickendorf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290620850,
+      "nodes": [
+        2941333501,
+        2940307192,
+        2941333403,
+        2941327391,
+        2941333501
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "24",
+        "addr:postcode": "13467",
+        "addr:street": "Heinsestra\u00dfe",
+        "addr:suburb": "Hermsdorf",
+        "amenity": "fire_station",
+        "name": "St\u00fctzpunktwache Hermsdorf (2300) Freiwillige Feuerwehr Hermsdorf (2301)",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "ref": "2301"
+      }
+    },
+    {
+      "type": "way",
+      "id": 291604459,
+      "nodes": [
+        377700245,
+        11417120158,
+        11417120159,
+        11417120160,
+        11417120161,
+        2950758412,
+        2950758434,
+        11417120162,
+        11417120163,
+        11417120164,
+        11417120165,
+        2950758447,
+        377700245
+      ],
+      "tags": {
+        "addr:city": "Gro\u00dfbeeren",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "14979",
+        "addr:street": "Dorfstra\u00dfe",
+        "addr:suburb": "Kleinbeeren",
+        "amenity": "fire_station",
+        "building": "yes",
+        "emergency": "defibrillator, siren",
+        "name": "Feuerwehr & Dorfgemeinschaftshaus Kleinbeeren",
+        "operator": "Gemeinde Gro\u00dfbeeren",
+        "polling_station": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 293828935,
+      "nodes": [
+        2974116343,
+        2974116344,
+        2974116345,
+        2974116346,
+        2974116347,
+        2974116348,
+        2974116349,
+        2974116350,
+        2974116343
+      ],
+      "tags": {
+        "addr:city": "Altlandsberg",
+        "addr:housenumber": "23",
+        "addr:postcode": "15345",
+        "addr:street": "H\u00f6nower Chaussee",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Altlandsberg",
+        "operator": "Freiwillige Feuerwehr Altlandsberg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303546971,
+      "nodes": [
+        3079242417,
+        3079241493,
+        3079240039,
+        3079240194,
+        3079240656,
+        3079240696,
+        3079241069,
+        3079241212,
+        3566546715,
+        3079242417
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "222",
+        "addr:postcode": "12351",
+        "addr:street": "Johannisthaler Chaussee",
+        "amenity": "fire_station",
+        "check_date": "2023-07-23",
+        "contact:phone": "+49 30 3875200105",
+        "contact:website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/feuerwache-buckow/",
+        "name": "Feuerwache Buckow",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "operator:wikipedia": "de:Berliner Feuerwehr",
+        "ref": "5200",
+        "wikidata": "Q63250975"
+      }
+    },
+    {
+      "type": "way",
+      "id": 304219159,
+      "nodes": [
+        3087455941,
+        9417457611,
+        9593472761,
+        9593472760,
+        9417457610,
+        9417457609,
+        9593472759,
+        9593472758,
+        9417457608,
+        3087451921,
+        9593472754,
+        9593472757,
+        9593472756,
+        9593472755,
+        3087451899,
+        3087456055,
+        3087456041,
+        3087456050,
+        9593472764,
+        9593472771,
+        9593472763,
+        9593472762,
+        3087455941
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "yes",
+        "check_date": "2024-05-24",
+        "name": "Freiwillige Feuerwehr Zeuthen L\u00f6schzug Zeuthen",
+        "operator": "Gemeinde Zeuthen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 306713736,
+      "nodes": [
+        10758669725,
+        10758669735,
+        1080541033,
+        3116890723,
+        3116890722,
+        10758669757,
+        10758669758,
+        3116890721,
+        6937055006,
+        1549523577,
+        3116890716,
+        10758669744,
+        3677200305,
+        3116890708,
+        10758669725
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "210",
+        "addr:postcode": "13088",
+        "addr:street": "Berliner Allee",
+        "addr:suburb": "Wei\u00dfensee",
+        "amenity": "police",
+        "contact:phone": "+49 30 4664114701",
+        "name": "Polizei Abschnitt 14",
+        "wikidata": "Q108875615"
+      }
+    },
+    {
+      "type": "way",
+      "id": 306713738,
+      "nodes": [
+        3116890649,
+        2927314654,
+        343057433,
+        3116890675,
+        2927314658,
+        2927314659,
+        2927314124,
+        2927314553,
+        10038910111,
+        2927313843,
+        2927315037,
+        2927314530,
+        2927314524,
+        55165003,
+        3116890649
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "name": "Berufsfeuerwache Wei\u00dfensee",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "ref": "6300",
+        "wikidata": "Q107538347",
+        "wikimedia_commons": "Category:Feuerwache Berlin-Wei\u00dfensee"
+      }
+    },
+    {
+      "type": "way",
+      "id": 310079124,
+      "nodes": [
+        3154274446,
+        3154274447,
+        3155349740,
+        3155349741,
+        3155349756,
+        3155349755,
+        3154274446
+      ],
+      "tags": {
+        "access": "private",
+        "addr:city": "Berlin",
+        "addr:housenumber": "4",
+        "addr:postcode": "12489",
+        "addr:street": "Selchowstra\u00dfe",
+        "addr:suburb": "Adlershof",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Adlershof",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "operator:wikipedia": "de:Berliner Feuerwehr",
+        "phone": "+49 30 387 53 10 105",
+        "ref": "5310",
+        "source": "knowledge",
+        "website": "https://feuerwehr-adlershof.de/",
+        "wikidata": "Q107538441"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321650929,
+      "nodes": [
+        343041960,
+        5808399499,
+        5808399498,
+        2542066928,
+        2542066946,
+        1203445471,
+        3118660118,
+        1125439397,
+        3118865033,
+        2542066913,
+        2542066901,
+        343041960
+      ],
+      "tags": {
+        "alt_name": "Feuerwache Hellersdorf 6200",
+        "amenity": "fire_station",
+        "image": "https://commons.wikimedia.org/wiki/File:Feuerwache_Hellersdorf_Skulptur_Berlin_2v2.jpg",
+        "name": "Berufsfeuerwache Hellersdorf",
+        "ref": "6200",
+        "wikidata": "Q107538307",
+        "wikimedia_commons": "Category:Feuerwache Hellersdorf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322827579,
+      "nodes": [
+        3296245467,
+        3296245468,
+        1327144528,
+        3296245470,
+        3296245467
+      ],
+      "tags": {
+        "addr:city": "Heinersdorf",
+        "addr:housenumber": "8",
+        "addr:postcode": "14979",
+        "addr:street": "Heinersdorfer Stra\u00dfe",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "name": "Freiwillige Feuerwehr Heinersdorf",
+        "operator": "Gemeinde Gro\u00dfbeeren"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325347086,
+      "nodes": [
+        260124492,
+        3320164468,
+        3320164466,
+        3320164256,
+        297453687,
+        779718273,
+        3320164249,
+        260124492
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "check_date": "2025-05-31",
+        "name": "Freiwillige Feuerwehr M\u00fcggelheim",
+        "ref": "5440"
+      }
+    },
+    {
+      "type": "way",
+      "id": 326194236,
+      "nodes": [
+        3328149070,
+        3328149078,
+        3717592155,
+        3328149080,
+        3328149072,
+        3717592329,
+        3328149070
+      ],
+      "tags": {
+        "addr:city": "Hennigsdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "55",
+        "addr:postcode": "16761",
+        "addr:street": "Berliner Stra\u00dfe",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Polizeirevier Hennigsdorf",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 336068064,
+      "nodes": [
+        2118618643,
+        3431483553,
+        3431483552,
+        3431483550,
+        3431483548,
+        2118618643
+      ],
+      "tags": {
+        "amenity": "police",
+        "indoor": "room",
+        "level": "0",
+        "name": "Bundespolizei",
+        "operator": "Bundespolizei",
+        "operator:short": "BPOL",
+        "operator:wikidata": "Q56026",
+        "operator:wikipedia": "de:Bundespolizei (Deutschland)",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 340270524,
+      "nodes": [
+        3474832172,
+        3474832170,
+        3474832171,
+        3474832177,
+        3474832168,
+        1277700189,
+        1277700188,
+        1277700190,
+        3474832160,
+        3474832159,
+        3474832161,
+        3474832158,
+        3474832162,
+        3474832163,
+        3474832172
+      ],
+      "tags": {
+        "addr:city": "Bernau bei Berlin",
+        "addr:housenumber": "1",
+        "addr:postcode": "16321",
+        "addr:street": "Angergang",
+        "amenity": "fire_station",
+        "name": "Freiwillige Feuerwehr Bernau"
+      }
+    },
+    {
+      "type": "way",
+      "id": 351429247,
+      "nodes": [
+        2305251126,
+        343048923,
+        2305251118,
+        1425188738,
+        2305251119,
+        2305251126
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "12623",
+        "addr:street": "Donizettistra\u00dfe",
+        "addr:suburb": "Mahlsdorf",
+        "amenity": "fire_station",
+        "name": "Freiwillige Feuerwehr Mahlsdorf",
+        "ref": "6220",
+        "wikidata": "Q107538317"
+      }
+    },
+    {
+      "type": "way",
+      "id": 352986386,
+      "nodes": [
+        798850421,
+        3587726882,
+        3587726886,
+        3587726881,
+        798850421
+      ],
+      "tags": {
+        "addr:city": "Hoppegarten",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "15366",
+        "addr:street": "An der Feuerwehr",
+        "addr:suburb": "Dahlwitz-Hoppegarten",
+        "amenity": "fire_station",
+        "fax": "+49 3342 304094",
+        "name": "Freiwillige Feuerwehr Dahlewitz-Hoppegarten",
+        "phone": "+49 3342 304070",
+        "website": "https://www.feuerwehr-dahlwitz-hoppegarten.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 354129767,
+      "nodes": [
+        3131745805,
+        3599133142,
+        3599133144,
+        4416162730,
+        4416162728,
+        3599133138,
+        3599133136,
+        261723522,
+        261723521,
+        3131745805
+      ],
+      "tags": {
+        "amenity": "police",
+        "name": "Polizeidirektion 3, Kriminalpolizei",
+        "operator": "Polizei Berlin",
+        "operator:wikidata": "Q328480"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358350983,
+      "nodes": [
+        3632854660,
+        3632854649,
+        456934393,
+        456934390,
+        3632854650,
+        3632854684,
+        455596161,
+        455596163,
+        3632854825,
+        3632854858,
+        3632854867,
+        3632854843,
+        3632854837,
+        3632854796,
+        3632854673,
+        3632854672,
+        3632854660
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "58",
+        "addr:postcode": "10827",
+        "addr:street": "Feurigstra\u00dfe",
+        "amenity": "fire_station",
+        "contact:phone": "+49 30 3874400105",
+        "contact:website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/feuerwache-schoeneberg/",
+        "name": "Berufsfeuerwache Sch\u00f6neberg und Freiwillige Feuerwehr Sch\u00f6neberg",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "ref": "4401",
+        "wikidata": "Q61768902"
+      }
+    },
+    {
+      "type": "way",
+      "id": 363385011,
+      "nodes": [
+        11951434530,
+        11642004442,
+        11642004444,
+        11642004445,
+        11642004443,
+        6258549874,
+        6258549872,
+        3675535486,
+        10230526213,
+        11951434531,
+        11951434532,
+        11951434530
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "211",
+        "addr:postcode": "12305",
+        "addr:street": "Lichtenrader Damm",
+        "addr:suburb": "Lichtenrade",
+        "amenity": "police",
+        "name": "Polizei - Abschnitt 47",
+        "operator": "Polizei Berlin",
+        "operator:wikidata": "Q328480",
+        "phone": "+49 30 4664447701",
+        "website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-4/abschnitt-47/",
+        "wikidata": "Q108875634"
+      }
+    },
+    {
+      "type": "way",
+      "id": 367884775,
+      "nodes": [
+        4916868377,
+        4916840892,
+        3717592336,
+        3717595213,
+        3717592326,
+        3717595214,
+        3717592327,
+        3666719874,
+        3717592329,
+        3328149070,
+        3328149078,
+        3717592155,
+        3717592153,
+        3717592154,
+        3717592152,
+        10944741452,
+        4916868380,
+        3717592333,
+        3717592330,
+        3717592332,
+        4916868377
+      ],
+      "tags": {
+        "amenity": "police"
+      }
+    },
+    {
+      "type": "way",
+      "id": 369855819,
+      "nodes": [
+        294943417,
+        6757273631,
+        6757273632,
+        6757273633,
+        6757273634,
+        6757273630,
+        6757273629,
+        8391959722,
+        8391959725,
+        6757273624,
+        6757273623,
+        294943416,
+        3411713729,
+        3411713730,
+        3411717377,
+        3411717376,
+        3411717375,
+        9903668256,
+        9903668255,
+        9903668257,
+        9903668254,
+        9903668253,
+        9903668252,
+        3114910784,
+        3114910789,
+        3114910788,
+        3114910787,
+        3114910786,
+        3411717370,
+        1110658898,
+        1110658902,
+        6757273637,
+        6757273638,
+        6757273639,
+        3114910771,
+        3114910793,
+        294943420,
+        343381656,
+        294943425,
+        294943418,
+        6757273636,
+        6757273635,
+        294943417
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "name": "Feuerwache Marzahn",
+        "note": "Technischer Dienst II (6139) Feuerwache Marzahn (6100)",
+        "ref": "6100",
+        "wikidata": "Q107538310",
+        "wikimedia_commons": "Category:Feuerwache Marzahn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372765708,
+      "nodes": [
+        3763149478,
+        3763149477,
+        3763149470,
+        12400000781,
+        3763149475,
+        3763149476,
+        3763149478
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "check_date": "2024-07-31",
+        "name": "Freiwillige Feuerwehr Buchholz",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "operator:wikipedia": "de:Berliner Feuerwehr",
+        "ref": "2620"
+      }
+    },
+    {
+      "type": "way",
+      "id": 374919027,
+      "nodes": [
+        3783010951,
+        3783010953,
+        3783010947,
+        3714203786,
+        3087285966,
+        2129678426,
+        2129678451,
+        3783010948,
+        244118581,
+        9173955994,
+        3783010951
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "111",
+        "addr:postcode": "10625",
+        "addr:street": "Bismarckstra\u00dfe",
+        "addr:suburb": "Charlottenburg",
+        "alt_name": "Direktion 2 - Abschnitt 25 Charlottenburg-Wilmersdorf",
+        "amenity": "police",
+        "check_date": "2023-04-13",
+        "contact:phone": "+49 30 4664225700",
+        "contact:website": "https://www.berlin.de/polizei/dienststellen/polizei-in-den-bezirken/direktion-2/abschnitt-25/",
+        "level": "0",
+        "name": "Polizei Abschnitt 25",
+        "operator": "Polizei Berlin",
+        "operator:wikidata": "Q328480",
+        "operator:wikipedia": "de:Polizei Berlin",
+        "wheelchair": "limited",
+        "wikidata": "Q108875624"
+      }
+    },
+    {
+      "type": "way",
+      "id": 378110125,
+      "nodes": [
+        344480867,
+        2340144519,
+        2340144523,
+        318600772,
+        2340144527,
+        2340144525,
+        318600771,
+        318600770,
+        318600769,
+        318600768,
+        318600782,
+        344481814,
+        344480939,
+        344480938,
+        344480867
+      ],
+      "tags": {
+        "addr:city": "Ahrensfelde",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "16356",
+        "addr:street": "Bundespolizeiallee",
+        "aeroway": "heliport",
+        "amenity": "police",
+        "icao": "EDOY",
+        "name": "Bundespolizei-Fliegerstaffel Blumberg",
+        "operator": "Bundespolizei",
+        "operator:short": "BPOL",
+        "operator:wikidata": "Q56026",
+        "police": "helicopter_unit",
+        "short_name": "BPOLFLS BLU"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380533978,
+      "nodes": [
+        6813481547,
+        1207191816,
+        1207191826,
+        3838531846,
+        3885480846,
+        3885480849,
+        12032786309,
+        12032786310,
+        3885480850,
+        3838531844,
+        3885480851,
+        3885480852,
+        3838531843,
+        7006956056,
+        3885480853,
+        7006956055,
+        3885480855,
+        3885480854,
+        3838531845,
+        6813481545,
+        6813481546,
+        6813481547
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "13597",
+        "addr:street": "Moritzstra\u00dfe",
+        "addr:suburb": "Spandau",
+        "amenity": "police",
+        "contact:phone": "+49 30 4664221700",
+        "contact:website": "http://www.berlin.de/polizei/dienststellen/polizei-in-den-bezirken/direktion-2/abschnitt-21/",
+        "name": "Polizei Abschnitt 21",
+        "wheelchair": "yes",
+        "wikidata": "Q108875620"
+      }
+    },
+    {
+      "type": "way",
+      "id": 381240717,
+      "nodes": [
+        3844738127,
+        130108601,
+        3844738140,
+        3844738121,
+        3844738127
+      ],
+      "tags": {
+        "access": "customers",
+        "amenity": "police",
+        "description": "Bundespolizeirevier Berlin-S\u00fcdkreuz",
+        "indoor": "room",
+        "level": "0",
+        "name": "Bundespolizei",
+        "operator": "Bundespolizei",
+        "operator:short": "BPOL",
+        "operator:wikidata": "Q56026",
+        "operator:wikipedia": "de:Bundespolizei (Deutschland)",
+        "phone": "+49 30 7890860",
+        "room": "office",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 387450566,
+      "nodes": [
+        3907456333,
+        3907456411,
+        3907456363,
+        11224629707,
+        11224629706,
+        11224624022,
+        11224624023,
+        3907456328,
+        3907456333
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "emergency": "ambulance_station",
+        "name": "Feuer- und Rettungswache Zehlendorf",
+        "ref": "4100",
+        "wikidata": "Q107538409"
+      }
+    },
+    {
+      "type": "way",
+      "id": 390602076,
+      "nodes": [
+        3937670598,
+        3937670564,
+        3937669756,
+        3937670518,
+        3937670500,
+        3937670487,
+        3937670460,
+        3937670453,
+        3937670454,
+        3937670441,
+        3937670426,
+        3937670427,
+        3937670428,
+        3937670429,
+        3937670430,
+        3937670432,
+        3937670433,
+        3937670434,
+        3937670447,
+        3937670448,
+        3937670455,
+        3937670457,
+        3937670462,
+        3937670488,
+        3937670584,
+        3937670590,
+        3937670593,
+        3937670596,
+        3937670601,
+        3937670603,
+        3937670605,
+        3937670607,
+        3937670602,
+        3937670599,
+        3937670598
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "175",
+        "addr:postcode": "10119",
+        "addr:street": "Brunnenstra\u00dfe",
+        "addr:suburb": "Mitte",
+        "amenity": "police",
+        "check_date": "2024-06-16",
+        "contact:phone": "+49 30 4664556700",
+        "name": "Polizei Abschnitt 56",
+        "operator": "Polizei Berlin",
+        "operator:wikidata": "Q328480",
+        "operator:wikipedia": "de:Polizei Berlin",
+        "website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-5/abschnitt-56/",
+        "wheelchair": "yes",
+        "wikidata": "Q108875641"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391602410,
+      "nodes": [
+        2928172061,
+        3948235273,
+        3948235274,
+        2928174505,
+        2928172061
+      ],
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:street": "Schieritzstra\u00dfe",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Freiwillige Feuerwehr Prenzlauer Berg",
+        "ref": "1310",
+        "wikidata": "Q107538366"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392943825,
+      "nodes": [
+        6373698201,
+        6373698200,
+        6373698199,
+        6373698198,
+        6373698197,
+        6373698196,
+        6373698195,
+        6373698194,
+        6373698201
+      ],
+      "tags": {
+        "addr:city": "Eichwalde",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "15732",
+        "addr:street": "Goethestra\u00dfe",
+        "amenity": "fire_station",
+        "building": "civic",
+        "check_date": "2024-12-31",
+        "name": "Freiwillige Feuerwehr Eichwalde",
+        "phone": "+49 30 67798151",
+        "website": "http://www.feuerwehr-eichwalde.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 396801309,
+      "nodes": [
+        3996405623,
+        3996405627,
+        11813195378,
+        11813195382,
+        3996405623
+      ],
+      "tags": {
+        "alt_name": "Feuerwache Eiche (Barnim)",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "name": "Feuerwache Eiche",
+        "wikidata": "Q126557008"
+      }
+    },
+    {
+      "type": "way",
+      "id": 410312818,
+      "nodes": [
+        6291362796,
+        12920915998,
+        12920915997,
+        6291362795,
+        6291362791,
+        6291362790,
+        6291362796
+      ],
+      "tags": {
+        "addr:city": "Stahnsdorf",
+        "addr:housenumber": "5",
+        "addr:postcode": "14532",
+        "addr:street": "Annastra\u00dfe",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "layer": "1",
+        "name": "Freiwillige Feuerwehr Stahnsdorf",
+        "operator": "Freiwillige Feuerwehr Stahnsdorf",
+        "website": "https://www.feuerwehrstahnsdorf.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 417354154,
+      "nodes": [
+        5338207690,
+        5338207689,
+        5338207688,
+        5338207687,
+        5338207686,
+        5338207685,
+        5338207684,
+        5338207683,
+        5338207682,
+        5338207681,
+        5338207680,
+        5338207679,
+        5338207678,
+        5338207677,
+        5338207676,
+        5338207675,
+        5338207674,
+        5338207673,
+        5338207672,
+        5338207671,
+        5338207670,
+        5338207669,
+        5338207690
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "building:levels": "2",
+        "check_date": "2024-08-12",
+        "name": "Feuerwache Lichtenberg (6400)",
+        "ref": "6400",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "wikidata": "Q107538296"
+      }
+    },
+    {
+      "type": "way",
+      "id": 432392300,
+      "nodes": [
+        4469901195,
+        4314579491,
+        4469900175,
+        4469900174,
+        4469900167,
+        4469900166,
+        4469900162,
+        2219211031,
+        4314579079,
+        3238410322,
+        2215103915,
+        7366404811,
+        7366404812,
+        8269511735,
+        3238410358,
+        9339251683,
+        9339251682,
+        9339251699,
+        9339251700,
+        3238410408,
+        3238410478,
+        3238410481,
+        3238410484,
+        3238410485,
+        3238410486,
+        3238410489,
+        4469901194,
+        4469901195
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "12051",
+        "addr:street": "Kirchhofstra\u00dfe",
+        "addr:suburb": "Neuk\u00f6lln",
+        "amenity": "fire_station",
+        "emergency": "ambulance_station",
+        "name": "Berufsfeuerwache Neuk\u00f6lln",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "ref": "5100",
+        "wikidata": "Q107538342"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435886826,
+      "nodes": [
+        1783520673,
+        4337788469,
+        4337788236,
+        4337788289,
+        1783520673
+      ],
+      "tags": {
+        "addr:city": "Werneuchen",
+        "addr:housenumber": "20",
+        "addr:postcode": "16356",
+        "addr:street": "Dorfstra\u00dfe",
+        "addr:suburb": "Krummensee",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Krummensee"
+      }
+    },
+    {
+      "type": "way",
+      "id": 436293226,
+      "nodes": [
+        4341692712,
+        4341692713,
+        11775913684,
+        4341692714,
+        4341692715,
+        4341692716,
+        12997263259,
+        12997263260,
+        4341692717,
+        4341692718,
+        4341692719,
+        12997263261,
+        4341692721,
+        11775913685,
+        4341692722,
+        4341692723,
+        4341692724,
+        4341692725,
+        4341692712
+      ],
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "1a",
+        "addr:postcode": "14469",
+        "addr:street": "Mitschurinstra\u00dfe",
+        "addr:suburb": "Bornim",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "contact:email": "info@ff-bnm.de",
+        "contact:website": "http://www.ff-bnm.de",
+        "name": "Freiwillige Feuerwehr Bornim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 440685956,
+      "nodes": [
+        4384654096,
+        6829580012,
+        7004384165,
+        7004384164,
+        10225755920,
+        4384654097,
+        7004384160,
+        7004384146,
+        7004384147,
+        8274250924,
+        4384654096
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "8-9",
+        "addr:postcode": "13585",
+        "addr:street": "Triftstra\u00dfe",
+        "amenity": "fire_station",
+        "contact:website": "https://www.berliner-feuerwehr.de/ueber-uns/standorte/feuerwache-spandau-nord/",
+        "name": "Feuerwache Spandau-Nord",
+        "ref": "3100",
+        "wikidata": "Q105045189"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441163948,
+      "nodes": [
+        1326048790,
+        4389414280,
+        4389414279,
+        4389414278,
+        4389414277,
+        4389414276,
+        4389414275,
+        4389414274,
+        12308215770,
+        4389414273,
+        4389415971,
+        4389415972,
+        4389414282,
+        1326048790
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housename": "Feuerwache Gatow",
+        "addr:housenumber": "333",
+        "addr:postcode": "14089",
+        "addr:street": "Gatower Stra\u00dfe",
+        "amenity": "fire_station",
+        "name": "Freiwillige Feuerwehr Berlin Gatow (FF 3210)",
+        "operator": "Berliner Feuerwehr",
+        "phone": "+49 30 387 3210 105",
+        "ref": "3210",
+        "website": "https://www.freiwillige-feuerwehr-gatow.de/",
+        "wheelchair": "limited",
+        "wikidata": "Q107538395"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441164313,
+      "nodes": [
+        3909665800,
+        3909665804,
+        3909665806,
+        3909665813,
+        3909665807,
+        3909665808,
+        3909665839,
+        3909665829,
+        3909665824,
+        3909665818,
+        3909665814,
+        3909665811,
+        3909665803,
+        639127215,
+        639127214,
+        3228996679,
+        452585197,
+        3909664937,
+        3909664934,
+        3909665644,
+        3909665714,
+        3909665711,
+        3909665785,
+        3909665787,
+        3909665800
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "check_date": "2024-06-14",
+        "emergency": "ambulance_station",
+        "name": "Feuer- und Rettungswache Wannsee",
+        "ref": "4500",
+        "wikidata": "Q63249322"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441643824,
+      "nodes": [
+        4393712281,
+        527791254,
+        527791250,
+        4456568364,
+        4393712284,
+        4456568361,
+        341307836,
+        341307838,
+        8895676555,
+        4393712282,
+        11053620268,
+        11053620267,
+        4393822530,
+        4393712281
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "27-28",
+        "addr:postcode": "13353",
+        "addr:street": "Sellerstra\u00dfe",
+        "amenity": "fire_station",
+        "landuse": "industrial",
+        "name": "Werkfeuerwehr Bayer AG",
+        "operator": "Bayer AG"
+      }
+    },
+    {
+      "type": "way",
+      "id": 452892945,
+      "nodes": [
+        4497055743,
+        12124293086,
+        12124293087,
+        4727948564,
+        4497058588,
+        4497055744,
+        4727948549,
+        4497055746,
+        4726479852,
+        4497055748,
+        4727948555,
+        4497055749,
+        4497055750,
+        4497055743
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "13057",
+        "addr:street": "Pablo-Picasso-Stra\u00dfe",
+        "addr:suburb": "Neu-Hohensch\u00f6nhausen",
+        "amenity": "police",
+        "contact:website": "https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-3/abschnitt-31/",
+        "name": "Polizei Abschnitt 31",
+        "phone": "+49 30 4664-661700",
+        "wheelchair": "no",
+        "wikidata": "Q108875570",
+        "wikimedia_commons": "File:Polizeiabschnitt 31 Falkenberger Chaussee Berlin-Neu-Hohensch\u00f6nhausen.jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 461333688,
+      "nodes": [
+        4568411581,
+        4568411582,
+        4568411583,
+        4568411584,
+        4568411585,
+        6983688059,
+        4568411587,
+        4568411588,
+        4568411581
+      ],
+      "tags": {
+        "addr:city": "Fredersdorf-Vogelsdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "15370",
+        "addr:street": "Bruchm\u00fchler Stra\u00dfe",
+        "addr:suburb": "Fredersdorf-Nord",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Feuerwehr Fredersdorf-Nord",
+        "website": "https://www.feuerwehr-fredersdorf-vogelsdorf.de"
+      }
+    },
+    {
+      "type": "way",
+      "id": 462584265,
+      "nodes": [
+        12090160251,
+        2844647752,
+        3129375248,
+        3129375245,
+        3129375216,
+        3129375209,
+        3129375202,
+        3129375155,
+        3129375154,
+        5739242228,
+        4579633451,
+        5739242229,
+        5739242232,
+        5739242235,
+        4579633453,
+        3129375213,
+        3129375233,
+        12090160251
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "178/180",
+        "addr:postcode": "12587",
+        "addr:street": "M\u00fcggelseedamm",
+        "addr:suburb": "Friedrichshagen",
+        "amenity": "fire_station",
+        "name": "Freiwillige Feuerwehr Friedrichshagen",
+        "ref": "5410"
+      }
+    },
+    {
+      "type": "way",
+      "id": 476348150,
+      "nodes": [
+        4699513992,
+        4699513991,
+        4699513990,
+        4699513989,
+        4699488388,
+        4699513992
+      ],
+      "tags": {
+        "amenity": "police"
+      }
+    },
+    {
+      "type": "way",
+      "id": 476910326,
+      "nodes": [
+        4703328830,
+        4703328829,
+        4703328828,
+        343462040,
+        4703328827,
+        6412221429,
+        4703328826,
+        4703328825,
+        4703328824,
+        4703328823,
+        6412221428,
+        4703328822,
+        4703328830
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "check_date": "2024-03-08",
+        "name": "Freiwillige Feuerwehr Wartenberg / Malchow",
+        "ref": "6330"
+      }
+    },
+    {
+      "type": "way",
+      "id": 476997250,
+      "nodes": [
+        4704135303,
+        4704135302,
+        4704135301,
+        4704135300,
+        4704135299,
+        4704135298,
+        4704135297,
+        4815803390,
+        4815803385,
+        4704135296,
+        4704135295,
+        4815803380,
+        4704135294,
+        4704135303
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "check_date": "2024-03-15",
+        "name": "Berliner Feuerwehr FW Pankow",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517",
+        "operator:wikipedia": "de:Berliner Feuerwehr",
+        "ref": "2600"
+      }
+    },
+    {
+      "type": "way",
+      "id": 480342545,
+      "nodes": [
+        1349722777,
+        4733441595,
+        4977959365,
+        4733441594,
+        4733441593,
+        1349722777
+      ],
+      "tags": {
+        "addr:city": "Ahrensfelde",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "16356",
+        "addr:street": "Berliner Stra\u00dfe",
+        "addr:suburb": "Blumberg",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "name": "Freiwillige Feuerwehr Blumberg",
+        "website": "https://www.freiwillige-feuerwehr-blumberg.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 508154402,
+      "nodes": [
+        4389417443,
+        4975083367,
+        4975083366,
+        4975083365,
+        4975077762,
+        4389417446,
+        4389417445,
+        4389417444,
+        4389417443
+      ],
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housename": "Feuerwache Kladow",
+        "addr:housenumber": "367",
+        "addr:postcode": "14089",
+        "addr:street": "Kladower Damm",
+        "amenity": "fire_station",
+        "name": "Freiwillige Feuerwehr Kladow",
+        "ref": "3220",
+        "wikidata": "Q107538397"
+      }
+    },
+    {
+      "type": "way",
+      "id": 508967063,
+      "nodes": [
+        4982616121,
+        564156211,
+        9407452805,
+        4982614917,
+        2241960693,
+        4982614916,
+        4982616121
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "check_date": "2024-03-08",
+        "name": "Freiwillige Feuerwehr Falkenberg",
+        "ref": "6320"
       }
     },
     {
@@ -2352,18 +5268,6 @@
     },
     {
       "type": "node",
-      "id": 566772310,
-      "lat": 52.4001139,
-      "lon": 13.0703903
-    },
-    {
-      "type": "node",
-      "id": 566772319,
-      "lat": 52.4001297,
-      "lon": 13.0713043
-    },
-    {
-      "type": "node",
       "id": 566772323,
       "lat": 52.400083,
       "lon": 13.0713212
@@ -2382,123 +5286,15 @@
     },
     {
       "type": "node",
-      "id": 2045879455,
-      "lat": 52.400409,
-      "lon": 13.0718439
-    },
-    {
-      "type": "node",
-      "id": 2045879457,
-      "lat": 52.400421,
-      "lon": 13.071949
-    },
-    {
-      "type": "node",
-      "id": 2045879459,
-      "lat": 52.4002124,
-      "lon": 13.0720126
-    },
-    {
-      "type": "node",
-      "id": 2045879461,
-      "lat": 52.4002005,
-      "lon": 13.0719076
-    },
-    {
-      "type": "node",
-      "id": 2923871693,
-      "lat": 52.4005034,
-      "lon": 13.0727235
-    },
-    {
-      "type": "node",
-      "id": 2929584555,
-      "lat": 52.400188,
-      "lon": 13.0708409
-    },
-    {
-      "type": "node",
-      "id": 2929585668,
-      "lat": 52.4001231,
-      "lon": 13.0704547
-    },
-    {
-      "type": "node",
-      "id": 2929585669,
-      "lat": 52.400167,
-      "lon": 13.0706525
-    },
-    {
-      "type": "node",
-      "id": 2929585670,
-      "lat": 52.4001885,
-      "lon": 13.0706447
-    },
-    {
-      "type": "node",
-      "id": 2929585671,
-      "lat": 52.4002102,
-      "lon": 13.0708347
-    },
-    {
-      "type": "node",
-      "id": 2929586130,
-      "lat": 52.4001423,
-      "lon": 13.0704506
-    },
-    {
-      "type": "node",
-      "id": 3020857247,
-      "lat": 52.4005753,
-      "lon": 13.0722926
-    },
-    {
-      "type": "node",
       "id": 3020857249,
       "lat": 52.400829,
       "lon": 13.0723772
     },
     {
       "type": "node",
-      "id": 3024188473,
-      "lat": 52.4002992,
-      "lon": 13.0705892
-    },
-    {
-      "type": "node",
-      "id": 3024188474,
-      "lat": 52.4002998,
-      "lon": 13.0706113
-    },
-    {
-      "type": "node",
-      "id": 3024188475,
-      "lat": 52.4003606,
-      "lon": 13.0705257
-    },
-    {
-      "type": "node",
-      "id": 3024188476,
-      "lat": 52.4003623,
-      "lon": 13.0705885
-    },
-    {
-      "type": "node",
       "id": 3242756506,
       "lat": 52.40009,
       "lon": 13.0713858
-    },
-    {
-      "type": "node",
-      "id": 3242756507,
-      "lat": 52.4003569,
-      "lon": 13.0703601
-    },
-    {
-      "type": "node",
-      "id": 3242756508,
-      "lat": 52.4003053,
-      "lon": 13.0703677
     },
     {
       "type": "node",
@@ -2523,12 +5319,6 @@
       "id": 3381630374,
       "lat": 52.4010469,
       "lon": 13.0697605
-    },
-    {
-      "type": "node",
-      "id": 3619751813,
-      "lat": 52.4000535,
-      "lon": 13.0713975
     },
     {
       "type": "node",
@@ -2562,12 +5352,6 @@
     },
     {
       "type": "node",
-      "id": 3619751846,
-      "lat": 52.4005309,
-      "lon": 13.0722803
-    },
-    {
-      "type": "node",
       "id": 3619751848,
       "lat": 52.4006956,
       "lon": 13.072879
@@ -2592,177 +5376,9 @@
     },
     {
       "type": "node",
-      "id": 3619751852,
-      "lat": 52.4008823,
-      "lon": 13.0724297
-    },
-    {
-      "type": "node",
-      "id": 4571485557,
-      "lat": 52.4003166,
-      "lon": 13.0705879
-    },
-    {
-      "type": "node",
-      "id": 4571485558,
-      "lat": 52.400315,
-      "lon": 13.070529
-    },
-    {
-      "type": "node",
-      "id": 4571485559,
-      "lat": 52.4003424,
-      "lon": 13.0706083
-    },
-    {
-      "type": "node",
-      "id": 4571485560,
-      "lat": 52.4003419,
-      "lon": 13.0705899
-    },
-    {
-      "type": "node",
-      "id": 4571485561,
-      "lat": 52.4003614,
-      "lon": 13.0704891
-    },
-    {
-      "type": "node",
-      "id": 4571485562,
-      "lat": 52.4003107,
-      "lon": 13.0704944
-    },
-    {
-      "type": "node",
       "id": 5058851614,
       "lat": 52.4004142,
       "lon": 13.0704716
-    },
-    {
-      "type": "node",
-      "id": 5745872985,
-      "lat": 52.4004993,
-      "lon": 13.0728104
-    },
-    {
-      "type": "node",
-      "id": 5745872986,
-      "lat": 52.4004842,
-      "lon": 13.0731413
-    },
-    {
-      "type": "node",
-      "id": 5745872987,
-      "lat": 52.4004951,
-      "lon": 13.0729189
-    },
-    {
-      "type": "node",
-      "id": 6580397730,
-      "lat": 52.4006597,
-      "lon": 13.0713057
-    },
-    {
-      "type": "node",
-      "id": 7203720915,
-      "lat": 52.4001553,
-      "lon": 13.0718738
-    },
-    {
-      "type": "node",
-      "id": 7203720916,
-      "lat": 52.4004771,
-      "lon": 13.071771
-    },
-    {
-      "type": "node",
-      "id": 7203720917,
-      "lat": 52.4004298,
-      "lon": 13.071373
-    },
-    {
-      "type": "node",
-      "id": 7203720918,
-      "lat": 52.400108,
-      "lon": 13.0714758
-    },
-    {
-      "type": "node",
-      "id": 7203720919,
-      "lat": 52.4006139,
-      "lon": 13.0723982
-    },
-    {
-      "type": "node",
-      "id": 7203720920,
-      "lat": 52.4005779,
-      "lon": 13.0727174
-    },
-    {
-      "type": "node",
-      "id": 7203720921,
-      "lat": 52.4006858,
-      "lon": 13.0727501
-    },
-    {
-      "type": "node",
-      "id": 7203720922,
-      "lat": 52.4007218,
-      "lon": 13.0724309
-    },
-    {
-      "type": "node",
-      "id": 7203720932,
-      "lat": 52.4002178,
-      "lon": 13.0713614
-    },
-    {
-      "type": "node",
-      "id": 7203720933,
-      "lat": 52.4005742,
-      "lon": 13.0722613
-    },
-    {
-      "type": "node",
-      "id": 7203720934,
-      "lat": 52.4001377,
-      "lon": 13.0713701
-    },
-    {
-      "type": "node",
-      "id": 7203720935,
-      "lat": 52.4002477,
-      "lon": 13.071333
-    },
-    {
-      "type": "node",
-      "id": 7203720936,
-      "lat": 52.4001418,
-      "lon": 13.0714041
-    },
-    {
-      "type": "node",
-      "id": 7203720937,
-      "lat": 52.400252,
-      "lon": 13.0713684
-    },
-    {
-      "type": "node",
-      "id": 7203720938,
-      "lat": 52.4002399,
-      "lon": 13.0712686
-    },
-    {
-      "type": "node",
-      "id": 7203720939,
-      "lat": 52.4004799,
-      "lon": 13.0713134
-    },
-    {
-      "type": "node",
-      "id": 7203720940,
-      "lat": 52.4004485,
-      "lon": 13.070536
     },
     {
       "type": "node",
@@ -2775,24 +5391,6 @@
       "id": 7203720942,
       "lat": 52.400828,
       "lon": 13.0723484
-    },
-    {
-      "type": "node",
-      "id": 7203720943,
-      "lat": 52.4005735,
-      "lon": 13.0722406
-    },
-    {
-      "type": "node",
-      "id": 7203720944,
-      "lat": 52.4005606,
-      "lon": 13.0722405
-    },
-    {
-      "type": "node",
-      "id": 7203720945,
-      "lat": 52.4005623,
-      "lon": 13.0723169
     },
     {
       "type": "node",
@@ -3306,126 +5904,6 @@
     },
     {
       "type": "node",
-      "id": 1561067724,
-      "lat": 52.4123768,
-      "lon": 13.2274225
-    },
-    {
-      "type": "node",
-      "id": 1561067729,
-      "lat": 52.4123798,
-      "lon": 13.227461
-    },
-    {
-      "type": "node",
-      "id": 1561067732,
-      "lat": 52.4122639,
-      "lon": 13.2272895
-    },
-    {
-      "type": "node",
-      "id": 1561067735,
-      "lat": 52.412276,
-      "lon": 13.2274437
-    },
-    {
-      "type": "node",
-      "id": 1561067952,
-      "lat": 52.4122617,
-      "lon": 13.2274472
-    },
-    {
-      "type": "node",
-      "id": 1561067954,
-      "lat": 52.4122766,
-      "lon": 13.2276355
-    },
-    {
-      "type": "node",
-      "id": 1561067958,
-      "lat": 52.4123916,
-      "lon": 13.227611
-    },
-    {
-      "type": "node",
-      "id": 2406744381,
-      "lat": 52.4123762,
-      "lon": 13.2276384
-    },
-    {
-      "type": "node",
-      "id": 2406744384,
-      "lat": 52.4123853,
-      "lon": 13.2277593
-    },
-    {
-      "type": "node",
-      "id": 2406744385,
-      "lat": 52.4123943,
-      "lon": 13.2277575
-    },
-    {
-      "type": "node",
-      "id": 2406744387,
-      "lat": 52.4123973,
-      "lon": 13.2277968
-    },
-    {
-      "type": "node",
-      "id": 2406744390,
-      "lat": 52.4124181,
-      "lon": 13.22812
-    },
-    {
-      "type": "node",
-      "id": 6966255065,
-      "lat": 52.412331,
-      "lon": 13.2282973
-    },
-    {
-      "type": "node",
-      "id": 6966255066,
-      "lat": 52.4122713,
-      "lon": 13.2283077
-    },
-    {
-      "type": "node",
-      "id": 6966255067,
-      "lat": 52.4122622,
-      "lon": 13.2281678
-    },
-    {
-      "type": "node",
-      "id": 6966255068,
-      "lat": 52.412322,
-      "lon": 13.2281575
-    },
-    {
-      "type": "node",
-      "id": 6966255069,
-      "lat": 52.4123202,
-      "lon": 13.2281433
-    },
-    {
-      "type": "node",
-      "id": 6966255070,
-      "lat": 52.4122593,
-      "lon": 13.2281573
-    },
-    {
-      "type": "node",
-      "id": 6966255071,
-      "lat": 52.4122446,
-      "lon": 13.2279854
-    },
-    {
-      "type": "node",
-      "id": 6966255072,
-      "lat": 52.4123055,
-      "lon": 13.2279714
-    },
-    {
-      "type": "node",
       "id": 7075672286,
       "lat": 52.4121773,
       "lon": 13.2271782
@@ -3438,27 +5916,9 @@
     },
     {
       "type": "node",
-      "id": 1561067721,
-      "lat": 52.4124977,
-      "lon": 13.2274362
-    },
-    {
-      "type": "node",
-      "id": 1561067726,
-      "lat": 52.4124826,
-      "lon": 13.2272435
-    },
-    {
-      "type": "node",
       "id": 2406744392,
       "lat": 52.4124352,
       "lon": 13.2283854
-    },
-    {
-      "type": "node",
-      "id": 2406744393,
-      "lat": 52.4124822,
-      "lon": 13.2276169
     },
     {
       "type": "node",
@@ -6801,144 +9261,6 @@
       "id": 6718690786,
       "lat": 52.5321453,
       "lon": 13.2851344
-    },
-    {
-      "type": "node",
-      "id": 1394443498,
-      "lat": 52.4556217,
-      "lon": 13.3300194
-    },
-    {
-      "type": "node",
-      "id": 1394449986,
-      "lat": 52.4558251,
-      "lon": 13.3295159
-    },
-    {
-      "type": "node",
-      "id": 1394449989,
-      "lat": 52.4558904,
-      "lon": 13.3295306
-    },
-    {
-      "type": "node",
-      "id": 2746986369,
-      "lat": 52.4556676,
-      "lon": 13.3299046
-    },
-    {
-      "type": "node",
-      "id": 6621423512,
-      "lat": 52.4558416,
-      "lon": 13.3294793
-    },
-    {
-      "type": "node",
-      "id": 11382112988,
-      "lat": 52.4559755,
-      "lon": 13.329621
-    },
-    {
-      "type": "node",
-      "id": 11382112990,
-      "lat": 52.4559204,
-      "lon": 13.3300188
-    },
-    {
-      "type": "node",
-      "id": 11382112991,
-      "lat": 52.4558456,
-      "lon": 13.3299554
-    },
-    {
-      "type": "node",
-      "id": 658999866,
-      "lat": 52.4560488,
-      "lon": 13.3302336
-    },
-    {
-      "type": "node",
-      "id": 658999867,
-      "lat": 52.4559572,
-      "lon": 13.3301101
-    },
-    {
-      "type": "node",
-      "id": 1394443493,
-      "lat": 52.4555615,
-      "lon": 13.3301658
-    },
-    {
-      "type": "node",
-      "id": 1394449976,
-      "lat": 52.455601,
-      "lon": 13.3300692
-    },
-    {
-      "type": "node",
-      "id": 3989330171,
-      "lat": 52.4560783,
-      "lon": 13.3303098
-    },
-    {
-      "type": "node",
-      "id": 3989330301,
-      "lat": 52.4560424,
-      "lon": 13.3304375
-    },
-    {
-      "type": "node",
-      "id": 8706847688,
-      "lat": 52.4559863,
-      "lon": 13.3301947
-    },
-    {
-      "type": "node",
-      "id": 8706847689,
-      "lat": 52.4560014,
-      "lon": 13.3301529
-    },
-    {
-      "type": "node",
-      "id": 8706847695,
-      "lat": 52.4560683,
-      "lon": 13.3302396
-    },
-    {
-      "type": "node",
-      "id": 11382112983,
-      "lat": 52.4555372,
-      "lon": 13.3302255
-    },
-    {
-      "type": "node",
-      "id": 11382112984,
-      "lat": 52.4559363,
-      "lon": 13.330653
-    },
-    {
-      "type": "node",
-      "id": 11382112985,
-      "lat": 52.455947,
-      "lon": 13.3306567
-    },
-    {
-      "type": "node",
-      "id": 11382112986,
-      "lat": 52.4559568,
-      "lon": 13.3306457
-    },
-    {
-      "type": "node",
-      "id": 11382112987,
-      "lat": 52.4560902,
-      "lon": 13.3302483
-    },
-    {
-      "type": "node",
-      "id": 11382112989,
-      "lat": 52.455921,
-      "lon": 13.3300823
     },
     {
       "type": "node",
@@ -11670,66 +13992,6 @@
     },
     {
       "type": "node",
-      "id": 1517593387,
-      "lat": 52.354668,
-      "lon": 13.4856982
-    },
-    {
-      "type": "node",
-      "id": 1517607179,
-      "lat": 52.3539787,
-      "lon": 13.486136
-    },
-    {
-      "type": "node",
-      "id": 1519198325,
-      "lat": 52.3537129,
-      "lon": 13.4850139
-    },
-    {
-      "type": "node",
-      "id": 1519198333,
-      "lat": 52.353893,
-      "lon": 13.4857742
-    },
-    {
-      "type": "node",
-      "id": 1700622236,
-      "lat": 52.3540303,
-      "lon": 13.4850215
-    },
-    {
-      "type": "node",
-      "id": 1700622257,
-      "lat": 52.3541509,
-      "lon": 13.4855273
-    },
-    {
-      "type": "node",
-      "id": 1700622262,
-      "lat": 52.3543329,
-      "lon": 13.484828
-    },
-    {
-      "type": "node",
-      "id": 1700622265,
-      "lat": 52.3544536,
-      "lon": 13.4853338
-    },
-    {
-      "type": "node",
-      "id": 2035516735,
-      "lat": 52.3544021,
-      "lon": 13.4845763
-    },
-    {
-      "type": "node",
-      "id": 8081286669,
-      "lat": 52.3540299,
-      "lon": 13.4848126
-    },
-    {
-      "type": "node",
       "id": 1700638393,
       "lat": 52.3633616,
       "lon": 13.5198954
@@ -13731,234 +15993,6 @@
       "id": 3599133144,
       "lat": 52.4818556,
       "lon": 13.4740381
-    },
-    {
-      "type": "node",
-      "id": 261963539,
-      "lat": 52.490047,
-      "lon": 13.4551962
-    },
-    {
-      "type": "node",
-      "id": 261963540,
-      "lat": 52.489888,
-      "lon": 13.4549942
-    },
-    {
-      "type": "node",
-      "id": 1176680932,
-      "lat": 52.4900963,
-      "lon": 13.4552615
-    },
-    {
-      "type": "node",
-      "id": 1505249115,
-      "lat": 52.4898564,
-      "lon": 13.4549451
-    },
-    {
-      "type": "node",
-      "id": 2971105437,
-      "lat": 52.4898772,
-      "lon": 13.4550172
-    },
-    {
-      "type": "node",
-      "id": 2971105438,
-      "lat": 52.4900348,
-      "lon": 13.4552192
-    },
-    {
-      "type": "node",
-      "id": 2971110964,
-      "lat": 52.4899558,
-      "lon": 13.4547442
-    },
-    {
-      "type": "node",
-      "id": 157468230,
-      "lat": 52.4951158,
-      "lon": 13.4522045
-    },
-    {
-      "type": "node",
-      "id": 157468245,
-      "lat": 52.4946511,
-      "lon": 13.4510542
-    },
-    {
-      "type": "node",
-      "id": 260684017,
-      "lat": 52.4934023,
-      "lon": 13.4503875
-    },
-    {
-      "type": "node",
-      "id": 260740749,
-      "lat": 52.4941188,
-      "lon": 13.4516888
-    },
-    {
-      "type": "node",
-      "id": 1113666079,
-      "lat": 52.4933859,
-      "lon": 13.4505001
-    },
-    {
-      "type": "node",
-      "id": 1113666087,
-      "lat": 52.4933857,
-      "lon": 13.4505051
-    },
-    {
-      "type": "node",
-      "id": 1113666096,
-      "lat": 52.4939064,
-      "lon": 13.4520455
-    },
-    {
-      "type": "node",
-      "id": 1113666105,
-      "lat": 52.4944191,
-      "lon": 13.4528861
-    },
-    {
-      "type": "node",
-      "id": 1113684087,
-      "lat": 52.4939938,
-      "lon": 13.4494232
-    },
-    {
-      "type": "node",
-      "id": 1176680898,
-      "lat": 52.4937447,
-      "lon": 13.4542454
-    },
-    {
-      "type": "node",
-      "id": 1176680915,
-      "lat": 52.4917547,
-      "lon": 13.4511068
-    },
-    {
-      "type": "node",
-      "id": 1182523383,
-      "lat": 52.493452,
-      "lon": 13.4537827
-    },
-    {
-      "type": "node",
-      "id": 1636830084,
-      "lat": 52.4939583,
-      "lon": 13.4521261
-    },
-    {
-      "type": "node",
-      "id": 2186969720,
-      "lat": 52.4933595,
-      "lon": 13.4504606
-    },
-    {
-      "type": "node",
-      "id": 2186969850,
-      "lat": 52.4945826,
-      "lon": 13.4530707
-    },
-    {
-      "type": "node",
-      "id": 3057480475,
-      "lat": 52.4952037,
-      "lon": 13.4520611
-    },
-    {
-      "type": "node",
-      "id": 4405786220,
-      "lat": 52.4948013,
-      "lon": 13.4514271
-    },
-    {
-      "type": "node",
-      "id": 6506334853,
-      "lat": 52.4932658,
-      "lon": 13.4534885
-    },
-    {
-      "type": "node",
-      "id": 6506334855,
-      "lat": 52.4925578,
-      "lon": 13.452374
-    },
-    {
-      "type": "node",
-      "id": 9106142207,
-      "lat": 52.491731,
-      "lon": 13.4511547
-    },
-    {
-      "type": "node",
-      "id": 1176680929,
-      "lat": 52.4926902,
-      "lon": 13.4558392
-    },
-    {
-      "type": "node",
-      "id": 1176680930,
-      "lat": 52.4916808,
-      "lon": 13.4573723
-    },
-    {
-      "type": "node",
-      "id": 1182523390,
-      "lat": 52.493177,
-      "lon": 13.455114
-    },
-    {
-      "type": "node",
-      "id": 1211695285,
-      "lat": 52.4914715,
-      "lon": 13.4569962
-    },
-    {
-      "type": "node",
-      "id": 2903926339,
-      "lat": 52.4914071,
-      "lon": 13.4570062
-    },
-    {
-      "type": "node",
-      "id": 2903926340,
-      "lat": 52.4914541,
-      "lon": 13.4570676
-    },
-    {
-      "type": "node",
-      "id": 2903926341,
-      "lat": 52.4914563,
-      "lon": 13.4569591
-    },
-    {
-      "type": "node",
-      "id": 2903926342,
-      "lat": 52.4914867,
-      "lon": 13.4570333
-    },
-    {
-      "type": "node",
-      "id": 2903926345,
-      "lat": 52.4919079,
-      "lon": 13.4570327
-    },
-    {
-      "type": "node",
-      "id": 6506334834,
-      "lat": 52.4927201,
-      "lon": 13.4557945
-    },
-    {
-      "type": "node",
-      "id": 6506334850,
-      "lat": 52.4926061,
-      "lon": 13.4559721
     },
     {
       "type": "node",
@@ -18690,126 +20724,6 @@
     },
     {
       "type": "node",
-      "id": 558355585,
-      "lat": 52.6844591,
-      "lon": 13.5690283
-    },
-    {
-      "type": "node",
-      "id": 558355588,
-      "lat": 52.6846214,
-      "lon": 13.5683824
-    },
-    {
-      "type": "node",
-      "id": 558355590,
-      "lat": 52.6849614,
-      "lon": 13.5693718
-    },
-    {
-      "type": "node",
-      "id": 558355592,
-      "lat": 52.6851237,
-      "lon": 13.5687259
-    },
-    {
-      "type": "node",
-      "id": 4944350792,
-      "lat": 52.6846225,
-      "lon": 13.5691401
-    },
-    {
-      "type": "node",
-      "id": 12579249264,
-      "lat": 52.6849043,
-      "lon": 13.5693328
-    },
-    {
-      "type": "node",
-      "id": 12579249266,
-      "lat": 52.6849773,
-      "lon": 13.5693085
-    },
-    {
-      "type": "node",
-      "id": 12580499426,
-      "lat": 52.6845264,
-      "lon": 13.5687605
-    },
-    {
-      "type": "node",
-      "id": 12580499427,
-      "lat": 52.6845843,
-      "lon": 13.569114
-    },
-    {
-      "type": "node",
-      "id": 12580499441,
-      "lat": 52.6846469,
-      "lon": 13.5691568
-    },
-    {
-      "type": "node",
-      "id": 12580499446,
-      "lat": 52.6848025,
-      "lon": 13.5692632
-    },
-    {
-      "type": "node",
-      "id": 12580921212,
-      "lat": 52.6848629,
-      "lon": 13.5693045
-    },
-    {
-      "type": "node",
-      "id": 12580921213,
-      "lat": 52.6849133,
-      "lon": 13.5691077
-    },
-    {
-      "type": "node",
-      "id": 12580921215,
-      "lat": 52.6847342,
-      "lon": 13.5685695
-    },
-    {
-      "type": "node",
-      "id": 12580921216,
-      "lat": 52.6847582,
-      "lon": 13.5684759
-    },
-    {
-      "type": "node",
-      "id": 12580921224,
-      "lat": 52.6847093,
-      "lon": 13.5685525
-    },
-    {
-      "type": "node",
-      "id": 12580921225,
-      "lat": 52.6846179,
-      "lon": 13.5689057
-    },
-    {
-      "type": "node",
-      "id": 12580921226,
-      "lat": 52.6849598,
-      "lon": 13.5691395
-    },
-    {
-      "type": "node",
-      "id": 12580921227,
-      "lat": 52.6850489,
-      "lon": 13.5687847
-    },
-    {
-      "type": "node",
-      "id": 12580921228,
-      "lat": 52.684707,
-      "lon": 13.5685509
-    },
-    {
-      "type": "node",
       "id": 3474832158,
       "lat": 52.6758634,
       "lon": 13.5851299
@@ -19065,447 +20979,6 @@
       "id": 12358147803,
       "lat": 52.5063577,
       "lon": 13.8505928
-    },
-    {
-      "type": "way",
-      "id": 44639258,
-      "nodes": [
-        566647795,
-        566647780,
-        7203720942,
-        3020857249,
-        3020857247,
-        7203720933,
-        7203720943,
-        566647795
-      ]
-    },
-    {
-      "type": "way",
-      "id": 194076822,
-      "nodes": [
-        2045879455,
-        2045879457,
-        2045879459,
-        2045879461,
-        2045879455
-      ]
-    },
-    {
-      "type": "way",
-      "id": 298494365,
-      "nodes": [
-        3024188475,
-        4571485558,
-        4571485557,
-        3024188473,
-        3024188474,
-        4571485559,
-        4571485560,
-        3024188476,
-        3024188475
-      ]
-    },
-    {
-      "type": "way",
-      "id": 317940202,
-      "nodes": [
-        3619751813,
-        3242756506,
-        7203720934
-      ]
-    },
-    {
-      "type": "way",
-      "id": 317940203,
-      "nodes": [
-        3242756507,
-        566772306,
-        566805695,
-        566772328,
-        566772323,
-        566772319,
-        7203720938,
-        2929584555,
-        2929585671,
-        2929585670,
-        2929585669,
-        2929586130,
-        2929585668,
-        566772310,
-        3242756508,
-        4571485562,
-        4571485561,
-        3242756507
-      ]
-    },
-    {
-      "type": "way",
-      "id": 518647999,
-      "nodes": [
-        566647780,
-        566647795,
-        5058851614,
-        566772306,
-        566805695,
-        566772328,
-        566772323,
-        3242756506,
-        3619751836,
-        3619751837,
-        7203720941,
-        3619751843,
-        9391681472,
-        9391681471,
-        3619751844,
-        3619751845,
-        3619751848,
-        9391681473,
-        3619751849,
-        3619751850,
-        3619751851,
-        7203720946,
-        3020857249,
-        7203720942,
-        566647780
-      ]
-    },
-    {
-      "type": "way",
-      "id": 605929096,
-      "nodes": [
-        5745872985,
-        5745872987,
-        5745872986
-      ]
-    },
-    {
-      "type": "way",
-      "id": 771661941,
-      "nodes": [
-        7203720918,
-        7203720917,
-        7203720916,
-        7203720915,
-        7203720918
-      ]
-    },
-    {
-      "type": "way",
-      "id": 771661942,
-      "nodes": [
-        7203720922,
-        7203720921,
-        7203720920,
-        7203720919,
-        7203720922
-      ]
-    },
-    {
-      "type": "way",
-      "id": 771661948,
-      "nodes": [
-        7203720935,
-        7203720939
-      ]
-    },
-    {
-      "type": "way",
-      "id": 771661949,
-      "nodes": [
-        7203720934,
-        7203720935
-      ]
-    },
-    {
-      "type": "way",
-      "id": 771661950,
-      "nodes": [
-        7203720938,
-        7203720935,
-        7203720937,
-        7203720936,
-        7203720934,
-        566772319,
-        7203720938
-      ]
-    },
-    {
-      "type": "way",
-      "id": 771661951,
-      "nodes": [
-        3619751846,
-        7203720941,
-        7203720939,
-        7203720940
-      ]
-    },
-    {
-      "type": "way",
-      "id": 771661952,
-      "nodes": [
-        3619751852,
-        7203720946,
-        7203720945,
-        7203720944,
-        7203720943
-      ]
-    },
-    {
-      "type": "way",
-      "id": 771661953,
-      "nodes": [
-        2923871693,
-        5745872985
-      ]
-    },
-    {
-      "type": "way",
-      "id": 142657467,
-      "nodes": [
-        1561067958,
-        1561067954,
-        1561067952,
-        1561067735,
-        1561067724,
-        1561067729,
-        1561067958
-      ]
-    },
-    {
-      "type": "way",
-      "id": 744311202,
-      "nodes": [
-        6966255068,
-        6966255067,
-        6966255066,
-        6966255065,
-        6966255068
-      ]
-    },
-    {
-      "type": "way",
-      "id": 744311203,
-      "nodes": [
-        6966255072,
-        6966255071,
-        6966255070,
-        6966255069,
-        6966255072
-      ]
-    },
-    {
-      "type": "way",
-      "id": 142657465,
-      "nodes": [
-        1561067726,
-        1561067721,
-        1561067729,
-        1561067724,
-        1561067735,
-        1561067732,
-        1561067726
-      ]
-    },
-    {
-      "type": "way",
-      "id": 232313790,
-      "nodes": [
-        2406744387,
-        2406744385,
-        2406744384,
-        2406744381,
-        2406744393,
-        7075672291,
-        2406744395,
-        2406744394,
-        2406744387
-      ]
-    },
-    {
-      "type": "way",
-      "id": 232313842,
-      "nodes": [
-        2406744399,
-        2406744400,
-        2406744401,
-        2406744405,
-        2406744392,
-        2406744390,
-        2406744399
-      ]
-    },
-    {
-      "type": "way",
-      "id": 232313845,
-      "nodes": [
-        2406744390,
-        2406744387,
-        2406744394,
-        2406744399,
-        2406744390
-      ]
-    },
-    {
-      "type": "way",
-      "id": 704994349,
-      "nodes": [
-        11382112987,
-        8706847695,
-        658999866,
-        8706847688,
-        8706847689,
-        658999867,
-        11382112989,
-        11382112990,
-        11382112991,
-        11382112988,
-        1394449989,
-        6621423512,
-        1394449986,
-        2746986369,
-        1394443498,
-        1394449976,
-        1394443493,
-        11382112983
-      ]
-    },
-    {
-      "type": "way",
-      "id": 1227415284,
-      "nodes": [
-        11382112983,
-        11382112984,
-        11382112985,
-        11382112986,
-        3989330301
-      ]
-    },
-    {
-      "type": "way",
-      "id": 1227415287,
-      "nodes": [
-        3989330301,
-        3989330171
-      ]
-    },
-    {
-      "type": "way",
-      "id": 1263219753,
-      "nodes": [
-        3989330171,
-        11382112987
-      ]
-    },
-    {
-      "type": "way",
-      "id": 138543323,
-      "nodes": [
-        2035516735,
-        1517593387,
-        1517607179,
-        1519198333,
-        1519198325,
-        8081286669,
-        2035516735
-      ]
-    },
-    {
-      "type": "way",
-      "id": 157810665,
-      "nodes": [
-        1700622236,
-        1700622262,
-        1700622265,
-        1700622257,
-        1700622236
-      ]
-    },
-    {
-      "type": "way",
-      "id": 293503039,
-      "nodes": [
-        261963539,
-        2971105438,
-        2971105437,
-        261963540,
-        1505249115,
-        2971110964,
-        9106142207,
-        1176680915,
-        6506334855,
-        6506334853,
-        1182523383,
-        1176680898,
-        1182523390,
-        6506334834,
-        1176680929,
-        6506334850,
-        2903926345,
-        1176680930,
-        2903926340,
-        2903926342,
-        1211695285,
-        2903926341,
-        2903926339,
-        1176680932,
-        261963539
-      ]
-    },
-    {
-      "type": "way",
-      "id": 86812763,
-      "nodes": [
-        1113684087,
-        157468245,
-        4405786220,
-        3057480475,
-        157468230,
-        2186969850,
-        1113666105,
-        1636830084,
-        1113666096,
-        260740749,
-        1113666087,
-        1113666079,
-        2186969720,
-        260684017,
-        1113684087
-      ]
-    },
-    {
-      "type": "way",
-      "id": 43906730,
-      "nodes": [
-        558355590,
-        12579249264,
-        12580921212,
-        12580499446,
-        12580499441,
-        4944350792,
-        12580499427,
-        558355585,
-        12580499426,
-        558355588,
-        12580921216,
-        558355592,
-        12579249266,
-        558355590
-      ]
-    },
-    {
-      "type": "way",
-      "id": 1359211634,
-      "nodes": [
-        12580921228,
-        12580921224,
-        12580921215,
-        12580921227,
-        12580921226,
-        12580921213,
-        12580921225,
-        12580921228
-      ]
     }
   ]
 }

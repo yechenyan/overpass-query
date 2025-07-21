@@ -191,16 +191,14 @@
     },
     {
         "tags": {
-            "addr:city": "Berlin",
+            "addr:city": "Großbeeren",
             "addr:country": "DE",
-            "addr:housenumber": "13",
-            "addr:postcode": "10551",
-            "addr:street": "Erna-Samuel-Straße",
-            "name": "Hamberger Großmarkt",
-            "old_name": "Güterbahnhof Moabit",
-            "shop": "wholesale",
-            "start_date": "2015-12-03",
-            "website": "https://www.hamberger-cc.de/berlin"
+            "addr:housenumber": "1",
+            "addr:postcode": "14979",
+            "addr:street": "Zum Kiesberg",
+            "building": "warehouse",
+            "name": "Chefs Culinar",
+            "office": "company"
         },
         "name": null
     }

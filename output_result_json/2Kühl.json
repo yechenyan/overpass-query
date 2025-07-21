@@ -1,8 +1,53 @@
 [
     {
         "tags": {
+            "addr:city": "Schönefeld",
+            "addr:housenumber": "2",
+            "addr:postcode": "12529",
+            "addr:street": "Thomas-Dachser-Allee",
+            "building": "warehouse",
+            "building:levels": "2",
+            "name": "Dachser",
+            "roof:colour": "grey",
+            "roof:shape": "flat"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "warehouse",
+            "building:levels": "2",
+            "name": "Dachser, PAREXEL",
+            "roof:colour": "grey",
+            "roof:shape": "flat"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "building": "industrial",
             "name": "Nagel Group - Schulze Logistik"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "building": "warehouse",
+            "building:levels": "1",
+            "name": "Dachser",
+            "roof:colour": "grey",
+            "roof:shape": "flat"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "addr:city": "Schönefeld",
+            "addr:housenumber": "2",
+            "addr:postcode": "12529",
+            "addr:street": "Thomas-Dachser-Allee",
+            "building": "office",
+            "name": "Dachser Logistikzentrum Berlin Brandenburg"
         },
         "name": null
     }

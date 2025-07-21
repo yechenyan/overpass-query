@@ -1,0 +1,14 @@
+[
+  [
+    {
+      "name$match$i": "DB Cargo|Contargo|DUSS|Eurogate|HHLA|duisport|TFG Transfracht|Hupac|Kombiverkehr",
+      "shop$neg": "."
+    },
+    {
+      "operator$match$i": "DB Cargo|Contargo|DUSS|Eurogate|HHLA|duisport|TFG Transfracht|Hupac|Kombiverkehr",
+      "opening_hours$neg": ".",
+      "amenity$neg": "recycling",
+      "tourism$neg": "attraction"
+    }
+  ]
+]

@@ -41,7 +41,7 @@ def build_overpass_ql(query_groups, area = "{{bbox}}", area_define= ""):
           
 
 
-    result.append(');\n\nout body 100;\n>;\nout skel qt;')
+    result.append(');\n\nout body 150;\n>;\nout skel qt;')
     return '\n'.join(result)
 
 def generate_ql(json_path: str,area: str = "{{bbox}}", area_define: str = "", output_dir: str = "output_ql") -> list[str]:

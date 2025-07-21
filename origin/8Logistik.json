@@ -1,0 +1,23 @@
+[
+  [
+    {
+      "name$match$i": "Dachser|DB Schenker|Kuehne(\\s*\\+\\s*)?Nagel|Rhenus Logistics|Hellmann Worldwide Logistics|Nagel-Group|FIEGE Logistik|Pfenning Logistics|Noerpel|GEODIS|UPS Deutschland|FedEx Deutschland|Amazon|Zalando",
+      "office$match$i": "logistics",
+      "post_office:type$neg$i": "post_partner",
+      "post_office$neg$i": "post_partner"
+    },
+    {
+      "name$match$i": "Dachser|DB Schenker|Kuehne(\\s*\\+\\s*)?Nagel|Rhenus Logistics|Hellmann Worldwide Logistics|Nagel-Group|FIEGE Logistik|Pfenning Logistics|Noerpel|GEODIS|UPS Deutschland|FedEx Deutschland|Amazon|Zalando",
+      "amenity$match$i": "logistics|post_depot|post_office",
+      "post_office:type$neg$i": "post_partner",
+      "post_office$neg$i": "post_partner"
+    },
+    {
+      "brand$match$i": "Dachser|DB Schenker|Kuehne(\\s*\\+\\s*)?Nagel|Rhenus|Hellmann|Nagel|FIEGE|Pfenning|Noerpel|GEODIS|UPS|FedEx|Amazon|Zalando",
+      "amenity$neg$i": "parcel_locker",
+      "demolished:amenity$neg$i": "parcel_locker",
+      "post_office:type$neg$i": "post_partner",
+      "post_office$neg$i": "post_partner"
+    }
+  ]
+]

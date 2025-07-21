@@ -1,0 +1,108 @@
+[
+    {
+        "tags": {
+            "addr:city": "Schönefeld",
+            "addr:country": "DE",
+            "addr:postcode": "12529",
+            "aeroway": "terminal",
+            "building": "yes",
+            "name": "GAT",
+            "operator": "BAS"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "name": "Ramp Echo",
+            "ref": "E"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "name": "Ramp 2",
+            "ref": "2"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "name": "Ramp Bravo",
+            "ref": "B",
+            "surface": "concrete"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "image": "https://youtu.be/zPsy-Pp3e3A",
+            "name": "Ramp Alpha",
+            "ref": "A"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "name": "Ramp 3b",
+            "ref": "3b",
+            "surface": "asphalt"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "name": "Ramp 1",
+            "ref": "1"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "name": "Ramp 4",
+            "ref": "Ramp 4",
+            "source": "gpx"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "name": "Ramp 3a",
+            "ref": "3a"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "name": "Ramp Delta",
+            "ref": "D"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "name": "Ramp Charlie",
+            "ref": "C",
+            "surface": "concrete"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "aeroway": "apron",
+            "name": "Ramp 3",
+            "ref": "3",
+            "type": "multipolygon"
+        },
+        "name": null
+    }
+]

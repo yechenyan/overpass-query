@@ -1,7 +1,8 @@
 [
   [
     {
-      "amenity$match$i": "fire_station|ambulance_station|disaster_response|police|emergency"
+      "amenity$match$i": "fire_station|ambulance_station|disaster_response|police|emergency",
+      "_types": ["way"]
     }
   ]
 ]

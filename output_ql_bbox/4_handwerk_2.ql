@@ -4,59 +4,54 @@
 (
 
   // query
-  node({{bbox}})
-    ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["landuse"="industrial"];
   way({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["landuse"="industrial"];
+    ["landuse"="industrial"]
+    ["name"!~"amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau", i];
   relation({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["landuse"="industrial"];
+    ["landuse"="industrial"]
+    ["name"!~"amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau", i];
 
   // query
-  node({{bbox}})
-    ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["industrial"="construction_company|concrete_plant"];
   way({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["industrial"="construction_company|concrete_plant"];
+    ["industrial"="construction_company|concrete_plant"]
+    ["name"!~"amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau", i];
   relation({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["industrial"="construction_company|concrete_plant"];
+    ["industrial"="construction_company|concrete_plant"]
+    ["name"!~"amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau", i];
 
   // query
-  node({{bbox}})
-    ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["shop"~"trade|doityourself"];
   way({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["shop"~"trade|doityourself"];
+    ["shop"~"trade|doityourself"]
+    ["name"!~"amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau", i];
   relation({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["shop"~"trade|doityourself"];
+    ["shop"~"trade|doityourself"]
+    ["name"!~"amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau", i];
 
   // query
-  node({{bbox}})
-    ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["building"~"industrial|industrial|commercial"];
   way({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["building"~"industrial|industrial|commercial"];
+    ["building"~"industrial|commercial"]
+    ["name"!~"amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau", i];
   relation({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["building"~"industrial|industrial|commercial"];
+    ["building"~"industrial|commercial"]
+    ["name"!~"amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau", i];
 
   // query
-  node({{bbox}})
-    ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["man_made"="works"];
   way({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["man_made"="works"];
+    ["man_made"="works"]
+    ["name"!~"amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau", i];
   relation({{bbox}})
     ["name"~"Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich", i]
-    ["man_made"="works"];
+    ["man_made"="works"]
+    ["name"!~"amt|Baumarkt|Bauhaus|Metallbau|Karosseriebau", i];
 );
 
 out body 100;

@@ -2,114 +2,26 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-16T05:55:45Z",
+    "timestamp_osm_base": "2025-07-21T08:32:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
     {
       "type": "node",
-      "id": 1608593945,
-      "lat": 52.4578828,
-      "lon": 13.1505392,
+      "id": 1665158255,
+      "lat": 52.5186331,
+      "lon": 13.3889263,
       "tags": {
-        "amenity": "waste_disposal",
-        "operator": "Rhenus",
-        "source": "SenStadtU DOP10-C 2011 Erlaubnis 1002-12"
-      }
-    },
-    {
-      "type": "way",
-      "id": 30486040,
-      "nodes": [
-        1327142443,
-        336404649,
-        3878858007,
-        3878858010,
-        336404640,
-        3878858013,
-        3878858012,
-        336404635,
-        3878858006,
-        336404630,
-        336404625,
-        2055970255,
-        2055970251,
-        3871433678,
-        6690889707,
-        6690889705,
-        6690889706,
-        6690889703,
-        6690889704,
-        6690889720,
-        6690889719,
-        1327142443
-      ],
-      "tags": {
-        "industrial": "warehouse",
-        "landuse": "industrial",
-        "name": "Rhenus"
-      }
-    },
-    {
-      "type": "way",
-      "id": 323012928,
-      "nodes": [
-        3298090386,
-        3298090387,
-        3298090388,
-        3298090389,
-        3298090386
-      ],
-      "tags": {
-        "addr:city": "Velten",
-        "addr:country": "DE",
-        "addr:housenumber": "8",
-        "addr:postcode": "16727",
-        "addr:street": "Berliner Stra\u00dfe",
-        "building": "commercial",
-        "name": "Lagerleitstand Rhenus SE & Co KG"
-      }
-    },
-    {
-      "type": "way",
-      "id": 323013178,
-      "nodes": [
-        3298095281,
-        3298095282,
-        3298095283,
-        3298095284,
-        3298095281
-      ],
-      "tags": {
-        "addr:city": "Velten",
-        "addr:country": "DE",
-        "addr:housenumber": "8",
-        "addr:postcode": "16727",
-        "addr:street": "Berliner Stra\u00dfe",
-        "building": "commercial",
-        "name": "Verwaltungsgeb\u00e4ude Rhenus SE & Co KG",
-        "website": "https://www.de.rhenus.com/"
-      }
-    },
-    {
-      "type": "way",
-      "id": 444232639,
-      "nodes": [
-        4417221535,
-        4417221536,
-        4417221539,
-        4417221537,
-        4417221535
-      ],
-      "tags": {
-        "addr:city": "Hoppegarten",
-        "addr:country": "DE",
-        "addr:housenumber": "14",
-        "addr:postcode": "15366",
-        "addr:street": "Industriestra\u00dfe",
-        "addr:suburb": "Dahlwitz-Hoppegarten",
-        "building": "yes",
-        "name": "Rhenus Logistics"
+        "access:covid19": "yes",
+        "amenity": "fast_food",
+        "check_date": "2024-05-31",
+        "delivery:covid19": "no",
+        "drive_through:covid19": "no",
+        "name": "Dussmann Deli",
+        "opening_hours": "Mo-Fr 07:30-18:30",
+        "opening_hours:covid19": "Mo-Fr 11:00-15:00",
+        "takeaway:covid19": "yes",
+        "wheelchair": "no"
       }
     },
     {
@@ -127,180 +39,6 @@
         "description": "Pausen- und Melderaum DB Cargo",
         "operator": "DB Cargo AG"
       }
-    },
-    {
-      "type": "node",
-      "id": 3871433678,
-      "lat": 52.3784031,
-      "lon": 13.3071865
-    },
-    {
-      "type": "node",
-      "id": 6690889703,
-      "lat": 52.3786242,
-      "lon": 13.3054908
-    },
-    {
-      "type": "node",
-      "id": 6690889704,
-      "lat": 52.3786341,
-      "lon": 13.3051233
-    },
-    {
-      "type": "node",
-      "id": 6690889705,
-      "lat": 52.3785579,
-      "lon": 13.3063236
-    },
-    {
-      "type": "node",
-      "id": 6690889706,
-      "lat": 52.3786071,
-      "lon": 13.3058301
-    },
-    {
-      "type": "node",
-      "id": 6690889707,
-      "lat": 52.3785113,
-      "lon": 13.3066455
-    },
-    {
-      "type": "node",
-      "id": 6690889719,
-      "lat": 52.3785576,
-      "lon": 13.3038919
-    },
-    {
-      "type": "node",
-      "id": 6690889720,
-      "lat": 52.3786148,
-      "lon": 13.3045236
-    },
-    {
-      "type": "node",
-      "id": 1327142443,
-      "lat": 52.3803705,
-      "lon": 13.3029499
-    },
-    {
-      "type": "node",
-      "id": 336404625,
-      "lat": 52.3800994,
-      "lon": 13.3085146
-    },
-    {
-      "type": "node",
-      "id": 336404630,
-      "lat": 52.3805855,
-      "lon": 13.3069795
-    },
-    {
-      "type": "node",
-      "id": 336404635,
-      "lat": 52.3807212,
-      "lon": 13.3062604
-    },
-    {
-      "type": "node",
-      "id": 336404640,
-      "lat": 52.3807756,
-      "lon": 13.3049399
-    },
-    {
-      "type": "node",
-      "id": 336404649,
-      "lat": 52.3806597,
-      "lon": 13.3042545
-    },
-    {
-      "type": "node",
-      "id": 2055970251,
-      "lat": 52.3797922,
-      "lon": 13.3084861
-    },
-    {
-      "type": "node",
-      "id": 2055970255,
-      "lat": 52.3798557,
-      "lon": 13.3082858
-    },
-    {
-      "type": "node",
-      "id": 3878858006,
-      "lat": 52.3806651,
-      "lon": 13.3065933
-    },
-    {
-      "type": "node",
-      "id": 3878858007,
-      "lat": 52.3806744,
-      "lon": 13.304278
-    },
-    {
-      "type": "node",
-      "id": 3878858010,
-      "lat": 52.3807319,
-      "lon": 13.3045437
-    },
-    {
-      "type": "node",
-      "id": 3878858012,
-      "lat": 52.380772,
-      "lon": 13.3057468
-    },
-    {
-      "type": "node",
-      "id": 3878858013,
-      "lat": 52.3807808,
-      "lon": 13.305423
-    },
-    {
-      "type": "node",
-      "id": 3298090386,
-      "lat": 52.674524,
-      "lon": 13.1918858
-    },
-    {
-      "type": "node",
-      "id": 3298090387,
-      "lat": 52.6743305,
-      "lon": 13.1915145
-    },
-    {
-      "type": "node",
-      "id": 3298090388,
-      "lat": 52.6742436,
-      "lon": 13.1916448
-    },
-    {
-      "type": "node",
-      "id": 3298090389,
-      "lat": 52.6744529,
-      "lon": 13.192003
-    },
-    {
-      "type": "node",
-      "id": 3298095281,
-      "lat": 52.6740382,
-      "lon": 13.1930908
-    },
-    {
-      "type": "node",
-      "id": 3298095282,
-      "lat": 52.6739671,
-      "lon": 13.1929735
-    },
-    {
-      "type": "node",
-      "id": 3298095283,
-      "lat": 52.6742831,
-      "lon": 13.192446
-    },
-    {
-      "type": "node",
-      "id": 3298095284,
-      "lat": 52.6743621,
-      "lon": 13.1926088
     },
     {
       "type": "node",
@@ -325,30 +63,6 @@
       "id": 6008487923,
       "lat": 52.4114074,
       "lon": 13.5744164
-    },
-    {
-      "type": "node",
-      "id": 4417221535,
-      "lat": 52.5075121,
-      "lon": 13.6427281
-    },
-    {
-      "type": "node",
-      "id": 4417221536,
-      "lat": 52.5077648,
-      "lon": 13.6417109
-    },
-    {
-      "type": "node",
-      "id": 4417221537,
-      "lat": 52.5097569,
-      "lon": 13.6441986
-    },
-    {
-      "type": "node",
-      "id": 4417221539,
-      "lat": 52.5100041,
-      "lon": 13.6431772
     }
   ]
 }

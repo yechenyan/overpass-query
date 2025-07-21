@@ -1,23 +1,13 @@
 [
   [
     {
-      "name$match$i": "Bau|Baufirma|Bauunternehmen|Hochbau|Tiefbau|Straßenbau|Kanalbau|Rohbau|Ausbau|Maurer|Beton|Estrich",
-      "amenity$neg": "restaurant|fast_food|kindergarten|pub|bar|community_centre|arts_centre|nightclub|childcare|bank|cafe|university|research_institute",
-      "office$neg": "estate_agent|government|architect|association|company|political_party|educational_institution",
-      "historic$neg": ".",
-      "tourism$neg": ".",
-      "railway$neg": ".",
-      "highway$neg": ".",
-      "man_made$neg": "tree_grate|monitoring_station",
-      "toilets$neg": ".",
-      "waterway$neg": ".",
-      "healthcare$neg": ".",
-      "natural$neg": ".",
-      "place$neg": "hamlet|suburb",
-      "public_transport$neg": ".",
-      "leisure$neg": "miniature_golf",
-      "craft$neg": ".",
-      "shop$neg": "."
+      "name$match$i": "Umzüge|Strabag|Züblin|Max Bögl|Hochtief|Bilfinger|Leonhard Weiss|WOLFF.*MÜLLER|Implenia|Goldbeck",
+      "office": "moving_company"
+    },
+    {
+      "name$match$i": "Umzüge|Strabag|Züblin|Max Bögl|Hochtief|Bilfinger|Leonhard Weiss|WOLFF.*MÜLLER|Implenia|Goldbeck",
+      "office": "company",
+      "_last": "[\"building\"]"
     }
   ]
 ]

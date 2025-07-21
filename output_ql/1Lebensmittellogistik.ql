@@ -6,24 +6,27 @@
   // query
   node(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["shop"="wholesale"];
+    ["shop"="wholesale"]
+   ["building"];
   way(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["shop"="wholesale"];
+    ["shop"="wholesale"]
+   ["building"];
   relation(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["shop"="wholesale"];
+    ["shop"="wholesale"]
+   ["building"];
 
   // query
   node(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["building"="wholesale"];
+    ["building"="warehouse"];
   way(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["building"="wholesale"];
+    ["building"="warehouse"];
   relation(52.344149, 12.967987, 52.727144, 13.862)
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["building"="wholesale"];
+    ["building"="warehouse"];
 );
 
 out body 100;

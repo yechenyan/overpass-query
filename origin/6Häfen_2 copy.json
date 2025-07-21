@@ -1,0 +1,15 @@
+[
+  [
+    {
+      "railway": "container_terminal"
+    },
+    {
+      "name$match$i": "Containerterminal|Container Terminal|KV-Terminal|Kombiterminal|Umschlagterminal|Güterterminal|Umschlagplatz|Güterbahnhof|Containerumschlag|Bahnterminal|Logistikterminal|CT-Anlage|Cargo Terminal|Intermodal Terminal"
+    },
+    {
+      "name$match$i": "Containerterminal|Container Terminal|KV-Terminal|Kombiterminal|Umschlagterminal|Güterterminal|Umschlagplatz|Güterbahnhof|Containerumschlag|Bahnterminal|Logistikterminal|CT-Anlage|Cargo Terminal|Intermodal Terminal",
+      "railway$match": ".",
+      "highway$neg": "bus_stop"
+    }
+  ]
+]

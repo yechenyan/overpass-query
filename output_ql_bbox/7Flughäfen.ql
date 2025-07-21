@@ -5,13 +5,16 @@
 
   // query
   node({{bbox}})
-    ["aeroway"="aerodrome"];
+    ["name"~"GAT|Cargo|Ramp", i]
+    ["aeroway"~"terminal|apron"];
   way({{bbox}})
-    ["aeroway"="aerodrome"];
+    ["name"~"GAT|Cargo|Ramp", i]
+    ["aeroway"~"terminal|apron"];
   relation({{bbox}})
-    ["aeroway"="aerodrome"];
+    ["name"~"GAT|Cargo|Ramp", i]
+    ["aeroway"~"terminal|apron"];
 );
 
-out body 100;
+out body 150;
 >;
 out skel qt;

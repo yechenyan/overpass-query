@@ -1,4 +1,17 @@
 type,name,lat,lon,area_m2
 node,Abschleppdienst Nord-Ost,52.5938028,13.4026424,0
-node,Autoverwertung Berk,52.5552234,13.5274233,0
+node,Auto Service Seelke GmbH,52.5117748,13.11852,0
+node,Auto Service Moabit,52.5199984,13.3573621,0
+node,Abschleppdienst Potsdam-Nord,52.3561087,13.129536,0
+node,Schramm Abschleppdienst,52.5437015,13.3682695,0
+node,Car Service Abschlepp- & Bergungsdienst,52.5430713,13.501381,0
+node,Abschleppdienst Lausch,52.3559873,13.1305611,0
+node,City-Autodienst,52.4580117,13.3386396,0
+node,Ludwig Kindler Abschleppdienst,52.4145572,13.5446298,0
 node,Abschleppdienst Reinhold,52.5682354,13.3743012,0
+node,Koglin Abschleppdienst,52.4239166,13.5258302,0
+node,Easy Car Logistics,52.4186771,13.3900746,0
+way,Autoverwertung Lichtenberg,52.52552047647058,13.503011794117647,1413.7382883897942
+way,Kroll Abschlepp- und Bergungsdienst,52.461892285714285,13.362836942857143,1911.5154388471226
+way,Abschlepp- und Bergungsdienst Kobra,52.56119311,13.082299210000002,136.27378407456317
+way,Trost Auto Service Technik,52.519266342857144,13.520310871428572,4713.412765248039

@@ -1,0 +1,12 @@
+[
+  [
+    {
+      "name$match$i": "bofrost|eismann",
+      "_last": "[\"building\"]"
+    },
+    {
+      "name$match$i": "bofrost|eismann",
+      "_last": "[\"warehouse\"]"
+    }
+  ]
+]

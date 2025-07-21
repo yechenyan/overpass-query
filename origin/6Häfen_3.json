@@ -1,7 +1,19 @@
 [
   [
     {
-      "name$match$i": "Elektro|Elektrotechnik|Elektriker|Sanitär|Heizung|SHK|Klima|Lüftung|Haustechnik|Gebäudetechnik|Licht|Solartechnik|Photovoltaik"
+      "name$match$i": "Güterbahnhof|Umschlagbahnhof|Containerbahnhof|CargoBahnhof|Rangierbahnhof|KV-Anlage",
+      "landuse$match": "."
+    },
+    {
+      "name$match$i": "Güterbahnhof|Umschlagbahnhof|Containerbahnhof|CargoBahnhof|Rangierbahnhof|KV-Anlage",
+      "railway$match": "."
+    },
+    {
+      "name$match$i": "Güterbahnhof|Umschlagbahnhof|Containerbahnhof|CargoBahnhof|Rangierbahnhof|KV-Anlage",
+      "construction$match": "."
+    },
+    {
+      "intermodal": "yes"
     }
   ]
 ]

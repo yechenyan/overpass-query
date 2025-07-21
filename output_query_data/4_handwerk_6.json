@@ -2,529 +2,10 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-16T08:06:07Z",
+    "timestamp_osm_base": "2025-07-21T06:02:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
-    {
-      "type": "node",
-      "id": 1670940690,
-      "lat": 52.4113788,
-      "lon": 13.5614111,
-      "tags": {
-        "craft": "painter",
-        "name": "Malereibetrieb Gerlach",
-        "operator": "Malereibetrieb Gerlach GhR",
-        "phone": "+49 30 6723672"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1683679231,
-      "lat": 52.4228696,
-      "lon": 13.5284672,
-      "tags": {
-        "contact:email": "malerei-werner@gmx.de",
-        "contact:fax": "+49 30 66548835",
-        "contact:mobile": "+49 173 6104479",
-        "contact:phone": "+49 30 66548835",
-        "contact:website": "http://malereiwerner.de/",
-        "craft": "painter",
-        "name": "Malerei Werner",
-        "operator": "Mirko Werner"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2105868631,
-      "lat": 52.4187904,
-      "lon": 13.5782145,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "102",
-        "addr:postcode": "12527",
-        "addr:street": "Regattastra\u00dfe",
-        "contact:email": "kontakt@malerfreunde-berlin.de",
-        "contact:fax": "+49 30 89648904",
-        "contact:phone": "+49 30 89657884",
-        "craft": "painter",
-        "name": "Malerfreunde Berlin",
-        "opening_hours": "Mo-Fr 07:00-15:00; Sa 09:00-14:00",
-        "operator": "Jens Armenat",
-        "phone": "+49 30 89657884",
-        "website": "https://www.malerfreunde-berlin.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2624691888,
-      "lat": 52.3591995,
-      "lon": 13.1126088,
-      "tags": {
-        "addr:city": "Potsdam",
-        "addr:country": "DE",
-        "addr:housenumber": "5",
-        "addr:postcode": "14478",
-        "addr:street": "Verkehrshof",
-        "craft": "painter",
-        "name": "Malereibetrieb Gerd Schwarzlose",
-        "phone": "+49331888560",
-        "website": "https://www.malereibetrieb-schwarzlose.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2865364795,
-      "lat": 52.4108481,
-      "lon": 13.4399522,
-      "tags": {
-        "craft": "painter",
-        "name": "Die Maler - Marotzke"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2867831551,
-      "lat": 52.5644749,
-      "lon": 13.2093799,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "36",
-        "addr:postcode": "13587",
-        "addr:street": "Streitstra\u00dfe",
-        "addr:suburb": "Hakenfelde",
-        "check_date": "2023-10-01",
-        "craft": "painter",
-        "name": "Malermeister Melde",
-        "source": "Geoportal Berlin / Hauskoordinaten"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3155478332,
-      "lat": 52.6590264,
-      "lon": 13.3109422,
-      "tags": {
-        "addr:city": "Hohen Neuendorf",
-        "addr:country": "DE",
-        "addr:housenumber": "44",
-        "addr:postcode": "16562",
-        "addr:street": "Hochwaldallee",
-        "addr:suburb": "Bergfelde",
-        "craft": "tiler",
-        "description": "Professionelle und zuverl\u00e4ssige Fliesenverlegung f\u00fcr Ihr Zuhause. F\u00fcr ein neues Wohngef\u00fchl finden wir das passende Design, verlegen hochwertige Fliesen und es entstehen Ergebnisse, die Ihre Erwartungen \u00fcbertreffen.",
-        "name": "MyTiler - Mein Fliesenleger",
-        "opening_hours": "Mo-Fr 09:00-15:00",
-        "operator": "MyTiler GmbH",
-        "phone": "+4933032979111",
-        "website": "https://mytiler.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3741238848,
-      "lat": 52.4053466,
-      "lon": 13.3846139,
-      "tags": {
-        "craft": "car_painter",
-        "email": "salewski-lack@t-online.de",
-        "fax": "+49 30 72325472",
-        "name": "Salewski Lackiererei GmbH",
-        "operator": "Ralf Salewski & Timo Salewski",
-        "phone": "+49 30 72325470",
-        "shop": "car_repair",
-        "website": "https://www.lackiererei-salewski.de/",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4143174677,
-      "lat": 52.5707412,
-      "lon": 13.3301229,
-      "tags": {
-        "craft": "tiler",
-        "email": "us@fliese1.de",
-        "fax": "+49 30 412 04433",
-        "name": "Fliesenlegermeister Uwe Schr\u00f6ter",
-        "phone": "+49 30 412 8558",
-        "website": "https://www.fliese1.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4317462784,
-      "lat": 52.5428982,
-      "lon": 13.392114,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "11F",
-        "addr:postcode": "13355",
-        "addr:street": "Brunnenstra\u00dfe",
-        "craft": "painter",
-        "email": "stefanpaulickgmbh@arcor.de",
-        "name": "Malermeister Stefan Paulick",
-        "phone": "+4930 4631027"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4906512398,
-      "lat": 52.5659531,
-      "lon": 13.3789342,
-      "tags": {
-        "check_date": "2023-09-01",
-        "craft": "painter",
-        "name": "Malereibetrieb Palette"
-      }
-    },
-    {
-      "type": "node",
-      "id": 6169018112,
-      "lat": 52.5104087,
-      "lon": 13.5063548,
-      "tags": {
-        "check_date": "2023-05-11",
-        "contact:fax": "+49 30 5224949",
-        "contact:phone": "+49 30 5262191",
-        "craft": "painter",
-        "description": "auch carpet_layer, Bodenbelagsarbeiten",
-        "name": "Malerbetrieb Knut Mittasch",
-        "operator": "Knut Mittasch"
-      }
-    },
-    {
-      "type": "node",
-      "id": 7047366223,
-      "lat": 52.3642429,
-      "lon": 13.1282772,
-      "tags": {
-        "addr:city": "Potsdam",
-        "addr:country": "DE",
-        "addr:housenumber": "13",
-        "addr:postcode": "14480",
-        "addr:street": "Sternstra\u00dfe",
-        "addr:suburb": "Drewitz",
-        "contact:email": "info@maler-gerlach.de",
-        "contact:website": "http://maler-gerlach.de/",
-        "craft": "painter",
-        "name": "Maler-Gerlach",
-        "operator": "Torsten Gerlach",
-        "operator:type": "private"
-      }
-    },
-    {
-      "type": "node",
-      "id": 7554171389,
-      "lat": 52.4693932,
-      "lon": 13.3333589,
-      "tags": {
-        "craft": "painter",
-        "name": "Malerbetrieb Galesky"
-      }
-    },
-    {
-      "type": "node",
-      "id": 7821126098,
-      "lat": 52.4797285,
-      "lon": 13.3249267,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "8",
-        "addr:postcode": "10715",
-        "addr:street": "Mainzer Stra\u00dfe",
-        "addr:suburb": "Wilmersdorf",
-        "check_date": "2025-01-19",
-        "craft": "painter",
-        "cuisine": "nepalese",
-        "name": "MalerMeister",
-        "operator": "Andr\u00e9 A. Descloux",
-        "website": "http://www.descloux.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8000778277,
-      "lat": 52.4803031,
-      "lon": 13.320102,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "54",
-        "addr:postcode": "10713",
-        "addr:street": "Blissestra\u00dfe",
-        "addr:suburb": "Wilmersdorf",
-        "check_date": "2023-05-30",
-        "contact:phone": "+49 30 8222047",
-        "craft": "tiler",
-        "name": "mewes Kamin- und Fliesenbau"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8533045191,
-      "lat": 52.6488459,
-      "lon": 13.5507834,
-      "tags": {
-        "contact:phone": "+49 30 9445622",
-        "craft": "painter",
-        "name": "Maler-Fachbetrieb Ertenbach"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8767705782,
-      "lat": 52.6417612,
-      "lon": 13.5468315,
-      "tags": {
-        "craft": "carpet_layer",
-        "fax": "+49 30 9445955",
-        "mobile": "+49 171 9727294",
-        "name": "Fu\u00dfbodenleger Kr\u00fcger&Blasek",
-        "opening_hours": "Mo-Fr 08:00-17:00; PH off",
-        "phone": "+49 30 9444908",
-        "website": "https://krueger-blasek-fussbodenleger.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9048597261,
-      "lat": 52.629161,
-      "lon": 13.5453232,
-      "tags": {
-        "addr:city": "Panketal",
-        "addr:housenumber": "14a",
-        "addr:postcode": "16341",
-        "addr:street": "Dorfstra\u00dfe",
-        "addr:suburb": "Schwanebeck",
-        "craft": "painter",
-        "name": "Malermeister Gertenbach"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9102692255,
-      "lat": 52.6603948,
-      "lon": 13.2919164,
-      "tags": {
-        "addr:city": "Hohen Neuendorf",
-        "addr:country": "DE",
-        "addr:housenumber": "12",
-        "addr:postcode": "16562",
-        "addr:street": "Gewerbestra\u00dfe",
-        "craft": "painter",
-        "email": "info@farbenfroh-leben.de",
-        "fax": "+49 3303 5371 40",
-        "name": "Malereibetrieb Roland Gei\u00dfler",
-        "phone": "+49 3303 5371 30",
-        "website": "https://www.farbenfroh-leben.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9441872218,
-      "lat": 52.5507316,
-      "lon": 13.4626728,
-      "tags": {
-        "check_date:opening_hours": "2024-10-10",
-        "craft": "carpenter",
-        "email": "cilovic@gmx.de",
-        "name": "DN Denis Trockenbau",
-        "opening_hours:signed": "no",
-        "phone": "+491737025292"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9532536468,
-      "lat": 52.5612458,
-      "lon": 13.3730342,
-      "tags": {
-        "craft": "painter",
-        "name": "Gensert Malereibetrieb"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9543735476,
-      "lat": 52.4667614,
-      "lon": 13.3222437,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "16",
-        "addr:postcode": "12163",
-        "addr:street": "Bornstra\u00dfe",
-        "addr:suburb": "Friedenau",
-        "check_date": "2024-08-09",
-        "craft": "builder",
-        "name": "TE-MI Trockenbau"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9632063416,
-      "lat": 52.4628587,
-      "lon": 13.3420985,
-      "tags": {
-        "craft": "painter",
-        "name": "Malereibetrieb H. Rauber & A. Mahl",
-        "website": "https://www.rauber-mahl.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9713211077,
-      "lat": 52.5142524,
-      "lon": 13.5544246,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "3",
-        "addr:postcode": "12683",
-        "addr:street": "Oberfeldstra\u00dfe",
-        "addr:suburb": "Biesdorf",
-        "contact:website": "https://www.farbe-mal-anders.de",
-        "craft": "painter",
-        "name": "Malermeister Lieckfeldt"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9953098549,
-      "lat": 52.4479433,
-      "lon": 13.3313166,
-      "tags": {
-        "craft": "signmaker",
-        "name": "A. Breslauer - Schildermalerei",
-        "phone": "+493076904393",
-        "website": "http://a-breslauer.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10200302949,
-      "lat": 52.4876181,
-      "lon": 13.5746334,
-      "tags": {
-        "contact:linkedin": "https://www.linkedin.com/in/frank-michael-132804134",
-        "craft": "tiler",
-        "email": "fliesen-michael@t-online.de",
-        "fax": "+49 30 56555378",
-        "fixme": "position estimated",
-        "name": "Fliesen Michael",
-        "operator": "Frank Michael",
-        "operator:type": "private",
-        "phone": "+49 30 56555379",
-        "room:ref": "108"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10659715624,
-      "lat": 52.532144,
-      "lon": 13.5506616,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:housenumber": "2",
-        "addr:postcode": "12683",
-        "addr:street": "Annenstra\u00dfe",
-        "check_date": "2025-03-14",
-        "craft": "builder",
-        "email": "info@fsb-spezialbau.de",
-        "fax": "+49 30 54999729",
-        "name": "FSB Spezial Bau und Fassaden GmbH",
-        "operator": "Dipl. Bau-Ing. Lars Conrad, Rainer Trepke",
-        "phone": "+49 30 5499970",
-        "website": "https://www.fsb-spezialbau.de"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11040112034,
-      "lat": 52.5819642,
-      "lon": 13.4101614,
-      "tags": {
-        "craft": "painter",
-        "name": "Maler- und Lackiermeister GmbH Ren\u00e9 Mahr"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11244131985,
-      "lat": 52.4973088,
-      "lon": 13.580999,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "15",
-        "addr:postcode": "12621",
-        "addr:street": "Wernitzer Stra\u00dfe",
-        "addr:suburb": "Kaulsdorf",
-        "craft": "tiler",
-        "fax": "+49 30 56702863",
-        "mobile": "+49 173 2177173",
-        "name": "Fliesenleger Fachbetrieb Jens Gehrke",
-        "operator": "Jens Gehrke",
-        "phone": "+49 30 5677676",
-        "source": "Geoportal Berlin / Hauskoordinaten"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11982013844,
-      "lat": 52.5272498,
-      "lon": 13.7912039,
-      "tags": {
-        "craft": "painter",
-        "name": "Jane Kaszuba\nMalermeisterin"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12096888099,
-      "lat": 52.4296971,
-      "lon": 13.3365409,
-      "tags": {
-        "addr:city": "Berlin",
-        "addr:country": "DE",
-        "addr:housenumber": "9",
-        "addr:postcode": "12249",
-        "addr:street": "Zietenstra\u00dfe",
-        "addr:suburb": "Lankwitz",
-        "craft": "painter",
-        "name": "Thomas Honeycutt Malermeister e. K.",
-        "website": "https://www.meister-honeycutt.de/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12953681576,
-      "lat": 52.395232,
-      "lon": 13.0876822,
-      "tags": {
-        "access": "customers",
-        "addr:city": "Potsdam",
-        "addr:country": "DE",
-        "addr:housenumber": "52",
-        "addr:postcode": "14482",
-        "addr:street": "Alt Nowawes",
-        "addr:suburb": "Babelsberg Nord",
-        "contact:phone": "+49 331 871 2871",
-        "craft": "interior_work",
-        "door": "hinged",
-        "entrance": "main",
-        "level": "0",
-        "name": "Ren\u00e9 Gehentges Trockenbau",
-        "operator": "Ren\u00e9 Gehentges",
-        "operator:type": "private",
-        "step_count": "3",
-        "wheelchair": "no"
-      }
-    },
     {
       "type": "way",
       "id": 308406950,
@@ -541,6 +22,30 @@
         "craft": "painter",
         "name": "Malerei Solga",
         "old_name": "Malerei Kling"
+      }
+    },
+    {
+      "type": "way",
+      "id": 539422962,
+      "nodes": [
+        8570561922,
+        5219675822,
+        5219675823,
+        8570561923,
+        8570561922
+      ],
+      "tags": {
+        "addr:city": "Bernau bei Berlin",
+        "addr:housenumber": "1",
+        "addr:postcode": "16321",
+        "addr:street": "Ringstra\u00dfe",
+        "building": "yes",
+        "contact:email": "lackierereijanetschekgbr@gmx.net",
+        "contact:phone": "+49 3338 70 10 13",
+        "craft": "car_painter",
+        "name": "Lackiererei Janetschek GbR",
+        "service:vehicle:painting": "yes",
+        "website": "https://lackiererei-janetschek-de.webnode.page/"
       }
     },
     {
@@ -599,6 +104,30 @@
       "id": 3136921595,
       "lat": 52.4124459,
       "lon": 13.663266
+    },
+    {
+      "type": "node",
+      "id": 5219675822,
+      "lat": 52.6826911,
+      "lon": 13.5577438
+    },
+    {
+      "type": "node",
+      "id": 5219675823,
+      "lat": 52.6824679,
+      "lon": 13.5576594
+    },
+    {
+      "type": "node",
+      "id": 8570561922,
+      "lat": 52.6827236,
+      "lon": 13.5575096
+    },
+    {
+      "type": "node",
+      "id": 8570561923,
+      "lat": 52.6825004,
+      "lon": 13.5574253
     },
     {
       "type": "node",

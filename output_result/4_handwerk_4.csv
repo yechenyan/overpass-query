@@ -1,49 +1,11 @@
 type,name,lat,lon,area_m2
-node,Tischlerei Fuhsy,52.5945098,13.4348908,0
-node,Tischlerei Manfred Reischke,52.5426401,13.3633157,0
-node,Fedtke Bautischlerei,52.4955899,13.5319122,0
-node,Innenausbau-Tischlerei Gräfe,52.4767461,13.6989473,0
-node,Tischlerei Ruhdi,52.4289096,13.5209926,0
-node,Tischlerei Construct & Beschlaghandel,52.3876968,13.0805723,0
-node,Werneuchener Tischlerei & Handels GmbH,52.6290053,13.7314087,0
-node,Tischlerei Krautzig GmbH,52.4632507,13.4421101,0
-node,Tischlerei Risse,52.4406221,13.3121403,0
-node,Schreinermeister Matthias Link,52.4900945,13.356336,0
-node,Tischlerei F. Vogt,52.499019,13.4641966,0
-node,Tischlerei Holzbock,52.5565734,13.3843857,0
-node,Stellmacherei und Tischlerei Riek,52.4140549,13.0308272,0
-node,Bau- und Möbeltischlerei Mohajer,52.4802715,13.3512842,0
-node,Hobbytischlerei für Jederman,52.504762,13.5887857,0
-node,J. Beckmann Tischlerei,52.3920519,13.5433227,0
-node,Tischlerei Liebel,52.5365494,13.4545961,0
-node,Tischlerei Stellmacher,52.5689294,13.3808667,0
-node,Tischlerei Petzold,52.5682374,13.3677379,0
-node,Tischlerei Düring,52.6515932,13.0094486,0
-node,Tischlerei Korkladen,52.5440795,13.4177383,0
-node,Tischlerei Zedler,52.4354536,13.6993826,0
-node,Otto Bau- und Möbeltischlerei,52.480006,13.345657,0
-node,Tischlerei R. Busse GmbH,52.4303556,13.755202,0
-node,V. Thiemich Bau- und Möbeltischlerei,52.5618161,13.3776003,0
-node,Tischlerei Wild-Werkstätten,52.4527706,13.3217816,0
-node,Tischlerei Thomas Kühne,52.4533925,13.548684,0
-node,Tischlerei Hochschild,52.6034506,13.8207478,0
-node,F.B. Tischlerei Kliche GmbH,52.5759138,13.3520256,0
-node,Tischlerei Peter Carstensen,52.5095531,13.2786483,0
-node,Tischleria GmbH,52.4336599,13.3660376,0
-node,Tischlerei,52.3935531,13.2436154,0
-node,Kunst - und Möbeltischlerei Charlottenburg,52.5136575,13.2924869,0
-node,Tischlerei megat,52.5068999,13.4940203,0
-node,Kieztischler,52.5007114,13.4294591,0
-node,Tischler Peter,52.6685086,13.5287916,0
-node,Horeba - Holzrestauration und Bautischlerei,52.5206319,13.4669785,0
-node,Tischlerei Marco Mietzner,52.6572237,13.4445048,0
-node,Tischlerei Thiess,52.4687839,13.4339577,0
 way,Tischlerei K & V,52.5642334,13.322489100000002,537.4181147123206
 way,Tischlerei Hätscher,52.50816466,13.483672899999998,1044.5651097405319
 way,Tischlerei Gegusch & Sohn,52.621691727272726,13.30398228181818,439.4894698987235
 way,Karin Reinwald Holzbautenvertrieb,52.59959350500001,13.6020825,3767.428110608223
 way,Möbel- u. Bautischlerei Friedrich GmbH,52.701804319999994,13.43855846,1066.8103245398083
 way,Tischlerei B. Rieger,52.70113378,13.438394920000002,398.60403573296236
+way,Zimmerei Schramm,52.51644342857143,12.973806385714287,114.7887874465273
 way,Tischlerei Woschinik,52.66121407142857,13.292115228571427,275.7172564946337
 way,Tischlerei Maßwerk,52.483075400000004,13.5005862,587.3351720416127
 way,Tischlerei Peter Hanert,52.64508031428572,13.524682628571428,301.08314208276516
@@ -52,6 +14,7 @@ way,Tischlerei Könitzer,52.35602186,13.097292200000002,120.78706199612094
 way,Tischlerei Hoffmann GmbH,52.5210596,13.533551120000002,320.3382488465966
 way,Tischlerei Gert Zyniewicz,52.4162666,13.658985522222222,512.4459032602801
 way,Tischlerei Perschke,52.45680264615385,13.750261046153849,300.60626971422454
+way,D & H Hozbau & Zimmerei,52.68602012,13.568115319999999,77.49281108398647
 way,Tischlerei Kleinert,52.349732659999994,13.832675840000002,152.93601215922058
 way,Tischlerei Schade,52.68343645555556,13.55764138888889,1757.4466567611569
 way,Tischlerei Frank Praetsch,52.40259294000001,13.10366831,1022.4786948733737

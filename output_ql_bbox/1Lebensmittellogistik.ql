@@ -6,24 +6,27 @@
   // query
   node({{bbox}})
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["shop"="wholesale"];
+    ["shop"="wholesale"]
+   ["building"];
   way({{bbox}})
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["shop"="wholesale"];
+    ["shop"="wholesale"]
+   ["building"];
   relation({{bbox}})
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["shop"="wholesale"];
+    ["shop"="wholesale"]
+   ["building"];
 
   // query
   node({{bbox}})
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["building"="wholesale"];
+    ["building"="warehouse"];
   way({{bbox}})
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["building"="wholesale"];
+    ["building"="warehouse"];
   relation({{bbox}})
     ["name"~"Metro|Transgourmet|Chefs Culinar|EGV|Selgros|Hamberger", i]
-    ["building"="wholesale"];
+    ["building"="warehouse"];
 );
 
 out body 100;

@@ -1,6 +1,17 @@
 [
     {
         "tags": {
+            "name": "Berlin Ostgüterbahnhof (B7)",
+            "official_name": "Berlin Warschauer Straße (F-Bahn) Bft",
+            "operator": "DB Netz AG",
+            "railway": "service_station",
+            "railway:ref": "BOSGA",
+            "railway:ref:parent": "BHF"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "landuse": "commercial",
             "name": "ehemals Güterbahnhof Halensee"
         },
@@ -18,8 +29,23 @@
     },
     {
         "tags": {
+            "landuse": "brownfield",
+            "name": "ehem. Containerbahnhof Frankfurter Allee"
+        },
+        "name": null
+    },
+    {
+        "tags": {
             "landuse": "commercial",
             "name": "Güterbahnhof Tempelhof"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "disused": "yes",
+            "landuse": "brownfield",
+            "name": "Ehemaliger Güterbahnhof Berlin-Köpenick"
         },
         "name": null
     },
@@ -28,6 +54,14 @@
             "landuse": "railway",
             "name": "Güterbahnhof Berlin-Treptow",
             "operator": "VEPAS Bahnservice"
+        },
+        "name": null
+    },
+    {
+        "tags": {
+            "description": "Bebauungsplan 03/19 Gemeinde Schönefeld",
+            "landuse": "brownfield",
+            "name": "Ehemaliger Güterbahnhof"
         },
         "name": null
     }

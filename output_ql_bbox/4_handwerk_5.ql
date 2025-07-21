@@ -4,9 +4,6 @@
 (
 
   // query
-  node({{bbox}})
-    ["name"~"Maler|Lackierer|Stuckateur|Fliesen|Fliesenleger|Bodenleger|Trockenbau|Fassaden", i]
-    ["craft"~"."];
   way({{bbox}})
     ["name"~"Maler|Lackierer|Stuckateur|Fliesen|Fliesenleger|Bodenleger|Trockenbau|Fassaden", i]
     ["craft"~"."];
