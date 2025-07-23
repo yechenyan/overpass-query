@@ -1,8 +1,16 @@
 [
   [
     {
-      "amenity$match$i": "fire_station|ambulance_station|disaster_response|police|emergency",
-      "_types": ["way"]
+      "amenity$match$i": "fire_station|ambulance_station|disaster_response|emergency",
+      "_types": ["way", "relation"]
+    },
+    {
+      "name$match": "Feuerwehr|Freiwillige Feuerwehr|Berufsfeuerwehr|Werkfeuerwehr|Feuerwehrhaus|Feuerwehrwache|Feuerwache|Löschzug|Rettungswache|Rettungsdienst|Katastrophenschutz|Technisches Hilfswerk|THW|DRK|ASB|Malteser|Johanniter",
+      "building$match": ".",
+      "name$neg": "Bege|Tagespflege",
+      "building$neg": "apartments|commercial",
+      "amenity$neg": "community_centre",
+      "_types": ["way", "relation"]
     }
   ]
 ]
