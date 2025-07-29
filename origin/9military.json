@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "landuse": "military",
+      "office$neg": "government",
+      "amenity$neg": "hospital",
+      "name$neg": "Militärgeschichte",
+      "man_made$neg": "surveillance",
+      "military$neg": "radar_facility|danger_area|obstacle_course",
+      "aeroway$neg": "heliport",
+      "_last": "[!\"was:operator\"][!\"abandoned:aeroway\"][!\"hospital\"][!\"abandoned\"][!\"disused\"][!\"historic\"][!\"memorial\"][!\"was:military\"][!\"military:past\"][!\"building:use\"]"
+    },
+    {
+      "military$match": "barracks|base|depot|airfield|training_area",
+      "amenity$neg": "hospital",
+      "office$neg": "government",
+      "name$neg": "Militärgeschichte",
+      "man_made$neg": "surveillance",
+      "_last": "[!\"was:operator\"][!\"abandoned:aeroway\"][!\"hospital\"][!\"abandoned\"][!\"disused\"][!\"historic\"][!\"memorial\"][!\"was:military\"][!\"military:past\"][!\"building:use\"]"
+    }
+  ]
+]
