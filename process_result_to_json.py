@@ -13,21 +13,19 @@ def extract_named_features(osm_data: dict) -> List[Dict]:
 
     for el in elements:
         tags = el.get("tags", None)
-        name = el.get("name", None)
 
-        if (tags == None) & (name == None):
+        if (tags == None) :
             continue
 
         item = {}
         if tags != None:
             item['tags'] = tags
         
-        if name != None:
-            item['name'] = name
+       
 
         item = {
             "tags": tags,
-            "name": name
+            "id": el.get("id", None)
         }   
 
         results.append(item)     

@@ -1,0 +1,4401 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-08-04T09:58:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 317399607,
+      "lat": 52.5146836,
+      "lon": 13.3691757,
+      "tags": {
+        "artist:wikidata": "Q445407",
+        "artist_name": "Louis Tuaillon",
+        "artwork_type": "statue",
+        "image": "File:Tuaillon1.jpg",
+        "material": "bronze",
+        "name": "Amazone zu Pferde",
+        "start_date": "1906",
+        "statue": "equestrian",
+        "subject:wikidata": "Q20925486",
+        "subject:wikipedia": "de:Amazone zu Pferde (Tuaillon)",
+        "tourism": "artwork",
+        "wikidata": "Q123390108",
+        "wikimedia_commons": "Category:Amazone zu Pferde (Louis Tuaillon)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683679240,
+      "lat": 52.4192717,
+      "lon": 13.5445374,
+      "tags": {
+        "craft": "roofer",
+        "name": "Schindler's Dachservice GbR",
+        "phone": "+49 30 6731398"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1855401528,
+      "lat": 52.5255281,
+      "lon": 13.4046254,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "10178",
+        "addr:street": "Weinmeisterstra\u00dfe",
+        "addr:suburb": "Mitte",
+        "check_date": "2024-11-27",
+        "name": "Zalando Beauty Station",
+        "opening_hours": "Mo-Sa 11:00-20:00",
+        "shop": "beauty",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3170856249,
+      "lat": 52.5042876,
+      "lon": 13.4443051,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:inclusion": "actual",
+        "addr:postcode": "10243",
+        "addr:street": "Tamara-Danz-Stra\u00dfe",
+        "addr:suburb": "Friedrichshain",
+        "contact:website": "http://www.zalando.com",
+        "name": "Zalando SE",
+        "office": "company",
+        "source": "Zalando SE",
+        "wheelchair": "limited",
+        "wheelchair:description": "Event-Space has three stairs to reach the seating area, the stage is not wheelchair accessible. No accessible WC.",
+        "wikidata": "Q136570",
+        "wikimedia_commons": "Category:Zalando",
+        "wikipedia": "en:Zalando"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3798254929,
+      "lat": 52.4809617,
+      "lon": 13.3052315,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "9-13",
+        "addr:postcode": "14199",
+        "addr:street": "Forckenbeckstra\u00dfe",
+        "addr:suburb": "Schmargendorf",
+        "brand": "Fedex",
+        "brand:wikidata": "Q459477",
+        "name": "FedEx Station",
+        "office": "logistics",
+        "opening_hours": "Mo-Fr 10:00-18:30",
+        "phone": "+4961076840660",
+        "website": "https://local.fedex.com/de-de/berlin/bera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3798313111,
+      "lat": 52.3761477,
+      "lon": 13.3144125,
+      "tags": {
+        "addr:city": "Gro\u00dfbeeren",
+        "addr:housenumber": "15",
+        "addr:postcode": "14979",
+        "addr:street": "Hauptstra\u00dfe",
+        "amenity": "post_depot",
+        "brand": "FedEx",
+        "brand:wikidata": "Q459477",
+        "name": "FedEx Gro\u00dfbeeren",
+        "operator": "FedEx",
+        "operator:type": "private",
+        "operator:wikidata": "Q459477"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3811297499,
+      "lat": 52.4566061,
+      "lon": 13.4531846,
+      "tags": {
+        "amenity": "post_office",
+        "brand": "FedEx",
+        "brand:wikidata": "Q459477",
+        "brand:wikipedia": "en:FedEx",
+        "name": "FedEx Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4353173363,
+      "lat": 52.5192739,
+      "lon": 13.3992475,
+      "tags": {
+        "artwork_type": "statue",
+        "image": "https://photos.app.goo.gl/FUjgt4nVqKBWw64XA",
+        "name": "Amazone zu Pferde",
+        "statue": "equestrian",
+        "tourism": "artwork",
+        "wheelchair": "limited",
+        "wikidata": "Q24036911",
+        "wikimedia_commons": "Category:Amazone zu Pferde (Berlin, Altes Museum)",
+        "wikipedia": "en:Amazone zu Pferde (Kiss)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4595460726,
+      "lat": 52.5675927,
+      "lon": 13.3097431,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2023-07-31",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "postal_code": "13405",
+        "ref": "julius"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4649834091,
+      "lat": 52.5040125,
+      "lon": 13.4078831,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes",
+        "ref": "fabian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4800494046,
+      "lat": 52.3817085,
+      "lon": 13.099748,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon locker",
+        "operator": "Amazon",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes",
+        "ref": "mattis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4818864902,
+      "lat": 52.5204188,
+      "lon": 13.3980879,
+      "tags": {
+        "artist:wikidata": "Q445407",
+        "artist_name": "Louis Tuaillon",
+        "artwork_type": "statue",
+        "image": "File:Sculpture in front of the Neues Museum.jpg",
+        "material": "bronze",
+        "name": "Amazone zu Pferde",
+        "start_date": "1985",
+        "statue": "equestrian",
+        "subject:wikidata": "Q20925486",
+        "subject:wikipedia": "de:Amazone zu Pferde (Tuaillon)",
+        "tourism": "artwork",
+        "wheelchair": "yes",
+        "wikidata": "Q20925508",
+        "wikimedia_commons": "Category:Amazone zu Pferde (Berlin-Tiergarten)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4856420625,
+      "lat": 52.5845509,
+      "lon": 13.4173638,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "postal_code": "13405",
+        "ref": "romy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4969996023,
+      "lat": 52.5055507,
+      "lon": 13.4327963,
+      "tags": {
+        "addr:housenumber": "20",
+        "addr:postcode": "10997",
+        "addr:street": "K\u00f6penicker Stra\u00dfe",
+        "email": "info@zalando-outlet.de",
+        "name": "Zalando Outlet",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "operator": "Zalando Outlets GmbH",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49800 330 09 96",
+        "shop": "clothes",
+        "website": "http://www.zalando-outlet.de/berlin",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5189604690,
+      "lat": 52.5899749,
+      "lon": 13.3346006,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes",
+        "postal_code": "13437",
+        "ref": "Isabell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5326297395,
+      "lat": 52.5197689,
+      "lon": 13.3552693,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2023-02-16",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes",
+        "postal_code": "10557",
+        "ref": "jannis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5798338461,
+      "lat": 52.5367008,
+      "lon": 13.2222411,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "amazon",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5798345138,
+      "lat": 52.5589337,
+      "lon": 13.2085279,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2024-06-08",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6253322800,
+      "lat": 52.5524383,
+      "lon": 13.3471595,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "indoor": "no",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes",
+        "ref": "revelle",
+        "surveillance": "outdoor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6292562766,
+      "lat": 52.510153,
+      "lon": 13.4991885,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6405900199,
+      "lat": 52.3791328,
+      "lon": 13.3007075,
+      "tags": {
+        "name": "Foodspring / Fiege Logistik Stiftung & Co. KG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6907063238,
+      "lat": 52.5041039,
+      "lon": 13.4437092,
+      "tags": {
+        "entrance": "main",
+        "name": "Zalando Deutschland BTD-L Main entrance with welcome desk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6908080032,
+      "lat": 52.3758319,
+      "lon": 13.1287418,
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "14480",
+        "addr:street": "Johannes-Kepler-Platz",
+        "addr:suburb": "Stern",
+        "amenity": "post_office",
+        "brand": "UPS",
+        "name": "UPS AccessPoint",
+        "opening_hours": "Mo-Fr 06:30-19:00; Sa 07:30-12:00; Su 09:30-12:30; PH off",
+        "operator": "Sp\u00e4tkauf",
+        "operator:type": "private",
+        "post_office:type": "post_partner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6967210423,
+      "lat": 52.4362795,
+      "lon": 13.5432009,
+      "tags": {
+        "amenity": "post_office",
+        "brand": "UPS",
+        "opening_hours": "07:00-24:00,00:00-01:00",
+        "post_office:type": "post_partner",
+        "ref": "522",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7117522953,
+      "lat": 52.37022,
+      "lon": 13.1415816,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "check_date": "2025-03-22",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "Lilian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7197430280,
+      "lat": 52.3861668,
+      "lon": 13.4994021,
+      "tags": {
+        "man_made": "works",
+        "name": "Geodis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7232733031,
+      "lat": 52.4394779,
+      "lon": 13.3790672,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7286608500,
+      "lat": 52.4823326,
+      "lon": 13.4322646,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "colour": "dimgrey",
+        "contact:website": "https://www.amazon.de/lockercarolien",
+        "description": "frei zug\u00e4nglich w\u00e4hrend der \u00d6ffnungszeiten der Neuk\u00f6lln Arcaden",
+        "level": "-1",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes",
+        "ref": "Carolien"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7319609717,
+      "lat": 52.5612373,
+      "lon": 13.3770156,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "postal_code": "13409",
+        "ref": "Mirja"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7563011885,
+      "lat": 52.408591,
+      "lon": 13.0762751,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "name": "Amazon Locker",
+        "operator": "Amazon",
+        "parcel_pickup": "yes",
+        "ref": "nahla"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7734367993,
+      "lat": 52.5606553,
+      "lon": 13.3660146,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7861574855,
+      "lat": 52.3731205,
+      "lon": 13.127327,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "contact:website": "https://www.amazon.de/lockerjohn",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "john"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7932894190,
+      "lat": 52.3861827,
+      "lon": 13.4904117,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Thomas-Dachser-Allee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7932894387,
+      "lat": 52.3856992,
+      "lon": 13.4906655,
+      "tags": {
+        "bus": "yes",
+        "name": "Thomas-Dachser-Allee",
+        "name:BVG": "Sch\u00f6nefeld (bei Berlin), Thomas-Dachser-Allee",
+        "public_transport": "stop_position",
+        "ref:BVG": "107628",
+        "website": "https://qr.bvg.de/h107628"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7932894388,
+      "lat": 52.386123,
+      "lon": 13.49039,
+      "tags": {
+        "bus": "yes",
+        "name": "Thomas-Dachser-Allee",
+        "name:BVG": "Sch\u00f6nefeld (bei Berlin), Thomas-Dachser-Allee",
+        "public_transport": "stop_position",
+        "ref:BVG": "107629",
+        "website": "https://qr.bvg.de/h107629"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7932894487,
+      "lat": 52.3856652,
+      "lon": 13.4906155,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Thomas-Dachser-Allee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8464115941,
+      "lat": 52.4036431,
+      "lon": 13.0334441,
+      "tags": {
+        "artwork_type": "statue",
+        "name": "Amazone Mattei",
+        "subject:wikidata": "Q1116625",
+        "tourism": "artwork",
+        "wikimedia_commons": "File:Potsdam Sanssouci-SizilianGarten Futtermauer-AmazoneMattei 20220903 130528.jpg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8483704485,
+      "lat": 52.6108443,
+      "lon": 13.2147318,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes",
+        "ref": "leena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8558452850,
+      "lat": 52.4761219,
+      "lon": 13.3412536,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes",
+        "ref": "jenna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8857184572,
+      "lat": 52.4059019,
+      "lon": 13.0104293,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "name": "Amazon Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "mieke",
+        "surveillance": "outdoor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8894276603,
+      "lat": 52.3816535,
+      "lon": 13.1170414,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon locker",
+        "operator": "Amazon",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes",
+        "ref": "J\u00f6rg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8898280202,
+      "lat": 52.5054543,
+      "lon": 13.4400099,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "20",
+        "addr:postcode": "10243",
+        "addr:street": "M\u00fchlenstra\u00dfe",
+        "name": "Zalando Corporate Office",
+        "office": "company",
+        "website": "https://www.zalando.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8914834854,
+      "lat": 52.504174,
+      "lon": 13.4435127,
+      "tags": {
+        "entrance": "office",
+        "name": "Zalando Deutschland BTD-L back"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8933047022,
+      "lat": 52.434004,
+      "lon": 13.5551176,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "yoselin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8979959601,
+      "lat": 52.3821777,
+      "lon": 13.0888446,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "check_date": "2024-04-08",
+        "name": "Amazon Locker umairah",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_pickup": "yes",
+        "ref": "umairah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8986455036,
+      "lat": 52.3643832,
+      "lon": 13.0954125,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "name": "Amazon Locker",
+        "operator": "Amazon",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9046431391,
+      "lat": 52.4234188,
+      "lon": 13.437257,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "june"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9127604320,
+      "lat": 52.5743281,
+      "lon": 13.3078866,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "filomena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9127607202,
+      "lat": 52.5729941,
+      "lon": 13.3078462,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "carissa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9174019281,
+      "lat": 52.409941,
+      "lon": 13.3040598,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9174019282,
+      "lat": 52.3963571,
+      "lon": 13.2755359,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9233775685,
+      "lat": 52.5665936,
+      "lon": 13.3222702,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "bake"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9243872691,
+      "lat": 52.490316,
+      "lon": 13.4522331,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "alang"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9270388136,
+      "lat": 52.5062606,
+      "lon": 13.4962301,
+      "tags": {
+        "amenity": "post_office",
+        "brand": "UPS",
+        "check_date:opening_hours": "2023-03-28",
+        "name": "UPS Access Point",
+        "opening_hours": "Mo-Sa 10:00-23:55",
+        "operator": "Kiosk 47",
+        "post_office": "post_partner",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9274660166,
+      "lat": 52.5355403,
+      "lon": 13.4318467,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9274660167,
+      "lat": 52.5312937,
+      "lon": 13.4385972,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9288421026,
+      "lat": 52.5772388,
+      "lon": 13.3078261,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "hair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9318769113,
+      "lat": 52.4408934,
+      "lon": 13.5440524,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "operator": "Amazon",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes",
+        "ref": "dali"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9366533658,
+      "lat": 52.3761106,
+      "lon": 13.6419278,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9400305735,
+      "lat": 52.5729816,
+      "lon": 13.5641173,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9439527613,
+      "lat": 52.4935773,
+      "lon": 13.5074001,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2025-07-28",
+        "operator": "Amazon",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9439527615,
+      "lat": 52.4927525,
+      "lon": 13.5072757,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2025-02-23",
+        "colour": "darkgrey",
+        "level": "0",
+        "material": "metal",
+        "object:floor": "0",
+        "object:housenumber": "9f",
+        "object:street": "Dolgenseestra\u00dfe",
+        "operator": "Amazon",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9485671217,
+      "lat": 52.607354,
+      "lon": 13.3295411,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "check_date": "2022-06-18",
+        "description": "\"named\" idrees",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9490484481,
+      "lat": 52.6862151,
+      "lon": 13.2823853,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon Hub Locker",
+        "operator": "amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9527370464,
+      "lat": 52.5008033,
+      "lon": 13.4120021,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes",
+        "postal_code": "10969",
+        "ref": "jann"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9530594458,
+      "lat": 52.5422084,
+      "lon": 13.4556601,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes",
+        "ref": "abrama"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9557889431,
+      "lat": 52.3995363,
+      "lon": 13.5746014,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9569702016,
+      "lat": 52.5942286,
+      "lon": 13.325396,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "check_date": "2025-02-25",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9584532985,
+      "lat": 52.5553464,
+      "lon": 13.2250113,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2024-12-04",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9632063409,
+      "lat": 52.4668536,
+      "lon": 13.3420652,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9670868249,
+      "lat": 52.4273609,
+      "lon": 13.7484632,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "ref": "penina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9670882020,
+      "lat": 52.4304085,
+      "lon": 13.7531898,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "passt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9701771544,
+      "lat": 52.5712734,
+      "lon": 13.3067943,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "chlodwig"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9732237027,
+      "lat": 52.5081525,
+      "lon": 13.4239572,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes",
+        "ref": "gianna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9738445214,
+      "lat": 52.4200771,
+      "lon": 13.8226584,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q16974764",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9751498306,
+      "lat": 52.4719777,
+      "lon": 13.47972,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2024-10-17",
+        "operator": "Amazon",
+        "operator:wikipedia": "de:Amazon",
+        "parcel_pickup": "yes",
+        "postal_code": "12437",
+        "ref": "tjaard"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9757532996,
+      "lat": 52.4925366,
+      "lon": 13.3706629,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2025-07-17",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9774576782,
+      "lat": 52.5479166,
+      "lon": 13.1968336,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "note:de": "Smartphone mit Amazon Shopping App ben\u00f6tigt.",
+        "object:city": "Berlin",
+        "object:country": "DE",
+        "object:housenumber": "8",
+        "object:postcode": "13585",
+        "object:street": "Fehrbelliner Stra\u00dfe",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "eamon",
+        "surveillance": "outdoor",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9774576783,
+      "lat": 52.5467298,
+      "lon": 13.1974702,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "note:de": "Smartphone mit Amazon Shopping App ben\u00f6tigt.",
+        "object:city": "Berlin",
+        "object:country": "DE",
+        "object:housenumber": "30",
+        "object:postcode": "13585",
+        "object:street": "Ackerstra\u00dfe",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "earth",
+        "surveillance": "outdoor",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9803025916,
+      "lat": 52.531829,
+      "lon": 13.8070627,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q16974764",
+        "check_date": "2024-02-10",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9832457165,
+      "lat": 52.5489714,
+      "lon": 13.4409296,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_pickup": "yes",
+        "postal_code": "10409"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9855810499,
+      "lat": 52.3663366,
+      "lon": 13.3137709,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q16974764",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "ref": "veloria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9873983029,
+      "lat": 52.5052493,
+      "lon": 13.4449764,
+      "tags": {
+        "check_date": "2024-04-28",
+        "name": "Zalando",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9880850016,
+      "lat": 52.4224334,
+      "lon": 13.3573942,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "111",
+        "addr:postcode": "12249",
+        "addr:street": "Malteserstra\u00dfe",
+        "addr:suburb": "Lankwitz",
+        "contact:email": "info@amazonasgranit.de",
+        "contact:phone": "+49 30 76882460",
+        "contact:website": "https://www.amazonas-granit.de",
+        "craft": "stonemason",
+        "name": "Amazonas Granit Berlin",
+        "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-16:00",
+        "source": "Geoportal Berlin / Hauskoordinaten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9943944056,
+      "lat": 52.5273897,
+      "lon": 13.6863475,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q16974764",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9947020459,
+      "lat": 52.5425023,
+      "lon": 13.36716,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "check_date": "2024-04-22",
+        "name": "amazonlocker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "Iania"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9951317859,
+      "lat": 52.6934598,
+      "lon": 13.2772606,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "de:Amazon",
+        "parcel_pickup": "yes",
+        "ref": "begonien"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9983010238,
+      "lat": 52.5246138,
+      "lon": 13.5347356,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9999270295,
+      "lat": 52.7238456,
+      "lon": 13.1897728,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10000995178,
+      "lat": 52.5391156,
+      "lon": 13.4985459,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10011020942,
+      "lat": 52.5583873,
+      "lon": 13.4325244,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "Garnele"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10011023593,
+      "lat": 52.5544431,
+      "lon": 13.4066223,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "alva"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10030843605,
+      "lat": 52.5296396,
+      "lon": 13.4590696,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10031493881,
+      "lat": 52.5280501,
+      "lon": 13.4230939,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "check_date": "2024-06-24",
+        "display_operated": "yes",
+        "indoor": "no",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "abra",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10036070921,
+      "lat": 52.5284019,
+      "lon": 13.4222676,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "yes",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10039621010,
+      "lat": 52.5470496,
+      "lon": 13.4076888,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "yes",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "check_date": "2024-09-27",
+        "display_operated": "yes",
+        "indoor": "no",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "bagad",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10073968725,
+      "lat": 52.5299875,
+      "lon": 13.339364,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_pickup": "yes",
+        "ref": "dainton"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10075542120,
+      "lat": 52.5427863,
+      "lon": 13.4425361,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_pickup": "yes",
+        "ref": "bague"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10102703118,
+      "lat": 52.5549284,
+      "lon": 13.3920918,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "operator": "Amazon",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "anouk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10102711917,
+      "lat": 52.5554002,
+      "lon": 13.3842595,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "object:housenumber": "20",
+        "object:postcode": "13357",
+        "object:street": "Prinzenallee",
+        "operator": "Amazon",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "jenny",
+        "website": "https://www.amazon.de/lockerjenny"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10106688004,
+      "lat": 52.5026168,
+      "lon": 13.4028476,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker Dagame",
+        "operator": "Amazon",
+        "parcel_pickup": "yes",
+        "ref": "dagame",
+        "website": "https://amazonhub.de/lockerdagame"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10113393817,
+      "lat": 52.3963833,
+      "lon": 13.2758387,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10120198954,
+      "lat": 52.4460103,
+      "lon": 13.5633589,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "contact:website": "amazon.de/lockerfardin",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "fardin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10123859730,
+      "lat": 52.5499523,
+      "lon": 13.5828159,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "mapillary": "667431701475971",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_pickup": "yes",
+        "ref": "bockshornklee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10126435660,
+      "lat": 52.5009889,
+      "lon": 13.3935879,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10132897747,
+      "lat": 52.5403693,
+      "lon": 13.4334201,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "ref": "avino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10155130232,
+      "lat": 52.4935768,
+      "lon": 13.50739,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2025-07-28",
+        "operator": "Amazon",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10161505714,
+      "lat": 52.6173844,
+      "lon": 13.4867174,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10166854176,
+      "lat": 52.4192869,
+      "lon": 13.3194486,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "brand:wikipedia": "en:Amazon Locker",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10166854177,
+      "lat": 52.4163449,
+      "lon": 13.3199806,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10166854178,
+      "lat": 52.4144379,
+      "lon": 13.3181056,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10180473117,
+      "lat": 52.4475467,
+      "lon": 13.5940978,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10181158345,
+      "lat": 52.4844545,
+      "lon": 13.3402844,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10197171470,
+      "lat": 52.430988,
+      "lon": 13.3432941,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "ibo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10219216830,
+      "lat": 52.4910634,
+      "lon": 13.5213414,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10220392181,
+      "lat": 52.5632808,
+      "lon": 13.5697908,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_pickup": "yes",
+        "ref": "nedim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10220392182,
+      "lat": 52.5644242,
+      "lon": 13.5772562,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2023-05-28",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_pickup": "yes",
+        "ref": "neilos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10220392184,
+      "lat": 52.5679494,
+      "lon": 13.5723437,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "note": "Innerhalb des SB Waschsalons",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Amazon",
+        "parcel_pickup": "yes",
+        "ref": "Glenmor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10222888816,
+      "lat": 52.4200752,
+      "lon": 13.502698,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10225143086,
+      "lat": 52.4185157,
+      "lon": 13.4168351,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "contact:website": "amazon.de/lockerpalila",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "palila"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10243351385,
+      "lat": 52.4995727,
+      "lon": 13.4041546,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10243398752,
+      "lat": 52.4990747,
+      "lon": 13.3952447,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10286885066,
+      "lat": 52.5733622,
+      "lon": 13.5625632,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10286885072,
+      "lat": 52.5741142,
+      "lon": 13.5597567,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10286885081,
+      "lat": 52.5725793,
+      "lon": 13.5581218,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10298074934,
+      "lat": 52.5280535,
+      "lon": 13.4501497,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "ref": "abhinav"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10303918166,
+      "lat": 52.4398618,
+      "lon": 13.5980785,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10314238281,
+      "lat": 52.5340196,
+      "lon": 13.4417326,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10314437489,
+      "lat": 52.5332727,
+      "lon": 13.4429439,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10316059867,
+      "lat": 52.5367711,
+      "lon": 13.4497105,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10572867511,
+      "lat": 52.538772,
+      "lon": 13.4510342,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10592100959,
+      "lat": 52.5419147,
+      "lon": 13.4550406,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10594243573,
+      "lat": 52.5435078,
+      "lon": 13.433376,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10595423352,
+      "lat": 52.5489368,
+      "lon": 13.432987,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2025-08-01",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10595818370,
+      "lat": 52.5541287,
+      "lon": 13.4120366,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2024-02-11",
+        "level": "0",
+        "operator": "Amazon",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "maider",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10607828504,
+      "lat": 52.5550266,
+      "lon": 13.4142288,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "parcel_pickup": "yes",
+        "ref": "pam",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10630700402,
+      "lat": 52.5374193,
+      "lon": 13.4060798,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2024-07-22",
+        "colour": "grey",
+        "indoor": "no",
+        "level": "0",
+        "name": "Amazon Hub Locker",
+        "object:floor": "0",
+        "object:housenumber": "35",
+        "object:street": "Schwedter Stra\u00dfe",
+        "operator": "Amazon",
+        "parcel_pickup": "yes",
+        "ref": "abelina",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10650887436,
+      "lat": 52.4626175,
+      "lon": 13.5210792,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10665925392,
+      "lat": 52.5484651,
+      "lon": 13.3687123,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "operator": "Amazon De",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10677797825,
+      "lat": 52.4235551,
+      "lon": 13.5756262,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker",
+        "opening_hours": "24/7",
+        "rev": "dalida"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10686832002,
+      "lat": 52.5200462,
+      "lon": 13.4869033,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "colour": "grey",
+        "name": "baldassarre",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10688108880,
+      "lat": 52.5497502,
+      "lon": 13.4321334,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub Locker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10722813096,
+      "lat": 52.4548384,
+      "lon": 13.6148419,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "check_date": "2025-04-09"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10728442150,
+      "lat": 52.5419351,
+      "lon": 13.3979052,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "indoor": "no",
+        "name": "marcus",
+        "opening_hours": "24/7",
+        "operator": "amazon.com",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10742476121,
+      "lat": 52.4346181,
+      "lon": 13.5446365,
+      "tags": {
+        "amenity": "parcel_locker",
+        "authentication:barcode_scanner": "no",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "brand:wikipedia": "en:Amazon Locker",
+        "display_operated": "no",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "operator:wikidata": "Q3884",
+        "operator:wikipedia": "en:Amazon (company)",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "returns_only",
+        "parcel_pickup": "yes",
+        "ref": "dalmato"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10746296079,
+      "lat": 52.6296109,
+      "lon": 13.5279576,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10772570726,
+      "lat": 52.5089335,
+      "lon": 13.4972232,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "jacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10774498728,
+      "lat": 52.5913259,
+      "lon": 13.3838778,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "parcel_pickup": "yes",
+        "ref": "alessia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10790511651,
+      "lat": 52.4143952,
+      "lon": 13.5727917,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "opening_hours": "24/7",
+        "operator": "Amazon",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes",
+        "ref": "Sahara",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10793025528,
+      "lat": 52.5137396,
+      "lon": 13.311401,
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764",
+        "colour": "blue",
+        "name": "Amazon Locker - caelab",
+        "opening_hours": "24/7",
+        "parcel_locker:type": "cabinet",
+        "parcel_mail_in": "no",
+        "parcel_pickup": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9330435664,
+      "lat": 52.3588138,
+      "lon": 13.2937025
+    },
+    {
+      "type": "node",
+      "id": 9330435665,
+      "lat": 52.3591677,
+      "lon": 13.2915245
+    },
+    {
+      "type": "node",
+      "id": 324206346,
+      "lat": 52.360217,
+      "lon": 13.2919737
+    },
+    {
+      "type": "node",
+      "id": 9352213064,
+      "lat": 52.3604898,
+      "lon": 13.2920568
+    },
+    {
+      "type": "node",
+      "id": 9352213065,
+      "lat": 52.3603384,
+      "lon": 13.294006
+    },
+    {
+      "type": "node",
+      "id": 9352213066,
+      "lat": 52.3604383,
+      "lon": 13.2928014
+    },
+    {
+      "type": "node",
+      "id": 9352213067,
+      "lat": 52.3609478,
+      "lon": 13.2929128
+    },
+    {
+      "type": "node",
+      "id": 9352213068,
+      "lat": 52.3609983,
+      "lon": 13.2922117
+    },
+    {
+      "type": "node",
+      "id": 1327142442,
+      "lat": 52.3763324,
+      "lon": 13.3016641
+    },
+    {
+      "type": "node",
+      "id": 1327142461,
+      "lat": 52.3754081,
+      "lon": 13.3038754
+    },
+    {
+      "type": "node",
+      "id": 3871433677,
+      "lat": 52.3782297,
+      "lon": 13.3069909
+    },
+    {
+      "type": "node",
+      "id": 3871433679,
+      "lat": 52.3783465,
+      "lon": 13.3039729
+    },
+    {
+      "type": "node",
+      "id": 3871433680,
+      "lat": 52.3784378,
+      "lon": 13.3059849
+    },
+    {
+      "type": "node",
+      "id": 3871433681,
+      "lat": 52.3784606,
+      "lon": 13.3046914
+    },
+    {
+      "type": "node",
+      "id": 3871433682,
+      "lat": 52.3784739,
+      "lon": 13.3053459
+    },
+    {
+      "type": "node",
+      "id": 3993604569,
+      "lat": 52.3728133,
+      "lon": 13.3224653
+    },
+    {
+      "type": "node",
+      "id": 10120245168,
+      "lat": 52.3729107,
+      "lon": 13.3225539
+    },
+    {
+      "type": "node",
+      "id": 10120245169,
+      "lat": 52.3730051,
+      "lon": 13.3222754
+    },
+    {
+      "type": "node",
+      "id": 3993604570,
+      "lat": 52.3732753,
+      "lon": 13.3211028
+    },
+    {
+      "type": "node",
+      "id": 4481952980,
+      "lat": 52.3742897,
+      "lon": 13.3234441
+    },
+    {
+      "type": "node",
+      "id": 4481952982,
+      "lat": 52.3746573,
+      "lon": 13.32236
+    },
+    {
+      "type": "node",
+      "id": 6005378046,
+      "lat": 52.4365116,
+      "lon": 13.3749046
+    },
+    {
+      "type": "node",
+      "id": 6005378047,
+      "lat": 52.4365926,
+      "lon": 13.3732542
+    },
+    {
+      "type": "node",
+      "id": 6005378048,
+      "lat": 52.4348836,
+      "lon": 13.37304
+    },
+    {
+      "type": "node",
+      "id": 6005378049,
+      "lat": 52.4348032,
+      "lon": 13.3746835
+    },
+    {
+      "type": "node",
+      "id": 9196042259,
+      "lat": 52.4354639,
+      "lon": 13.3731091
+    },
+    {
+      "type": "node",
+      "id": 9196042291,
+      "lat": 52.4348451,
+      "lon": 13.3738577
+    },
+    {
+      "type": "node",
+      "id": 426013321,
+      "lat": 52.564573,
+      "lon": 12.9807669
+    },
+    {
+      "type": "node",
+      "id": 426013329,
+      "lat": 52.5642808,
+      "lon": 12.9810944
+    },
+    {
+      "type": "node",
+      "id": 426013331,
+      "lat": 52.5643996,
+      "lon": 12.9813688
+    },
+    {
+      "type": "node",
+      "id": 426013334,
+      "lat": 52.5647165,
+      "lon": 12.982028
+    },
+    {
+      "type": "node",
+      "id": 426013337,
+      "lat": 52.5648461,
+      "lon": 12.9823275
+    },
+    {
+      "type": "node",
+      "id": 426013339,
+      "lat": 52.5651153,
+      "lon": 12.9820018
+    },
+    {
+      "type": "node",
+      "id": 426013348,
+      "lat": 52.5634349,
+      "lon": 12.9825009
+    },
+    {
+      "type": "node",
+      "id": 426013356,
+      "lat": 52.5642103,
+      "lon": 12.9815905
+    },
+    {
+      "type": "node",
+      "id": 426013366,
+      "lat": 52.5641148,
+      "lon": 12.9817045
+    },
+    {
+      "type": "node",
+      "id": 426013376,
+      "lat": 52.5639977,
+      "lon": 12.9810994
+    },
+    {
+      "type": "node",
+      "id": 426013380,
+      "lat": 52.5639016,
+      "lon": 12.981212
+    },
+    {
+      "type": "node",
+      "id": 426013352,
+      "lat": 52.5637302,
+      "lon": 12.9831833
+    },
+    {
+      "type": "node",
+      "id": 2001992848,
+      "lat": 52.455272,
+      "lon": 13.4016092
+    },
+    {
+      "type": "node",
+      "id": 2001992910,
+      "lat": 52.4555764,
+      "lon": 13.4016585
+    },
+    {
+      "type": "node",
+      "id": 2001992817,
+      "lat": 52.4551945,
+      "lon": 13.4026403
+    },
+    {
+      "type": "node",
+      "id": 2001992874,
+      "lat": 52.4553556,
+      "lon": 13.4029204
+    },
+    {
+      "type": "node",
+      "id": 2001992882,
+      "lat": 52.4553747,
+      "lon": 13.402678
+    },
+    {
+      "type": "node",
+      "id": 2001992890,
+      "lat": 52.4553989,
+      "lon": 13.4029312
+    },
+    {
+      "type": "node",
+      "id": 2001992892,
+      "lat": 52.4554171,
+      "lon": 13.4026875
+    },
+    {
+      "type": "node",
+      "id": 2001992899,
+      "lat": 52.4555002,
+      "lon": 13.4027049
+    },
+    {
+      "type": "node",
+      "id": 3404923868,
+      "lat": 52.455205,
+      "lon": 13.4025011
+    },
+    {
+      "type": "node",
+      "id": 3810196781,
+      "lat": 52.5846849,
+      "lon": 13.3495188
+    },
+    {
+      "type": "node",
+      "id": 270824219,
+      "lat": 52.5846035,
+      "lon": 13.3505658
+    },
+    {
+      "type": "node",
+      "id": 270824220,
+      "lat": 52.5853213,
+      "lon": 13.3508199
+    },
+    {
+      "type": "node",
+      "id": 270824221,
+      "lat": 52.5854556,
+      "lon": 13.3497917
+    },
+    {
+      "type": "node",
+      "id": 3810196780,
+      "lat": 52.5846472,
+      "lon": 13.3498077
+    },
+    {
+      "type": "node",
+      "id": 4577913987,
+      "lat": 52.5847001,
+      "lon": 13.3498265
+    },
+    {
+      "type": "node",
+      "id": 10592135283,
+      "lat": 52.7122215,
+      "lon": 13.1285915
+    },
+    {
+      "type": "node",
+      "id": 10592135284,
+      "lat": 52.7113721,
+      "lon": 13.1283669
+    },
+    {
+      "type": "node",
+      "id": 10592135285,
+      "lat": 52.711272,
+      "lon": 13.1293099
+    },
+    {
+      "type": "node",
+      "id": 10592135286,
+      "lat": 52.712124,
+      "lon": 13.1295385
+    },
+    {
+      "type": "node",
+      "id": 11207360794,
+      "lat": 52.7120517,
+      "lon": 13.1295191
+    },
+    {
+      "type": "node",
+      "id": 430704300,
+      "lat": 52.3846977,
+      "lon": 13.4930421
+    },
+    {
+      "type": "node",
+      "id": 430704301,
+      "lat": 52.3849406,
+      "lon": 13.4936146
+    },
+    {
+      "type": "node",
+      "id": 2987394263,
+      "lat": 52.3842234,
+      "lon": 13.4929443
+    },
+    {
+      "type": "node",
+      "id": 2987394264,
+      "lat": 52.3838567,
+      "lon": 13.493409
+    },
+    {
+      "type": "node",
+      "id": 3414009979,
+      "lat": 52.385578,
+      "lon": 13.4937526
+    },
+    {
+      "type": "node",
+      "id": 3414009983,
+      "lat": 52.3856252,
+      "lon": 13.4936985
+    },
+    {
+      "type": "node",
+      "id": 3414009985,
+      "lat": 52.3855606,
+      "lon": 13.4937118
+    },
+    {
+      "type": "node",
+      "id": 3414015997,
+      "lat": 52.3855012,
+      "lon": 13.4937799
+    },
+    {
+      "type": "node",
+      "id": 3428256692,
+      "lat": 52.3859402,
+      "lon": 13.4924758
+    },
+    {
+      "type": "node",
+      "id": 3428256696,
+      "lat": 52.3854299,
+      "lon": 13.4930572
+    },
+    {
+      "type": "node",
+      "id": 7932894189,
+      "lat": 52.3860187,
+      "lon": 13.4905077
+    },
+    {
+      "type": "node",
+      "id": 7932894190,
+      "lat": 52.3861827,
+      "lon": 13.4904117
+    },
+    {
+      "type": "node",
+      "id": 7932894287,
+      "lat": 52.3857812,
+      "lon": 13.4905371
+    },
+    {
+      "type": "node",
+      "id": 7932894387,
+      "lat": 52.3856992,
+      "lon": 13.4906655
+    },
+    {
+      "type": "node",
+      "id": 7932894388,
+      "lat": 52.386123,
+      "lon": 13.49039
+    },
+    {
+      "type": "node",
+      "id": 7932894487,
+      "lat": 52.3856652,
+      "lon": 13.4906155
+    },
+    {
+      "type": "node",
+      "id": 9718166121,
+      "lat": 52.3859511,
+      "lon": 13.4924634
+    },
+    {
+      "type": "node",
+      "id": 9718166122,
+      "lat": 52.3859264,
+      "lon": 13.4924915
+    },
+    {
+      "type": "node",
+      "id": 9718166125,
+      "lat": 52.3849435,
+      "lon": 13.4936114
+    },
+    {
+      "type": "node",
+      "id": 9718166126,
+      "lat": 52.384752,
+      "lon": 13.4929801
+    },
+    {
+      "type": "node",
+      "id": 9718166143,
+      "lat": 52.3838927,
+      "lon": 13.4933217
+    },
+    {
+      "type": "node",
+      "id": 9718166144,
+      "lat": 52.3838453,
+      "lon": 13.4933756
+    },
+    {
+      "type": "node",
+      "id": 9718166145,
+      "lat": 52.3838585,
+      "lon": 13.4934069
+    },
+    {
+      "type": "node",
+      "id": 9718166146,
+      "lat": 52.3839059,
+      "lon": 13.493353
+    },
+    {
+      "type": "node",
+      "id": 9718166147,
+      "lat": 52.3841888,
+      "lon": 13.4930309
+    },
+    {
+      "type": "node",
+      "id": 9718166148,
+      "lat": 52.3841753,
+      "lon": 13.4929991
+    },
+    {
+      "type": "node",
+      "id": 9718166149,
+      "lat": 52.3838572,
+      "lon": 13.4934158
+    },
+    {
+      "type": "node",
+      "id": 9718166150,
+      "lat": 52.3838588,
+      "lon": 13.493414
+    },
+    {
+      "type": "node",
+      "id": 9718166151,
+      "lat": 52.384719,
+      "lon": 13.4938575
+    },
+    {
+      "type": "node",
+      "id": 9718166155,
+      "lat": 52.3842418,
+      "lon": 13.4929726
+    },
+    {
+      "type": "node",
+      "id": 9718166156,
+      "lat": 52.3842375,
+      "lon": 13.4929775
+    },
+    {
+      "type": "node",
+      "id": 2087585059,
+      "lat": 52.3850598,
+      "lon": 13.4969234
+    },
+    {
+      "type": "node",
+      "id": 2087585069,
+      "lat": 52.3855521,
+      "lon": 13.4983108
+    },
+    {
+      "type": "node",
+      "id": 2087585073,
+      "lat": 52.3856029,
+      "lon": 13.4961017
+    },
+    {
+      "type": "node",
+      "id": 2087585075,
+      "lat": 52.3856826,
+      "lon": 13.4963329
+    },
+    {
+      "type": "node",
+      "id": 2087585077,
+      "lat": 52.3857314,
+      "lon": 13.4959822
+    },
+    {
+      "type": "node",
+      "id": 2087585079,
+      "lat": 52.3858121,
+      "lon": 13.4962107
+    },
+    {
+      "type": "node",
+      "id": 2987394262,
+      "lat": 52.3850906,
+      "lon": 13.4949698
+    },
+    {
+      "type": "node",
+      "id": 2987394265,
+      "lat": 52.3847065,
+      "lon": 13.4954072
+    },
+    {
+      "type": "node",
+      "id": 3414009967,
+      "lat": 52.3853807,
+      "lon": 13.4941906
+    },
+    {
+      "type": "node",
+      "id": 3414009969,
+      "lat": 52.3853375,
+      "lon": 13.49424
+    },
+    {
+      "type": "node",
+      "id": 3414009970,
+      "lat": 52.3854123,
+      "lon": 13.4941583
+    },
+    {
+      "type": "node",
+      "id": 3414009974,
+      "lat": 52.3857548,
+      "lon": 13.4940022
+    },
+    {
+      "type": "node",
+      "id": 3414009981,
+      "lat": 52.3854283,
+      "lon": 13.4941958
+    },
+    {
+      "type": "node",
+      "id": 3414009982,
+      "lat": 52.3854521,
+      "lon": 13.4941127
+    },
+    {
+      "type": "node",
+      "id": 3414009984,
+      "lat": 52.385412,
+      "lon": 13.4942145
+    },
+    {
+      "type": "node",
+      "id": 3414009986,
+      "lat": 52.3855197,
+      "lon": 13.4942713
+    },
+    {
+      "type": "node",
+      "id": 3414009988,
+      "lat": 52.3852593,
+      "lon": 13.4940568
+    },
+    {
+      "type": "node",
+      "id": 3414009990,
+      "lat": 52.3853978,
+      "lon": 13.4942308
+    },
+    {
+      "type": "node",
+      "id": 3414015994,
+      "lat": 52.3853188,
+      "lon": 13.4939886
+    },
+    {
+      "type": "node",
+      "id": 3428258509,
+      "lat": 52.385641,
+      "lon": 13.4941324
+    },
+    {
+      "type": "node",
+      "id": 9718137794,
+      "lat": 52.3850372,
+      "lon": 13.494424
+    },
+    {
+      "type": "node",
+      "id": 9718137795,
+      "lat": 52.3850895,
+      "lon": 13.4945472
+    },
+    {
+      "type": "node",
+      "id": 9718137796,
+      "lat": 52.3849693,
+      "lon": 13.494684
+    },
+    {
+      "type": "node",
+      "id": 9718137797,
+      "lat": 52.3849167,
+      "lon": 13.4945612
+    },
+    {
+      "type": "node",
+      "id": 9718166137,
+      "lat": 52.3844582,
+      "lon": 13.4952713
+    },
+    {
+      "type": "node",
+      "id": 9718166138,
+      "lat": 52.3843953,
+      "lon": 13.4951229
+    },
+    {
+      "type": "node",
+      "id": 9718166139,
+      "lat": 52.3845208,
+      "lon": 13.4949799
+    },
+    {
+      "type": "node",
+      "id": 9718166140,
+      "lat": 52.3845844,
+      "lon": 13.4951276
+    },
+    {
+      "type": "node",
+      "id": 9718166141,
+      "lat": 52.3847026,
+      "lon": 13.4954062
+    },
+    {
+      "type": "node",
+      "id": 9718166142,
+      "lat": 52.3847049,
+      "lon": 13.4954035
+    },
+    {
+      "type": "node",
+      "id": 9718166152,
+      "lat": 52.3847342,
+      "lon": 13.4938933
+    },
+    {
+      "type": "node",
+      "id": 9718166153,
+      "lat": 52.3846662,
+      "lon": 13.4939708
+    },
+    {
+      "type": "node",
+      "id": 9718166154,
+      "lat": 52.3846504,
+      "lon": 13.4939357
+    },
+    {
+      "type": "node",
+      "id": 430704299,
+      "lat": 52.3862939,
+      "lon": 13.4912234
+    },
+    {
+      "type": "node",
+      "id": 430704302,
+      "lat": 52.3865369,
+      "lon": 13.4917959
+    },
+    {
+      "type": "node",
+      "id": 2087585095,
+      "lat": 52.3863899,
+      "lon": 13.4914495
+    },
+    {
+      "type": "node",
+      "id": 2485586913,
+      "lat": 52.3865139,
+      "lon": 13.4903897
+    },
+    {
+      "type": "node",
+      "id": 2485586916,
+      "lat": 52.3864695,
+      "lon": 13.4902599
+    },
+    {
+      "type": "node",
+      "id": 2485817003,
+      "lat": 52.3869524,
+      "lon": 13.4924909
+    },
+    {
+      "type": "node",
+      "id": 2485817008,
+      "lat": 52.3870987,
+      "lon": 13.4932239
+    },
+    {
+      "type": "node",
+      "id": 3273389686,
+      "lat": 52.3872228,
+      "lon": 13.4938623
+    },
+    {
+      "type": "node",
+      "id": 6760056116,
+      "lat": 52.3871792,
+      "lon": 13.4936425
+    },
+    {
+      "type": "node",
+      "id": 9718166118,
+      "lat": 52.3865362,
+      "lon": 13.4917968
+    },
+    {
+      "type": "node",
+      "id": 311223391,
+      "lat": 52.3881107,
+      "lon": 13.4982068
+    },
+    {
+      "type": "node",
+      "id": 311223392,
+      "lat": 52.3881787,
+      "lon": 13.4985095
+    },
+    {
+      "type": "node",
+      "id": 2087585116,
+      "lat": 52.3870382,
+      "lon": 13.4950502
+    },
+    {
+      "type": "node",
+      "id": 2087585118,
+      "lat": 52.3870753,
+      "lon": 13.4950748
+    },
+    {
+      "type": "node",
+      "id": 2087585120,
+      "lat": 52.3870868,
+      "lon": 13.4951089
+    },
+    {
+      "type": "node",
+      "id": 2087585128,
+      "lat": 52.3871986,
+      "lon": 13.4954303
+    },
+    {
+      "type": "node",
+      "id": 2087585138,
+      "lat": 52.3875491,
+      "lon": 13.4964172
+    },
+    {
+      "type": "node",
+      "id": 4506910645,
+      "lat": 52.3873305,
+      "lon": 13.4943899
+    },
+    {
+      "type": "node",
+      "id": 4506910648,
+      "lat": 52.3875113,
+      "lon": 13.4952753
+    },
+    {
+      "type": "node",
+      "id": 5545058119,
+      "lat": 52.388083,
+      "lon": 13.4980746
+    },
+    {
+      "type": "node",
+      "id": 6760056092,
+      "lat": 52.387773,
+      "lon": 13.4965572
+    },
+    {
+      "type": "node",
+      "id": 6760056111,
+      "lat": 52.3874171,
+      "lon": 13.4948139
+    },
+    {
+      "type": "node",
+      "id": 8479097352,
+      "lat": 52.3880958,
+      "lon": 13.4981384
+    },
+    {
+      "type": "node",
+      "id": 8543284417,
+      "lat": 52.3881227,
+      "lon": 13.4982633
+    },
+    {
+      "type": "node",
+      "id": 8543284418,
+      "lat": 52.3881598,
+      "lon": 13.4984263
+    },
+    {
+      "type": "node",
+      "id": 9083951334,
+      "lat": 52.38804,
+      "lon": 13.4978617
+    },
+    {
+      "type": "node",
+      "id": 9430943617,
+      "lat": 52.387059,
+      "lon": 13.4950291
+    },
+    {
+      "type": "node",
+      "id": 11062715088,
+      "lat": 52.3880771,
+      "lon": 13.4980455
+    },
+    {
+      "type": "node",
+      "id": 2077938177,
+      "lat": 52.5037894,
+      "lon": 13.4441247
+    },
+    {
+      "type": "node",
+      "id": 2077938186,
+      "lat": 52.5040555,
+      "lon": 13.4433559
+    },
+    {
+      "type": "node",
+      "id": 3903811940,
+      "lat": 52.503905,
+      "lon": 13.4442327
+    },
+    {
+      "type": "node",
+      "id": 3903811948,
+      "lat": 52.5040525,
+      "lon": 13.4443705
+    },
+    {
+      "type": "node",
+      "id": 3903811951,
+      "lat": 52.5040905,
+      "lon": 13.4436967
+    },
+    {
+      "type": "node",
+      "id": 3903811952,
+      "lat": 52.5041042,
+      "lon": 13.443762
+    },
+    {
+      "type": "node",
+      "id": 3903811953,
+      "lat": 52.5041179,
+      "lon": 13.4437223
+    },
+    {
+      "type": "node",
+      "id": 3903811955,
+      "lat": 52.5041481,
+      "lon": 13.4440944
+    },
+    {
+      "type": "node",
+      "id": 3903811956,
+      "lat": 52.5041594,
+      "lon": 13.443499
+    },
+    {
+      "type": "node",
+      "id": 3903814158,
+      "lat": 52.5041715,
+      "lon": 13.4434642
+    },
+    {
+      "type": "node",
+      "id": 6907063238,
+      "lat": 52.5041039,
+      "lon": 13.4437092
+    },
+    {
+      "type": "node",
+      "id": 8914834854,
+      "lat": 52.504174,
+      "lon": 13.4435127
+    },
+    {
+      "type": "node",
+      "id": 3244071112,
+      "lat": 52.5067095,
+      "lon": 13.4403365
+    },
+    {
+      "type": "node",
+      "id": 3244071119,
+      "lat": 52.5070307,
+      "lon": 13.440637
+    },
+    {
+      "type": "node",
+      "id": 4383801538,
+      "lat": 52.5053105,
+      "lon": 13.4398762
+    },
+    {
+      "type": "node",
+      "id": 4383801539,
+      "lat": 52.5055088,
+      "lon": 13.4398236
+    },
+    {
+      "type": "node",
+      "id": 4383801540,
+      "lat": 52.5055793,
+      "lon": 13.4392815
+    },
+    {
+      "type": "node",
+      "id": 4383801542,
+      "lat": 52.5056293,
+      "lon": 13.439563
+    },
+    {
+      "type": "node",
+      "id": 4383801543,
+      "lat": 52.5056979,
+      "lon": 13.4400035
+    },
+    {
+      "type": "node",
+      "id": 4383801544,
+      "lat": 52.5057432,
+      "lon": 13.4402802
+    },
+    {
+      "type": "node",
+      "id": 4383801546,
+      "lat": 52.5057963,
+      "lon": 13.4397194
+    },
+    {
+      "type": "node",
+      "id": 4383801547,
+      "lat": 52.5059667,
+      "lon": 13.4396405
+    },
+    {
+      "type": "node",
+      "id": 5096055641,
+      "lat": 52.5061087,
+      "lon": 13.4397843
+    },
+    {
+      "type": "node",
+      "id": 5096055642,
+      "lat": 52.5058864,
+      "lon": 13.4404189
+    },
+    {
+      "type": "node",
+      "id": 5096055643,
+      "lat": 52.5062752,
+      "lon": 13.4407796
+    },
+    {
+      "type": "node",
+      "id": 5096055644,
+      "lat": 52.5064967,
+      "lon": 13.4401404
+    },
+    {
+      "type": "node",
+      "id": 5821965934,
+      "lat": 52.5068297,
+      "lon": 13.4407272
+    },
+    {
+      "type": "node",
+      "id": 5821965935,
+      "lat": 52.5069757,
+      "lon": 13.4409372
+    },
+    {
+      "type": "node",
+      "id": 5821965936,
+      "lat": 52.5068783,
+      "lon": 13.4410443
+    },
+    {
+      "type": "node",
+      "id": 5821965937,
+      "lat": 52.5069152,
+      "lon": 13.4412691
+    },
+    {
+      "type": "node",
+      "id": 5821965944,
+      "lat": 52.5064178,
+      "lon": 13.4411759
+    },
+    {
+      "type": "node",
+      "id": 5821965945,
+      "lat": 52.5065098,
+      "lon": 13.4409115
+    },
+    {
+      "type": "node",
+      "id": 5821965947,
+      "lat": 52.5065964,
+      "lon": 13.4406614
+    },
+    {
+      "type": "node",
+      "id": 6224204328,
+      "lat": 52.5064344,
+      "lon": 13.4412758
+    },
+    {
+      "type": "node",
+      "id": 6224204329,
+      "lat": 52.5064424,
+      "lon": 13.4414264
+    },
+    {
+      "type": "node",
+      "id": 6224204330,
+      "lat": 52.5064489,
+      "lon": 13.4414127
+    },
+    {
+      "type": "node",
+      "id": 6224204331,
+      "lat": 52.5064514,
+      "lon": 13.4413961
+    },
+    {
+      "type": "node",
+      "id": 6224204338,
+      "lat": 52.5068778,
+      "lon": 13.44101
+    },
+    {
+      "type": "node",
+      "id": 6224204339,
+      "lat": 52.5068813,
+      "lon": 13.4409957
+    },
+    {
+      "type": "node",
+      "id": 6224204340,
+      "lat": 52.5068865,
+      "lon": 13.4409837
+    },
+    {
+      "type": "node",
+      "id": 6224204341,
+      "lat": 52.5068173,
+      "lon": 13.4407286
+    },
+    {
+      "type": "node",
+      "id": 6224204342,
+      "lat": 52.5067924,
+      "lon": 13.4407174
+    },
+    {
+      "type": "node",
+      "id": 6224204343,
+      "lat": 52.5067815,
+      "lon": 13.4407047
+    },
+    {
+      "type": "node",
+      "id": 6224204347,
+      "lat": 52.5067655,
+      "lon": 13.4406677
+    },
+    {
+      "type": "node",
+      "id": 6224204348,
+      "lat": 52.5068928,
+      "lon": 13.4409745
+    },
+    {
+      "type": "node",
+      "id": 6224204351,
+      "lat": 52.5064514,
+      "lon": 13.4413807
+    },
+    {
+      "type": "node",
+      "id": 6224213275,
+      "lat": 52.5062897,
+      "lon": 13.4403291
+    },
+    {
+      "type": "node",
+      "id": 6224213276,
+      "lat": 52.5061292,
+      "lon": 13.4404008
+    },
+    {
+      "type": "node",
+      "id": 6224213277,
+      "lat": 52.5060618,
+      "lon": 13.4403396
+    },
+    {
+      "type": "node",
+      "id": 6224213278,
+      "lat": 52.5061556,
+      "lon": 13.4400605
+    },
+    {
+      "type": "node",
+      "id": 6224213279,
+      "lat": 52.5063236,
+      "lon": 13.4402177
+    },
+    {
+      "type": "node",
+      "id": 6224213280,
+      "lat": 52.5063102,
+      "lon": 13.4406811
+    },
+    {
+      "type": "node",
+      "id": 6224213281,
+      "lat": 52.5062912,
+      "lon": 13.4405603
+    },
+    {
+      "type": "node",
+      "id": 6224213282,
+      "lat": 52.5062893,
+      "lon": 13.4405377
+    },
+    {
+      "type": "node",
+      "id": 6224213283,
+      "lat": 52.5062915,
+      "lon": 13.4405202
+    },
+    {
+      "type": "node",
+      "id": 6224213284,
+      "lat": 52.5062962,
+      "lon": 13.4405057
+    },
+    {
+      "type": "node",
+      "id": 6224214085,
+      "lat": 52.5063026,
+      "lon": 13.4404943
+    },
+    {
+      "type": "node",
+      "id": 6224214086,
+      "lat": 52.5063106,
+      "lon": 13.440486
+    },
+    {
+      "type": "node",
+      "id": 6224214087,
+      "lat": 52.50632,
+      "lon": 13.4404812
+    },
+    {
+      "type": "node",
+      "id": 6224214088,
+      "lat": 52.5063891,
+      "lon": 13.4404469
+    },
+    {
+      "type": "node",
+      "id": 8914834855,
+      "lat": 52.5058102,
+      "lon": 13.4400886
+    },
+    {
+      "type": "node",
+      "id": 9673929313,
+      "lat": 52.5054543,
+      "lon": 13.4400099
+    },
+    {
+      "type": "node",
+      "id": 10593366280,
+      "lat": 52.5061897,
+      "lon": 13.4398586
+    },
+    {
+      "type": "node",
+      "id": 10593366288,
+      "lat": 52.5059241,
+      "lon": 13.439601
+    },
+    {
+      "type": "node",
+      "id": 10665608176,
+      "lat": 52.5067727,
+      "lon": 13.4406891
+    },
+    {
+      "type": "node",
+      "id": 10665608177,
+      "lat": 52.5068037,
+      "lon": 13.4407248
+    },
+    {
+      "type": "node",
+      "id": 10665608178,
+      "lat": 52.506877,
+      "lon": 13.4410286
+    },
+    {
+      "type": "node",
+      "id": 11727135452,
+      "lat": 52.5054546,
+      "lon": 13.4398378
+    },
+    {
+      "type": "node",
+      "id": 2077938332,
+      "lat": 52.5067166,
+      "lon": 13.4423396
+    },
+    {
+      "type": "node",
+      "id": 2296038237,
+      "lat": 52.5061838,
+      "lon": 13.4418468
+    },
+    {
+      "type": "node",
+      "id": 3903811928,
+      "lat": 52.5045366,
+      "lon": 13.4441149
+    },
+    {
+      "type": "node",
+      "id": 3903814159,
+      "lat": 52.5041871,
+      "lon": 13.4435249
+    },
+    {
+      "type": "node",
+      "id": 3903814161,
+      "lat": 52.5041963,
+      "lon": 13.4445048
+    },
+    {
+      "type": "node",
+      "id": 3903814163,
+      "lat": 52.5041992,
+      "lon": 13.4434901
+    },
+    {
+      "type": "node",
+      "id": 3903814165,
+      "lat": 52.5042105,
+      "lon": 13.4444637
+    },
+    {
+      "type": "node",
+      "id": 3903814166,
+      "lat": 52.504223,
+      "lon": 13.4445298
+    },
+    {
+      "type": "node",
+      "id": 3903814168,
+      "lat": 52.5042372,
+      "lon": 13.4444887
+    },
+    {
+      "type": "node",
+      "id": 3903814169,
+      "lat": 52.5042489,
+      "lon": 13.4438972
+    },
+    {
+      "type": "node",
+      "id": 3903814172,
+      "lat": 52.5042795,
+      "lon": 13.4442686
+    },
+    {
+      "type": "node",
+      "id": 3903814173,
+      "lat": 52.5042929,
+      "lon": 13.4442297
+    },
+    {
+      "type": "node",
+      "id": 3903814175,
+      "lat": 52.5043062,
+      "lon": 13.4442936
+    },
+    {
+      "type": "node",
+      "id": 3903814177,
+      "lat": 52.5043392,
+      "lon": 13.4446383
+    },
+    {
+      "type": "node",
+      "id": 3903814178,
+      "lat": 52.5043432,
+      "lon": 13.4436247
+    },
+    {
+      "type": "node",
+      "id": 3903814186,
+      "lat": 52.5044902,
+      "lon": 13.443762
+    },
+    {
+      "type": "node",
+      "id": 3903814187,
+      "lat": 52.5045243,
+      "lon": 13.4441034
+    },
+    {
+      "type": "node",
+      "id": 3903814190,
+      "lat": 52.5045368,
+      "lon": 13.4441656
+    },
+    {
+      "type": "node",
+      "id": 3903814193,
+      "lat": 52.50455,
+      "lon": 13.4441274
+    },
+    {
+      "type": "node",
+      "id": 3903814196,
+      "lat": 52.5045918,
+      "lon": 13.4439074
+    },
+    {
+      "type": "node",
+      "id": 3903814197,
+      "lat": 52.504605,
+      "lon": 13.4438693
+    },
+    {
+      "type": "node",
+      "id": 3903814198,
+      "lat": 52.504619,
+      "lon": 13.4439327
+    },
+    {
+      "type": "node",
+      "id": 3903814199,
+      "lat": 52.5046322,
+      "lon": 13.4438947
+    },
+    {
+      "type": "node",
+      "id": 3903814203,
+      "lat": 52.504682,
+      "lon": 13.4443012
+    },
+    {
+      "type": "node",
+      "id": 3903814204,
+      "lat": 52.5046936,
+      "lon": 13.4443121
+    },
+    {
+      "type": "node",
+      "id": 3903814213,
+      "lat": 52.5047761,
+      "lon": 13.4440292
+    },
+    {
+      "type": "node",
+      "id": 3903814216,
+      "lat": 52.5047878,
+      "lon": 13.4440401
+    },
+    {
+      "type": "node",
+      "id": 5821965938,
+      "lat": 52.5068157,
+      "lon": 13.4418116
+    },
+    {
+      "type": "node",
+      "id": 5821965939,
+      "lat": 52.5066757,
+      "lon": 13.4418725
+    },
+    {
+      "type": "node",
+      "id": 5821965940,
+      "lat": 52.5065047,
+      "lon": 13.4421453
+    },
+    {
+      "type": "node",
+      "id": 5821965942,
+      "lat": 52.5063047,
+      "lon": 13.4414972
+    },
+    {
+      "type": "node",
+      "id": 5821965943,
+      "lat": 52.5064278,
+      "lon": 13.4414423
+    },
+    {
+      "type": "node",
+      "id": 6224204335,
+      "lat": 52.5066504,
+      "lon": 13.4419289
+    },
+    {
+      "type": "node",
+      "id": 6224204336,
+      "lat": 52.5066529,
+      "lon": 13.4419088
+    },
+    {
+      "type": "node",
+      "id": 6224204337,
+      "lat": 52.506658,
+      "lon": 13.4418932
+    },
+    {
+      "type": "node",
+      "id": 6224204349,
+      "lat": 52.506651,
+      "lon": 13.4419448
+    },
+    {
+      "type": "node",
+      "id": 6907063258,
+      "lat": 52.5042925,
+      "lon": 13.4442807
+    },
+    {
+      "type": "node",
+      "id": 10572667620,
+      "lat": 52.5067344,
+      "lon": 13.4418478
+    },
+    {
+      "type": "node",
+      "id": 10665608179,
+      "lat": 52.5066661,
+      "lon": 13.4418813
+    },
+    {
+      "type": "node",
+      "id": 10665608182,
+      "lat": 52.5064346,
+      "lon": 13.4414377
+    },
+    {
+      "type": "node",
+      "id": 12346465419,
+      "lat": 52.4661919,
+      "lon": 13.5823819
+    },
+    {
+      "type": "node",
+      "id": 12346465420,
+      "lat": 52.4661827,
+      "lon": 13.582379
+    },
+    {
+      "type": "node",
+      "id": 12346465421,
+      "lat": 52.4661747,
+      "lon": 13.5824465
+    },
+    {
+      "type": "node",
+      "id": 12346465422,
+      "lat": 52.466184,
+      "lon": 13.5824494
+    },
+    {
+      "type": "node",
+      "id": 468128257,
+      "lat": 52.5390338,
+      "lon": 13.5299142
+    },
+    {
+      "type": "node",
+      "id": 468128260,
+      "lat": 52.5390189,
+      "lon": 13.5297969
+    },
+    {
+      "type": "node",
+      "id": 468128261,
+      "lat": 52.539229,
+      "lon": 13.5297249
+    },
+    {
+      "type": "node",
+      "id": 468128265,
+      "lat": 52.5392439,
+      "lon": 13.5298422
+    },
+    {
+      "type": "node",
+      "id": 8773936837,
+      "lat": 52.5392365,
+      "lon": 13.5297834
+    },
+    {
+      "type": "node",
+      "id": 2217017705,
+      "lat": 52.5033838,
+      "lon": 13.6415025
+    },
+    {
+      "type": "node",
+      "id": 2217017760,
+      "lat": 52.5036724,
+      "lon": 13.6404303
+    },
+    {
+      "type": "node",
+      "id": 2217017767,
+      "lat": 52.5036628,
+      "lon": 13.6438339
+    },
+    {
+      "type": "node",
+      "id": 2217017823,
+      "lat": 52.5041273,
+      "lon": 13.6420451
+    },
+    {
+      "type": "node",
+      "id": 4127652558,
+      "lat": 52.5018482,
+      "lon": 13.6423091
+    },
+    {
+      "type": "node",
+      "id": 4127652559,
+      "lat": 52.5023961,
+      "lon": 13.6387756
+    },
+    {
+      "type": "node",
+      "id": 4127652560,
+      "lat": 52.5025066,
+      "lon": 13.6428389
+    },
+    {
+      "type": "node",
+      "id": 4127652561,
+      "lat": 52.5027495,
+      "lon": 13.6430999
+    },
+    {
+      "type": "node",
+      "id": 4127652570,
+      "lat": 52.5034703,
+      "lon": 13.6391218
+    },
+    {
+      "type": "node",
+      "id": 5861253012,
+      "lat": 52.5038844,
+      "lon": 13.6393856
+    },
+    {
+      "type": "node",
+      "id": 6616999473,
+      "lat": 52.5025953,
+      "lon": 13.6388453
+    },
+    {
+      "type": "node",
+      "id": 2217017856,
+      "lat": 52.5043851,
+      "lon": 13.6409179
+    },
+    {
+      "type": "node",
+      "id": 4127652580,
+      "lat": 52.5046992,
+      "lon": 13.6399115
+    },
+    {
+      "type": "node",
+      "id": 4417221529,
+      "lat": 52.5062799,
+      "lon": 13.6434159
+    },
+    {
+      "type": "node",
+      "id": 4417221534,
+      "lat": 52.5067118,
+      "lon": 13.6444142
+    },
+    {
+      "type": "node",
+      "id": 4417221535,
+      "lat": 52.5075121,
+      "lon": 13.6427281
+    },
+    {
+      "type": "node",
+      "id": 4417221536,
+      "lat": 52.5077648,
+      "lon": 13.6417109
+    },
+    {
+      "type": "node",
+      "id": 4417221537,
+      "lat": 52.5097569,
+      "lon": 13.6441986
+    },
+    {
+      "type": "node",
+      "id": 4417221539,
+      "lat": 52.5100041,
+      "lon": 13.6431772
+    },
+    {
+      "type": "node",
+      "id": 4815380233,
+      "lat": 52.5052013,
+      "lon": 13.642704
+    },
+    {
+      "type": "node",
+      "id": 4815380246,
+      "lat": 52.506866,
+      "lon": 13.6437875
+    },
+    {
+      "type": "node",
+      "id": 12134038817,
+      "lat": 52.5044555,
+      "lon": 13.6408613
+    },
+    {
+      "type": "node",
+      "id": 12134038845,
+      "lat": 52.5042939,
+      "lon": 13.6396744
+    },
+    {
+      "type": "node",
+      "id": 4815380236,
+      "lat": 52.5047267,
+      "lon": 13.6446927
+    },
+    {
+      "type": "node",
+      "id": 4815380237,
+      "lat": 52.5054024,
+      "lon": 13.6452384
+    },
+    {
+      "type": "node",
+      "id": 4815380238,
+      "lat": 52.5058702,
+      "lon": 13.6456182
+    },
+    {
+      "type": "node",
+      "id": 4815380239,
+      "lat": 52.5062157,
+      "lon": 13.6458939
+    },
+    {
+      "type": "node",
+      "id": 4815380240,
+      "lat": 52.5062765,
+      "lon": 13.6459352
+    },
+    {
+      "type": "node",
+      "id": 4815380241,
+      "lat": 52.5062978,
+      "lon": 13.6459291
+    },
+    {
+      "type": "node",
+      "id": 4815380242,
+      "lat": 52.5063176,
+      "lon": 13.6458881
+    },
+    {
+      "type": "node",
+      "id": 4815380243,
+      "lat": 52.5064713,
+      "lon": 13.6452936
+    },
+    {
+      "type": "node",
+      "id": 4815380244,
+      "lat": 52.5065534,
+      "lon": 13.6450477
+    },
+    {
+      "type": "node",
+      "id": 4815380245,
+      "lat": 52.5065995,
+      "lon": 13.6448641
+    },
+    {
+      "type": "way",
+      "id": 850315589,
+      "nodes": [
+        7932894287,
+        7932894487
+      ]
+    },
+    {
+      "type": "way",
+      "id": 850315590,
+      "nodes": [
+        7932894189,
+        7932894190
+      ]
+    },
+    {
+      "type": "way",
+      "id": 440613991,
+      "nodes": [
+        4383801546,
+        4383801543,
+        4383801539,
+        4383801542,
+        4383801546
+      ]
+    },
+    {
+      "type": "way",
+      "id": 440613994,
+      "nodes": [
+        4383801544,
+        9673929313,
+        4383801538,
+        4383801540,
+        10593366288,
+        4383801547,
+        8914834855,
+        4383801544
+      ]
+    },
+    {
+      "type": "way",
+      "id": 523460474,
+      "nodes": [
+        5096055644,
+        6224214088,
+        6224214087,
+        6224214086,
+        6224214085,
+        6224213284,
+        6224213283,
+        6224213282,
+        6224213281,
+        6224213280,
+        5096055643,
+        5096055642,
+        5096055641,
+        10593366280,
+        5096055644
+      ]
+    },
+    {
+      "type": "way",
+      "id": 664979147,
+      "nodes": [
+        6224213279,
+        6224213278,
+        6224213277,
+        6224213276,
+        6224213275,
+        6224213279
+      ]
+    }
+  ]
+}

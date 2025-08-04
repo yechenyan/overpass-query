@@ -6,6 +6,21 @@ It enables flexible rule composition using exact or regex filters, supports case
 
 ---
 
+## Get start
+1. Install dependencies (refer to Requirements)
+2. Add queries to the `origin` folder.
+3.Generate an Overpass query statement and obtain the query results.
+```
+python main.py
+```
+
+1. Use GPT to score the query results.
+```
+python main_gpt.py
+```
+
+
+
 ## 🚀 Project Structure
 
 data:
@@ -33,6 +48,8 @@ code:
 
 - Python 3.6+
 - pip install requests
+- pip install load_dotenv
+- pip install OpenAI
 
 ---
 

@@ -1,0 +1,11 @@
+[
+  [
+    {
+      "name$match$i": "Dachser|DB Schenker|Kuehne(\\s*\\+\\s*)?Nagel|Rhenus Logistics|Hellmann Worldwide Logistics|Nagel-Group|FIEGE Logistik|Pfenning Logistics|Noerpel|GEODIS|UPS Deutschland|FedEx Deutschland|Amazon|Zalando"
+    },
+
+    {
+      "brand$match$i": "Dachser|DB Schenker|Kuehne(\\s*\\+\\s*)?Nagel|Rhenus|Hellmann|Nagel|FIEGE|Pfenning|Noerpel|GEODIS|UPS|FedEx|Amazon|Zalando"
+    }
+  ]
+]

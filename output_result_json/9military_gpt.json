@@ -1,0 +1,367 @@
+[
+    {
+        "tags": {
+            "addr:housenumber": "41",
+            "addr:street": "Kurt-Schumacher-Damm",
+            "landuse": "military",
+            "military": "barracks",
+            "military:name": "KdoTerrAufgBw",
+            "name": "Julius-Leber-Kaserne",
+            "old_name": "Quartier Napoléon",
+            "wikidata": "Q1712438",
+            "wikipedia": "de:Julius-Leber-Kaserne (Berlin)"
+        },
+        "id": 4674820
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "182",
+            "addr:postcode": "14089",
+            "addr:street": "Kladower Damm",
+            "landuse": "military",
+            "military": "barracks",
+            "name": "General-Steinhoff-Kaserne",
+            "source:addr": "http://www.luftwaffe.de/portal/poc/luftwaffe?uri=ci:bw.lw.org.kdolw.kontakt"
+        },
+        "id": 7744915
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "1",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "gabled",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 23964795
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "2",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "hipped",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 23964825
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "2",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "hipped",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 23964833
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "2",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "hipped",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 23964835
+    },
+    {
+        "tags": {
+            "barrier": "fence",
+            "fence_type": "barbed_wire",
+            "landuse": "military",
+            "military": "range",
+            "name": "Standorthallenschießanlage"
+        },
+        "id": 24919861
+    },
+    {
+        "tags": {
+            "barrier": "fence",
+            "landuse": "military",
+            "military": "barracks",
+            "name": "Blücher-Kaserne",
+            "name:etymology:wikidata": "Q153522",
+            "name:etymology:wikipedia": "de:Gebhard Leberecht von Blücher",
+            "old_name:1935-1945": "Kaserne im Hottengrund",
+            "old_name:1945-1993": "Montgomery Barracks",
+            "wikidata": "Q43998952",
+            "wikipedia": "de:Blücher-Kaserne (Berlin)"
+        },
+        "id": 26589372
+    },
+    {
+        "tags": {
+            "landuse": "military"
+        },
+        "id": 28002381
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "2",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "hipped",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 28379529
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "2",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "hipped"
+        },
+        "id": 28379533
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "2",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "hipped",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 28379536
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "1",
+            "landuse": "military",
+            "military": "barracks",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 28379539
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "2",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "hipped",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 28379553
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "1",
+            "landuse": "military",
+            "military": "barracks",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 28379556
+    },
+    {
+        "tags": {
+            "access": "no",
+            "landuse": "military",
+            "military": "training_area",
+            "name": "Standortübungsplatz Berlin"
+        },
+        "id": 35040260
+    },
+    {
+        "tags": {
+            "landuse": "military",
+            "name": "Zentrum für Militärgeschichte und Sozialwissenschaften der Bundeswehr",
+            "website": "https://zms.bundeswehr.de/de",
+            "wikidata": "Q15136163",
+            "wikipedia": "de:Zentrum für Militärgeschichte und Sozialwissenschaften der Bundeswehr"
+        },
+        "id": 38273455
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housename": "11",
+            "addr:housenumber": "60",
+            "addr:postcode": "10315",
+            "addr:street": "Alt-Friedrichsfelde",
+            "military": "barracks"
+        },
+        "id": 40557477
+    },
+    {
+        "tags": {
+            "landuse": "military"
+        },
+        "id": 53532276
+    },
+    {
+        "tags": {
+            "barrier": "fence",
+            "landuse": "military",
+            "military": "barracks",
+            "name": "Henning-von-Tresckow-Kaserne (Einsatzführungskommando der Bundeswehr)"
+        },
+        "id": 77747212
+    },
+    {
+        "tags": {
+            "barrier": "fence",
+            "landuse": "military",
+            "military": "barracks"
+        },
+        "id": 77747215
+    },
+    {
+        "tags": {
+            "landuse": "military",
+            "name": "Barnim-Kaserne Strausberg",
+            "wikidata": "Q808493",
+            "wikipedia": "de:Barnim-Kaserne"
+        },
+        "id": 112172952
+    },
+    {
+        "tags": {
+            "barrier": "fence",
+            "landuse": "military",
+            "military": "barracks",
+            "name": "Dahme-Spree-Kaserne",
+            "name:de": "Dahme-Spree-Kaserne",
+            "name:en": "Dahme Spree Base",
+            "operator": "Bundeswehr",
+            "operator:wikidata": "Q56010",
+            "operator:wikipedia": "de:Bundeswehr",
+            "wikidata": "Q27478997",
+            "wikipedia": "de:Dahme-Spree-Kaserne"
+        },
+        "id": 151237811
+    },
+    {
+        "tags": {
+            "landuse": "military",
+            "military": "barracks",
+            "name": "Havelland-Kaserne",
+            "old_name": "General-Wever-Kaserne",
+            "wikidata": "Q109924610"
+        },
+        "id": 183802139
+    },
+    {
+        "tags": {
+            "landuse": "military",
+            "military": "barracks"
+        },
+        "id": 225122062
+    },
+    {
+        "tags": {
+            "landuse": "military"
+        },
+        "id": 243158345
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "1",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "gabled",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 286807576
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "1",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "gabled",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 286807716
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "1",
+            "landuse": "military",
+            "military": "barracks",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 286813418
+    },
+    {
+        "tags": {
+            "landuse": "military"
+        },
+        "id": 425740647
+    },
+    {
+        "tags": {
+            "landuse": "military"
+        },
+        "id": 425740648
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "building:levels": "1",
+            "landuse": "military",
+            "military": "barracks",
+            "roof:shape": "hipped",
+            "source": "Geoportal Berlin / Hausumringe"
+        },
+        "id": 745674713
+    },
+    {
+        "tags": {
+            "alt_name": "Regierungsflughafen",
+            "description": "Flugbereitschaft des Bundesministeriums der Verteidigung, Standort am Flughafen Berlin-Brandenburg (Regierungsflughafen)",
+            "ele": "47",
+            "landuse": "military",
+            "military": "airfield",
+            "name": "Flughafen Berlin Brandenburg Militärischer Teil",
+            "wikipedia": "de:Flughafen Berlin Brandenburg#Militärischer Teil"
+        },
+        "id": 862848989
+    },
+    {
+        "tags": {
+            "landuse": "military"
+        },
+        "id": 895056987
+    },
+    {
+        "tags": {
+            "landuse": "military"
+        },
+        "id": 1021350733
+    },
+    {
+        "tags": {
+            "contact:mastodon": "https://social.bund.de/@Verteidigungsministerium",
+            "government": "ministry",
+            "landuse": "military",
+            "name": "Bundesministerium der Verteidigung",
+            "name:de": "Bundesministerium der Verteidigung",
+            "name:en": "German Ministry of Defense",
+            "name:pl": "Federalne Ministerstwo Obrony",
+            "office": "government",
+            "short_name": "BMVg",
+            "type": "multipolygon",
+            "website": "https://www.bmvg.de/",
+            "wikidata": "Q493353",
+            "wikipedia": "de:Bundesministerium der Verteidigung"
+        },
+        "id": 13461930
+    }
+]

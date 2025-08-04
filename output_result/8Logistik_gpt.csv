@@ -1,0 +1,95 @@
+type,name,lat,lon,area_m2
+node,Amazone zu Pferde,52.5146836,13.3691757,0
+node,Schindler's Dachservice GbR,52.4192717,13.5445374,0
+node,Zalando Beauty Station,52.5255281,13.4046254,0
+node,Zalando SE,52.5042876,13.4443051,0
+node,FedEx Station,52.4809617,13.3052315,0
+node,FedEx Großbeeren,52.3761477,13.3144125,0
+node,FedEx Station,52.4566061,13.4531846,0
+node,Amazone zu Pferde,52.5192739,13.3992475,0
+node,Amazon Hub Locker,52.5040125,13.4078831,0
+node,Amazon locker,52.3817085,13.099748,0
+node,Amazone zu Pferde,52.5204188,13.3980879,0
+node,Amazon Hub Locker,52.5845509,13.4173638,0
+node,Zalando Outlet,52.5055507,13.4327963,0
+node,Amazon Hub Locker,52.5367008,13.2222411,0
+node,Foodspring / Fiege Logistik Stiftung & Co. KG,52.3791328,13.3007075,0
+node,Zalando Deutschland BTD-L Main entrance with welcome desk,52.5041039,13.4437092,0
+node,UPS AccessPoint,52.3758319,13.1287418,0
+node,Geodis,52.3861668,13.4994021,0
+node,Amazon Hub Locker,52.4823326,13.4322646,0
+node,Amazon Locker,52.408591,13.0762751,0
+node,Amazon Hub Locker,52.5606553,13.3660146,0
+node,Thomas-Dachser-Allee,52.3861827,13.4904117,0
+node,Thomas-Dachser-Allee,52.3856992,13.4906655,0
+node,Thomas-Dachser-Allee,52.386123,13.49039,0
+node,Thomas-Dachser-Allee,52.3856652,13.4906155,0
+node,Amazone Mattei,52.4036431,13.0334441,0
+node,Amazon Locker,52.4059019,13.0104293,0
+node,Amazon locker,52.3816535,13.1170414,0
+node,Zalando Corporate Office,52.5054543,13.4400099,0
+node,Zalando Deutschland BTD-L back,52.504174,13.4435127,0
+node,Amazon Locker umairah,52.3821777,13.0888446,0
+node,Amazon Locker,52.3643832,13.0954125,0
+node,UPS Access Point,52.5062606,13.4962301,0
+node,Amazon Hub Locker,52.5312937,13.4385972,0
+node,Amazon Hub Locker,52.5772388,13.3078261,0
+node,Amazon Hub Locker,52.3761106,13.6419278,0
+node,Amazon Hub Locker,52.6862151,13.2823853,0
+node,Amazon Hub Locker,52.5008033,13.4120021,0
+node,Amazon Hub Locker,52.5553464,13.2250113,0
+node,Amazon Hub Locker,52.4273609,13.7484632,0
+node,Amazon Hub Locker,52.4304085,13.7531898,0
+node,Amazon Hub Locker,52.5081525,13.4239572,0
+node,Amazon Hub Locker,52.4200771,13.8226584,0
+node,Amazon Hub Locker,52.4925366,13.3706629,0
+node,Amazon Hub Locker,52.531829,13.8070627,0
+node,Amazon Hub Locker,52.5489714,13.4409296,0
+node,Amazon Hub Locker,52.3663366,13.3137709,0
+node,Zalando,52.5052493,13.4449764,0
+node,Amazonas Granit Berlin,52.4224334,13.3573942,0
+node,Amazon Hub Locker,52.5273897,13.6863475,0
+node,amazonlocker,52.5425023,13.36716,0
+node,Amazon Hub Locker,52.7238456,13.1897728,0
+node,Amazon Hub Locker,52.5391156,13.4985459,0
+node,Amazon Hub Locker,52.5470496,13.4076888,0
+node,Amazon Hub Locker,52.5299875,13.339364,0
+node,Amazon Hub Locker,52.5427863,13.4425361,0
+node,Amazon Hub Locker Dagame,52.5026168,13.4028476,0
+node,Amazon Hub Locker,52.3963833,13.2758387,0
+node,Amazon Hub Locker,52.5499523,13.5828159,0
+node,Amazon Hub Locker,52.5009889,13.3935879,0
+node,Amazon Hub Locker,52.5403693,13.4334201,0
+node,Amazon Hub Locker,52.6173844,13.4867174,0
+node,Amazon Hub Locker,52.4192869,13.3194486,0
+node,Amazon Hub Locker,52.4475467,13.5940978,0
+node,Amazon Hub Locker,52.4844545,13.3402844,0
+node,Amazon Hub Locker,52.4910634,13.5213414,0
+node,Amazon Hub Locker,52.5632808,13.5697908,0
+node,Amazon Hub Locker,52.5644242,13.5772562,0
+node,Amazon Hub Locker,52.5679494,13.5723437,0
+node,Amazon Hub Locker,52.4200752,13.502698,0
+node,Amazon Hub Locker,52.4185157,13.4168351,0
+node,Amazon Hub Locker,52.4995727,13.4041546,0
+node,Amazon Hub Locker,52.4990747,13.3952447,0
+node,Amazon Hub Locker,52.5733622,13.5625632,0
+node,Amazon Hub Locker,52.5741142,13.5597567,0
+node,Amazon Hub Locker,52.5725793,13.5581218,0
+node,Amazon Hub Locker,52.5280535,13.4501497,0
+node,Amazon Hub Locker,52.4398618,13.5980785,0
+node,Amazon Hub Locker,52.5340196,13.4417326,0
+node,Amazon Hub Locker,52.5332727,13.4429439,0
+node,Amazon Hub Locker,52.5367711,13.4497105,0
+node,Amazon Hub Locker,52.538772,13.4510342,0
+node,Amazon Hub Locker,52.5419147,13.4550406,0
+node,Amazon Hub Locker,52.5435078,13.433376,0
+node,Amazon Hub Locker,52.5489368,13.432987,0
+node,Amazon Hub Locker,52.5550266,13.4142288,0
+node,Amazon Hub Locker,52.5374193,13.4060798,0
+node,Amazon Hub Locker,52.4626175,13.5210792,0
+node,Amazon Hub Locker,52.5484651,13.3687123,0
+node,Amazon Hub Locker,52.4235551,13.5756262,0
+node,baldassarre,52.5200462,13.4869033,0
+node,Amazon Hub Locker,52.5497502,13.4321334,0
+node,marcus,52.5419351,13.3979052,0
+node,Amazon Locker - caelab,52.5137396,13.311401,0

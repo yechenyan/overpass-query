@@ -3,8 +3,11 @@ from generate_ql import generate_ql
 from  process_result_to_json import process_result_to_json
 from run_overpass_query import run_overpass_query
 from process_result_to_csv import process_result_to_csv
+from dotenv import load_dotenv
 
-FILE_NAME = "9military"
+load_dotenv()
+
+FILE_NAME = "8Logistik_gpt"
 # bbox
 # qls = generate_ql(f"origin/{FILE_NAME}.json")
 

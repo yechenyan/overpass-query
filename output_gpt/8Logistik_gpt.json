@@ -1,0 +1,2963 @@
+[
+    {
+        "tags": {
+            "artist:wikidata": "Q445407",
+            "artist_name": "Louis Tuaillon",
+            "artwork_type": "statue",
+            "image": "File:Tuaillon1.jpg",
+            "material": "bronze",
+            "name": "Amazone zu Pferde",
+            "start_date": "1906",
+            "statue": "equestrian",
+            "subject:wikidata": "Q20925486",
+            "subject:wikipedia": "de:Amazone zu Pferde (Tuaillon)",
+            "tourism": "artwork",
+            "wikidata": "Q123390108",
+            "wikimedia_commons": "Category:Amazone zu Pferde (Louis Tuaillon)"
+        },
+        "id": 317399607,
+        "N1": 0.1,
+        "N2": 0.1,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.0,
+        "note": "This location is an artwork site, not relevant for logistics."
+    },
+    {
+        "tags": {
+            "craft": "roofer",
+            "name": "Schindler's Dachservice GbR",
+            "phone": "+49 30 6731398"
+        },
+        "id": 1683679240,
+        "N1": 0.1,
+        "N2": 0.1,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.0,
+        "note": "This location is a roofing service, not relevant for logistics."
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "10178",
+            "addr:street": "Weinmeisterstraße",
+            "addr:suburb": "Mitte",
+            "check_date": "2024-11-27",
+            "name": "Zalando Beauty Station",
+            "opening_hours": "Mo-Sa 11:00-20:00",
+            "shop": "beauty",
+            "wheelchair": "yes"
+        },
+        "id": 1855401528,
+        "N1": 0.2,
+        "N2": 0.2,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.1,
+        "note": "This location is a beauty shop, not highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:inclusion": "actual",
+            "addr:postcode": "10243",
+            "addr:street": "Tamara-Danz-Straße",
+            "addr:suburb": "Friedrichshain",
+            "contact:website": "http://www.zalando.com",
+            "name": "Zalando SE",
+            "office": "company",
+            "source": "Zalando SE",
+            "wheelchair": "limited",
+            "wheelchair:description": "Event-Space has three stairs to reach the seating area, the stage is not wheelchair accessible. No accessible WC.",
+            "wikidata": "Q136570",
+            "wikimedia_commons": "Category:Zalando",
+            "wikipedia": "en:Zalando"
+        },
+        "id": 3170856249,
+        "N1": 0.3,
+        "N2": 0.3,
+        "N3": 0.2,
+        "N3S": 0.1,
+        "locationRelated": 0.2,
+        "note": "This location is a company office, not highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "9-13",
+            "addr:postcode": "14199",
+            "addr:street": "Forckenbeckstraße",
+            "addr:suburb": "Schmargendorf",
+            "brand": "Fedex",
+            "brand:wikidata": "Q459477",
+            "name": "FedEx Station",
+            "office": "logistics",
+            "opening_hours": "Mo-Fr 10:00-18:30",
+            "phone": "+4961076840660",
+            "website": "https://local.fedex.com/de-de/berlin/bera"
+        },
+        "id": 3798254929,
+        "N1": 0.6,
+        "N2": 0.8,
+        "N3": 0.9,
+        "N3S": 0.9,
+        "locationRelated": 1.0,
+        "note": "This is a FedEx logistics station, highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "addr:city": "Großbeeren",
+            "addr:housenumber": "15",
+            "addr:postcode": "14979",
+            "addr:street": "Hauptstraße",
+            "amenity": "post_depot",
+            "brand": "FedEx",
+            "brand:wikidata": "Q459477",
+            "name": "FedEx Großbeeren",
+            "operator": "FedEx",
+            "operator:type": "private",
+            "operator:wikidata": "Q459477"
+        },
+        "id": 3798313111,
+        "N1": 0.6,
+        "N2": 0.8,
+        "N3": 0.9,
+        "N3S": 0.9,
+        "locationRelated": 1.0,
+        "note": "This is a FedEx post depot, highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "post_office",
+            "brand": "FedEx",
+            "brand:wikidata": "Q459477",
+            "brand:wikipedia": "en:FedEx",
+            "name": "FedEx Station"
+        },
+        "id": 3811297499,
+        "N1": 0.6,
+        "N2": 0.8,
+        "N3": 0.9,
+        "N3S": 0.9,
+        "locationRelated": 1.0,
+        "note": "This is a FedEx station, highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "artwork_type": "statue",
+            "image": "https://photos.app.goo.gl/FUjgt4nVqKBWw64XA",
+            "name": "Amazone zu Pferde",
+            "statue": "equestrian",
+            "tourism": "artwork",
+            "wheelchair": "limited",
+            "wikidata": "Q24036911",
+            "wikimedia_commons": "Category:Amazone zu Pferde (Berlin, Altes Museum)",
+            "wikipedia": "en:Amazone zu Pferde (Kiss)"
+        },
+        "id": 4353173363,
+        "N1": 0.1,
+        "N2": 0.1,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.0,
+        "note": "This location is an artwork site, not relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2023-07-31",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "postal_code": "13405",
+            "ref": "julius"
+        },
+        "id": 4595460726,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes",
+            "ref": "fabian"
+        },
+        "id": 4649834091,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon locker",
+            "operator": "Amazon",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes",
+            "ref": "mattis"
+        },
+        "id": 4800494046,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "artist:wikidata": "Q445407",
+            "artist_name": "Louis Tuaillon",
+            "artwork_type": "statue",
+            "image": "File:Sculpture in front of the Neues Museum.jpg",
+            "material": "bronze",
+            "name": "Amazone zu Pferde",
+            "start_date": "1985",
+            "statue": "equestrian",
+            "subject:wikidata": "Q20925486",
+            "subject:wikipedia": "de:Amazone zu Pferde (Tuaillon)",
+            "tourism": "artwork",
+            "wheelchair": "yes",
+            "wikidata": "Q20925508",
+            "wikimedia_commons": "Category:Amazone zu Pferde (Berlin-Tiergarten)"
+        },
+        "id": 4818864902,
+        "N1": 0.1,
+        "N2": 0.1,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.0,
+        "note": "This location is an artwork site, not relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "postal_code": "13405",
+            "ref": "romy"
+        },
+        "id": 4856420625,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "addr:housenumber": "20",
+            "addr:postcode": "10997",
+            "addr:street": "Köpenicker Straße",
+            "email": "info@zalando-outlet.de",
+            "name": "Zalando Outlet",
+            "opening_hours": "Mo-Sa 10:00-20:00",
+            "operator": "Zalando Outlets GmbH",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+49800 330 09 96",
+            "shop": "clothes",
+            "website": "http://www.zalando-outlet.de/berlin",
+            "wheelchair": "no"
+        },
+        "id": 4969996023,
+        "N1": 0.2,
+        "N2": 0.2,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.1,
+        "note": "This location is a clothing shop, not highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes",
+            "postal_code": "13437",
+            "ref": "Isabell"
+        },
+        "id": 5189604690,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2023-02-16",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes",
+            "postal_code": "10557",
+            "ref": "jannis"
+        },
+        "id": 5326297395,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "amazon",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes"
+        },
+        "id": 5798338461,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2024-06-08",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes",
+            "wheelchair": "yes"
+        },
+        "id": 5798345138,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "indoor": "no",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes",
+            "ref": "revelle",
+            "surveillance": "outdoor"
+        },
+        "id": 6253322800,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes"
+        },
+        "id": 6292562766,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "name": "Foodspring / Fiege Logistik Stiftung & Co. KG"
+        },
+        "id": 6405900199,
+        "N1": 0.5,
+        "N2": 0.7,
+        "N3": 0.8,
+        "N3S": 0.8,
+        "locationRelated": 0.9,
+        "note": "This is a logistics company, highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "entrance": "main",
+            "name": "Zalando Deutschland BTD-L Main entrance with welcome desk"
+        },
+        "id": 6907063238,
+        "N1": 0.2,
+        "N2": 0.2,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.1,
+        "note": "This location is an office entrance, not highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "addr:city": "Potsdam",
+            "addr:country": "DE",
+            "addr:housenumber": "5",
+            "addr:postcode": "14480",
+            "addr:street": "Johannes-Kepler-Platz",
+            "addr:suburb": "Stern",
+            "amenity": "post_office",
+            "brand": "UPS",
+            "name": "UPS AccessPoint",
+            "opening_hours": "Mo-Fr 06:30-19:00; Sa 07:30-12:00; Su 09:30-12:30; PH off",
+            "operator": "Spätkauf",
+            "operator:type": "private",
+            "post_office:type": "post_partner"
+        },
+        "id": 6908080032,
+        "N1": 0.3,
+        "N2": 0.4,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.4,
+        "note": "This is a UPS Access Point, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "post_office",
+            "brand": "UPS",
+            "opening_hours": "07:00-24:00,00:00-01:00",
+            "post_office:type": "post_partner",
+            "ref": "522",
+            "wheelchair": "no"
+        },
+        "id": 6967210423,
+        "N1": 0.3,
+        "N2": 0.4,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.4,
+        "note": "This is a UPS Access Point, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "check_date": "2025-03-22",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "Lilian"
+        },
+        "id": 7117522953,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "man_made": "works",
+            "name": "Geodis"
+        },
+        "id": 7197430280,
+        "N1": 0.5,
+        "N2": 0.7,
+        "N3": 0.8,
+        "N3S": 0.8,
+        "locationRelated": 0.9,
+        "note": "This is a logistics company, highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 7232733031,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "colour": "dimgrey",
+            "contact:website": "https://www.amazon.de/lockercarolien",
+            "description": "frei zugänglich während der Öffnungszeiten der Neukölln Arcaden",
+            "level": "-1",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes",
+            "ref": "Carolien"
+        },
+        "id": 7286608500,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "postal_code": "13409",
+            "ref": "Mirja"
+        },
+        "id": 7319609717,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "name": "Amazon Locker",
+            "operator": "Amazon",
+            "parcel_pickup": "yes",
+            "ref": "nahla"
+        },
+        "id": 7563011885,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 7734367993,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "contact:website": "https://www.amazon.de/lockerjohn",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "john"
+        },
+        "id": 7861574855,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "highway": "bus_stop",
+            "name": "Thomas-Dachser-Allee"
+        },
+        "id": 7932894190,
+        "N1": 0.2,
+        "N2": 0.2,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.1,
+        "note": "This location is a bus stop, not relevant for logistics."
+    },
+    {
+        "tags": {
+            "bus": "yes",
+            "name": "Thomas-Dachser-Allee",
+            "name:BVG": "Schönefeld (bei Berlin), Thomas-Dachser-Allee",
+            "public_transport": "stop_position",
+            "ref:BVG": "107628",
+            "website": "https://qr.bvg.de/h107628"
+        },
+        "id": 7932894387,
+        "N1": 0.2,
+        "N2": 0.2,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.1,
+        "note": "This location is a bus stop, not relevant for logistics."
+    },
+    {
+        "tags": {
+            "bus": "yes",
+            "name": "Thomas-Dachser-Allee",
+            "name:BVG": "Schönefeld (bei Berlin), Thomas-Dachser-Allee",
+            "public_transport": "stop_position",
+            "ref:BVG": "107629",
+            "website": "https://qr.bvg.de/h107629"
+        },
+        "id": 7932894388,
+        "N1": 0.2,
+        "N2": 0.2,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.1,
+        "note": "This location is a bus stop, not relevant for logistics."
+    },
+    {
+        "tags": {
+            "highway": "bus_stop",
+            "name": "Thomas-Dachser-Allee"
+        },
+        "id": 7932894487,
+        "N1": 0.2,
+        "N2": 0.2,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.1,
+        "note": "This location is a bus stop, not relevant for logistics."
+    },
+    {
+        "tags": {
+            "artwork_type": "statue",
+            "name": "Amazone Mattei",
+            "subject:wikidata": "Q1116625",
+            "tourism": "artwork",
+            "wikimedia_commons": "File:Potsdam Sanssouci-SizilianGarten Futtermauer-AmazoneMattei 20220903 130528.jpg"
+        },
+        "id": 8464115941,
+        "N1": 0.1,
+        "N2": 0.1,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.0,
+        "note": "This location is an artwork site, not relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes",
+            "ref": "leena"
+        },
+        "id": 8483704485,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes",
+            "ref": "jenna"
+        },
+        "id": 8558452850,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "name": "Amazon Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "mieke",
+            "surveillance": "outdoor"
+        },
+        "id": 8857184572,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon locker",
+            "operator": "Amazon",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes",
+            "ref": "Jörg"
+        },
+        "id": 8894276603,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:housenumber": "20",
+            "addr:postcode": "10243",
+            "addr:street": "Mühlenstraße",
+            "name": "Zalando Corporate Office",
+            "office": "company",
+            "website": "https://www.zalando.de"
+        },
+        "id": 8898280202,
+        "N1": 0.3,
+        "N2": 0.3,
+        "N3": 0.2,
+        "N3S": 0.1,
+        "locationRelated": 0.2,
+        "note": "This location is a corporate office, not highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "entrance": "office",
+            "name": "Zalando Deutschland BTD-L back"
+        },
+        "id": 8914834854,
+        "N1": 0.2,
+        "N2": 0.2,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.1,
+        "note": "This location is an office entrance, not highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "yoselin"
+        },
+        "id": 8933047022,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "check_date": "2024-04-08",
+            "name": "Amazon Locker umairah",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_pickup": "yes",
+            "ref": "umairah"
+        },
+        "id": 8979959601,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "name": "Amazon Locker",
+            "operator": "Amazon",
+            "parcel_pickup": "yes"
+        },
+        "id": 8986455036,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "june"
+        },
+        "id": 9046431391,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "filomena"
+        },
+        "id": 9127604320,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "carissa"
+        },
+        "id": 9127607202,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "wheelchair": "yes"
+        },
+        "id": 9174019281,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 9174019282,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "bake"
+        },
+        "id": 9233775685,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "alang"
+        },
+        "id": 9243872691,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "post_office",
+            "brand": "UPS",
+            "check_date:opening_hours": "2023-03-28",
+            "name": "UPS Access Point",
+            "opening_hours": "Mo-Sa 10:00-23:55",
+            "operator": "Kiosk 47",
+            "post_office": "post_partner",
+            "wheelchair": "no"
+        },
+        "id": 9270388136,
+        "N1": 0.3,
+        "N2": 0.4,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.4,
+        "note": "This is a UPS Access Point, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes"
+        },
+        "id": 9274660166,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 9274660167,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "hair"
+        },
+        "id": 9288421026,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "operator": "Amazon",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes",
+            "ref": "dali"
+        },
+        "id": 9318769113,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes"
+        },
+        "id": 9366533658,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 9400305735,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2025-07-28",
+            "operator": "Amazon",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes"
+        },
+        "id": 9439527613,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2025-02-23",
+            "colour": "darkgrey",
+            "level": "0",
+            "material": "metal",
+            "object:floor": "0",
+            "object:housenumber": "9f",
+            "object:street": "Dolgenseestraße",
+            "operator": "Amazon",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes"
+        },
+        "id": 9439527615,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "check_date": "2022-06-18",
+            "description": "\"named\" idrees",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes"
+        },
+        "id": 9485671217,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon Hub Locker",
+            "operator": "amazon"
+        },
+        "id": 9490484481,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes",
+            "postal_code": "10969",
+            "ref": "jann"
+        },
+        "id": 9527370464,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes",
+            "ref": "abrama"
+        },
+        "id": 9530594458,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes"
+        },
+        "id": 9557889431,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "check_date": "2025-02-25",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes"
+        },
+        "id": 9569702016,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2024-12-04",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_pickup": "yes"
+        },
+        "id": 9584532985,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes"
+        },
+        "id": 9632063409,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "ref": "penina"
+        },
+        "id": 9670868249,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "passt"
+        },
+        "id": 9670882020,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "chlodwig"
+        },
+        "id": 9701771544,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes",
+            "ref": "gianna"
+        },
+        "id": 9732237027,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q16974764",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 9738445214,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2024-10-17",
+            "operator": "Amazon",
+            "operator:wikipedia": "de:Amazon",
+            "parcel_pickup": "yes",
+            "postal_code": "12437",
+            "ref": "tjaard"
+        },
+        "id": 9751498306,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2025-07-17",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes"
+        },
+        "id": 9757532996,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "note:de": "Smartphone mit Amazon Shopping App benötigt.",
+            "object:city": "Berlin",
+            "object:country": "DE",
+            "object:housenumber": "8",
+            "object:postcode": "13585",
+            "object:street": "Fehrbelliner Straße",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "eamon",
+            "surveillance": "outdoor",
+            "wheelchair": "yes"
+        },
+        "id": 9774576782,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "note:de": "Smartphone mit Amazon Shopping App benötigt.",
+            "object:city": "Berlin",
+            "object:country": "DE",
+            "object:housenumber": "30",
+            "object:postcode": "13585",
+            "object:street": "Ackerstraße",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "earth",
+            "surveillance": "outdoor",
+            "wheelchair": "yes"
+        },
+        "id": 9774576783,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q16974764",
+            "check_date": "2024-02-10",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 9803025916,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_pickup": "yes",
+            "postal_code": "10409"
+        },
+        "id": 9832457165,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q16974764",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "ref": "veloria"
+        },
+        "id": 9855810499,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "check_date": "2024-04-28",
+            "name": "Zalando",
+            "office": "company"
+        },
+        "id": 9873983029,
+        "N1": 0.3,
+        "N2": 0.3,
+        "N3": 0.2,
+        "N3S": 0.1,
+        "locationRelated": 0.2,
+        "note": "This location is a corporate office, not highly relevant for logistics."
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "111",
+            "addr:postcode": "12249",
+            "addr:street": "Malteserstraße",
+            "addr:suburb": "Lankwitz",
+            "contact:email": "info@amazonasgranit.de",
+            "contact:phone": "+49 30 76882460",
+            "contact:website": "https://www.amazonas-granit.de",
+            "craft": "stonemason",
+            "name": "Amazonas Granit Berlin",
+            "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-16:00",
+            "source": "Geoportal Berlin / Hauskoordinaten"
+        },
+        "id": 9880850016,
+        "N1": 0.1,
+        "N2": 0.1,
+        "N3": 0.1,
+        "N3S": 0.1,
+        "locationRelated": 0.0,
+        "note": "This location is a stonemason service, not relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q16974764",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 9943944056,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "check_date": "2024-04-22",
+            "name": "amazonlocker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "Iania"
+        },
+        "id": 9947020459,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "de:Amazon",
+            "parcel_pickup": "yes",
+            "ref": "begonien"
+        },
+        "id": 9951317859,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet"
+        },
+        "id": 9983010238,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 9999270295,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 10000995178,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "Garnele"
+        },
+        "id": 10011020942,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "alva"
+        },
+        "id": 10011023593,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 10030843605,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "check_date": "2024-06-24",
+            "display_operated": "yes",
+            "indoor": "no",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "abra",
+            "source": "survey",
+            "wheelchair": "yes"
+        },
+        "id": 10031493881,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "yes",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "wheelchair": "yes"
+        },
+        "id": 10036070921,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "yes",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "check_date": "2024-09-27",
+            "display_operated": "yes",
+            "indoor": "no",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "bagad",
+            "source": "survey"
+        },
+        "id": 10039621010,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_pickup": "yes",
+            "ref": "dainton"
+        },
+        "id": 10073968725,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_pickup": "yes",
+            "ref": "bague"
+        },
+        "id": 10075542120,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "operator": "Amazon",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "anouk"
+        },
+        "id": 10102703118,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "object:housenumber": "20",
+            "object:postcode": "13357",
+            "object:street": "Prinzenallee",
+            "operator": "Amazon",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "jenny",
+            "website": "https://www.amazon.de/lockerjenny"
+        },
+        "id": 10102711917,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker Dagame",
+            "operator": "Amazon",
+            "parcel_pickup": "yes",
+            "ref": "dagame",
+            "website": "https://amazonhub.de/lockerdagame"
+        },
+        "id": 10106688004,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_pickup": "yes"
+        },
+        "id": 10113393817,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "contact:website": "amazon.de/lockerfardin",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "fardin"
+        },
+        "id": 10120198954,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "mapillary": "667431701475971",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_pickup": "yes",
+            "ref": "bockshornklee"
+        },
+        "id": 10123859730,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_pickup": "yes"
+        },
+        "id": 10126435660,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "ref": "avino"
+        },
+        "id": 10132897747,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2025-07-28",
+            "operator": "Amazon",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes"
+        },
+        "id": 10155130232,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 10161505714,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "brand:wikipedia": "en:Amazon Locker",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 10166854176,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 10166854177,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 10166854178,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes"
+        },
+        "id": 10180473117,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_mail_in": "yes",
+            "parcel_pickup": "yes"
+        },
+        "id": 10181158345,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "ibo"
+        },
+        "id": 10197171470,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 10219216830,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_pickup": "yes",
+            "ref": "nedim"
+        },
+        "id": 10220392181,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2023-05-28",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_pickup": "yes",
+            "ref": "neilos"
+        },
+        "id": 10220392182,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "note": "Innerhalb des SB Waschsalons",
+            "opening_hours": "Mo-Su 07:00-22:00",
+            "operator": "Amazon",
+            "parcel_pickup": "yes",
+            "ref": "Glenmor"
+        },
+        "id": 10220392184,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 10222888816,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "contact:website": "amazon.de/lockerpalila",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "palila"
+        },
+        "id": 10225143086,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 10243351385,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon",
+            "parcel_pickup": "yes"
+        },
+        "id": 10243398752,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 10286885066,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 10286885072,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "operator": "Amazon"
+        },
+        "id": 10286885081,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "ref": "abhinav"
+        },
+        "id": 10298074934,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker"
+        },
+        "id": 10303918166,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker"
+        },
+        "id": 10314238281,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker"
+        },
+        "id": 10314437489,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker"
+        },
+        "id": 10316059867,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker"
+        },
+        "id": 10572867511,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker"
+        },
+        "id": 10592100959,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker"
+        },
+        "id": 10594243573,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2025-08-01",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon"
+        },
+        "id": 10595423352,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2024-02-11",
+            "level": "0",
+            "operator": "Amazon",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "maider",
+            "wheelchair": "yes"
+        },
+        "id": 10595818370,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "parcel_pickup": "yes",
+            "ref": "pam",
+            "wheelchair": "yes"
+        },
+        "id": 10607828504,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2024-07-22",
+            "colour": "grey",
+            "indoor": "no",
+            "level": "0",
+            "name": "Amazon Hub Locker",
+            "object:floor": "0",
+            "object:housenumber": "35",
+            "object:street": "Schwedter Straße",
+            "operator": "Amazon",
+            "parcel_pickup": "yes",
+            "ref": "abelina",
+            "source": "survey"
+        },
+        "id": 10630700402,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "parcel_pickup": "yes"
+        },
+        "id": 10650887436,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "operator": "Amazon De",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes"
+        },
+        "id": 10665925392,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker",
+            "opening_hours": "24/7",
+            "rev": "dalida"
+        },
+        "id": 10677797825,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "colour": "grey",
+            "name": "baldassarre",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes"
+        },
+        "id": 10686832002,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "name": "Amazon Hub Locker"
+        },
+        "id": 10688108880,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "check_date": "2025-04-09"
+        },
+        "id": 10722813096,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "indoor": "no",
+            "name": "marcus",
+            "opening_hours": "24/7",
+            "operator": "amazon.com",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes"
+        },
+        "id": 10728442150,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "authentication:barcode_scanner": "no",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "brand:wikipedia": "en:Amazon Locker",
+            "display_operated": "no",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "operator:wikidata": "Q3884",
+            "operator:wikipedia": "en:Amazon (company)",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "returns_only",
+            "parcel_pickup": "yes",
+            "ref": "dalmato"
+        },
+        "id": 10742476121,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430"
+        },
+        "id": 10746296079,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Hub",
+            "brand:wikidata": "Q100274430",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "jacy"
+        },
+        "id": 10772570726,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "parcel_pickup": "yes",
+            "ref": "alessia"
+        },
+        "id": 10774498728,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "opening_hours": "24/7",
+            "operator": "Amazon",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes",
+            "ref": "Sahara",
+            "wheelchair": "yes"
+        },
+        "id": 10790511651,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    },
+    {
+        "tags": {
+            "amenity": "parcel_locker",
+            "brand": "Amazon Locker",
+            "brand:wikidata": "Q16974764",
+            "colour": "blue",
+            "name": "Amazon Locker - caelab",
+            "opening_hours": "24/7",
+            "parcel_locker:type": "cabinet",
+            "parcel_mail_in": "no",
+            "parcel_pickup": "yes"
+        },
+        "id": 10793025528,
+        "N1": 0.4,
+        "N2": 0.5,
+        "N3": 0.3,
+        "N3S": 0.2,
+        "locationRelated": 0.5,
+        "note": "This is an Amazon parcel locker, somewhat relevant for logistics."
+    }
+]
