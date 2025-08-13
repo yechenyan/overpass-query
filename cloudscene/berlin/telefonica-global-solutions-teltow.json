@@ -1,0 +1,441 @@
+{
+  "pageProps": {
+    "type": "facilities",
+    "id": "c8348c00-fe7c-11ed-8b38-6759c6088e73",
+    "attributes": {
+      "name": "Teltow",
+      "description": "<p class=\"cs-p\"></p>",
+      "state": "active",
+      "visibility": "public",
+      "slug": "germany/berlin/telefonica-global-solutions-teltow",
+      "website": "https://www.telefonica.com/",
+      "adminNotes": null,
+      "premiumUntil": null,
+      "certOix2": null,
+      "certUptimeMAndO": null,
+      "certUptimeConstructed": null,
+      "certUptimeOperation": null,
+      "certUptimeOperationGrade": null,
+      "buildGenType": null,
+      "buildGenFloorLoadCap": null,
+      "buildGenRaised": null,
+      "buildGenLoadingDocs": null,
+      "buildGenLeased": null,
+      "buildGenCarrierNeutral": null,
+      "buildGenSatellitePlat": null,
+      "buildSizeGross": null,
+      "buildSizeColocationTot": null,
+      "buildSizeRoofAva": null,
+      "powerGenPue": null,
+      "powerGenRackMax": null,
+      "powerGenTotal": null,
+      "powerUpsType": null,
+      "powerGeneratorDuration": null,
+      "powerGeneratorRedundancy": null,
+      "powerGeneratorUtility": null,
+      "colocRackCagedAreas": null,
+      "colocSubRacks": "",
+      "interMeetme": null,
+      "secPhyBulletProof": null,
+      "secPhyMantrap": null,
+      "secEleCctv": null,
+      "secEleCctvBackup": null,
+      "secHumanGuard": null,
+      "airConfigHumidity": null,
+      "airConfigTemp": null,
+      "airConfigTempVar": null,
+      "airConfigHumidityVar": null,
+      "interFiberConn": null,
+      "custOffices": null,
+      "custBoardRoom": null,
+      "custBreakRoom": null,
+      "custWifiAccess": null,
+      "custSpareParts": null,
+      "custMeetingRoom": null,
+      "genDistanceToAirport": null,
+      "loadingDocSize": null,
+      "utilityConnectionRedundancy": null,
+      "rackHeight": null,
+      "authenticationFactor": null,
+      "bioMetric": null,
+      "stagingRooms": null,
+      "onSiteParking": null,
+      "salesPhone": null,
+      "salesEmail": null,
+      "supportPhone": null,
+      "supportEmail": null,
+      "dataVerified": null,
+      "createdAt": "2023-05-29T23:59:00.000000Z",
+      "updatedAt": "2023-05-30T00:03:09.000000Z"
+    },
+    "relationships": {
+      "analyticsCounts": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/analyticsCounts",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/analyticsCounts"
+        }
+      },
+      "certificationOptions": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/certificationOptions",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/certificationOptions"
+        }
+      },
+      "changeRequests": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/changeRequests",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/changeRequests"
+        }
+      },
+      "companyProfile": {
+        "data": {
+          "type": "companyProfiles",
+          "id": "2036da74-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/companyProfile",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/companyProfile"
+        }
+      },
+      "facilityTier": {
+        "data": null,
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/facilityTier",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/facilityTier"
+        }
+      },
+      "fabrics": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/fabrics",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/fabrics"
+        }
+      },
+      "location": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/location",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/location"
+        }
+      },
+      "market": {
+        "data": {
+          "type": "markets",
+          "id": "2171adb8-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/market",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/market"
+        }
+      },
+      "onRamps": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/onRamps",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/onRamps"
+        }
+      },
+      "pops": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/pops",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/pops"
+        }
+      },
+      "zone": {
+        "data": {
+          "type": "zones",
+          "id": "2154436c-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/zone",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/zone"
+        }
+      },
+      "documents": {
+        "data": [],
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/documents",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/documents"
+        }
+      },
+      "bannerImages": {
+        "data": [],
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/relationships/bannerImages",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/bannerImages"
+        }
+      }
+    },
+    "links": {
+      "self": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73"
+    },
+    "meta": {
+      "links": {
+        "related": "http://directory-service.us-west-2.cloudscene.com/facilities/c8348c00-fe7c-11ed-8b38-6759c6088e73/related"
+      },
+      "counts": {
+        "pops": 2,
+        "onRamps": 0,
+        "fabrics": 1
+      },
+      "premium": false,
+      "actions": {
+        "all": true
+      }
+    },
+    "provider": {
+      "type": "companyProfiles",
+      "id": "2036da74-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Telefonica Global Solutions",
+        "legalName": "Telefónica Global Solutions S.L.U.",
+        "slug": "telefonica",
+        "description": "<p class=\"cs-p\"><b class=\"cs-b\">MISSION: </b>We are a company that strives to offer our customers innovative and global solutions, wherever they are.</p><p class=\"cs-p\"><b class=\"cs-b\">VISION: </b>To be the technological partner of wholesalers and enterprises, helping them to achieve the digitalization they need.</p><p class=\"cs-p\"><b class=\"cs-b\">VALUES: </b>Our experience gives us the flexibility to adapt and the commitment to be innovative.</p><p class=\"cs-p\"><b class=\"cs-b\">ON THE PATH TOGETHER: </b>At Telefónica Global Solutions, we have been on a journey of great effort and hard work over the past 20 years in order to meet our objective: to be your technological partner.</p><p class=\"cs-p\"></p><p class=\"cs-p\">If we have presence in 29 countries, with full operations in 13 of them and extended presence in a further 16, this is so that your company feels that we are where you need us to be.</p><p class=\"cs-p\">If the infrastructure we have allows us to offer international services to you and our 1,500 customers, as well as the 367 million Telefónica Group customers, it’s because we have the necessary technical capabilities and experience to make this happen.</p><p class=\"cs-p\">We offer a global footprint with particularly strong presence in Europe and Latin America. Our operations in Argentina, Brazil, Chile, Colombia, Ecuador, El Salvador, Germany, Mexico, Peru, Spain, United Kingdom, Uruguay and Venezuela bring the scale of a global player and a deep local knowledge beyond comparison. </p><p class=\"cs-p\">Furthermore, our presence in Austria, Belgium, Hong Kong, Denmark, Finland, France, Greece, Italy, Netherlands, Poland, Portugal, Puerto Rico, Singapore, Sweden, Switzerland and USA means we can be your partners in all corners of the globe. In fact, our services reach 170 countries.</p><p class=\"cs-p\"></p><p class=\"cs-p\">Global Service Catalogue: </p><p class=\"cs-p\">- Networking </p><p class=\"cs-p\">- Voice & UCC </p><p class=\"cs-p\">- Cloud </p><p class=\"cs-p\">- Security </p><p class=\"cs-p\">- Satelite </p><p class=\"cs-p\">- Roaming </p><p class=\"cs-p\">- Messaging </p><p class=\"cs-p\">- IOT & Big Data</p><p class=\"cs-p\"></p>",
+        "logo": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/logo/telefonica-new-logo.png",
+        "website": "https://globalsolutions.telefonica.com/en/",
+        "foundingYear": "1924",
+        "companySize": "10001",
+        "companyType": "Public Company",
+        "linkedin": null,
+        "twitter": null,
+        "facebook": null,
+        "salesPhone": null,
+        "salesEmail": "marketing.us@telefonica.com",
+        "supportPhone": null,
+        "supportEmail": null,
+        "adminNotes": null,
+        "visibility": "public",
+        "premiumUntil": null,
+        "createdAt": "2016-08-31T01:01:00.000000Z",
+        "updatedAt": "2024-12-31T00:01:43.000000Z"
+      },
+      "relationships": {
+        "analyticsCounts": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/analyticsCounts",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/analyticsCounts"
+          }
+        },
+        "certificationOptions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/certificationOptions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/certificationOptions"
+          }
+        },
+        "changeRequests": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/changeRequests",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/changeRequests"
+          }
+        },
+        "childCompanyProfiles": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/childCompanyProfiles",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/childCompanyProfiles"
+          }
+        },
+        "companyCategories": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/companyCategories",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/companyCategories"
+          }
+        },
+        "documents": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/documents",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/documents"
+          }
+        },
+        "bannerImages": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/bannerImages",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/bannerImages"
+          }
+        },
+        "fabricMemberships": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/fabricMemberships",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/fabricMemberships"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/fabrics",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "location": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/location",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/location"
+          }
+        },
+        "onRamps": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/onRamps",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/onRamps"
+          }
+        },
+        "parentCompanyProfile": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/parentCompanyProfile",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/parentCompanyProfile"
+          }
+        },
+        "pops": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/pops",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/pops"
+          }
+        },
+        "pressReleases": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/pressReleases",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/pressReleases"
+          }
+        },
+        "claim": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/relationships/claim",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/claim"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/2036da74-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 171,
+          "facilities": 26,
+          "onRamps": 0,
+          "fabrics": 17
+        },
+        "premium": false,
+        "reviews": {
+          "overall": 0,
+          "customerService": 0,
+          "stars": 0,
+          "renew": 0,
+          "count": 0,
+          "score": 0
+        },
+        "actions": {
+          "all": true
+        }
+      }
+    },
+    "zone": {
+      "type": "zones",
+      "id": "2154436c-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Germany",
+        "description": "A highly developed market, Germany is considered the financial powerhouse of the European Union. Whilst the country's capital is Berlin, the undisputed digital capital is the western city of Frankfurt which is the #1 ranked German market on Cloudscene based on data center density. The country as a whole has rapidly modernized with advanced technology driving its place as one of Europe’s largest telecom markets.",
+        "slug": "data-centers-in-germany/all",
+        "iso": "DE",
+        "lat": "51.165691",
+        "lon": "10.451526",
+        "createdAt": "2021-05-14T06:03:59.000000Z",
+        "updatedAt": "2021-05-14T06:03:59.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 3481,
+          "facilities": 529,
+          "fabrics": 43,
+          "markets": 17,
+          "providers": 943
+        }
+      }
+    },
+    "market": {
+      "type": "markets",
+      "id": "2171adb8-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Berlin",
+        "slug": "data-centers-in-germany/berlin",
+        "createdAt": "2021-05-14T06:04:18.000000Z",
+        "updatedAt": "2021-05-14T06:04:18.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171adb8-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171adb8-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/markets/2171adb8-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171adb8-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "zone": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/markets/2171adb8-9144-11e7-a556-02028ff44134/relationships/zone",
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171adb8-9144-11e7-a556-02028ff44134/zone"
+          }
+        }
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171adb8-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 271,
+          "facilities": 45,
+          "fabrics": 18,
+          "providers": 133
+        }
+      }
+    },
+    "bannerImages": [],
+    "documents": [],
+    "tier": null,
+    "isClaimed": false
+  },
+  "__N_SSG": true
+}

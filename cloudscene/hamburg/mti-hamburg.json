@@ -1,0 +1,441 @@
+{
+  "pageProps": {
+    "type": "facilities",
+    "id": "1f78a36b-9144-11e7-a556-02028ff44134",
+    "attributes": {
+      "name": "Hamburg",
+      "description": null,
+      "state": "active",
+      "visibility": "public",
+      "slug": "germany/hamburg/mti-hamburg",
+      "website": "https://mti.com/",
+      "adminNotes": null,
+      "premiumUntil": null,
+      "certOix2": 0,
+      "certUptimeMAndO": 0,
+      "certUptimeConstructed": "Not Selected",
+      "certUptimeOperation": "Not Selected",
+      "certUptimeOperationGrade": "Not Selected",
+      "buildGenType": null,
+      "buildGenFloorLoadCap": "0.00",
+      "buildGenRaised": 0,
+      "buildGenLoadingDocs": null,
+      "buildGenLeased": 2,
+      "buildGenCarrierNeutral": null,
+      "buildGenSatellitePlat": null,
+      "buildSizeGross": "0.00",
+      "buildSizeColocationTot": "0.00",
+      "buildSizeRoofAva": 0,
+      "powerGenPue": null,
+      "powerGenRackMax": null,
+      "powerGenTotal": null,
+      "powerUpsType": null,
+      "powerGeneratorDuration": null,
+      "powerGeneratorRedundancy": null,
+      "powerGeneratorUtility": null,
+      "colocRackCagedAreas": null,
+      "colocSubRacks": "2",
+      "interMeetme": "0",
+      "secPhyBulletProof": null,
+      "secPhyMantrap": null,
+      "secEleCctv": null,
+      "secEleCctvBackup": "0",
+      "secHumanGuard": null,
+      "airConfigHumidity": null,
+      "airConfigTemp": null,
+      "airConfigTempVar": null,
+      "airConfigHumidityVar": null,
+      "interFiberConn": "0",
+      "custOffices": null,
+      "custBoardRoom": null,
+      "custBreakRoom": null,
+      "custWifiAccess": null,
+      "custSpareParts": null,
+      "custMeetingRoom": null,
+      "genDistanceToAirport": null,
+      "loadingDocSize": "0.00",
+      "utilityConnectionRedundancy": null,
+      "rackHeight": "0",
+      "authenticationFactor": 0,
+      "bioMetric": null,
+      "stagingRooms": null,
+      "onSiteParking": null,
+      "salesPhone": "+44 0 1483 520 200",
+      "salesEmail": "ukinfo@mti.com",
+      "supportPhone": null,
+      "supportEmail": null,
+      "dataVerified": 0,
+      "createdAt": "2015-02-19T07:13:20.000000Z",
+      "updatedAt": "2019-09-26T03:04:01.000000Z"
+    },
+    "relationships": {
+      "analyticsCounts": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/analyticsCounts",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/analyticsCounts"
+        }
+      },
+      "certificationOptions": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/certificationOptions",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/certificationOptions"
+        }
+      },
+      "changeRequests": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/changeRequests",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/changeRequests"
+        }
+      },
+      "companyProfile": {
+        "data": {
+          "type": "companyProfiles",
+          "id": "20597024-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/companyProfile",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/companyProfile"
+        }
+      },
+      "facilityTier": {
+        "data": null,
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/facilityTier",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/facilityTier"
+        }
+      },
+      "fabrics": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/fabrics",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/fabrics"
+        }
+      },
+      "location": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/location",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/location"
+        }
+      },
+      "market": {
+        "data": {
+          "type": "markets",
+          "id": "2171b54e-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/market",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/market"
+        }
+      },
+      "onRamps": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/onRamps",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/onRamps"
+        }
+      },
+      "pops": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/pops",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/pops"
+        }
+      },
+      "zone": {
+        "data": {
+          "type": "zones",
+          "id": "2154436c-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/zone",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/zone"
+        }
+      },
+      "documents": {
+        "data": [],
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/documents",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/documents"
+        }
+      },
+      "bannerImages": {
+        "data": [],
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/relationships/bannerImages",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/bannerImages"
+        }
+      }
+    },
+    "links": {
+      "self": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134"
+    },
+    "meta": {
+      "links": {
+        "related": "http://directory-service.us-west-2.cloudscene.com/facilities/1f78a36b-9144-11e7-a556-02028ff44134/related"
+      },
+      "counts": {
+        "pops": 0,
+        "onRamps": 0,
+        "fabrics": 1
+      },
+      "premium": false,
+      "actions": {
+        "all": true
+      }
+    },
+    "provider": {
+      "type": "companyProfiles",
+      "id": "20597024-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "MTI",
+        "legalName": "MTI",
+        "slug": "mti",
+        "description": "<p>MTI is a global solutions and service provider, underpinned with operational excellence and experience gained through thousands of client and partner engagements. Over 25 years of working extensively across both public and private market sectors, has enabled MTI to develop proven methodologies and best practices aligned with recognised Industry Standards (ITIL, Prince2). Our consultants and specialists work collaboratively to provide holistic, tailored solutions and services across our Datacentre, Security &amp; Managed Services Practices, whether in the corporate datacentre (private cloud), in a hosted environment or a hybrid service model. We aim to develop a partnership that will become a recognised asset, providing support and guidance through the myriad of choice in the market, to ensure the right strategic decisions and investments are made.&nbsp;</p><p>2,600+ Worldwide Contracts - 1,800+ Clients - 10 Offices - 3 Practices...One MTI&nbsp;</p><p>Value through people, solutions and services - we are passionate about making a difference.&nbsp;</p><p>More information can be found at mti.com and follow us on twitter MTI_Technology</p>",
+        "logo": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/CompanyLogo/200_4868.png",
+        "website": "http://www.mti.com",
+        "foundingYear": "1987",
+        "companySize": "201",
+        "companyType": "Privately Held",
+        "linkedin": null,
+        "twitter": null,
+        "facebook": null,
+        "salesPhone": "+441483520200",
+        "salesEmail": "ukinfo@mti.com",
+        "supportPhone": "+441483520349",
+        "supportEmail": null,
+        "adminNotes": null,
+        "visibility": "public",
+        "premiumUntil": null,
+        "createdAt": "2016-08-31T01:01:00.000000Z",
+        "updatedAt": "2015-11-13T05:39:50.000000Z"
+      },
+      "relationships": {
+        "analyticsCounts": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/analyticsCounts",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/analyticsCounts"
+          }
+        },
+        "certificationOptions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/certificationOptions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/certificationOptions"
+          }
+        },
+        "changeRequests": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/changeRequests",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/changeRequests"
+          }
+        },
+        "childCompanyProfiles": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/childCompanyProfiles",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/childCompanyProfiles"
+          }
+        },
+        "companyCategories": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/companyCategories",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/companyCategories"
+          }
+        },
+        "documents": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/documents",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/documents"
+          }
+        },
+        "bannerImages": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/bannerImages",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/bannerImages"
+          }
+        },
+        "fabricMemberships": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/fabricMemberships",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/fabricMemberships"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/fabrics",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "location": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/location",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/location"
+          }
+        },
+        "onRamps": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/onRamps",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/onRamps"
+          }
+        },
+        "parentCompanyProfile": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/parentCompanyProfile",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/parentCompanyProfile"
+          }
+        },
+        "pops": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/pops",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/pops"
+          }
+        },
+        "pressReleases": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/pressReleases",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/pressReleases"
+          }
+        },
+        "claim": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/relationships/claim",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/claim"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/20597024-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 1,
+          "facilities": 12,
+          "onRamps": 0,
+          "fabrics": 0
+        },
+        "premium": false,
+        "reviews": {
+          "overall": 0,
+          "customerService": 0,
+          "stars": 0,
+          "renew": 0,
+          "count": 0,
+          "score": 0
+        },
+        "actions": {
+          "all": true
+        }
+      }
+    },
+    "zone": {
+      "type": "zones",
+      "id": "2154436c-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Germany",
+        "description": "A highly developed market, Germany is considered the financial powerhouse of the European Union. Whilst the country's capital is Berlin, the undisputed digital capital is the western city of Frankfurt which is the #1 ranked German market on Cloudscene based on data center density. The country as a whole has rapidly modernized with advanced technology driving its place as one of Europe’s largest telecom markets.",
+        "slug": "data-centers-in-germany/all",
+        "iso": "DE",
+        "lat": "51.165691",
+        "lon": "10.451526",
+        "createdAt": "2021-05-14T06:03:59.000000Z",
+        "updatedAt": "2021-05-14T06:03:59.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 3481,
+          "facilities": 529,
+          "fabrics": 43,
+          "markets": 17,
+          "providers": 943
+        }
+      }
+    },
+    "market": {
+      "type": "markets",
+      "id": "2171b54e-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Hamburg",
+        "slug": "data-centers-in-germany/hamburg",
+        "createdAt": "2021-05-14T06:13:27.000000Z",
+        "updatedAt": "2021-05-14T06:13:27.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b54e-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b54e-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/markets/2171b54e-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b54e-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "zone": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/markets/2171b54e-9144-11e7-a556-02028ff44134/relationships/zone",
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b54e-9144-11e7-a556-02028ff44134/zone"
+          }
+        }
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b54e-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 185,
+          "facilities": 53,
+          "fabrics": 10,
+          "providers": 94
+        }
+      }
+    },
+    "bannerImages": [],
+    "documents": [],
+    "tier": null,
+    "isClaimed": false
+  },
+  "__N_SSG": true
+}

@@ -1,0 +1,496 @@
+{
+  "pageProps": {
+    "type": "facilities",
+    "id": "cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711",
+    "attributes": {
+      "name": "FRA01",
+      "description": null,
+      "state": "active",
+      "visibility": "public",
+      "slug": "germany/frankfurt/maincubes-frankfurt",
+      "website": "https://www.maincubes.com/en/data-centers/frankfurt-data-center/housing-in-frankfurt/",
+      "adminNotes": null,
+      "premiumUntil": null,
+      "certOix2": 0,
+      "certUptimeMAndO": 0,
+      "certUptimeConstructed": null,
+      "certUptimeOperation": null,
+      "certUptimeOperationGrade": null,
+      "buildGenType": null,
+      "buildGenFloorLoadCap": "12",
+      "buildGenRaised": 0,
+      "buildGenLoadingDocs": true,
+      "buildGenLeased": 0,
+      "buildGenCarrierNeutral": true,
+      "buildGenSatellitePlat": null,
+      "buildSizeGross": null,
+      "buildSizeColocationTot": "4200.00",
+      "buildSizeRoofAva": null,
+      "powerGenPue": "1.30",
+      "powerGenRackMax": "40.00",
+      "powerGenTotal": "6.00",
+      "powerUpsType": "DRUPS",
+      "powerGeneratorDuration": "48",
+      "powerGeneratorRedundancy": "N+1",
+      "powerGeneratorUtility": null,
+      "colocRackCagedAreas": true,
+      "colocSubRacks": "2",
+      "interMeetme": "2",
+      "secPhyBulletProof": true,
+      "secPhyMantrap": true,
+      "secEleCctv": true,
+      "secEleCctvBackup": "3",
+      "secHumanGuard": true,
+      "airConfigHumidity": "50",
+      "airConfigTemp": "24",
+      "airConfigTempVar": "3",
+      "airConfigHumidityVar": "30",
+      "interFiberConn": "2",
+      "custOffices": true,
+      "custBoardRoom": false,
+      "custBreakRoom": true,
+      "custWifiAccess": true,
+      "custSpareParts": true,
+      "custMeetingRoom": null,
+      "genDistanceToAirport": "16",
+      "loadingDocSize": null,
+      "utilityConnectionRedundancy": "N+1",
+      "rackHeight": "52",
+      "authenticationFactor": 2,
+      "bioMetric": "Hand",
+      "stagingRooms": false,
+      "onSiteParking": true,
+      "salesPhone": "+49 69 69768100",
+      "salesEmail": "info-de@maincubes.com",
+      "supportPhone": "+49 69 6976810 50",
+      "supportEmail": "fra01@maincubes.com",
+      "dataVerified": 0,
+      "createdAt": "2018-12-19T23:55:47.000000Z",
+      "updatedAt": "2020-03-09T22:32:18.000000Z"
+    },
+    "relationships": {
+      "analyticsCounts": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/analyticsCounts",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/analyticsCounts"
+        }
+      },
+      "certificationOptions": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/certificationOptions",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/certificationOptions"
+        }
+      },
+      "changeRequests": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/changeRequests",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/changeRequests"
+        }
+      },
+      "companyProfile": {
+        "data": {
+          "type": "companyProfiles",
+          "id": "e04f754c-85f2-40fe-b168-a0553ff96515"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/companyProfile",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/companyProfile"
+        }
+      },
+      "facilityTier": {
+        "data": null,
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/facilityTier",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/facilityTier"
+        }
+      },
+      "fabrics": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/fabrics",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/fabrics"
+        }
+      },
+      "location": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/location",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/location"
+        }
+      },
+      "market": {
+        "data": {
+          "type": "markets",
+          "id": "2171b493-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/market",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/market"
+        }
+      },
+      "onRamps": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/onRamps",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/onRamps"
+        }
+      },
+      "pops": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/pops",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/pops"
+        }
+      },
+      "zone": {
+        "data": {
+          "type": "zones",
+          "id": "2154436c-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/zone",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/zone"
+        }
+      },
+      "documents": {
+        "data": [
+          {
+            "type": "documents",
+            "id": "637616d0-b49d-11eb-bd9a-ebd08af4a48d"
+          },
+          {
+            "type": "documents",
+            "id": "4d602400-b6d1-11eb-bcde-113fa86be6ff"
+          }
+        ],
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/documents",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/documents"
+        }
+      },
+      "bannerImages": {
+        "data": [],
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/relationships/bannerImages",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/bannerImages"
+        }
+      }
+    },
+    "links": {
+      "self": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711"
+    },
+    "meta": {
+      "links": {
+        "related": "http://directory-service.us-west-2.cloudscene.com/facilities/cd1b7e0b-4e5c-4a10-a417-e9ec9ae56711/related"
+      },
+      "counts": {
+        "pops": 25,
+        "onRamps": 0,
+        "fabrics": 7
+      },
+      "premium": false,
+      "actions": {
+        "all": true
+      }
+    },
+    "provider": {
+      "type": "companyProfiles",
+      "id": "e04f754c-85f2-40fe-b168-a0553ff96515",
+      "attributes": {
+        "name": "maincubes",
+        "legalName": "maincubes",
+        "slug": "maincubes",
+        "description": "<p class=\"cs-p\">www.maincubes.com</p>",
+        "logo": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/CompanyLogo/200_11070-1545263680.png",
+        "website": "https://www.maincubes.com/",
+        "foundingYear": "2012",
+        "companySize": "28",
+        "companyType": null,
+        "linkedin": null,
+        "twitter": null,
+        "facebook": null,
+        "salesPhone": "+49 69 69768100",
+        "salesEmail": "info-de@maincubes.com",
+        "supportPhone": null,
+        "supportEmail": null,
+        "adminNotes": null,
+        "visibility": "public",
+        "premiumUntil": null,
+        "createdAt": "2018-12-19T23:53:13.000000Z",
+        "updatedAt": "2022-01-23T22:24:10.000000Z"
+      },
+      "relationships": {
+        "analyticsCounts": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/analyticsCounts",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/analyticsCounts"
+          }
+        },
+        "certificationOptions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/certificationOptions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/certificationOptions"
+          }
+        },
+        "changeRequests": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/changeRequests",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/changeRequests"
+          }
+        },
+        "childCompanyProfiles": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/childCompanyProfiles",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/childCompanyProfiles"
+          }
+        },
+        "companyCategories": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/companyCategories",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/companyCategories"
+          }
+        },
+        "documents": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/documents",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/documents"
+          }
+        },
+        "bannerImages": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/bannerImages",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/bannerImages"
+          }
+        },
+        "fabricMemberships": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/fabricMemberships",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/fabricMemberships"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/fabrics",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/facilities"
+          }
+        },
+        "location": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/location",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/location"
+          }
+        },
+        "onRamps": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/onRamps",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/onRamps"
+          }
+        },
+        "parentCompanyProfile": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/parentCompanyProfile",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/parentCompanyProfile"
+          }
+        },
+        "pops": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/pops",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/pops"
+          }
+        },
+        "pressReleases": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/pressReleases",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/pressReleases"
+          }
+        },
+        "claim": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/relationships/claim",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/claim"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/e04f754c-85f2-40fe-b168-a0553ff96515/related"
+        },
+        "counts": {
+          "pops": 0,
+          "facilities": 4,
+          "onRamps": 0,
+          "fabrics": 0
+        },
+        "premium": false,
+        "reviews": {
+          "overall": 0,
+          "customerService": 0,
+          "stars": 0,
+          "renew": 0,
+          "count": 0,
+          "score": 0
+        },
+        "actions": {
+          "all": true
+        }
+      }
+    },
+    "zone": {
+      "type": "zones",
+      "id": "2154436c-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Germany",
+        "description": "A highly developed market, Germany is considered the financial powerhouse of the European Union. Whilst the country's capital is Berlin, the undisputed digital capital is the western city of Frankfurt which is the #1 ranked German market on Cloudscene based on data center density. The country as a whole has rapidly modernized with advanced technology driving its place as one of Europe’s largest telecom markets.",
+        "slug": "data-centers-in-germany/all",
+        "iso": "DE",
+        "lat": "51.165691",
+        "lon": "10.451526",
+        "createdAt": "2021-05-14T06:03:59.000000Z",
+        "updatedAt": "2021-05-14T06:03:59.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 3481,
+          "facilities": 529,
+          "fabrics": 43,
+          "markets": 17,
+          "providers": 943
+        }
+      }
+    },
+    "market": {
+      "type": "markets",
+      "id": "2171b493-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Frankfurt",
+        "slug": "data-centers-in-germany/frankfurt",
+        "createdAt": "2021-05-14T06:05:17.000000Z",
+        "updatedAt": "2021-05-14T06:05:17.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b493-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b493-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/markets/2171b493-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b493-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "zone": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/markets/2171b493-9144-11e7-a556-02028ff44134/relationships/zone",
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b493-9144-11e7-a556-02028ff44134/zone"
+          }
+        }
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b493-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 2103,
+          "facilities": 131,
+          "fabrics": 39,
+          "providers": 688
+        }
+      }
+    },
+    "bannerImages": [
+      {
+        "type": "documents",
+        "id": "637616d0-b49d-11eb-bd9a-ebd08af4a48d",
+        "attributes": {
+          "url": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/facility-hero/9258-1556286369.jpg",
+          "documentType": "banner-image",
+          "fileName": null,
+          "fileType": null,
+          "fileSize": null,
+          "sortOrder": null,
+          "createdAt": "2021-05-14T10:16:03.000000Z",
+          "updatedAt": "2021-05-14T10:16:03.000000Z"
+        },
+        "relationships": {
+          "documentResource": {
+            "links": {
+              "self": "http://directory-service.us-west-2.cloudscene.com/documents/637616d0-b49d-11eb-bd9a-ebd08af4a48d/relationships/documentResource",
+              "related": "http://directory-service.us-west-2.cloudscene.com/documents/637616d0-b49d-11eb-bd9a-ebd08af4a48d/documentResource"
+            }
+          }
+        }
+      }
+    ],
+    "documents": [
+      {
+        "type": "documents",
+        "id": "4d602400-b6d1-11eb-bcde-113fa86be6ff",
+        "attributes": {
+          "url": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/facility-pdf/9258-1583768954.pdf",
+          "documentType": "file",
+          "fileName": null,
+          "fileType": null,
+          "fileSize": null,
+          "sortOrder": null,
+          "createdAt": "2021-05-17T05:32:42.000000Z",
+          "updatedAt": "2021-05-17T05:32:42.000000Z"
+        },
+        "relationships": {
+          "documentResource": {
+            "links": {
+              "self": "http://directory-service.us-west-2.cloudscene.com/documents/4d602400-b6d1-11eb-bcde-113fa86be6ff/relationships/documentResource",
+              "related": "http://directory-service.us-west-2.cloudscene.com/documents/4d602400-b6d1-11eb-bcde-113fa86be6ff/documentResource"
+            }
+          }
+        }
+      }
+    ],
+    "tier": null,
+    "isClaimed": true
+  },
+  "__N_SSG": true
+}

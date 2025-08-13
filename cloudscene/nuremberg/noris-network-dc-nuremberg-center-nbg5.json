@@ -1,0 +1,441 @@
+{
+  "pageProps": {
+    "type": "facilities",
+    "id": "334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9",
+    "attributes": {
+      "name": "DC Nuremberg Center (NBG5)",
+      "description": "<p class=\"cs-p\"></p>",
+      "state": "active",
+      "visibility": "public",
+      "slug": "germany/nuremberg/noris-network-dc-nuremberg-center-nbg5",
+      "website": "https://www.noris.de/en/data-centers/dc-nuremberg-center/",
+      "adminNotes": null,
+      "premiumUntil": null,
+      "certOix2": null,
+      "certUptimeMAndO": null,
+      "certUptimeConstructed": null,
+      "certUptimeOperation": null,
+      "certUptimeOperationGrade": null,
+      "buildGenType": null,
+      "buildGenFloorLoadCap": null,
+      "buildGenRaised": null,
+      "buildGenLoadingDocs": null,
+      "buildGenLeased": null,
+      "buildGenCarrierNeutral": true,
+      "buildGenSatellitePlat": null,
+      "buildSizeGross": null,
+      "buildSizeColocationTot": null,
+      "buildSizeRoofAva": null,
+      "powerGenPue": null,
+      "powerGenRackMax": "6.00",
+      "powerGenTotal": null,
+      "powerUpsType": null,
+      "powerGeneratorDuration": "24",
+      "powerGeneratorRedundancy": "N+1",
+      "powerGeneratorUtility": null,
+      "colocRackCagedAreas": null,
+      "colocSubRacks": "",
+      "interMeetme": null,
+      "secPhyBulletProof": null,
+      "secPhyMantrap": true,
+      "secEleCctv": true,
+      "secEleCctvBackup": null,
+      "secHumanGuard": true,
+      "airConfigHumidity": null,
+      "airConfigTemp": null,
+      "airConfigTempVar": null,
+      "airConfigHumidityVar": null,
+      "interFiberConn": null,
+      "custOffices": null,
+      "custBoardRoom": null,
+      "custBreakRoom": null,
+      "custWifiAccess": null,
+      "custSpareParts": null,
+      "custMeetingRoom": null,
+      "genDistanceToAirport": "7.9",
+      "loadingDocSize": null,
+      "utilityConnectionRedundancy": null,
+      "rackHeight": "47",
+      "authenticationFactor": null,
+      "bioMetric": null,
+      "stagingRooms": null,
+      "onSiteParking": true,
+      "salesPhone": "+49 911 9352 160",
+      "salesEmail": "vertrieb@noris.de",
+      "supportPhone": null,
+      "supportEmail": null,
+      "dataVerified": null,
+      "createdAt": "2022-12-14T21:28:07.000000Z",
+      "updatedAt": "2022-12-19T18:54:32.000000Z"
+    },
+    "relationships": {
+      "analyticsCounts": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/analyticsCounts",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/analyticsCounts"
+        }
+      },
+      "certificationOptions": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/certificationOptions",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/certificationOptions"
+        }
+      },
+      "changeRequests": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/changeRequests",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/changeRequests"
+        }
+      },
+      "companyProfile": {
+        "data": {
+          "type": "companyProfiles",
+          "id": "202bc451-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/companyProfile",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/companyProfile"
+        }
+      },
+      "facilityTier": {
+        "data": null,
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/facilityTier",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/facilityTier"
+        }
+      },
+      "fabrics": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/fabrics",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/fabrics"
+        }
+      },
+      "location": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/location",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/location"
+        }
+      },
+      "market": {
+        "data": {
+          "type": "markets",
+          "id": "2171b9b5-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/market",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/market"
+        }
+      },
+      "onRamps": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/onRamps",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/onRamps"
+        }
+      },
+      "pops": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/pops",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/pops"
+        }
+      },
+      "zone": {
+        "data": {
+          "type": "zones",
+          "id": "2154436c-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/zone",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/zone"
+        }
+      },
+      "documents": {
+        "data": [],
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/documents",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/documents"
+        }
+      },
+      "bannerImages": {
+        "data": [],
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/relationships/bannerImages",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/bannerImages"
+        }
+      }
+    },
+    "links": {
+      "self": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9"
+    },
+    "meta": {
+      "links": {
+        "related": "http://directory-service.us-west-2.cloudscene.com/facilities/334ae5e0-7bf6-11ed-a9f5-8f4e6a905eb9/related"
+      },
+      "counts": {
+        "pops": 3,
+        "onRamps": 0,
+        "fabrics": 0
+      },
+      "premium": false,
+      "actions": {
+        "all": true
+      }
+    },
+    "provider": {
+      "type": "companyProfiles",
+      "id": "202bc451-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "noris network",
+        "legalName": "noris network AG",
+        "slug": "noris-network",
+        "description": "<p class=\"cs-p\">noris network AG provides tailor-made ICT-solutions in IT-Outsourcing, Cloud Services and Network & Security. Technological basis of these services is a powerful IT infrastructure with noris&#x27; own high-performance backbone and multiple high-security data centers. Under the brand name datacenter.de standardized premium data center products are offered. </p><p class=\"cs-p\">noris network AG and its entire business activities are certified according to ISO 20000-1, ISO/IEC 27001 and ISO 9001 for their consistent quality and security in service and information security management.</p><p class=\"cs-p\">The noris network data centers have the maximum number of five stars that eco (Association of the German Internet Industry) has awarded in the eco Data Center Star Audit.</p><p class=\"cs-p\">Founded in 1993, noris network is one of  the german pioneers in the field of modern IT services and serves many renowned companies such as adidas AG, Consorsbank, Flughafen Nürnberg GmbH, Firmengruppe Max Bögl, Küchen Quelle GmbH, Puma SE, Schmetterling Reisen GmbH & Co. KG, Teambank AG and many more.</p>",
+        "logo": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/CompanyLogo/200_53-1620091869.png",
+        "website": "https://www.noris.de/",
+        "foundingYear": "1993",
+        "companySize": "650",
+        "companyType": "Public Company",
+        "linkedin": "https://www.linkedin.com/company/noris-network-ag/",
+        "twitter": "https://twitter.com/norisnetwork",
+        "facebook": "https://www.facebook.com/norisnetwork",
+        "salesPhone": "+49 911 9352 160",
+        "salesEmail": "vertrieb@noris.de",
+        "supportPhone": null,
+        "supportEmail": null,
+        "adminNotes": null,
+        "visibility": "public",
+        "premiumUntil": null,
+        "createdAt": "2016-08-31T01:01:00.000000Z",
+        "updatedAt": "2025-06-16T22:51:36.000000Z"
+      },
+      "relationships": {
+        "analyticsCounts": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/analyticsCounts",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/analyticsCounts"
+          }
+        },
+        "certificationOptions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/certificationOptions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/certificationOptions"
+          }
+        },
+        "changeRequests": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/changeRequests",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/changeRequests"
+          }
+        },
+        "childCompanyProfiles": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/childCompanyProfiles",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/childCompanyProfiles"
+          }
+        },
+        "companyCategories": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/companyCategories",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/companyCategories"
+          }
+        },
+        "documents": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/documents",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/documents"
+          }
+        },
+        "bannerImages": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/bannerImages",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/bannerImages"
+          }
+        },
+        "fabricMemberships": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/fabricMemberships",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/fabricMemberships"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/fabrics",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "location": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/location",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/location"
+          }
+        },
+        "onRamps": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/onRamps",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/onRamps"
+          }
+        },
+        "parentCompanyProfile": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/parentCompanyProfile",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/parentCompanyProfile"
+          }
+        },
+        "pops": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/pops",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/pops"
+          }
+        },
+        "pressReleases": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/pressReleases",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/pressReleases"
+          }
+        },
+        "claim": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/relationships/claim",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/claim"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/202bc451-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 19,
+          "facilities": 7,
+          "onRamps": 0,
+          "fabrics": 7
+        },
+        "premium": false,
+        "reviews": {
+          "overall": 0,
+          "customerService": 0,
+          "stars": 0,
+          "renew": 0,
+          "count": 0,
+          "score": 0
+        },
+        "actions": {
+          "all": true
+        }
+      }
+    },
+    "zone": {
+      "type": "zones",
+      "id": "2154436c-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Germany",
+        "description": "A highly developed market, Germany is considered the financial powerhouse of the European Union. Whilst the country's capital is Berlin, the undisputed digital capital is the western city of Frankfurt which is the #1 ranked German market on Cloudscene based on data center density. The country as a whole has rapidly modernized with advanced technology driving its place as one of Europe’s largest telecom markets.",
+        "slug": "data-centers-in-germany/all",
+        "iso": "DE",
+        "lat": "51.165691",
+        "lon": "10.451526",
+        "createdAt": "2021-05-14T06:03:59.000000Z",
+        "updatedAt": "2021-05-14T06:03:59.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 3481,
+          "facilities": 529,
+          "fabrics": 43,
+          "markets": 17,
+          "providers": 943
+        }
+      }
+    },
+    "market": {
+      "type": "markets",
+      "id": "2171b9b5-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Nuremberg",
+        "slug": "data-centers-in-germany/nuremberg",
+        "createdAt": "2021-05-14T06:14:34.000000Z",
+        "updatedAt": "2021-05-14T06:14:34.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b9b5-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b9b5-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/markets/2171b9b5-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b9b5-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "zone": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/markets/2171b9b5-9144-11e7-a556-02028ff44134/relationships/zone",
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b9b5-9144-11e7-a556-02028ff44134/zone"
+          }
+        }
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b9b5-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 90,
+          "facilities": 27,
+          "fabrics": 3,
+          "providers": 47
+        }
+      }
+    },
+    "bannerImages": [],
+    "documents": [],
+    "tier": null,
+    "isClaimed": false
+  },
+  "__N_SSG": true
+}

@@ -1,0 +1,548 @@
+{
+  "pageProps": {
+    "type": "facilities",
+    "id": "ec0748fb-2863-494e-8ae0-a24566dabff2",
+    "attributes": {
+      "name": "Düsseldorf - Penta DUS01",
+      "description": "<p class=\"cs-p\"><b class=\"cs-b\">High quality, environmentally sustainable and carrier neutral colocation</b></p><p class=\"cs-p\">The increasing amount of business-critical infrastructure and data requires professional data center solutions to keep pace with the growing demands for security, resilience and sustainability.</p><p class=\"cs-p\">Based on experience from operating +10 data centers in multiple countries like Denmark, Germany and Holland, Penta Infra is your trusted partner providing data center facilities for your infrastructure.</p><p class=\"cs-p\">Penta is expanding with space, capacity, data centers and sustainable solutions to be prepared for your current and  future needs.</p><p class=\"cs-p\">With Penta Infra as your partner, you will realize this. That’s the Penta effect!</p><p class=\"cs-p\"><b class=\"cs-b\">Location & Accessibility</b></p><p class=\"cs-p\">Düsseldorf is the capital of the federal state of North Rhine Westphalia and located in the Rhine-Ruhr-Area.</p><p class=\"cs-p\">With over 10 million inhabitants, this is the largest metropolitan area in Germany and one the 40 largest worldwide. It is also located on the main fibre routes through Europe, between Amsterdam and Frankfurt.</p><p class=\"cs-p\">Düsseldorf lies in the heart of one of the main economic areas of Germany, and is an important network- and telecom hub.</p>",
+      "state": "active",
+      "visibility": "public",
+      "slug": "germany/dusseldorf/penta-infra-dus01",
+      "website": "https://penta-infra.com/data-centers/duesseldorf",
+      "adminNotes": null,
+      "premiumUntil": "2023-05-31T00:00:00.000000Z",
+      "certOix2": 0,
+      "certUptimeMAndO": 0,
+      "certUptimeConstructed": null,
+      "certUptimeOperation": null,
+      "certUptimeOperationGrade": null,
+      "buildGenType": null,
+      "buildGenFloorLoadCap": null,
+      "buildGenRaised": 0,
+      "buildGenLoadingDocs": true,
+      "buildGenLeased": 0,
+      "buildGenCarrierNeutral": true,
+      "buildGenSatellitePlat": null,
+      "buildSizeGross": null,
+      "buildSizeColocationTot": "1400.00",
+      "buildSizeRoofAva": null,
+      "powerGenPue": "1.45",
+      "powerGenRackMax": "25.00",
+      "powerGenTotal": "6.00",
+      "powerUpsType": null,
+      "powerGeneratorDuration": null,
+      "powerGeneratorRedundancy": "2N",
+      "powerGeneratorUtility": null,
+      "colocRackCagedAreas": true,
+      "colocSubRacks": "1",
+      "interMeetme": "2",
+      "secPhyBulletProof": null,
+      "secPhyMantrap": true,
+      "secEleCctv": true,
+      "secEleCctvBackup": null,
+      "secHumanGuard": true,
+      "airConfigHumidity": "50",
+      "airConfigTemp": "23",
+      "airConfigTempVar": "4",
+      "airConfigHumidityVar": "20",
+      "interFiberConn": "3",
+      "custOffices": true,
+      "custBoardRoom": false,
+      "custBreakRoom": true,
+      "custWifiAccess": true,
+      "custSpareParts": true,
+      "custMeetingRoom": null,
+      "genDistanceToAirport": "6",
+      "loadingDocSize": null,
+      "utilityConnectionRedundancy": "2N",
+      "rackHeight": "52",
+      "authenticationFactor": 3,
+      "bioMetric": "hand",
+      "stagingRooms": true,
+      "onSiteParking": true,
+      "salesPhone": "+4917646264626",
+      "salesEmail": "sales.dach@penta-infra.com",
+      "supportPhone": null,
+      "supportEmail": null,
+      "dataVerified": 0,
+      "createdAt": "2020-06-08T23:07:29.000000Z",
+      "updatedAt": "2022-10-24T21:41:37.000000Z"
+    },
+    "relationships": {
+      "analyticsCounts": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/analyticsCounts",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/analyticsCounts"
+        }
+      },
+      "certificationOptions": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/certificationOptions",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/certificationOptions"
+        }
+      },
+      "changeRequests": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/changeRequests",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/changeRequests"
+        }
+      },
+      "companyProfile": {
+        "data": {
+          "type": "companyProfiles",
+          "id": "1376138d-6755-4dc6-9db4-7afc933e6dc0"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/companyProfile",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/companyProfile"
+        }
+      },
+      "facilityTier": {
+        "data": null,
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/facilityTier",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/facilityTier"
+        }
+      },
+      "fabrics": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/fabrics",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/fabrics"
+        }
+      },
+      "location": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/location",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/location"
+        }
+      },
+      "market": {
+        "data": {
+          "type": "markets",
+          "id": "2171b1ea-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/market",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/market"
+        }
+      },
+      "onRamps": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/onRamps",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/onRamps"
+        }
+      },
+      "pops": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/pops",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/pops"
+        }
+      },
+      "zone": {
+        "data": {
+          "type": "zones",
+          "id": "2154436c-9144-11e7-a556-02028ff44134"
+        },
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/zone",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/zone"
+        }
+      },
+      "documents": {
+        "data": [
+          {
+            "type": "documents",
+            "id": "68ad2160-8244-11ec-80c7-3b7597e26504"
+          },
+          {
+            "type": "documents",
+            "id": "68fac9c0-8244-11ec-8048-e35654e4ff2b"
+          },
+          {
+            "type": "documents",
+            "id": "6bdc8be0-8244-11ec-8af3-4d484a9af6f9"
+          },
+          {
+            "type": "documents",
+            "id": "812adab0-8246-11ec-ab7b-3758373f91ae"
+          }
+        ],
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/documents",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/documents"
+        }
+      },
+      "bannerImages": {
+        "data": [],
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/relationships/bannerImages",
+          "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/bannerImages"
+        }
+      }
+    },
+    "links": {
+      "self": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2"
+    },
+    "meta": {
+      "links": {
+        "related": "http://directory-service.us-west-2.cloudscene.com/facilities/ec0748fb-2863-494e-8ae0-a24566dabff2/related"
+      },
+      "counts": {
+        "pops": 4,
+        "onRamps": 0,
+        "fabrics": 0
+      },
+      "premium": false,
+      "actions": {
+        "all": true
+      }
+    },
+    "provider": {
+      "type": "companyProfiles",
+      "id": "1376138d-6755-4dc6-9db4-7afc933e6dc0",
+      "attributes": {
+        "name": "Penta Infra",
+        "legalName": "Penta Infra",
+        "slug": "penta-infra",
+        "description": "<p class=\"cs-p\">Penta Infra is a top-tier European datacenter provider. We provide datacenter solutions ranging from colocation to build-to-suit datacenters. We have a wide network of datacenters both on hubs and edge locations where we can offer you our services.</p>",
+        "logo": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/CompanyLogo/200_12301-1591657202.png",
+        "website": "http://penta-infra.com/",
+        "foundingYear": "2015",
+        "companySize": "50",
+        "companyType": null,
+        "linkedin": "https://www.linkedin.com/company/penta-infra/mycompany/",
+        "twitter": null,
+        "facebook": null,
+        "salesPhone": "+4917646264626",
+        "salesEmail": "sales@penta-infra.com",
+        "supportPhone": null,
+        "supportEmail": null,
+        "adminNotes": null,
+        "visibility": "public",
+        "premiumUntil": "2023-05-31T00:00:00.000000Z",
+        "createdAt": "2020-06-08T22:57:52.000000Z",
+        "updatedAt": "2023-05-31T00:00:08.000000Z"
+      },
+      "relationships": {
+        "analyticsCounts": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/analyticsCounts",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/analyticsCounts"
+          }
+        },
+        "certificationOptions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/certificationOptions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/certificationOptions"
+          }
+        },
+        "changeRequests": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/changeRequests",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/changeRequests"
+          }
+        },
+        "childCompanyProfiles": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/childCompanyProfiles",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/childCompanyProfiles"
+          }
+        },
+        "companyCategories": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/companyCategories",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/companyCategories"
+          }
+        },
+        "documents": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/documents",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/documents"
+          }
+        },
+        "bannerImages": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/bannerImages",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/bannerImages"
+          }
+        },
+        "fabricMemberships": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/fabricMemberships",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/fabricMemberships"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/fabrics",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/facilities"
+          }
+        },
+        "location": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/location",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/location"
+          }
+        },
+        "onRamps": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/onRamps",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/onRamps"
+          }
+        },
+        "parentCompanyProfile": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/parentCompanyProfile",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/parentCompanyProfile"
+          }
+        },
+        "pops": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/pops",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/pops"
+          }
+        },
+        "pressReleases": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/pressReleases",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/pressReleases"
+          }
+        },
+        "claim": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/relationships/claim",
+            "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/claim"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/companyProfiles/1376138d-6755-4dc6-9db4-7afc933e6dc0/related"
+        },
+        "counts": {
+          "pops": 0,
+          "facilities": 10,
+          "onRamps": 0,
+          "fabrics": 0
+        },
+        "premium": false,
+        "reviews": {
+          "overall": 0,
+          "customerService": 0,
+          "stars": 0,
+          "renew": 0,
+          "count": 0,
+          "score": 0
+        },
+        "actions": {
+          "all": true
+        }
+      }
+    },
+    "zone": {
+      "type": "zones",
+      "id": "2154436c-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Germany",
+        "description": "A highly developed market, Germany is considered the financial powerhouse of the European Union. Whilst the country's capital is Berlin, the undisputed digital capital is the western city of Frankfurt which is the #1 ranked German market on Cloudscene based on data center density. The country as a whole has rapidly modernized with advanced technology driving its place as one of Europe’s largest telecom markets.",
+        "slug": "data-centers-in-germany/all",
+        "iso": "DE",
+        "lat": "51.165691",
+        "lon": "10.451526",
+        "createdAt": "2021-05-14T06:03:59.000000Z",
+        "updatedAt": "2021-05-14T06:03:59.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 3481,
+          "facilities": 529,
+          "fabrics": 43,
+          "markets": 17,
+          "providers": 943
+        }
+      }
+    },
+    "market": {
+      "type": "markets",
+      "id": "2171b1ea-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Dusseldorf",
+        "slug": "data-centers-in-germany/dusseldorf",
+        "createdAt": "2021-05-14T06:04:55.000000Z",
+        "updatedAt": "2021-05-14T06:04:55.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b1ea-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b1ea-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/markets/2171b1ea-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b1ea-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "zone": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/markets/2171b1ea-9144-11e7-a556-02028ff44134/relationships/zone",
+            "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b1ea-9144-11e7-a556-02028ff44134/zone"
+          }
+        }
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/markets/2171b1ea-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 306,
+          "facilities": 38,
+          "fabrics": 11,
+          "providers": 176
+        }
+      }
+    },
+    "bannerImages": [
+      {
+        "type": "documents",
+        "id": "68ad2160-8244-11ec-80c7-3b7597e26504",
+        "attributes": {
+          "url": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/banner-image/penta-dus01-1.jpg",
+          "documentType": "banner-image",
+          "fileName": "penta-dus01-1.jpg",
+          "fileType": "image/jpeg",
+          "fileSize": "647273",
+          "sortOrder": "1",
+          "createdAt": "2022-01-31T03:18:06.000000Z",
+          "updatedAt": "2022-01-31T03:18:17.000000Z"
+        },
+        "relationships": {
+          "documentResource": {
+            "links": {
+              "self": "http://directory-service.us-west-2.cloudscene.com/documents/68ad2160-8244-11ec-80c7-3b7597e26504/relationships/documentResource",
+              "related": "http://directory-service.us-west-2.cloudscene.com/documents/68ad2160-8244-11ec-80c7-3b7597e26504/documentResource"
+            }
+          }
+        }
+      },
+      {
+        "type": "documents",
+        "id": "68fac9c0-8244-11ec-8048-e35654e4ff2b",
+        "attributes": {
+          "url": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/banner-image/penta-dus01-2.jpg",
+          "documentType": "banner-image",
+          "fileName": "penta-dus01-2.jpg",
+          "fileType": "image/jpeg",
+          "fileSize": "374332",
+          "sortOrder": "1",
+          "createdAt": "2022-01-31T03:18:07.000000Z",
+          "updatedAt": "2022-01-31T03:18:17.000000Z"
+        },
+        "relationships": {
+          "documentResource": {
+            "links": {
+              "self": "http://directory-service.us-west-2.cloudscene.com/documents/68fac9c0-8244-11ec-8048-e35654e4ff2b/relationships/documentResource",
+              "related": "http://directory-service.us-west-2.cloudscene.com/documents/68fac9c0-8244-11ec-8048-e35654e4ff2b/documentResource"
+            }
+          }
+        }
+      },
+      {
+        "type": "documents",
+        "id": "6bdc8be0-8244-11ec-8af3-4d484a9af6f9",
+        "attributes": {
+          "url": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/banner-image/penta-dus01-3.jpg",
+          "documentType": "banner-image",
+          "fileName": "penta-dus01-3.jpg",
+          "fileType": "image/jpeg",
+          "fileSize": "649726",
+          "sortOrder": "1",
+          "createdAt": "2022-01-31T03:18:12.000000Z",
+          "updatedAt": "2022-01-31T03:18:17.000000Z"
+        },
+        "relationships": {
+          "documentResource": {
+            "links": {
+              "self": "http://directory-service.us-west-2.cloudscene.com/documents/6bdc8be0-8244-11ec-8af3-4d484a9af6f9/relationships/documentResource",
+              "related": "http://directory-service.us-west-2.cloudscene.com/documents/6bdc8be0-8244-11ec-8af3-4d484a9af6f9/documentResource"
+            }
+          }
+        }
+      }
+    ],
+    "documents": [
+      {
+        "type": "documents",
+        "id": "812adab0-8246-11ec-ab7b-3758373f91ae",
+        "attributes": {
+          "url": "https://directory-service-090921371925-us-west-2-prod.s3-us-west-2.amazonaws.com/file/penta-dus01-2p-v8-en-compressed.pdf",
+          "documentType": "file",
+          "fileName": "penta-dus01-2p-v8-en-compressed.pdf",
+          "fileType": "application/pdf",
+          "fileSize": "240720",
+          "sortOrder": "1",
+          "createdAt": "2022-01-31T03:33:06.000000Z",
+          "updatedAt": "2022-01-31T03:33:11.000000Z"
+        },
+        "relationships": {
+          "documentResource": {
+            "links": {
+              "self": "http://directory-service.us-west-2.cloudscene.com/documents/812adab0-8246-11ec-ab7b-3758373f91ae/relationships/documentResource",
+              "related": "http://directory-service.us-west-2.cloudscene.com/documents/812adab0-8246-11ec-ab7b-3758373f91ae/documentResource"
+            }
+          }
+        }
+      }
+    ],
+    "tier": null,
+    "isClaimed": true
+  },
+  "__N_SSG": true
+}

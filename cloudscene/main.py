@@ -77,7 +77,60 @@ def fetch_cloudscene_data(
 
 
 if __name__ == "__main__":
-    city = "kiel"
+    city = "germany-regional"
     
-    dataCenters = ["eunetworks-eunetworks-kiel", "addix-internet-services-kiel", "ennit-kiel"] 
+    dataCenters = [
+  "darz-darmstadt",
+  "hetzner-online-falkenstein-data-center-park",
+  "centron-centron-data-center",
+  "eunetworks-eunetworks-erfurt",
+  "eunetworks-eunetworks-wurzburg",
+  "r-kom-datacenter-ostbayern",
+  "pfalzkom-manet-datacenter-rhein-neckar-ii",
+  "eunetworks-eunetworks-magdeburg",
+  "mti-mannheim",
+  "pfalzkom-manet-datacenter-rhein-neckar",
+  "lew-telnet-augsburg",
+  "noris-network-rz-hof-hof1",
+  "centurylink-kehl",
+  "eunetworks-eunetworks-rostock",
+  "itecon-mainz",
+  "arvato-systems-guetersloh",
+  "intelsat-fuchsstadt",
+  "datacenter-one-lev1",
+  "arvato-systems-dc3",
+  "amadeus-it-group-amadeus-data-centre",
+  "inexio-saarlouis",
+  "tops.net-bonn",
+  "idkom-kempten-ii",
+  "ibm-mainz",
+  "fis-asp-grafenheinfeld",
+  "wemacom-schwerin",
+  "erdenreich-datantechnik-ingolstadt",
+  "macrois-wurzberg",
+  "telekommunikation-mittleres-ruhrgebiet-gelsenkirchen",
+  "stadnetz-bamberg-stadtnetz-bamberg",
+  "dacor-coburg",
+  "k-net-telekommunikation-kaiserslautern",
+  "pfalzkom-manet-mutterstadt",
+  "deutsche-telekom-bordeland-biere",
+  "axilaris-chemnitz",
+  "dc-main-gmbh-datacenter-mainfranken",
+  "cmo-internet-dienstleistungen-reutlingen","t-systems-twincore","m-net-telekommunikations-augsburg",
+  "vse-net-saarland","relaix-networks-aachen","dts-systeme-herford",
+  "systemec-nettetal","skyway-datacenter-data-center-saarland","university-of-augsburg-university-of-augsburg",
+  'university-of-bamberg-bamberg','university-of-bayreuth-bayreuth','catholic-university-of-eichstatt-ingolstadt-eichstatt'
+]
+
+
+
+
+
+
+
+
+
+
+
+ 
     fetch_cloudscene_data(city, dataCenters)
