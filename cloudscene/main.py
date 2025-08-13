@@ -77,6 +77,7 @@ def fetch_cloudscene_data(
 
 
 if __name__ == "__main__":
-    city = "bielefeld"
-    dataCenters = ["bitel-bielefeld", "eunetworks-eunetworks-bielefeld"] 
+    city = "kiel"
+    
+    dataCenters = ["eunetworks-eunetworks-kiel", "addix-internet-services-kiel", "ennit-kiel"] 
     fetch_cloudscene_data(city, dataCenters)
