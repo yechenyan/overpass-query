@@ -1,0 +1,7 @@
+[
+  [
+    {
+      "name$match$i": "data[ _]?center|datacenter|Rechenzentrum"
+    }
+  ]
+]

@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-FILE_NAME = "8Logistik_gpt"
+FILE_NAME = "d_datacenter"
 # bbox
 # qls = generate_ql(f"origin/{FILE_NAME}.json")
 
@@ -18,12 +18,14 @@ FILE_NAME = "8Logistik_gpt"
 
 #  near Berlin
 # qls = generate_ql(f"origin/{FILE_NAME}.json", 
-#             area= "52.428698929952496,13.719520568847658,52.52457705042609,13.943023681640627", 
+#            area= "52.344149, 12.967987, 52.727144, 13.862", 
 #             area_define='' )
+
+
 
 #  nBerlin
 qls = generate_ql(f"origin/{FILE_NAME}.json", 
-            area= "52.344149, 12.967987, 52.727144, 13.862", 
+            area= "area:3600051477", 
             area_define='' )
 generate_ql(f"origin/{FILE_NAME}.json", 
             output_dir = "output_ql_bbox"

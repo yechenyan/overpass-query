@@ -1,0 +1,1997 @@
+[
+    {
+        "tags": {
+            "amenity": "bicycle_parking",
+            "bicycle_parking": "stands",
+            "capacity": "40",
+            "covered": "no",
+            "name": "Rechenzentrum"
+        },
+        "id": 976181336
+    },
+    {
+        "tags": {
+            "VRS:gemeinde": "SANKT AUGUSTIN",
+            "VRS:name": "Rechenzentrum",
+            "VRS:ortsteil": "Mitte",
+            "VRS:ref": "55744",
+            "bench": "no",
+            "bin": "no",
+            "bus": "yes",
+            "highway": "bus_stop",
+            "lit": "yes",
+            "name": "Rechenzentrum",
+            "public_transport": "platform",
+            "ref:IFOPT": "de:05382:55744:2:22",
+            "ref_name": "Rechenzentrum, Sankt Augustin",
+            "shelter": "no",
+            "source": "Verkehrsverbund Rhein-Sieg",
+            "tactile_paving": "no"
+        },
+        "id": 1383547581
+    },
+    {
+        "tags": {
+            "name": "Hochschulrechenzentrum"
+        },
+        "id": 1402776414
+    },
+    {
+        "tags": {
+            "VRS:gemeinde": "SANKT AUGUSTIN",
+            "VRS:name": "Rechenzentrum",
+            "VRS:ortsteil": "Mitte",
+            "VRS:ref": "55744",
+            "bus": "yes",
+            "name": "Rechenzentrum",
+            "public_transport": "stop_position",
+            "ref:IFOPT": "de:05382:55744:2:21",
+            "ref_name": "Rechenzentrum, Sankt Augustin",
+            "source": "Verkehrsverbund Rhein-Sieg"
+        },
+        "id": 1485246287
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housename": "Haus 9",
+            "addr:housenumber": "25",
+            "addr:postcode": "12459",
+            "addr:street": "Ostendstraße",
+            "addr:suburb": "Oberschöneweide",
+            "name": "HTW Berlin Hochschulrechenzentrum",
+            "name:de": "HTW Berlin Hochschulrechenzentrum",
+            "name:en": "HTW Berlin Computer Centre",
+            "website": "https://www.rz.htw-berlin.de/"
+        },
+        "id": 1488327148
+    },
+    {
+        "tags": {
+            "name": "Rechenzentrum KU Eichstätt",
+            "office": "datacentre",
+            "operator": "Katholische Universität Eichstätt-Ingolstadt",
+            "website": "https://www.ku.de/rechenzentrum"
+        },
+        "id": 1578699635
+    },
+    {
+        "tags": {
+            "addr:city": "Bonn",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "53115",
+            "addr:street": "Wegelerstraße",
+            "name": "Hochschulrechenzentrum",
+            "operator": "Rheinische Friedrich-Wilhelms Universität Bonn",
+            "university": "datacentre",
+            "wheelchair": "limited"
+        },
+        "id": 1593060817
+    },
+    {
+        "tags": {
+            "name": "ABZ Computersysteme & Rechenzentrum GmbH",
+            "office": "company"
+        },
+        "id": 1633899329
+    },
+    {
+        "tags": {
+            "VRS:gemeinde": "SANKT AUGUSTIN",
+            "VRS:name": "Rechenzentrum",
+            "VRS:ortsteil": "Mitte",
+            "VRS:ref": "55744",
+            "bench": "no",
+            "bin": "no",
+            "bus": "yes",
+            "highway": "bus_stop",
+            "lit": "yes",
+            "name": "Rechenzentrum",
+            "public_transport": "platform",
+            "ref:IFOPT": "de:05382:55744:2:21",
+            "ref_name": "Rechenzentrum, Sankt Augustin",
+            "shelter": "no",
+            "source": "Verkehrsverbund Rhein-Sieg",
+            "tactile_paving": "no"
+        },
+        "id": 1999474136
+    },
+    {
+        "tags": {
+            "VRS:gemeinde": "SANKT AUGUSTIN",
+            "VRS:name": "Rechenzentrum",
+            "VRS:ortsteil": "Mitte",
+            "VRS:ref": "55744",
+            "bus": "yes",
+            "name": "Rechenzentrum",
+            "public_transport": "stop_position",
+            "ref:IFOPT": "de:05382:55744:2:22",
+            "ref_name": "Rechenzentrum, Sankt Augustin",
+            "source": "Verkehrsverbund Rhein-Sieg"
+        },
+        "id": 1999474137
+    },
+    {
+        "tags": {
+            "addr:city": "Wolfsburg",
+            "addr:country": "DE",
+            "addr:housename": "Gebäude C",
+            "addr:housenumber": "8a",
+            "addr:postcode": "38440",
+            "addr:street": "Robert-Koch-Platz",
+            "building": "yes",
+            "name": "Rechenzentrum"
+        },
+        "id": 2024846443
+    },
+    {
+        "tags": {
+            "addr:street": "Karl-Scharfenberg-Straße",
+            "name": "Rechenzentrum"
+        },
+        "id": 2026127049
+    },
+    {
+        "tags": {
+            "entrance": "main",
+            "level": "0",
+            "name": "Haupteingang Rechenzentrum",
+            "wheelchair": "yes"
+        },
+        "id": 3693894146
+    },
+    {
+        "tags": {
+            "addr:city": "Clausthal-Zellerfeld",
+            "addr:housenumber": "18",
+            "addr:postcode": "38678",
+            "addr:street": "Erzstraße",
+            "contact:email": "support@rz.tu-clausthal.de",
+            "contact:fax": "+49 5323 72 3536",
+            "contact:phone": "+49 5323 72 2045",
+            "contact:website": "https://rz.tu-c.de",
+            "level": "2",
+            "name": "Rechenzentrum",
+            "short_name": "RZ",
+            "university": "office"
+        },
+        "id": 4948396250
+    },
+    {
+        "tags": {
+            "addr:city": "Frankfurt am Main",
+            "addr:housenumber": "3",
+            "addr:postcode": "60388",
+            "addr:street": "Mergenthalerstraße",
+            "check_date:opening_hours": "2024-09-06",
+            "name": "DC Blue Datacenter Express",
+            "opening_hours:signed": "no",
+            "shop": "storage_rental"
+        },
+        "id": 5174867221
+    },
+    {
+        "tags": {
+            "addr:housenumber": "62",
+            "addr:postcode": "09111",
+            "addr:street": "Straße der Nationen",
+            "name": "Universitätsrechenzentrum - Nutzerservice",
+            "office": "educational_institution",
+            "website": "https://www.tu-chemnitz.de/urz/"
+        },
+        "id": 5284610029
+    },
+    {
+        "tags": {
+            "level": "1",
+            "name": "Rechenzentrum Citeq",
+            "operator": "Stadt Münster",
+            "telecom": "data_center"
+        },
+        "id": 5812546640
+    },
+    {
+        "tags": {
+            "name": "Rechenzentrum Akquinet",
+            "office": "it",
+            "telecom": "data_center"
+        },
+        "id": 6412799049
+    },
+    {
+        "tags": {
+            "addr:city": "Hof",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "95030",
+            "addr:street": "Graf-Stauffenberg-Straße",
+            "building": "commercial",
+            "name": "noris network AG Rechenzentrum Hof",
+            "office": "company",
+            "website": "https://www.noris.de/rechenzentren/rz-hof/"
+        },
+        "id": 6596777359
+    },
+    {
+        "tags": {
+            "level": "0",
+            "name": "Rechenzentrum",
+            "name:en": "IT Service Centre",
+            "office": "educational_institution",
+            "operator": "Hochschul-IT-Zentrum",
+            "telecom": "data_center"
+        },
+        "id": 6680163795
+    },
+    {
+        "tags": {
+            "name": "Microsoft Azure Rechenzentrum: Deutschland, Westen-Mitte",
+            "office": "company",
+            "opening_hours": "Keine"
+        },
+        "id": 7431711009
+    },
+    {
+        "tags": {
+            "name": "datacenter.de",
+            "office": "it",
+            "website": "https://www.datacenter.de/"
+        },
+        "id": 7879944367
+    },
+    {
+        "tags": {
+            "addr:city": "Eggenstein-Leopoldshafen",
+            "addr:housenumber": "10",
+            "addr:postcode": "76344",
+            "addr:street": "Junkersring",
+            "name": "Kirchliches Rechenzentrum",
+            "office": "foundation",
+            "website": "https://krz-swd.de"
+        },
+        "id": 7921263653
+    },
+    {
+        "tags": {
+            "addr:city": "Greifswald",
+            "addr:country": "DE",
+            "addr:housenumber": "18",
+            "addr:postcode": "17489",
+            "addr:street": "Felix-Hausdorff-Straße",
+            "check_date": "2024-10-22",
+            "contact:email": "urz@uni-greifswald.de",
+            "contact:fax": "+49 3834 4201401",
+            "contact:phone": "+49 3834 4201420",
+            "contact:website": "https://rz.uni-greifswald.de/",
+            "name": "Universitätsrechenzentrum",
+            "office": "university",
+            "opening_date": "2020",
+            "operator": "Universität Greifswald",
+            "wheelchair": "yes"
+        },
+        "id": 8247031301
+    },
+    {
+        "tags": {
+            "addr:city": "Paderborn",
+            "addr:country": "DE",
+            "addr:housenumber": "1c",
+            "addr:postcode": "33104",
+            "addr:street": "Lise-Meitner-Straße",
+            "government": "office",
+            "level": "1",
+            "name": "Rechenzentrum der Finanzverwaltung NRW",
+            "office": "government",
+            "operator": "Land NRW",
+            "website": "https://www.finanzverwaltung.nrw.de/de/willkommen-im-rzf",
+            "wikidata": "Q48754801",
+            "wikipedia": "de:Rechenzentrum der Finanzverwaltung Nordrhein-Westfalen"
+        },
+        "id": 9164385240
+    },
+    {
+        "tags": {
+            "addr:city": "Freising",
+            "addr:country": "DE",
+            "addr:housenumber": "9",
+            "addr:postcode": "85354",
+            "addr:street": "Kammergasse",
+            "email": "info@radiodatacenter.com",
+            "name": "Radio Data Center",
+            "office": "company",
+            "phone": "+49 8161 496 296",
+            "website": "https://radiodatacenter.net"
+        },
+        "id": 9179841977
+    },
+    {
+        "tags": {
+            "addr:city": "Jena",
+            "addr:country": "DE",
+            "addr:housenumber": "4",
+            "addr:postcode": "07743",
+            "addr:street": "Ernst-Abbe-Platz",
+            "amenity": "university",
+            "description": "Raum B 1209",
+            "name": "IT-Service, Universitätsrechenzentrum, Universität Jena",
+            "name:de": "IT-Service, Universitätsrechenzentrum, Universität Jena",
+            "name:en": "IT Service, University Computer Centre, University of Jena",
+            "website": "https://www.uni-jena.de/itservicezentrum"
+        },
+        "id": 9504240891
+    },
+    {
+        "tags": {
+            "amenity": "data_centre",
+            "fixme": "Welche Eigenschaften?",
+            "name": "Regionales Rechenzentrum Karlsruhe"
+        },
+        "id": 11045422647
+    },
+    {
+        "tags": {
+            "bus": "yes",
+            "name": "44 Rechenzentrum / Versuchsgebäude",
+            "public_transport": "stop_position"
+        },
+        "id": 11512371108
+    },
+    {
+        "tags": {
+            "name": "Universitätsrechenzentrum",
+            "operator": "Friedrich-Schiller-Universität Jena",
+            "telecom": "data_center"
+        },
+        "id": 11698484259
+    },
+    {
+        "tags": {
+            "addr:city": "Kaiserslautern",
+            "addr:housenumber": "34",
+            "addr:postcode": "67663",
+            "addr:street": "Paul-Ehrlich-Straße",
+            "information": "office",
+            "internet_access": "terminal",
+            "internet_access:fee": "customers",
+            "name": "Service Center des Hochschulrechenzentrums",
+            "opening_hours": "Mo-Fr 09:00-11:00; Mo-Do 12:30-15:00",
+            "operator": "Regionales Hochschulrechenzentrum",
+            "tourism": "information"
+        },
+        "id": 11698998194
+    },
+    {
+        "tags": {
+            "addr:city": "Raunheim",
+            "addr:housenumber": "13",
+            "addr:postcode": "65479",
+            "addr:street": "Am Messeplatz",
+            "name": "Vantage Data Center Corporate Office DE",
+            "office": "company"
+        },
+        "id": 11973697465
+    },
+    {
+        "tags": {
+            "name": "Rechenzentrum DATACENTER ONE HAM1",
+            "telecom": "data_center"
+        },
+        "id": 12042899692
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "name": "Windcores Rechenzentrum",
+            "operator": "Westfalen Wind IT"
+        },
+        "id": 12182034813
+    },
+    {
+        "tags": {
+            "addr:city": "Breitungen/Werra",
+            "addr:country": "DE",
+            "addr:housenumber": "7",
+            "addr:postcode": "98597",
+            "addr:street": "Wirtsgasse",
+            "email": "info@arzw.de",
+            "name": "Apothekenrechenzentrum Wünsch",
+            "office": "company",
+            "phone": "+49 36848 25180",
+            "source": "survey",
+            "website": "https://www.arzw.de/"
+        },
+        "id": 12504633294
+    },
+    {
+        "tags": {
+            "industrial": "data_center",
+            "landuse": "industrial",
+            "name": "NTT Data Inc, Müchen Data Center",
+            "website": "https://services.global.ntt/de-de/services-und-produkte/global-data-centers/globale-standorte/emea/muenchen-2-data-center"
+        },
+        "id": 13019363655
+    },
+    {
+        "tags": {
+            "addr:city": "Clausthal-Zellerfeld",
+            "addr:country": "DE",
+            "addr:housenumber": "51",
+            "addr:postcode": "38678",
+            "addr:street": "Erzstraße",
+            "addr:suburb": "Clausthal",
+            "building": "university",
+            "building:levels": "3",
+            "contact:email": "support@rz.tu-clausthal.de",
+            "contact:phone": "+49 5323 72 2045",
+            "contact:website": "https://rz.tu-c.de",
+            "heritage": "yes",
+            "name": "Rechenzentrum (Außenstelle / Maschinensaal)",
+            "name:zh": "计算机中心",
+            "old_ref": "3000/3010",
+            "operator": "Technische Universität Clausthal",
+            "ref": "B6",
+            "roof:levels": "1",
+            "roof:shape": "many",
+            "short_name": "RZ",
+            "surveillance": "indoor",
+            "wheelchair": "no"
+        },
+        "id": 4967743
+    },
+    {
+        "tags": {
+            "abutters": "mixed",
+            "highway": "residential",
+            "maxspeed": "30",
+            "name": "Am Rechenzentrum",
+            "oneway": "no",
+            "surface": "paving_stones"
+        },
+        "id": 7952606
+    },
+    {
+        "tags": {
+            "addr:city": "Ilmenau",
+            "addr:country": "DE",
+            "addr:housename": "Rechenzentrum",
+            "addr:housenumber": "9",
+            "addr:postcode": "98693",
+            "addr:street": "Am Helmholtzring",
+            "building": "university",
+            "building:levels": "1",
+            "building:levels:aboveground": "1",
+            "building:roof": "flat",
+            "name": "Rechenzentrum",
+            "operator": "Technische Universität Ilmenau",
+            "ref": "RZ",
+            "roof:colour": "grey",
+            "roof:shape": "flat",
+            "smoking": "no"
+        },
+        "id": 24956698
+    },
+    {
+        "tags": {
+            "addr:city": "Darmstadt",
+            "addr:country": "DE",
+            "addr:housenumber": "8",
+            "addr:postcode": "64295",
+            "addr:street": "Schöfferstraße",
+            "building": "university",
+            "building:levels": "2",
+            "name": "EiT/Informatik/Rechenzentrum/Bibliothek (D10)",
+            "ref": "D10",
+            "source": "yahoo sat"
+        },
+        "id": 24961398
+    },
+    {
+        "tags": {
+            "addr:city": "Lemgo",
+            "addr:country": "DE",
+            "addr:housenumber": "13",
+            "addr:postcode": "32657",
+            "addr:street": "Schloßstraße",
+            "building": "yes",
+            "name": "Kommunales Rechenzentrum Minden-Ravensberg/Lippe",
+            "old_name": "Schlossscheune",
+            "operator": "krz",
+            "short_name": "krz"
+        },
+        "id": 25181704
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "name": "Rechenzentrum"
+        },
+        "id": 25306667
+    },
+    {
+        "tags": {
+            "addr:city": "Heidelberg",
+            "addr:housenumber": "330",
+            "addr:postcode": "69120",
+            "addr:street": "Im Neuenheimer Feld",
+            "building": "public",
+            "building:levels": "3",
+            "building:obm": "43",
+            "description": "Rampe am Nebeneingang",
+            "elevator": "yes",
+            "name": "Universitätsrechenzentrum",
+            "roof:shape": "flat",
+            "toilets:wheelchair": "no",
+            "wheelchair": "yes",
+            "wikidata": "Q1356800"
+        },
+        "id": 25319502
+    },
+    {
+        "tags": {
+            "alt_name": "RRZE",
+            "building:levels": "2",
+            "building:part": "yes",
+            "name": "Regionales Rechenzentrum Erlangen",
+            "roof:shape": "flat",
+            "wikipedia": "de:Regionales Rechenzentrum Erlangen"
+        },
+        "id": 25358914
+    },
+    {
+        "tags": {
+            "addr:city": "Kiel",
+            "addr:country": "DE",
+            "addr:housenumber": "3",
+            "addr:postcode": "24118",
+            "addr:street": "Hermann-Rodewald-Straße",
+            "building": "university",
+            "name": "Rechenzentrum"
+        },
+        "id": 25622185
+    },
+    {
+        "tags": {
+            "addr:city": "Eschborn",
+            "addr:country": "DE",
+            "addr:housename": "Kyndryl Data Center",
+            "addr:housenumber": "2",
+            "addr:postcode": "65760",
+            "addr:street": "Bismarckstraße",
+            "building": "industrial",
+            "height": "12",
+            "name": "Kyndryl Data Center",
+            "roof:shape": "flat",
+            "telecom": "data_center"
+        },
+        "id": 26225758
+    },
+    {
+        "tags": {
+            "access": "private",
+            "addr:housename": "D2B",
+            "building": "commercial",
+            "building:levels": "1",
+            "building:levels:underground": "2",
+            "name": "Rechenzentrum Garching",
+            "name:de": "Rechenzentrum Garching",
+            "name:en": "Max-Planck Computing & Data Facility",
+            "note": "Das Gebäude D2B umfasst das Rechenzentrum Garching. Die MPCDF ist die dazugehörige Forschungseinrichtung und hat ihre Büros in D2 und D2A",
+            "operator": "Max-Planck Computing & Data Facility",
+            "short_name": "MPCDF",
+            "start_date": "1960",
+            "telecom": "data_center",
+            "website": "https://www.mpcdf.mpg.de/",
+            "wheelchair": "limited"
+        },
+        "id": 28260003
+    },
+    {
+        "tags": {
+            "addr:city": "Regensburg",
+            "addr:housenumber": "31",
+            "addr:postcode": "93053",
+            "addr:street": "Universitätsstraße",
+            "building": "university",
+            "building:levels": "3",
+            "level": "0",
+            "name": "Rechenzentrum",
+            "name:en": "Computer Centre",
+            "operator": "Universität Regensburg",
+            "ref": "RZ",
+            "short_name": "RZ",
+            "source": "DOP_LVA_BY_01",
+            "wheelchair": "yes"
+        },
+        "id": 29133667
+    },
+    {
+        "tags": {
+            "addr:city": "Gießen",
+            "addr:country": "DE",
+            "addr:housenumber": "44",
+            "addr:postcode": "35392",
+            "addr:street": "Heinrich-Buff-Ring",
+            "building": "university",
+            "building:levels": "4",
+            "description": "https://www.uni-giessen.de/fbz/svc/hrz",
+            "image": "https://www.giessener-allgemeine.de/bilder/2020/03/05/13595048/1375386346-hacker-angriffaufunigiesz_4c_2-aa7.jpg",
+            "name": "Hochschulrechenzentrum (HRZ)",
+            "operator": "Justus-Liebig-Universität Gießen",
+            "roof:colour": "grey",
+            "roof:levels": "0",
+            "roof:material": "gravel",
+            "roof:shape": "flat",
+            "wheelchair": "yes"
+        },
+        "id": 30271210
+    },
+    {
+        "tags": {
+            "building": "container",
+            "building:levels": "1",
+            "building:levels:aboveground": "1",
+            "building:roof": "flat",
+            "layer": "1",
+            "name": "Rechenzentrum Haus 3",
+            "roof:levels": "0"
+        },
+        "id": 33287440
+    },
+    {
+        "tags": {
+            "addr:city": "Hamburg",
+            "addr:housenumber": "70",
+            "addr:street": "Schlüterstraße",
+            "building": "university",
+            "building:levels": "5",
+            "name": "Regionales Rechenzentrum"
+        },
+        "id": 33688441
+    },
+    {
+        "tags": {
+            "addr:city": "Freiberg",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "09599",
+            "addr:street": "Bernhard-von-Cotta-Straße",
+            "building": "university",
+            "building:levels": "4",
+            "name": "Universitätsrechenzentrum",
+            "name:de": "Universitätsrechenzentrum",
+            "name:en": "University Computing Centre",
+            "name:es": "Centro de Computación Universitario",
+            "name:fr": "Centre de calcul universitaire",
+            "roof:levels": "2",
+            "roof:shape": "gabled"
+        },
+        "id": 33914193
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "name": "NSA Rechenzentrum",
+            "telecom": "data_center"
+        },
+        "id": 34137508
+    },
+    {
+        "tags": {
+            "addr:city": "Wolfenbüttel",
+            "addr:country": "DE",
+            "addr:housenumber": "46/48",
+            "addr:postcode": "38302",
+            "addr:street": "Salzdahlumer Straße",
+            "building": "university",
+            "name": "D Rechenzentrum",
+            "operator": "Ostfalia Hochschule für angewandte Wissenschaften",
+            "ref": "D",
+            "smoking": "no",
+            "url": "http://www.ostfalia.de",
+            "wheelchair": "yes"
+        },
+        "id": 38159810
+    },
+    {
+        "tags": {
+            "building": "hospital",
+            "building:levels": "3",
+            "height": "12",
+            "name": "Laborgebäude/Rechenzentrum",
+            "nohousenumber": "yes",
+            "ref": "K4",
+            "roof:shape": "gabled",
+            "wheelchair": "yes"
+        },
+        "id": 38196431
+    },
+    {
+        "tags": {
+            "addr:city": "Oberursel (Taunus)",
+            "addr:country": "DE",
+            "addr:housename": "Kyndryl Data Center",
+            "addr:housenumber": "34",
+            "addr:postcode": "61440",
+            "addr:street": "Gablonzer Straße",
+            "building": "industrial",
+            "height": "12",
+            "name": "Kyndryl Data Center",
+            "operator": "Kyndryl Deutschland GmbH",
+            "roof:shape": "flat",
+            "telecom": "data_center"
+        },
+        "id": 38754141
+    },
+    {
+        "tags": {
+            "addr:city": "Neubiberg",
+            "addr:country": "DE",
+            "addr:housenumber": "146",
+            "addr:postcode": "85579",
+            "addr:street": "Werner-Heisenberg-Weg",
+            "building": "university",
+            "building:levels": "2",
+            "name": "Gebäude 46: Rechenzentrum",
+            "roof:levels": "1",
+            "roof:shape": "gabled"
+        },
+        "id": 40924071
+    },
+    {
+        "tags": {
+            "addr:city": "Bamberg",
+            "addr:country": "DE",
+            "addr:housenumber": "10",
+            "addr:postcode": "96050",
+            "addr:street": "Carl-Meinelt-Straße",
+            "building": "office",
+            "building:levels": "5",
+            "building:use": "office",
+            "contact:phone": "+49 951 1898 0",
+            "name": "Sparkasse Bamberg Rechenzentrum, Planungs- und Steuerungszentrum",
+            "roof:shape": "hipped",
+            "wheelchair": "yes"
+        },
+        "id": 41827487
+    },
+    {
+        "tags": {
+            "addr:city": "Rheinmünster",
+            "addr:country": "DE",
+            "addr:housenumber": "206",
+            "addr:postcode": "77836",
+            "addr:street": "Frederictown Street D",
+            "building": "bunker",
+            "name": "1&1 Internet AG - Rechenzentrum",
+            "ref": "D206"
+        },
+        "id": 41931722
+    },
+    {
+        "tags": {
+            "building": "service",
+            "name": "iNTERWERK Rechenzentrum",
+            "telecom": "data_center"
+        },
+        "id": 48018740
+    },
+    {
+        "tags": {
+            "addr:city": "Frankfurt am Main",
+            "addr:housenumber": "37-41",
+            "addr:postcode": "60314",
+            "addr:street": "Dieselstraße",
+            "area": "yes",
+            "building": "commercial",
+            "name": "Interwerk Rechenzentrum",
+            "operator": "Interwerk",
+            "telecom": "data_center",
+            "website": "https://www.interwerk.de/rechenzentrum.html"
+        },
+        "id": 48018741
+    },
+    {
+        "tags": {
+            "building": "office",
+            "building:levels": "5",
+            "name": "DARZ - Darmstädter Rechenzentrum",
+            "roof:shape": "flat",
+            "telecom": "data_center"
+        },
+        "id": 54244323
+    },
+    {
+        "tags": {
+            "addr:housenumber": "28",
+            "addr:street": "Carl-Benz-Straße",
+            "building": "yes",
+            "name": "Rechenzentrum"
+        },
+        "id": 55014574
+    },
+    {
+        "tags": {
+            "addr:city": "Homburg",
+            "addr:country": "DE",
+            "addr:housenumber": "86",
+            "addr:postcode": "66424",
+            "addr:street": "Universitätsklinikum",
+            "building": "college",
+            "name": "ZIK (Klinikrechenzentrum), IMBEI (Institut für med. Biometrie, Epidemiologie und med. Informatik) (Geb. 86)"
+        },
+        "id": 55283058
+    },
+    {
+        "tags": {
+            "addr:city": "Konstanz",
+            "addr:country": "DE",
+            "addr:housenumber": "28",
+            "addr:postcode": "78462",
+            "addr:street": "Rheingutstraße",
+            "addr:suburb": "Altstadt",
+            "building": "university",
+            "building:levels": "4",
+            "emergency": "fire_detection_system",
+            "name": "G-Gebäude / Rechenzentrum",
+            "website": "https://www.htwg-konstanz.de/"
+        },
+        "id": 59098847
+    },
+    {
+        "tags": {
+            "addr:city": "Kamp-Lintfort",
+            "addr:country": "DE",
+            "addr:housenumber": "130",
+            "addr:postcode": "47475",
+            "addr:street": "Friedrich-Heinrich-Allee",
+            "area": "yes",
+            "barrier": "fence",
+            "email": "info@krzn.de",
+            "fax": "+49 2842 92732-0",
+            "name": "Kommunales Rechenzentrum Niederrhein (KRZN)",
+            "office": "it",
+            "opening_hours": "\"nach Vereinbarung\"",
+            "operator": "Zweckverband Kommunales Rechenzentrum Niederrhein (KRZN)",
+            "phone": "+49 2842 9070-0",
+            "source": "survey",
+            "website": "https://www.krzn.de/"
+        },
+        "id": 63703240
+    },
+    {
+        "tags": {
+            "highway": "residential",
+            "lane_markings": "no",
+            "lanes": "2",
+            "maxspeed": "50",
+            "name": "Am Datacenter-Park",
+            "shoulder": "no",
+            "surface": "asphalt",
+            "width": "6.5"
+        },
+        "id": 84268661
+    },
+    {
+        "tags": {
+            "addr:city": "Freiburg im Breisgau",
+            "addr:housenumber": "10",
+            "addr:postcode": "79104",
+            "addr:street": "Hermann-Herder-Straße",
+            "building": "university",
+            "building:colour": "grey",
+            "building:levels": "3",
+            "name": "Rechenzentrum",
+            "opening_hours": "Mo-Fr 07:00-22:00; Sa 09:00-13:00",
+            "operator": "Albert-Ludwigs-Universität Freiburg",
+            "roof:shape": "flat",
+            "website": "https://www.rz.uni-freiburg.de/"
+        },
+        "id": 91332395
+    },
+    {
+        "tags": {
+            "addr:city": "Mutterstadt",
+            "addr:housenumber": "2",
+            "addr:postcode": "67112",
+            "addr:street": "An der Fohlenweide",
+            "building": "commercial",
+            "building:levels": "2",
+            "contact:website": "https://www.pfalzkom.de/",
+            "generator:method": "photovoltaic",
+            "generator:output:electricity": "small_installation",
+            "generator:source": "solar",
+            "name": "Rechenzentrum PFALZKOM, DCRN I",
+            "operator": "Pfalzkom GmbH",
+            "telecom": "data_center"
+        },
+        "id": 105283862
+    },
+    {
+        "tags": {
+            "addr:city": "Düsseldorf",
+            "addr:country": "DE",
+            "addr:housenumber": "120",
+            "addr:postcode": "40476",
+            "addr:street": "Roßstraße",
+            "building": "office",
+            "building:use:office": "yes",
+            "name": "Rechenzentrum der Finanzen, Umweltministerium: Außenstellen",
+            "roof:shape": "flat"
+        },
+        "id": 106291860
+    },
+    {
+        "tags": {
+            "building": "industrial",
+            "name": "Lohnbuchhaltung +Rechenzentrum 1"
+        },
+        "id": 110998257
+    },
+    {
+        "tags": {
+            "addr:city": "Stralsund",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "18435",
+            "addr:street": "Zur Schwedenschanze",
+            "building": "data_center",
+            "building:levels": "3",
+            "name": "Boreus Rechenzentrum GmbH",
+            "roof:material": "grass",
+            "roof:shape": "flat",
+            "telecom": "data_center",
+            "website": "https://www.boreus.de/"
+        },
+        "id": 118952238
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "name": "Rechenzentrum des ARZ",
+            "source": "bing"
+        },
+        "id": 119755252
+    },
+    {
+        "tags": {
+            "addr:city": "Cottbus",
+            "addr:country": "DE",
+            "addr:housename": "Gebäude 7",
+            "addr:housenumber": "47",
+            "addr:postcode": "03048",
+            "addr:street": "Lipezker Straße",
+            "addr:suburb": "Sachsendorf",
+            "building": "university",
+            "name": "Lehrgebäude Instrumental- und Gesangspädagogik, Standortbibliothek, Rechenzentrum, Zentralverwaltung, Studierendenservice (Gebäude 7)",
+            "wheelchair": "yes"
+        },
+        "id": 126565095
+    },
+    {
+        "tags": {
+            "building:part": "yes",
+            "name": "Rechenzentrum"
+        },
+        "id": 129556843
+    },
+    {
+        "tags": {
+            "addr:city": "Osnabrück",
+            "addr:housenumber": "26",
+            "addr:postcode": "49076",
+            "addr:street": "Stüvestraße",
+            "building": "yes",
+            "contact:website": "https://www.itebo.de/",
+            "name": "ITEBO GmbH Rechenzentrum",
+            "office": "it",
+            "operator": "ITEBO GmbH"
+        },
+        "id": 131725510
+    },
+    {
+        "tags": {
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "133-136",
+            "addr:postcode": "12623",
+            "addr:street": "Florastraße",
+            "addr:suburb": "Mahlsdorf",
+            "barrier": "fence",
+            "landuse": "commercial",
+            "name": "ScaleUp Rechenzentrum Berlin Mahlsdorf",
+            "website": "https://www.scaleuptech.com/de/rechenzentren/rechenzentrum-berlin-mahlsdorf/"
+        },
+        "id": 135876677
+    },
+    {
+        "tags": {
+            "addr:city": "Hamburg",
+            "addr:country": "DE",
+            "addr:housenumber": "45a",
+            "addr:postcode": "20146",
+            "addr:street": "Bundesstraße",
+            "building": "university",
+            "building:levels": "4",
+            "name": "Deutsches Klimarechenzentrum",
+            "roof:levels": "1",
+            "roof:shape": "flat",
+            "website": "https://www.dkrz.de/",
+            "wikidata": "Q1205784"
+        },
+        "id": 137154548
+    },
+    {
+        "tags": {
+            "addr:city": "Cottbus",
+            "addr:country": "DE",
+            "addr:housename": "Haus 4",
+            "addr:housenumber": "45",
+            "addr:postcode": "03048",
+            "addr:street": "Lipezker Straße",
+            "addr:suburb": "Sachsendorf",
+            "building": "public",
+            "government": "tax",
+            "name": "Technisches Finanzamt Rechenzentrum",
+            "office": "government",
+            "source": "bing"
+        },
+        "id": 141441196
+    },
+    {
+        "tags": {
+            "addr:city": "Fulda",
+            "addr:country": "DE",
+            "addr:housenumber": "5",
+            "addr:postcode": "36039",
+            "addr:street": "Ludwig-Beck-Straße",
+            "building": "college",
+            "name": "46(E) (Angewandte Informatik / Oecotrophologie / Rechenzentrum)",
+            "website:official": "http://www.hs-fulda.de"
+        },
+        "id": 146659058
+    },
+    {
+        "tags": {
+            "landuse": "construction",
+            "name": "Bluestar Rechenzentrum",
+            "note": "Abriss Arbeiten begonnen stand 18.04.2020"
+        },
+        "id": 147698385
+    },
+    {
+        "tags": {
+            "highway": "residential",
+            "lane_markings": "no",
+            "lanes": "2",
+            "maxspeed": "50",
+            "name": "Am Datacenter-Park",
+            "shoulder": "no",
+            "surface": "asphalt",
+            "width": "6.5"
+        },
+        "id": 148803638
+    },
+    {
+        "tags": {
+            "addr:city": "Würzburg",
+            "addr:postcode": "97074",
+            "building": "university",
+            "contact:email": "rz-sekretariat@uni-wuerzburg.de",
+            "contact:fax": "+49 931 3185076",
+            "contact:phone": "+49 931 3187070",
+            "description": "Inklusive IT-Support.",
+            "name": "Rechenzentrum der Universität Würzburg",
+            "ref": "Z8",
+            "short_name": "RZUW",
+            "website": "https://www.rz.uni-wuerzburg.de/"
+        },
+        "id": 154715846
+    },
+    {
+        "tags": {
+            "building": "college",
+            "building:levels": "1",
+            "name": "Rechenzentrum Rz"
+        },
+        "id": 161125381
+    },
+    {
+        "tags": {
+            "addr:city": "Oldenburg",
+            "addr:housenumber": "16a",
+            "addr:postcode": "26121",
+            "addr:street": "Ofener Straße",
+            "building": "university",
+            "building:levels": "3",
+            "height": "14",
+            "level": "0",
+            "name": "Gebäude MR - Mensa und Rechenzentrum",
+            "roof:colour": "#b5b7b1",
+            "roof:material": "tar_paper",
+            "roof:shape": "flat",
+            "wheelchair": "limited"
+        },
+        "id": 172032437
+    },
+    {
+        "tags": {
+            "addr:city": "Offenbach am Main",
+            "addr:housenumber": "27",
+            "addr:postcode": "63067",
+            "addr:street": "Goethering",
+            "building": "data_center",
+            "height": "15",
+            "name": "Vantage Data Center (FRA1)",
+            "old_operator": "MAIN DC Offenbach GmbH",
+            "operator": "Vantage Data Centers",
+            "operator:wikidata": "Q133440987",
+            "telecom": "data_center",
+            "website": "https://vantage-dc.com/data-center-locations/emea/frankfurt-i-germany"
+        },
+        "id": 172856848
+    },
+    {
+        "tags": {
+            "amenity": "parking",
+            "fixme": "Größe überprüfen",
+            "layer": "-1",
+            "level": "-1",
+            "name": "Dauerparkgarage Rechenzentrum",
+            "note": "Nur für Dauerparker",
+            "parking": "underground"
+        },
+        "id": 192064787
+    },
+    {
+        "tags": {
+            "addr:city": "Erfurt",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "99099",
+            "addr:street": "Ludwig-Erhard-Ring",
+            "building": "office",
+            "building:colour": "grey",
+            "building:levels": "3",
+            "building:levels:underground": "1",
+            "building:material": "concrete",
+            "building:use": "government",
+            "contact:email": "poststelle@tlrz.thueringen.de",
+            "contact:fax": "+49 361 573635848",
+            "government": "it",
+            "level": "0-2",
+            "name": "Thüringer Landesrechenzentrum",
+            "office": "government",
+            "opening_hours": "Mo-Th 08:30-15:30; Fr 08:30-12:30",
+            "phone": "+49 361 3784800",
+            "roof:colour": "gray",
+            "roof:levels": "0",
+            "roof:material": "concrete",
+            "roof:orientation": "along",
+            "roof:shape": "flat",
+            "website": "https://landesrechenzentrum.thueringen.de",
+            "wheelchair": "yes"
+        },
+        "id": 200668900
+    },
+    {
+        "tags": {
+            "addr:city": "Erfurt",
+            "addr:housenumber": "8",
+            "addr:postcode": "99099",
+            "addr:street": "Ludwig-Erhard-Ring",
+            "building": "office",
+            "building:colour": "lightgrey",
+            "building:levels": "3",
+            "building:use": "government",
+            "contact:email": "poststelle@tlrz.thueringen.de",
+            "contact:fax": "+49 361 573635848",
+            "government": "it",
+            "level": "0-4",
+            "name": "Thüringer Landesrechenzentrum",
+            "office": "government",
+            "opening_hours": "Mo-Th 08:30-15:30; Fr 08:30-12:30",
+            "phone": "+49 361 3784800",
+            "roof:colour": "salmon",
+            "roof:levels": "2",
+            "roof:material": "roof_tiles",
+            "roof:orientation": "along",
+            "roof:shape": "hipped",
+            "website": "https://landesrechenzentrum.thueringen.de",
+            "wheelchair": "yes"
+        },
+        "id": 202518419
+    },
+    {
+        "tags": {
+            "building": "construction",
+            "construction": "data_center",
+            "name": "Vantage Data Center FRA31",
+            "operator": "Vantage Data Centers",
+            "ref": "FRA31",
+            "telecom": "data_center"
+        },
+        "id": 205360599
+    },
+    {
+        "tags": {
+            "building": "industrial",
+            "building:levels": "1",
+            "name": "Siemens EAGLE Data Center",
+            "operator": "Siemens",
+            "roof:shape": "flat",
+            "telecom": "data_center",
+            "twitter": "https://twitter.com/Siemens/status/940868465484877824?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E940868465484877824%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fingenuity.siemens.com%2F2020%2F07%2Fgreen-it-in-the-siemens-eagle-data-center%2F",
+            "website": "https://blog.siemens.com/2020/07/green-it-in-the-siemens-eagle-data-center/"
+        },
+        "id": 207919304
+    },
+    {
+        "tags": {
+            "addr:city": "Weinsheim",
+            "addr:housenumber": "10",
+            "addr:postcode": "55595",
+            "addr:street": "Scholländer Weg",
+            "building": "yes",
+            "name": "RZKH GmbH-Rechenzentrum Bad Kreuznach",
+            "office": "it"
+        },
+        "id": 208101378
+    },
+    {
+        "tags": {
+            "addr:city": "Ellhofen",
+            "addr:country": "DE",
+            "addr:housenumber": "14",
+            "addr:postcode": "74248",
+            "addr:street": "Am Autobahnkreuz",
+            "building": "yes",
+            "building:levels": "1",
+            "name": "Rechenzentrum Ellhofen",
+            "operator": "Stack IT",
+            "ref": "DC08",
+            "roof:levels": "0",
+            "telecom": "data_center",
+            "website": "https://www.stackit.de/de/colocation/dc-08/"
+        },
+        "id": 220363244
+    },
+    {
+        "tags": {
+            "building": "office",
+            "name": "Hansalog Rechenzentrum / HDS"
+        },
+        "id": 226299122
+    },
+    {
+        "tags": {
+            "addr:city": "Limburg a. d. Lahn",
+            "addr:housenumber": "45",
+            "addr:postcode": "65555",
+            "addr:street": "Limburger Straße",
+            "addr:suburb": "Offheim",
+            "building": "commercial",
+            "name": "OVHcloud LIM1-3 Rechenzentrum",
+            "operator": "OVH GmbH",
+            "telecom": "data_center"
+        },
+        "id": 229184178
+    },
+    {
+        "tags": {
+            "addr:city": "Wetter (Ruhr)",
+            "addr:country": "DE",
+            "addr:housenumber": "21",
+            "addr:postcode": "58300",
+            "addr:street": "Grundschötteler Straße",
+            "addr:suburb": "Grundschöttel",
+            "building": "commercial",
+            "contact:fax": "+49 2335 638-299",
+            "contact:phone": "+49 2335 638-0",
+            "contact:website": "https://www.rzv.de",
+            "heritage": "8",
+            "heritage:operator": "UntereDenkmalbehörde",
+            "historic": "building",
+            "name": "Rechenzentrum Volmarstein",
+            "operator": "Evangelische Stiftung Volmarstein",
+            "phone": "+49 2335 638 0",
+            "ref:wetter": "114",
+            "start_date": "~1900"
+        },
+        "id": 229930077
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "name": "Rechenzentrum",
+            "power": "substation"
+        },
+        "id": 240813203
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "name": "Debeka Rechenzentrum"
+        },
+        "id": 245848038
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "building:levels": "3",
+            "name": "PŸUR Business Rechenzentrum",
+            "roof:shape": "flat"
+        },
+        "id": 246129042
+    },
+    {
+        "tags": {
+            "addr:housename": "Gebäude 26.1",
+            "building": "university",
+            "building:levels": "1",
+            "loc_ref": "G26.1",
+            "name": "Universitätsrechenzentrum",
+            "opening_hours": "Mo-Fr 08:00-23:00, Sa 10:00-18:00",
+            "operator": "Otto-von-Guericke-Universität",
+            "phone": "+49 391 67 58888",
+            "ref": "Gebäude 26.1",
+            "roof:shape": "flat",
+            "short_name": "URZ",
+            "toilets:wheelchair": "yes",
+            "website": "https://www.urz.ovgu.de/",
+            "wheelchair": "yes"
+        },
+        "id": 255948983
+    },
+    {
+        "tags": {
+            "addr:city": "Göppingen",
+            "addr:country": "DE",
+            "addr:housenumber": "31",
+            "addr:postcode": "73035",
+            "addr:street": "Salamanderstraße",
+            "building": "industrial",
+            "name": "T-Systems Rechenzentrum",
+            "source": "Maps4BW, LGL, www.lgl-bw.de"
+        },
+        "id": 261303438
+    },
+    {
+        "tags": {
+            "building": "university",
+            "building:levels": "3",
+            "description": "Informatik und Rechenzentrum, Uni-Gebaeude Nummer 113",
+            "name": "Informatik und Regionales Rechenzentrum (RRZE)",
+            "ref": "113",
+            "roof:levels": "0",
+            "roof:shape": "flat"
+        },
+        "id": 265611319
+    },
+    {
+        "tags": {
+            "addr:city": "Regensburg",
+            "addr:country": "DE",
+            "addr:housenumber": "48",
+            "addr:postcode": "93055",
+            "addr:street": "Straubinger Straße",
+            "building": "industrial",
+            "building:levels": "1",
+            "name": "R-KOM Datacenter Ostbayern 2",
+            "operator": "R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG",
+            "roof:shape": "flat",
+            "smoking": "no",
+            "telecom": "data_center"
+        },
+        "id": 266926164
+    },
+    {
+        "tags": {
+            "landuse": "commercial",
+            "name": "Kommunales Rechenzentrum Minden-Ravensberg/Lippe",
+            "short_name": "krz"
+        },
+        "id": 290794067
+    },
+    {
+        "tags": {
+            "barrier": "fence",
+            "landuse": "commercial",
+            "name": "T-Systems Biere Rechenzentrum",
+            "operator": "Deutsche Telekom",
+            "source": "Bing",
+            "telecom": "data_center",
+            "website": "https://www.t-systems.com/de/en/about-t-systems/innovation-management/data-center-biere"
+        },
+        "id": 291142381
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "image": "https://commons.wikimedia.org/wiki/File:2019-10-06_Bundesnachrichtendienst_Pullach_Rechenzentrum_by_OlafKosinsky_1115.jpg#/media/File:2019-10-06_Bundesnachrichtendienst_Pullach_Rechenzentrum_by_OlafKosinsky_1115.jpg",
+            "name": "Bundesnachrichtendienst Pullach Rechenzentrum",
+            "operator": "Bundesnachrichtendienst",
+            "telecom": "data_center",
+            "wikidata": "Q671224",
+            "wikipedia": "de:Rechenzentrum"
+        },
+        "id": 330751320
+    },
+    {
+        "tags": {
+            "building": "yes",
+            "name": "Rechenzentrum"
+        },
+        "id": 333495210
+    },
+    {
+        "tags": {
+            "landuse": "industrial",
+            "name": "Berlin 2 Data Center"
+        },
+        "id": 358525620
+    },
+    {
+        "tags": {
+            "addr:city": "Saarwellingen",
+            "addr:housenumber": "1",
+            "addr:postcode": "66793",
+            "addr:street": "Konrad-Zuse-Straße",
+            "building": "commercial",
+            "building:levels": "2",
+            "name": "Net-Build Datacenter Saar1",
+            "start_date": "2016",
+            "website": "https://netbuild.net/"
+        },
+        "id": 377915592
+    },
+    {
+        "tags": {
+            "access": "no",
+            "building": "bunker",
+            "bunker_type": "technical",
+            "description": "Centrum für Informations-Technische Angelegenheiten (CITA), früherer Ausweichsitz der Landesregierung von Baden-Württemberg",
+            "layer": "-1",
+            "location": "underground",
+            "military": "bunker",
+            "name": "CITA Hochsicherheitsrechenzentrum",
+            "old_name": "Zivilschutzvermittlungsanlage (ZVSA)"
+        },
+        "id": 384642674
+    },
+    {
+        "tags": {
+            "addr:city": "Münster",
+            "addr:country": "DE",
+            "addr:housenumber": "11",
+            "addr:postcode": "48163",
+            "addr:street": "Stockholmer Straße",
+            "building": "data_center",
+            "name": "GAD-Rechenzentrum 2",
+            "operator": "Atruvia AG",
+            "operator:type": "cooperative",
+            "ref": "2",
+            "start_date": "2016",
+            "telecom": "data_center"
+        },
+        "id": 397803546
+    },
+    {
+        "tags": {
+            "addr:city": "Losheim am See",
+            "addr:country": "DE",
+            "addr:housenumber": "27-29",
+            "addr:postcode": "66679",
+            "addr:street": "Prof.-Pirlett-Straße",
+            "building": "commercial",
+            "building:levels": "2",
+            "height": "8",
+            "name": "Rechenzentrum KÜS Data",
+            "telecom": "data_center"
+        },
+        "id": 410035541
+    },
+    {
+        "tags": {
+            "addr:city": "Stuttgart",
+            "addr:country": "DE",
+            "addr:housenumber": "38-40",
+            "addr:postcode": "70569",
+            "addr:street": "Pfaffenwaldring",
+            "addr:suburb": "Vaihingen",
+            "building": "yes",
+            "building:levels": "3",
+            "check_date": "2025-06-17",
+            "name": "DLR Gebäude RZ (Rechenzentrum)",
+            "office": "research"
+        },
+        "id": 423599055
+    },
+    {
+        "tags": {
+            "addr:city": "Regensburg",
+            "addr:country": "DE",
+            "addr:housenumber": "50",
+            "addr:postcode": "93055",
+            "addr:street": "Straubinger Straße",
+            "building": "industrial",
+            "name": "R-KOM Datacenter Ostbayern 1",
+            "operator": "R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG",
+            "roof:shape": "gabled",
+            "smoking": "no",
+            "telecom": "data_center"
+        },
+        "id": 453374274
+    },
+    {
+        "tags": {
+            "building": "school",
+            "name": "Rechenzentrum"
+        },
+        "id": 522446528
+    },
+    {
+        "tags": {
+            "building": "commercial",
+            "building:levels": "2",
+            "email": "info@rzhartmann.de",
+            "fax": "+49 2161 8139550",
+            "name": "Rechenzentrum Hartmann GmbH & Co. KG",
+            "office": "company",
+            "phone": "+49 2161 8139510",
+            "toilets:wheelchair": "no",
+            "website": "https://www.rzhartmann.de/",
+            "wheelchair": "limited"
+        },
+        "id": 543967654
+    },
+    {
+        "tags": {
+            "addr:city": "Falkenstein/Vogtl.",
+            "addr:housenumber": "1",
+            "addr:postcode": "08223",
+            "addr:street": "Am Datacenter-Park",
+            "barrier": "fence",
+            "landuse": "commercial",
+            "name": "Hetzner – Rechenzentrumspark Falkenstein",
+            "operator": "Hetzner Online GmbH",
+            "ref": "FSN1",
+            "telecom": "data_center"
+        },
+        "id": 606528332
+    },
+    {
+        "tags": {
+            "addr:city": "Dresden",
+            "addr:country": "DE",
+            "addr:housenumber": "4",
+            "addr:postcode": "01069",
+            "addr:street": "Parkstraße",
+            "addr:unit": "333.2",
+            "amenity": "school",
+            "check_date": "2024-05-31",
+            "cn_tud:token": "PA4",
+            "contact:email": "info@srz-dresden.de",
+            "contact:fax": "+49 351 48672635",
+            "contact:phone": "+49 351 48672634",
+            "contact:website": "http://www.srz.tu-dresden.de/",
+            "indoor": "room",
+            "level": "3",
+            "loc_ref": "PA4",
+            "name": "Schülerrechenzentrum",
+            "opening_hours": "Tu 09:00-17:00; We,Th 14:00-17:00; Fr 09:00-15:00",
+            "operator": "TU Dresden",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes",
+            "wikidata": "Q18289366",
+            "wikipedia": "de:Schülerrechenzentrum Dresden"
+        },
+        "id": 621153817
+    },
+    {
+        "tags": {
+            "addr:city": "Königslutter am Elm",
+            "addr:postcode": "38154",
+            "building": "yes",
+            "name": "Rechenzentrum"
+        },
+        "id": 672811907
+    },
+    {
+        "tags": {
+            "amenity": "research_institute",
+            "contact:city": "Garching bei München",
+            "contact:country": "DE",
+            "contact:housenumber": "1",
+            "contact:mastodon": "@LRZ_DE@mastodon.social",
+            "contact:phone": "+49 89 358 31-8000",
+            "contact:postcode": "85748",
+            "contact:street": "Boltzmannstraße",
+            "contact:website": "https://www.lrz.de/",
+            "landuse": "commercial",
+            "name": "Leibniz-Rechenzentrum",
+            "name:de": "Leibniz-Rechenzentrum",
+            "name:en": "Leibniz Supercomputing Centre",
+            "official_name": "Leibniz-Rechenzentrum der Bayrischen Akademie der Wissenschaften",
+            "research": "computer_science",
+            "short_name": "LRZ",
+            "wikidata": "Q872555",
+            "wikipedia": "de:Leibniz-Rechenzentrum"
+        },
+        "id": 688021012
+    },
+    {
+        "tags": {
+            "addr:city": "Appenweier",
+            "addr:housenumber": "7",
+            "addr:postcode": "77767",
+            "addr:street": "Südstraße",
+            "building": "data_center",
+            "building:levels": "1",
+            "name": "LEITWERK Rechenzentrum Appenweier",
+            "operator": "Leitwerk Rechenzentren Appenweier/Lahr GmbH",
+            "telecom": "data_center"
+        },
+        "id": 688146819
+    },
+    {
+        "tags": {
+            "landuse": "commercial",
+            "name": "NTT Global Data Centers FRA3",
+            "operator": "NTT Global Data Centers",
+            "website": "https://datacenter.hello.global.ntt/de-de/standort/frankfurt/rechenzentrum-frankfurt-3-data-center"
+        },
+        "id": 697501468
+    },
+    {
+        "tags": {
+            "industrial": "data_centre",
+            "landuse": "industrial",
+            "name": "NTT Global Data Centers Campus",
+            "operator": "NTT",
+            "operator:wikidata": "Q1054787"
+        },
+        "id": 697501723
+    },
+    {
+        "tags": {
+            "landuse": "industrial",
+            "name": "NTT Berlin 1 Data Center"
+        },
+        "id": 697502556
+    },
+    {
+        "tags": {
+            "addr:city": "Darmstadt",
+            "addr:country": "DE",
+            "addr:housename": "Hochleistungsrechenzentrum",
+            "addr:housenumber": "4",
+            "addr:postcode": "64287",
+            "addr:street": "Günter-Behnisch-Straße",
+            "addr:suburb": "Darmstadt-Ost",
+            "building": "university",
+            "name": "Hochleistungsrechenzentrum",
+            "old_addr:housenumber": "5",
+            "old_addr:street": "Petersenstraße",
+            "ref": "L5|08"
+        },
+        "id": 700308351
+    },
+    {
+        "tags": {
+            "landuse": "commercial",
+            "name": "Volkswagen Financial Services Data Center",
+            "operator": "Volkswagen Financial Services AG"
+        },
+        "id": 701663547
+    },
+    {
+        "tags": {
+            "addr:city": "Mutterstadt",
+            "addr:housenumber": "4",
+            "addr:postcode": "67112",
+            "addr:street": "In der Schlicht",
+            "building": "commercial",
+            "name": "Rechenzentrum PFALZKOM, DCRN II",
+            "operator": "Pfalzkom GmbH",
+            "telecom": "data_center"
+        },
+        "id": 771374487
+    },
+    {
+        "tags": {
+            "addr:city": "Leipzig",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "04179",
+            "addr:street": "Ernst-Keil-Straße",
+            "building": "commercial",
+            "building:levels": "1",
+            "name": "PŸUR Business Rechenzentrum",
+            "smoking": "no",
+            "website": "https://www.rechenzentrum-leipzig.de/"
+        },
+        "id": 778542350
+    },
+    {
+        "tags": {
+            "addr:city": "Greifswald",
+            "addr:housenumber": "16",
+            "addr:postcode": "17489",
+            "addr:street": "Felix-Hausdorff-Straße",
+            "building": "yes",
+            "description": "Servergebäude Universitätsrechenzentrum",
+            "name": "Universitätsrechenzentrum Servergebäude",
+            "opening_date": "2021"
+        },
+        "id": 791794662
+    },
+    {
+        "tags": {
+            "addr:city": "Hilden",
+            "addr:housenumber": "10",
+            "addr:postcode": "40724",
+            "addr:street": "Zum Jägerhof",
+            "building": "yes",
+            "building:levels": "3",
+            "name": "Datacenter One GmbH",
+            "operator": "Datacenter One GmbH",
+            "ref": "DUS1",
+            "telecom": "data_center"
+        },
+        "id": 881232573
+    },
+    {
+        "tags": {
+            "building:levels": "1",
+            "building:part": "yes",
+            "name": "Hochschulrechenzentrum",
+            "roof:shape": "flat",
+            "short_name": "HRZ"
+        },
+        "id": 885684029
+    },
+    {
+        "tags": {
+            "addr:city": "Emsdetten",
+            "addr:housenumber": "5-7",
+            "addr:postcode": "48282",
+            "addr:street": "Hollefeldstraße",
+            "building": "commercial",
+            "name": "Rechenzentrum EMS1 - tkrz Stadtwerke GmbH",
+            "phone": "+49 2572 202400",
+            "website": "https://www.tkrz-business.de/"
+        },
+        "id": 896167642
+    },
+    {
+        "tags": {
+            "addr:city": "Göppingen",
+            "addr:country": "DE",
+            "addr:housenumber": "10",
+            "addr:postcode": "73037",
+            "addr:street": "Karl-Ehmann-Straße",
+            "building": "data_center",
+            "name": "EVF-Datacenter",
+            "operator": "Energieversorgung Filstal",
+            "operator:short": "EVF",
+            "operator:wikidata": "Q130556538",
+            "owner": "Energieversorgung Filstal GmbH & Co. KG",
+            "telecom": "data_center",
+            "website": "https://evf.de/geschaeftskunden/datacenter"
+        },
+        "id": 897348404
+    },
+    {
+        "tags": {
+            "addr:city": "Senftenberg",
+            "addr:housename": "Gebäude 2",
+            "addr:housenumber": "1",
+            "addr:postcode": "01968",
+            "addr:street": "Universitätsplatz",
+            "building": "university",
+            "building:levels": "3",
+            "name": "Zentralverwaltung, Studierendenservice, Rechenzentrum (Gebäude 2)",
+            "operator": "BTU Cottbus-Senftenberg"
+        },
+        "id": 907485607
+    },
+    {
+        "tags": {
+            "indoor": "room",
+            "level": "0",
+            "name": "Rechenzentrum",
+            "ref": "B2.11",
+            "room": "computer"
+        },
+        "id": 952681359
+    },
+    {
+        "tags": {
+            "barrier": "fence",
+            "construction": "building",
+            "fence_type": "wire",
+            "height": "3",
+            "landuse": "construction",
+            "name": "Baustellenvorhaben: Gebaude für Teile Universitätsverwaltung, Gebäudemanagement, Rechenzentrum, Audiovisuelle Zentrum, Druckerei der Hochschule, Heizzentrale",
+            "source": "https://www.maz-online.de/Lokales/Potsdam/Potsdam-Sanssouci-Campus-Ausbau-fuer-die-Universitaet-am-Neuen-Palais-beginnt"
+        },
+        "id": 957243947
+    },
+    {
+        "tags": {
+            "addr:city": "Ilmenau",
+            "addr:country": "DE",
+            "addr:housenumber": "21",
+            "addr:postcode": "98693",
+            "addr:street": "Robert-Bosch-Ring",
+            "addr:suburb": "Langewiesen",
+            "building": "data_center",
+            "name": "Rechenzentrum Thüringer Netkom",
+            "telecom": "data_center"
+        },
+        "id": 974080218
+    },
+    {
+        "tags": {
+            "addr:city": "Leverkusen",
+            "addr:housenumber": "10",
+            "addr:postcode": "51381",
+            "addr:street": "Dornierstraße",
+            "building": "yes",
+            "name": "Datacenter One",
+            "operator": "Datacenter One NRW GmbH",
+            "telecom": "data_center",
+            "website": "https://www.dc1.com/rechenzentrum/lev1/"
+        },
+        "id": 1005216757
+    },
+    {
+        "tags": {
+            "construction": "industrial",
+            "industrial": "data_centre",
+            "landuse": "construction",
+            "name": "Vantage Berlin II (BER 2) Data Center Campus",
+            "operator": "Vantage Data Centers",
+            "website": "https://vantage-dc.com/data-center-locations/emea/berlin-ii-germany/"
+        },
+        "id": 1012364651
+    },
+    {
+        "tags": {
+            "addr:city": "Bamberg",
+            "addr:housenumber": "21",
+            "addr:postcode": "96052",
+            "addr:street": "Feldkirchenstraße",
+            "building": "university",
+            "building:levels": "3",
+            "name": "Rechenzentrum der Otto-Friedrich-Universität Bamberg",
+            "roof:shape": "flat"
+        },
+        "id": 1022186799
+    },
+    {
+        "tags": {
+            "name": "SST Rechenzentrum B",
+            "power": "substation",
+            "substation": "minor_distribution",
+            "survey:date": "2022-07-09"
+        },
+        "id": 1077411986
+    },
+    {
+        "tags": {
+            "name": "SST Rechenzentrum A",
+            "power": "substation",
+            "substation": "minor_distribution",
+            "survey:date": "2022-07-09"
+        },
+        "id": 1077411987
+    },
+    {
+        "tags": {
+            "addr:city": "Aschheim",
+            "addr:housenumber": "10",
+            "addr:postcode": "85609",
+            "addr:street": "Dywidagstraße",
+            "building": "commercial",
+            "building:levels": "5",
+            "name": "Equinix MU4 Rechenzentrum",
+            "operator": "Equinix",
+            "website": "https://www.equinix.de/data-centers/europe-colocation/germany-colocation/munich-data-centers/mu4"
+        },
+        "id": 1125475727
+    },
+    {
+        "tags": {
+            "check_date": "2025-03-28",
+            "landuse": "construction",
+            "name": "Neubau Rechenzentrum"
+        },
+        "id": 1130683083
+    },
+    {
+        "tags": {
+            "construction": "industrial",
+            "description": "ehemals Großauheim-Kaserne",
+            "landuse": "construction",
+            "name": "Data4 Rechenzentrum Hanau",
+            "opening_date": "2025-01-01",
+            "operator": "Data4 Services"
+        },
+        "id": 1136708354
+    },
+    {
+        "tags": {
+            "building": "data_center",
+            "building:levels": "4",
+            "height": "20",
+            "name": "Vantage Data Center FRA21",
+            "operator": "Vantage Data Centers",
+            "ref": "FRA21",
+            "telecom": "data_center",
+            "website": "https://vantage-dc.com/data-center-locations/emea/frankfurt-ii-germany/"
+        },
+        "id": 1145623809
+    },
+    {
+        "tags": {
+            "addr:city": "Hanau",
+            "addr:housenumber": "11",
+            "addr:postcode": "63457",
+            "addr:street": "Marie-Curie-Straße",
+            "building": "commercial",
+            "building:levels": "4",
+            "name": "Exyte data center"
+        },
+        "id": 1146476211
+    },
+    {
+        "tags": {
+            "landuse": "construction",
+            "name": "N100 Digital Realty Datacenters und Wohnbebauung Hattersheim",
+            "note": "Laut Bebauungsplan N100 https://hattersheim.gajamatrix.de/portalserver/#/portal/hattersheim?oid0=5776_1920_155  \nMöglicherweise aber danach geändert. Leider keine Belege dafür gefunden, daher erstmal mittels vorhandenem B-Plan erstellt."
+        },
+        "id": 1176266037
+    },
+    {
+        "tags": {
+            "building": "data_center",
+            "name": "Vantage Data Center FRA22",
+            "operator": "Vantage Data Centers",
+            "ref": "FRA22",
+            "telecom": "data_center",
+            "website": "https://vantage-dc.com/data-center-locations/emea/frankfurt-ii-germany/"
+        },
+        "id": 1192381985
+    },
+    {
+        "tags": {
+            "construction": "industrial",
+            "landuse": "construction",
+            "name": "Rechenzentrum"
+        },
+        "id": 1254838228
+    }
+]
