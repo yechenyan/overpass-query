@@ -24,7 +24,6 @@ COLUMNS = [
     "company_name",              # Provider company name (English key)
     "m2",                        # Gross area (from buildSizeGross)
     "gross_max_power",           # Max power (from powerGenTotal)
-    "公司名称",                    # Duplicate company name in Chinese label, same value as company_name
     "lon",
     "lat",
     "Punktgeometrie (als WKT)",  # POINT (lon lat)
@@ -136,7 +135,6 @@ def extract_record(payload):
         "company_name": company_name,
         "m2": m2_val,
         "gross_max_power": gross_max_power_val,
-        "公司名称": company_name_cn,
         "lon": lon,
         "lat": lat,
         "Punktgeometrie (als WKT)": wkt,

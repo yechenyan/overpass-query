@@ -3,7 +3,7 @@ import pandas as pd
 
 json_path = "./data.json"
 
-csv_path = "./datacenter.csv"
+csv_path = "./mapdatacenter.csv"
 
 with open(json_path, "r", encoding="utf-8") as f:
     data = json.load(f)
