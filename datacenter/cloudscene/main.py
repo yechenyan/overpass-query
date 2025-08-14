@@ -23,7 +23,7 @@ def fetch_cloudscene_data(
     city = city.strip().lower()
     country = country.strip().lower()
 
-    out_dir = pathlib.Path(f"./{city}")
+    out_dir = pathlib.Path(f"./data/{city}")
     out_dir.mkdir(parents=True, exist_ok=True)
 
     session = requests.Session()
