@@ -66,7 +66,15 @@
       "supportEmail": null,
       "dataVerified": null,
       "createdAt": "2023-06-29T02:49:11.000000Z",
-      "updatedAt": "2023-06-29T02:56:25.000000Z"
+      "updatedAt": "2023-06-29T02:56:25.000000Z",
+      "lat": null,
+      "lon": null,
+      "line1": "Gradestrasse 40",
+      "line2": null,
+      "city": "Berlin",
+      "region": null,
+      "country": "DE",
+      "zipCode": "12347"
     },
     "relationships": {
       "analyticsCounts": {

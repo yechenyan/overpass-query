@@ -107,22 +107,12 @@ def extract_record(payload):
     # Max power from powerGenTotal
     gross_max_power_val = to_float_or_none(attrs.get("powerGenTotal"))
 
-    # Coordinates priority:
-    # 1) pageProps.attributes.lon/lat (if present in some files)
-    # 2) pageProps.location.* (if a location object exists in some variants)
-    # 3) pageProps.market.attributes.lon/lat (rare)
-    # 4) pageProps.zone.attributes.lon/lat (country-level fallback)
+   
     lon = (
-        to_float_or_none(attrs.get("lon"))
-        or to_float_or_none(safe_get(page, "location", "attributes", "lon"))
-        or to_float_or_none(safe_get(page, "market", "attributes", "lon"))
-        or to_float_or_none(safe_get(page, "zone", "attributes", "lon"))
+        to_float_or_none(safe_get(page, "zone", "attributes", "lon"))
     )
     lat = (
-        to_float_or_none(attrs.get("lat"))
-        or to_float_or_none(safe_get(page, "location", "attributes", "lat"))
-        or to_float_or_none(safe_get(page, "market", "attributes", "lat"))
-        or to_float_or_none(safe_get(page, "zone", "attributes", "lat"))
+        to_float_or_none(safe_get(page, "zone", "attributes", "lat"))
     )
 
     # WKT geometry

@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Estimate each data center's max power and annual electricity consumption,
-then scale totals to match a national target (Germany: 18–20 TWh/year, default midpoint 19 TWh).
+Estimate per-site max power and annual electricity consumption for German data centers,
+then scale ONLY the annual energy totals to match a national target (18–20 TWh/year, default 19 TWh).
 
-Input  CSV path: all/mergeCSV.py     (treated as CSV)
-Output CSV path: allCSV.py           (as requested; CSV content with .py extension)
-
-Added columns:
-- estimated_max_power_mw (float): estimated total max facility power [MW]
-- estimated_annual_energy_mwh (float): estimated annual electricity consumption [MWh]
-- estimation_method (str): explanation of how the estimate was derived (in English)
+Rules:
+- If 'gross_max_power' is valid (>0), use it directly for estimated_max_power_mw.
+- If missing, estimate from area (m2) via IT power density and PUE by facility type.
+- Annual energy is computed ONLY from estimated_max_power_mw with a type-based load factor:
+    estimated_annual_energy_mwh = estimated_max_power_mw * load_factor * 8760
+- ONLY estimated_annual_energy_mwh is scaled to match national total; max power is NOT scaled.
+- Keep 2 decimals for the two estimated numeric columns.
 """
 
 import math
@@ -23,13 +23,16 @@ import pandas as pd
 
 HOURS_PER_YEAR = 8760
 
-
-TARGET_TOTAL_TWH = 17
+# National target annual energy (Germany data centers), in TWh.
+# Scale annual energy to the midpoint by default; adjust to 18.0 or 20.0 if needed.
+TARGET_TOTAL_TWH_MIN = 18.0
+TARGET_TOTAL_TWH_MAX = 20.0
+TARGET_TOTAL_TWH = (TARGET_TOTAL_TWH_MIN + TARGET_TOTAL_TWH_MAX) / 2.0  # default: 19.0 TWh
 
 # Typical IT power density by facility type (kW of IT load per m²).
 POWER_DENSITY_KW_PER_M2 = {
     "colocation": 1.5,        # typical 1.0–2.0+
-    "hosting_cloud": 1.8,     # hyperscale / cloud can be higher
+    "hosting_cloud": 1.8,     # hyperscale / cloud often higher
     "enterprise": 1.0,        # typical 0.5–1.5
     "unknown": 1.2            # fallback midpoint
 }
@@ -51,6 +54,7 @@ LOAD_FACTOR_BY_TYPE = {
 }
 
 # Regex-based heuristics to infer facility type from company/name.
+# Order matters: the first matching pattern wins.
 FACILITY_TYPE_PATTERNS = [
     (r"\b(equinix|digital\s*realty|interxion|nlighten|northc|colo|colt)\b", "colocation"),
     (r"\b(aws|amazon|gcp|google|microsoft|azure|facebook|meta)\b", "hosting_cloud"),
@@ -59,7 +63,7 @@ FACILITY_TYPE_PATTERNS = [
 ]
 
 # ----------------------------
-# Helpers
+# Helper functions
 # ----------------------------
 
 def classify_facility_type(row: pd.Series) -> str:
@@ -87,7 +91,7 @@ def coerce_float(x):
     except Exception:
         return np.nan
 
-def estimate_power_row(row: pd.Series) -> tuple[float, str, str]:
+def estimate_power_row(row: pd.Series):
     """
     Per-row estimation logic.
 
@@ -98,7 +102,7 @@ def estimate_power_row(row: pd.Series) -> tuple[float, str, str]:
     reported_mw = coerce_float(row.get("gross_max_power"))
     ftype = classify_facility_type(row)
 
-    # If a valid reported gross_max_power exists, trust it.
+    # If a valid reported gross_max_power exists, use it directly.
     if reported_mw is not None and not math.isnan(reported_mw) and reported_mw > 0:
         return reported_mw, "reported_gross_max_power", ftype
 
@@ -111,8 +115,13 @@ def estimate_power_row(row: pd.Series) -> tuple[float, str, str]:
         est_mw = total_kw / 1000.0
         return est_mw, f"density_model:type={ftype};density_kW_per_m2={density};pue={pue}", ftype
 
-    # Otherwise we will try company/global statistics later.
+    # Otherwise mark as missing; will try company/global statistics later.
     return np.nan, "pending_company_or_global_fallback", ftype
+
+def _append_method(existing, extra_tag):
+    """Append a semicolon-delimited tag to estimation_method safely."""
+    base = str(existing) if pd.notna(existing) else ""
+    return (base + (";" if base else "") + extra_tag)
 
 def finalize_with_company_means(df: pd.DataFrame) -> pd.DataFrame:
     """
@@ -124,6 +133,7 @@ def finalize_with_company_means(df: pd.DataFrame) -> pd.DataFrame:
           .groupby("company_name")["estimated_max_power_mw"]
           .mean()
     )
+
     need_fill = df["estimated_max_power_mw"].isna()
     for idx in df.index[need_fill]:
         comp = df.at[idx, "company_name"]
@@ -140,12 +150,8 @@ def finalize_with_company_means(df: pd.DataFrame) -> pd.DataFrame:
         df.loc[need_fill, "estimation_method"] = df.loc[need_fill, "estimation_method"].apply(
             lambda s: _append_method(s, "global_median_fallback")
         )
-    return df
 
-def _append_method(existing, extra_tag):
-    """Append a semicolon-delimited tag to estimation_method safely."""
-    base = str(existing) if pd.notna(existing) else ""
-    return (base + (";" if base else "") + extra_tag)
+    return df
 
 def compute_annual_energy(row: pd.Series) -> float:
     """
@@ -164,11 +170,11 @@ def compute_annual_energy(row: pd.Series) -> float:
 # ----------------------------
 
 def main():
-    src_path = "result/data_mapdatacenter.csv"   # as requested
-    out_path = "result/estimate.csv"         # as requested
+    src_path = "result/data_cloudscene.csv"   # as requested
+    out_path = "estaimate_cloudscene_2024.csv"         # as requested
 
-    # Read CSV (even if extension is .py)
-    df = pd.read_csv(src_path, low_memory=False)
+    # Read CSV with semicolon delimiter (even if extension is .py)
+    df = pd.read_csv(src_path, sep=",", low_memory=False)
 
     # Ensure required columns exist
     for col in ["name", "company_name", "m2", "gross_max_power", "lon", "lat", "source"]:
@@ -180,38 +186,36 @@ def main():
     results.columns = ["estimated_max_power_mw", "estimation_method", "_facility_type"]
     df = pd.concat([df, results], axis=1)
 
-    # Second pass completion
+    # Second pass completion (company mean -> global median) for missing power
     df = finalize_with_company_means(df)
 
-    # Compute annual energy (pre-scaling)
+    # Compute annual energy BEFORE scaling (strictly from estimated_max_power_mw)
     df["estimated_annual_energy_mwh"] = df.apply(compute_annual_energy, axis=1)
 
     # ----------------------------
-    # National scaling to 18–20 TWh (default midpoint)
+    # National scaling: ONLY scale estimated_annual_energy_mwh
     # ----------------------------
     current_total_mwh = df["estimated_annual_energy_mwh"].sum(skipna=True)
     target_total_mwh = TARGET_TOTAL_TWH * 1_000_000.0  # TWh -> MWh
 
     if current_total_mwh and not math.isnan(current_total_mwh) and current_total_mwh > 0:
         scale_factor = target_total_mwh / current_total_mwh
-
-        # Scale both max power and annual energy so that totals align with national target
-        df["estimated_max_power_mw"] = df["estimated_max_power_mw"] * scale_factor
         df["estimated_annual_energy_mwh"] = df["estimated_annual_energy_mwh"] * scale_factor
-
-        # Mark method
         df["estimation_method"] = df["estimation_method"].apply(
-            lambda s: _append_method(s, f"scaled_to_{TARGET_TOTAL_TWH:.1f}TWh(factor={scale_factor:.3f})")
+            lambda s: _append_method(s, f"annual_energy_scaled_to_{TARGET_TOTAL_TWH:.1f}TWh(factor={scale_factor:.3f})")
         )
+
+    # Keep only 2 decimals for the two estimated numeric columns
+    df["estimated_max_power_mw"] = df["estimated_max_power_mw"].round(2)
+    df["estimated_annual_energy_mwh"] = df["estimated_annual_energy_mwh"].round(2)
 
     # Drop helper column before saving
     if "_facility_type" in df.columns:
         df.drop(columns=["_facility_type"], inplace=True)
+    print(df.columns)
+    df.to_csv(out_path, index=False, sep=";")
 
-    # Save (CSV content, .py extension as requested)
-    df.to_csv(out_path, index=False)
+  
 
 if __name__ == "__main__":
-    # Not executing by request. To run locally, uncomment:
     main()
-    

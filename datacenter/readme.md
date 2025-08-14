@@ -15,11 +15,11 @@ datacenter/
 │
 ├── result/                        # Final generated files
 │   ├── data_all/                   # Cleaned data: cloudscene + mapdatacenter
-│   ├── estimate_all/               # cloudscene + mapdatacenter with estimated generation & consumption
+│   ├── estimate_all_2024/               # cloudscene + mapdatacenter with estimated generation & consumption
 │   ├── data_cloudscen/             # Cleaned data from cloudscene
-│   ├── estimate_cloudscen/         # cloudscene data with estimated generation & consumption
+│   ├── estimate_cloudscen_2024/         # cloudscene data with estimated generation & consumption
 │   ├── data_mapdatacenter/         # Cleaned data from mapdatacenter
-│   ├── estimate_mapdatacenter/     # mapdatacenter data with estimated generation & consumption
+│   ├── estimate_mapdatacenter_2024/     # mapdatacenter data with estimated generation & consumption
 │
 ├── cloudscene/                     # Python scripts for downloading & cleaning cloudscene data
 │                                    # Source: https://cloudscene.com/market/data-centers-in-germany/all
@@ -63,8 +63,8 @@ datacenter/
    Use the power value for estimation.
 
 4. **Estimating annual energy consumption**  
-   Scale according to the current total electricity consumption of German data centers (17 TWh):  
-   <https://www.borderstep.de/wp-content/uploads/2022/08/Borderstep_Rechenzentren_2021_eng.pdf>
+   Scale according to the current total electricity consumption of German data centers (21 TWh， 2024):  
+   <https://www.icis.com/explore/resources/data-centres-hungry-for-power/>
 
 ---
 
