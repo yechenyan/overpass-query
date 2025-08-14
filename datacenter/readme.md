@@ -1,6 +1,12 @@
 # Data Center
 
-## File Structure
+## Task1: National data center electricity consumption
+
+Please refer to the following document (data source: TYNDP)
+https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/Eafo-VwuspFMmpaSdkWG9xUBEqgF2hrue8rbXKh_NA0gWw?e=iOWmyL
+
+## Task2:  Germany data center list
+### File Structure
 
 The final results can be found in the `result` folder:
 
@@ -27,7 +33,7 @@ datacenter/
 
 ---
 
-## Column Descriptions for `estimate_all.csv`
+### Column Descriptions for `estimate_all.csv`
 
 - **id** – Source ID  
 - **name** – Data center name  
@@ -44,7 +50,7 @@ datacenter/
 
 ---
 
-## Estimation Methods
+### Estimation Methods
 
 1. **If both area and power are missing**  
    Estimate based on data center name using the latest Borderstep research report:  
@@ -62,7 +68,7 @@ datacenter/
 
 ---
 
-## Limitations
+### Limitations
 
 1. Most data centers are missing values — many figures are based on estimates.  
 2. Naming conventions differ between cloudscene and mapdatacenter, making deduplication difficult.  
@@ -70,7 +76,7 @@ datacenter/
 
 ---
 
-## Example Hourly Energy Consumption Data for Data Centers
+### Task3: Example Hourly Energy Consumption Data for Data Centers
 
 - **Leibniz Supercomputing Centre** – Hourly electricity consumption for 5 days in July 2017  
   [Publication (page 4)](https://gwdg.de/hpc/_publications/iobassfeac19/publication.pdf)
@@ -82,7 +88,7 @@ datacenter/
   <https://catalog.data.gov/dataset/nrel-rsf-measured-data-2011-c7c02>
 
 - **TÜBİTAK ULAKBİM (Turkey)** – Daily electricity data from 2018–2021  
-  <https://stat.metu.edu.tr/en/system/files/sustainability_of_metaverse.pdf#:~:text=data,19>
+  <https://stat.metu.edu.tr/en/system/files/sustainability_of_metaverse.pdf>
 
 - **Kasetsart University Data Center (Thailand)** – Hourly data from July 2018 to April 2022  
   Raw data: <https://www.scidb.cn/en/detail?dataSetId=60dfb844a69842c1b7e7ca3ba8e09791>  
