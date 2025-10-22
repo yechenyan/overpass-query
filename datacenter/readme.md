@@ -384,22 +384,13 @@ Most data centers do not disclose their power consumption data. The following pr
 
 ---
 
-#### 3.2.1 Leibniz Supercomputing Centre (Germany)
-**Data source:** Hourly electricity consumption for 5 days in July 2017  
-[Dataset link (page 4)](https://gwdg.de/hpc/_publications/iobassfeac19/publication.pdf)
 
-
-**Data description:**  
-Only 5 consecutive days of hourly power data in July 2017, provided as a figure.
-
-**Periodicity analysis:**  
-Because the dataset covers only five days, reliable Fourier spectral analysis cannot be performed. From the figure, a clear daily fluctuation can be observed: daytime power consumption is higher and nighttime lower, with an intra-day peak-to-valley difference of about 10–15%. No weekly or longer periodic components are visible. The dataset can only be used for qualitative analysis of daily variations.
-
----
-
-#### 3.2.2 Honda R&D Data Center Building (Hesse, Germany)
+#### 3.2.1 Honda R&D Data Center Building (Hesse, Germany)
 **Data source:** Hourly data from 2018–2023  
 [Dataset link](https://www.nature.com/articles/s41597-025-05186-3?error=cookies_not_supported&code=a51bcf1e-e965-4bcf-8d7a-378ea4144d59)
+
+This dataset has high quality and strong similarity; it is recommended to give priority to this dataset.
+
 
 **Fourier Transform Results:**  
 1. Frequency = 1.0000 cycles/day, Amplitude = 67,578.93 (norm=1.0000), Period = 1.000 days (24.0 h), Phase = 3.084 rad, Peak at 50.9% of cycle (~12.2 h after start)
@@ -415,6 +406,20 @@ The dominant daily component exhibits the largest amplitude (~67,579), peaking a
 The weekly component (7-day period) is also strong, suggesting a stable cyclic pattern across weeks.
 Two nearby daily sidebands (0.9995 and 1.0005 cycles/day) indicate minor modulation effects or slight phase shifts between consecutive days.
 Overall, the system displays a multi-period composite behavior dominated by the daily and weekly harmonics, reflecting both short-term regularity and weekly structural patterns in the data.
+
+---
+
+
+#### 3.2.2 Leibniz Supercomputing Centre (Germany)
+**Data source:** Hourly electricity consumption for 5 days in July 2017  
+[Dataset link (page 4)](https://gwdg.de/hpc/_publications/iobassfeac19/publication.pdf)
+
+
+**Data description:**  
+Only 5 consecutive days of hourly power data in July 2017, provided as a figure.
+
+**Periodicity analysis:**  
+Because the dataset covers only five days, reliable Fourier spectral analysis cannot be performed. From the figure, a clear daily fluctuation can be observed: daytime power consumption is higher and nighttime lower, with an intra-day peak-to-valley difference of about 10–15%. No weekly or longer periodic components are visible. The dataset can only be used for qualitative analysis of daily variations.
 
 ---
 
