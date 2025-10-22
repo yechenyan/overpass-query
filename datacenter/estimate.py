@@ -159,11 +159,11 @@ def compute_annual_energy(row: pd.Series) -> float:
 # ----------------------------
 
 def main():
-    src_path = "cloudscene/cloudscene.csv"
-    out_path = "DE_datacenter_list/cloudscene_2024.csv"
+    # src_path = "cloudscene/cloudscene.csv"
+    # out_path = "DE_datacenter_list/cloudscene_2024.csv"
 
-    # src_path = "mapdatacenter/mapdatacenter.csv"
-    # out_path = "DE_datacenter_list/mapdatacenter.csv"
+    src_path = "mapdatacenter/mapdatacenter.csv"
+    out_path = "DE_datacenter_list/mapdatacenter_2024.csv"
 
     df = pd.read_csv(src_path, sep=",", low_memory=False)
 
