@@ -352,7 +352,7 @@ datacenter/
 
 
 Alternatively, it can be retrieved from SharePoint:  
-[datacenter_hourly_power](https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/ERaXLuFjgRRIk3sv1dRwWFABGBqdIvUQgD1AVp5O5wvSvQ?e=I1jLoH)
+[[datacenter_hourly_power](https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/ERaXLuFjgRRIk3sv1dRwWFABGBqdIvUQgD1AVp5O5wvSvQ?e=I1jLoH)](https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/ERaXLuFjgRRIk3sv1dRwWFABGBqdIvUQgD1AVp5O5wvSvQ?e=I1jLoH)
 
 ![Hourly Data Center Power (MW)](./images/datacenter_hourly_power.png)
 
