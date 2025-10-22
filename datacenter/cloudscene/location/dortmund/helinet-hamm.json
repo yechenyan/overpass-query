@@ -1,0 +1,626 @@
+{
+  "data": {
+    "type": "locations",
+    "id": "077ccad0-c9a6-11eb-b6de-db51ae892a80",
+    "attributes": {
+      "building": null,
+      "level": null,
+      "suite": null,
+      "line1": null,
+      "line2": null,
+      "city": "Hamm",
+      "region": null,
+      "country": null,
+      "zipCode": "59067",
+      "lat": null,
+      "lon": null,
+      "geoLock": "0",
+      "search": null,
+      "createdAt": "2021-06-10T04:40:49.000000Z",
+      "updatedAt": "2021-06-10T04:40:50.000000Z"
+    },
+    "relationships": {
+      "locatable": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/locations/077ccad0-c9a6-11eb-b6de-db51ae892a80/relationships/locatable",
+          "related": "http://directory-service.us-west-2.cloudscene.com/locations/077ccad0-c9a6-11eb-b6de-db51ae892a80/locatable"
+        }
+      }
+    },
+    "links": {
+      "self": "http://directory-service.us-west-2.cloudscene.com/locations/077ccad0-c9a6-11eb-b6de-db51ae892a80"
+    }
+  },
+  "included": [
+    {
+      "type": "zones",
+      "id": "072b53c9-4049-4090-8ef9-19f013299dad",
+      "attributes": {
+        "name": "Madagascar",
+        "description": null,
+        "slug": "data-centers-in-madagascar/all",
+        "iso": "MG",
+        "lat": null,
+        "lon": null,
+        "createdAt": "2021-05-14T08:12:45.000000Z",
+        "updatedAt": "2023-01-09T21:59:07.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/072b53c9-4049-4090-8ef9-19f013299dad/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/072b53c9-4049-4090-8ef9-19f013299dad/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/072b53c9-4049-4090-8ef9-19f013299dad/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/072b53c9-4049-4090-8ef9-19f013299dad/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/072b53c9-4049-4090-8ef9-19f013299dad/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/072b53c9-4049-4090-8ef9-19f013299dad/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/072b53c9-4049-4090-8ef9-19f013299dad/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/072b53c9-4049-4090-8ef9-19f013299dad/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/072b53c9-4049-4090-8ef9-19f013299dad"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/072b53c9-4049-4090-8ef9-19f013299dad/related"
+        },
+        "counts": {
+          "pops": 0,
+          "facilities": 1,
+          "fabrics": 0,
+          "markets": 1,
+          "providers": 1
+        }
+      }
+    },
+    {
+      "type": "zones",
+      "id": "215428e7-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Argentina",
+        "description": null,
+        "slug": "data-centers-in-argentina/all",
+        "iso": "AR",
+        "lat": "-38.416097",
+        "lon": "-63.616672",
+        "createdAt": "2021-05-14T06:29:31.000000Z",
+        "updatedAt": "2021-05-14T06:29:31.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/215428e7-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/215428e7-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/215428e7-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/215428e7-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/215428e7-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/215428e7-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/215428e7-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/215428e7-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/215428e7-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/215428e7-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 83,
+          "facilities": 29,
+          "fabrics": 1,
+          "markets": 4,
+          "providers": 45
+        }
+      }
+    },
+    {
+      "type": "zones",
+      "id": "21542cba-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Australia",
+        "description": "Australia was serviced by Telecom Australia (now Telstra) as a monopoly until full deregulation took place in 1997, which now boasts over 300 licensed carriers.  Major players in the carrier space include Telstra, Optus, TPG, Vocus, Superloop and Megaport.  Over the last 10 years, data center and cloud growth in Australia has accelerated significantly with both Amazon Web Services, Microsoft Azure and Google Cloud locally hosted in Australia.  Australia's international connectivity is mainly serviced by the Southern Cross Cables (diverse path from Sydney to US via New Zealand, Fiji and Hawaii), PPC-1 (Sydney to Guam), Australian Japan Cable (Sydney to Japan via Guam) and SMW-3 (Perth to Singapore via Jakarta).  Sydney is Australia's major interconnection hub as it is the landing point for all major east coast submarine cables, the host of the Australian Stock Exchange and a major commerce hub for the country.",
+        "slug": "data-centers-in-australia/all",
+        "iso": "AU",
+        "lat": "-25.274398",
+        "lon": "133.775136",
+        "createdAt": "2021-05-14T06:03:21.000000Z",
+        "updatedAt": "2021-05-14T06:03:21.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542cba-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542cba-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542cba-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542cba-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542cba-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542cba-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542cba-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542cba-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542cba-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542cba-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 3792,
+          "facilities": 314,
+          "fabrics": 21,
+          "markets": 11,
+          "providers": 747
+        }
+      }
+    },
+    {
+      "type": "zones",
+      "id": "21542e99-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Austria",
+        "description": null,
+        "slug": "data-centers-in-austria/all",
+        "iso": "AT",
+        "lat": "47.516231",
+        "lon": "14.550072",
+        "createdAt": "2021-05-14T06:05:14.000000Z",
+        "updatedAt": "2021-05-14T06:05:14.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542e99-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542e99-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542e99-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542e99-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542e99-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542e99-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542e99-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542e99-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542e99-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542e99-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 436,
+          "facilities": 68,
+          "fabrics": 20,
+          "markets": 7,
+          "providers": 219
+        }
+      }
+    },
+    {
+      "type": "zones",
+      "id": "21542fb3-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Bahrain",
+        "description": null,
+        "slug": "data-centers-in-bahrain/all",
+        "iso": "BH",
+        "lat": "25.930414",
+        "lon": "50.637772",
+        "createdAt": "2021-05-14T06:47:22.000000Z",
+        "updatedAt": "2021-05-14T06:47:22.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542fb3-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542fb3-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542fb3-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542fb3-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542fb3-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542fb3-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542fb3-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542fb3-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/21542fb3-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/21542fb3-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 7,
+          "facilities": 9,
+          "fabrics": 1,
+          "markets": 2,
+          "providers": 9
+        }
+      }
+    },
+    {
+      "type": "zones",
+      "id": "21543085-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Bangladesh",
+        "description": null,
+        "slug": "data-centers-in-bangladesh/all",
+        "iso": "BD",
+        "lat": "23.684994",
+        "lon": "90.356331",
+        "createdAt": "2021-05-14T07:14:07.000000Z",
+        "updatedAt": "2021-05-14T07:14:07.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543085-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543085-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543085-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543085-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543085-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543085-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543085-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543085-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543085-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543085-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 2,
+          "facilities": 7,
+          "fabrics": 0,
+          "markets": 2,
+          "providers": 7
+        }
+      }
+    },
+    {
+      "type": "zones",
+      "id": "21543150-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Belgium",
+        "description": null,
+        "slug": "data-centers-in-belgium/all",
+        "iso": "BE",
+        "lat": "50.503887",
+        "lon": "4.469936",
+        "createdAt": "2021-05-14T06:05:16.000000Z",
+        "updatedAt": "2021-05-14T06:05:16.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543150-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543150-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543150-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543150-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543150-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543150-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543150-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543150-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543150-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543150-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 422,
+          "facilities": 81,
+          "fabrics": 11,
+          "markets": 5,
+          "providers": 178
+        }
+      }
+    },
+    {
+      "type": "zones",
+      "id": "21543247-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Brazil",
+        "description": null,
+        "slug": "data-centers-in-brazil/all",
+        "iso": "BR",
+        "lat": "-14.235004",
+        "lon": "-51.92528",
+        "createdAt": "2021-05-14T06:08:48.000000Z",
+        "updatedAt": "2021-05-14T06:08:48.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543247-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543247-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543247-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543247-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543247-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543247-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543247-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543247-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/21543247-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/21543247-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 1754,
+          "facilities": 197,
+          "fabrics": 11,
+          "markets": 8,
+          "providers": 324
+        }
+      }
+    },
+    {
+      "type": "zones",
+      "id": "2154333a-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Bulgaria",
+        "description": null,
+        "slug": "data-centers-in-bulgaria/all",
+        "iso": "BG",
+        "lat": "42.733883",
+        "lon": "25.48583",
+        "createdAt": "2021-05-14T06:03:59.000000Z",
+        "updatedAt": "2021-05-14T06:03:59.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154333a-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154333a-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154333a-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154333a-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154333a-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154333a-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154333a-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154333a-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154333a-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154333a-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 254,
+          "facilities": 24,
+          "fabrics": 10,
+          "markets": 4,
+          "providers": 133
+        }
+      }
+    },
+    {
+      "type": "zones",
+      "id": "215433f7-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Cambodia",
+        "description": null,
+        "slug": "data-centers-in-cambodia/all",
+        "iso": "KH",
+        "lat": "12.565679",
+        "lon": "104.990963",
+        "createdAt": "2021-05-14T06:44:56.000000Z",
+        "updatedAt": "2021-05-14T06:44:56.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/215433f7-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/215433f7-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/215433f7-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/215433f7-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/215433f7-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/215433f7-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/215433f7-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/215433f7-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/215433f7-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/215433f7-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 6,
+          "facilities": 7,
+          "fabrics": 3,
+          "markets": 1,
+          "providers": 11
+        }
+      }
+    }
+  ]
+}

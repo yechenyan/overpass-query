@@ -1,155 +1,109 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-import argparse
+import os
 import json
-import sys
 import time
-from pathlib import Path
-from typing import Dict, Any, Optional
-
 import requests
+import platform
 
-API_TEMPLATE = "https://cloudscene.com/api/directory-service/assets/facilities/{facility_id}/location"
-LOCATION_FIELDS = ["lat", "lon", "line1", "line2", "city", "region", "country", "zipCode", "search"]
+# 根路径（请根据你的项目结构修改）
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "data")
+LOCATION_DIR = os.path.join(BASE_DIR, "location")
 
-# Error backoff time in seconds
-ERROR_DELAY = 300  # 5 minutes
+# 若不存在 location 目录，则创建
+os.makedirs(LOCATION_DIR, exist_ok=True)
 
+def beep():
+    """跨平台发出警报声音"""
+    if platform.system() == "Windows":
+        import winsound
+        winsound.Beep(1000, 500)
+    else:
+        print("\a")  # macOS/Linux 使用终端提示音
 
-def read_json(path: Path) -> Optional[Dict[str, Any]]:
+def fetch_location_data(facility_id):
+    """请求接口并返回 JSON 数据"""
+    url = f"https://cloudscene.com/api/directory-service/assets/facilities/{facility_id}/location"
     try:
-        with path.open("r", encoding="utf-8") as f:
-            return json.load(f)
+        resp = requests.get(url, timeout=15)
+        resp.raise_for_status()
+        return resp.json()
     except Exception as e:
-        print(f"[SKIP] Failed to read JSON: {path} ({e})", file=sys.stderr)
+        print(f"❌ 请求出错: {e}")
+        beep()
         return None
 
+def process_state(state_dir, stats):
+    """处理单个州目录"""
+    state_name = os.path.basename(state_dir)
+    print(f"\n📂 正在处理州: {state_name}")
 
-def write_json(path: Path, data: Dict[str, Any]) -> bool:
-    try:
-        with path.open("w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-            f.write("\n")
-        return True
-    except Exception as e:
-        print(f"[ERROR] Failed to write JSON: {path} ({e})", file=sys.stderr)
-        return False
+    # 对应的 location 州目录
+    state_location_dir = os.path.join(LOCATION_DIR, state_name)
+    os.makedirs(state_location_dir, exist_ok=True)
 
+    for filename in os.listdir(state_dir):
+        if not filename.endswith(".json"):
+            continue
 
-def extract_facility_id(doc: Dict[str, Any]) -> Optional[str]:
-    return doc.get("pageProps", {}).get("id")
+        input_path = os.path.join(state_dir, filename)
+        output_path = os.path.join(state_location_dir, filename)
 
+        # 已存在文件则跳过
+        if os.path.exists(output_path):
+            print(f"✅ 已存在，跳过: {output_path}")
+            stats["existing"] += 1
+            continue
 
-def has_lat_lon(doc: Dict[str, Any]) -> bool:
-    attrs = doc.get("pageProps", {}).get("attributes", {})
-    lat = attrs.get("lat")
-    lon = attrs.get("lon")
-    return bool(lat) and bool(lon)
+        # 尝试读取 pageProps.id
+        try:
+            with open(input_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            facility_id = data["pageProps"]["id"]
+        except Exception as e:
+            print(f"⚠️ 无法读取 ID ({filename})：{e}，跳过。")
+            stats["invalid_id"] += 1
+            continue  # 不等待
 
+        print(f"➡️ 请求 ID: {facility_id}")
 
-def fetch_location(facility_id: str, session: requests.Session, delay_seconds: int = 30, timeout: int = 30) -> Optional[Dict[str, Any]]:
-    # Delay before request
-    
-    url = API_TEMPLATE.format(facility_id=facility_id)
-    headers = {
-        "method": "GET",
-        "path": f"/api/directory-service/assets/facilities/{facility_id}/location",
-        "scheme": "https",
-        "accept": "application/vnd.api+json",
-        "accept-encoding": "gzip, deflate, br, zstd",
-        "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7",
-        "content-type": "application/vnd.api+json",
-        "priority": "u=1, i",
-        "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"Google Chrome\";v=\"139\", \"Chromium\";v=\"139\"",
-        "sec-ch-ua-mobile": "?0",
-        "sec-ch-ua-platform": "\"macOS\"",
-        "sec-fetch-dest": "empty",
-        "sec-fetch-mode": "cors",
-        "sec-fetch-site": "same-origin",
-        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
-    }
+        # 请求接口
+        result = fetch_location_data(facility_id)
+        if result:
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(result, f, ensure_ascii=False, indent=2)
+            print(f"💾 已保存: {output_path}")
+            stats["success"] += 1
+        else:
+            print(f"⚠️ 请求失败，跳过: {filename}")
+            stats["failed"] += 1
 
-    try:
-        resp = session.get(url, headers=headers, timeout=timeout)
-        time.sleep(delay_seconds)
-    except Exception as e:
-        print(f"[WARN] Request failed for {facility_id}: {e}", file=sys.stderr)
-        return None
-
-    if resp.status_code != 200:
-        print(f"[WARN] Non-200 status for {facility_id}: {resp.status_code}", file=sys.stderr)
-        return None
-
-    try:
-        payload = resp.json()
-    except Exception as e:
-        print(f"[WARN] Invalid JSON response for {facility_id}: {e}", file=sys.stderr)
-        return None
-
-    attributes = payload.get("data", {}).get("attributes")
-    if not isinstance(attributes, dict):
-        print(f"[WARN] No attributes found for {facility_id}", file=sys.stderr)
-        return None
-
-    return attributes
-
-
-def merge_location_into_doc(doc: Dict[str, Any], loc_attrs: Dict[str, Any]) -> None:
-    page_props = doc.setdefault("pageProps", {})
-    attributes = page_props.setdefault("attributes", {})
-    for key in LOCATION_FIELDS:
-        attributes[key] = loc_attrs.get(key, None)
-
-
-def process_file(path: Path, session: requests.Session, delay_seconds: int) -> None:
-    doc = read_json(path)
-    if doc is None:
-        return
-
-    facility_id = extract_facility_id(doc)
-    if not facility_id:
-        print(f"[SKIP] No pageProps.id in {path}", file=sys.stderr)
-        return
-
-    if has_lat_lon(doc):
-        print(f"[SKIP] lat/lon already exist: {path} (facility: {facility_id})")
-        return
-
-    loc_attrs = fetch_location(facility_id, session, delay_seconds=delay_seconds)
-    if loc_attrs is None:
-        print(f"[ERROR] Failed to fetch location for facility {facility_id} ({path}), waiting 5 minutes...", file=sys.stderr)
-        time.sleep(ERROR_DELAY)
-        return
-
-    merge_location_into_doc(doc, loc_attrs)
-    if write_json(path, doc):
-        print(f"[OK] Updated: {path} (facility: {facility_id})")
-
+        # 无论成功或失败都等待 30 秒（读取 ID 失败则不等待）
+        print("⏳ 等待 30 秒后继续下一个...")
+        time.sleep(30)
 
 def main():
-    parser = argparse.ArgumentParser(description="Enrich facility JSONs with location fields.")
-    parser.add_argument("--root", default="Data", help="Root folder to search for JSON files (default: Data)")
-    parser.add_argument("--delay", type=int, default=10, help="Delay seconds BEFORE each API call (default: 10)")
-    parser.add_argument("--glob", default="**/*.json", help="Glob pattern to match files (default: **/*.json)")
-    args = parser.parse_args()
+    stats = {
+        "success": 0,
+        "failed": 0,
+        "invalid_id": 0,
+        "existing": 0,
+    }
 
-    root = Path(args.root)
-    if not root.exists():
-        print(f"[ERROR] Root folder not found: {root}", file=sys.stderr)
-        sys.exit(1)
+    for state in os.listdir(DATA_DIR):
+        state_path = os.path.join(DATA_DIR, state)
+        if os.path.isdir(state_path):
+            process_state(state_path, stats)
 
-    json_files = sorted(root.glob(args.glob))
-    if not json_files:
-        print(f"[INFO] No JSON files found under: {root}")
-        return
-
-    with requests.Session() as session:
-        for path in json_files:
-            process_file(path, session, delay_seconds=args.delay)
-
-    print("[DONE] All matching files processed.")
-
+    # --- 运行结束统计 ---
+    total_skipped = stats["invalid_id"] + stats["existing"]
+    print("\n==========================")
+    print("🏁 运行结束统计：")
+    print(f"✅ 成功保存文件数: {stats['success']}")
+    print(f"❌ 请求失败文件数: {stats['failed']}")
+    print(f"⚠️ 无效 ID（跳过）: {stats['invalid_id']}")
+    print(f"📂 已存在文件（跳过）: {stats['existing']}")
+    print(f"🚫 总跳过文件数: {total_skipped}")
+    print("==========================")
 
 if __name__ == "__main__":
     main()

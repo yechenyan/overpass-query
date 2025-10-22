@@ -3,6 +3,8 @@ Goal:
 - Walk through all subfolders under ./Data
 - Read every JSON file that contains a "facilities" style object like the provided example
 - Extract required fields and merge them into a single CSV: cloudscene.csv
+- NEW: lat, lon, search are read from ./location mirror files (data->attributes->lat/lon/search).
+       If not found or file missing, write None.
 
 Notes:
 - Variable comments are in English as requested.
@@ -14,8 +16,9 @@ import json
 import csv
 
 # -------- Configuration --------
-DATA_ROOT = Path("Data")           # Root folder containing many subfolders with JSON files
-OUTPUT_CSV = Path("cloudscene.csv")  # Output CSV filename
+DATA_ROOT = Path("Data")              # Root folder containing many subfolders with facility JSON files
+LOCATION_ROOT = Path("location")      # Mirror root for location JSON files (same structure/filenames as Data)
+OUTPUT_CSV = Path("cloudscene.csv")   # Output CSV filename
 
 # Desired CSV columns (order matters)
 COLUMNS = [
@@ -24,8 +27,9 @@ COLUMNS = [
     "company_name",              # Provider company name (English key)
     "m2",                        # Gross area (from buildSizeGross)
     "gross_max_power",           # Max power (from powerGenTotal)
-    "lon",
-    "lat",
+    "lon",                       # From location/<mirror>.json -> data.attributes.lon
+    "lat",                       # From location/<mirror>.json -> data.attributes.lat
+    "search",                    # From location/<mirror>.json -> data.attributes.search
     "Punktgeometrie (als WKT)",  # POINT (lon lat)
     "source"                     # Constant: "cloudscene"
 ]
@@ -81,9 +85,10 @@ def build_wkt(lon, lat):
         return None
     return f"POINT ({lon} {lat})"
 
-def extract_record(payload):
+def extract_record(payload, loc_lon, loc_lat, loc_search):
     """
-    Extract a single CSV row dict from one JSON 'facilities' payload (matching the example structure).
+    Extract a single CSV row dict from one JSON 'facilities' payload (matching the example structure),
+    using location lon/lat/search provided by caller.
     """
     page = payload.get("pageProps", {})
     attrs = safe_get(page, "attributes", default={}) or {}
@@ -97,9 +102,8 @@ def extract_record(payload):
     # Name from last segment of slug
     name_from_slug = last_slug_segment(slug, fallback_display_name)
 
-    # Company name (both English key and Chinese duplicate)
+    # Company name
     company_name = provider_name
-    company_name_cn = provider_name
 
     # Area (m2) from buildSizeGross
     m2_val = to_float_or_none(attrs.get("buildSizeGross"))
@@ -107,16 +111,8 @@ def extract_record(payload):
     # Max power from powerGenTotal
     gross_max_power_val = to_float_or_none(attrs.get("powerGenTotal"))
 
-   
-    lon = (
-        to_float_or_none(safe_get(page, "zone", "attributes", "lon"))
-    )
-    lat = (
-        to_float_or_none(safe_get(page, "zone", "attributes", "lat"))
-    )
-
-    # WKT geometry
-    wkt = build_wkt(lon, lat)
+    # WKT geometry from location lon/lat
+    wkt = build_wkt(loc_lon, loc_lat)
 
     # Assemble the CSV row
     row = {
@@ -125,8 +121,9 @@ def extract_record(payload):
         "company_name": company_name,
         "m2": m2_val,
         "gross_max_power": gross_max_power_val,
-        "lon": lon,
-        "lat": lat,
+        "lon": loc_lon,
+        "lat": loc_lat,
+        "search": loc_search,
         "Punktgeometrie (als WKT)": wkt,
         "source": "cloudscene",
     }
@@ -137,6 +134,48 @@ def find_json_files(root: Path):
     Yield all *.json files under the given root directory (recursive).
     """
     yield from root.rglob("*.json")
+
+def read_location_triplet_for(data_json_path: Path):
+    """
+    Given a path under DATA_ROOT, read the mirror JSON under LOCATION_ROOT
+    and return (lon, lat, search) with correct types; missing -> None.
+    Expected structure:
+      {
+        "data": {
+          "attributes": {
+            "lat": <str|num|null>,
+            "lon": <str|num|null>,
+            "search": <str|null>
+          }
+        }
+      }
+    """
+    try:
+        # Compute relative path from DATA_ROOT, then mirror it under LOCATION_ROOT
+        rel = data_json_path.relative_to(DATA_ROOT)
+        loc_path = LOCATION_ROOT / rel
+
+        if not loc_path.exists():
+            return (None, None, None)
+
+        with loc_path.open("r", encoding="utf-8") as f:
+            loc_payload = json.load(f)
+
+        lat_raw = safe_get(loc_payload, "data", "attributes", "lat")
+        lon_raw = safe_get(loc_payload, "data", "attributes", "lon")
+        search_val = safe_get(loc_payload, "data", "attributes", "search")
+
+        lat = to_float_or_none(lat_raw)
+        lon = to_float_or_none(lon_raw)
+
+        # Normalize empty strings to None for search
+        if isinstance(search_val, str):
+            search_val = search_val.strip() or None
+
+        return (lon, lat, search_val)
+    except Exception:
+        # Any error: treat as no data
+        return (None, None, None)
 
 def main():
     # Prepare output CSV with UTF-8 BOM to better support Chinese column names in Excel
@@ -159,8 +198,11 @@ def main():
                     # Skip non-facility JSONs
                     continue
 
+                # Read matching location file (mirror path under LOCATION_ROOT)
+                loc_lon, loc_lat, loc_search = read_location_triplet_for(json_path)
+
                 # Extract and write row
-                row = extract_record(data)
+                row = extract_record(data, loc_lon, loc_lat, loc_search)
 
                 # Minimal validation: require Id and name
                 if not row["Id"] and not row["name"]:
@@ -172,7 +214,6 @@ def main():
 
             except Exception as e:
                 # Soft-fail on individual files; continue processing others
-                # You can replace this print with logging if needed.
                 print(f"[WARN] Failed to process {json_path}: {e}")
 
     print(f"[INFO] Done. Wrote {records_written} records to {OUTPUT_CSV}")

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "type": "locations",
+    "id": "19815070-b492-11eb-8f86-8b7acf1ffd74",
+    "attributes": {
+      "building": null,
+      "level": null,
+      "suite": null,
+      "line1": "Humboldtstrasse 10",
+      "line2": null,
+      "city": "Dusseldorf",
+      "region": null,
+      "country": "GB",
+      "zipCode": "40237",
+      "lat": "51.2316729",
+      "lon": "6.8042846",
+      "geoLock": "0",
+      "search": "Dusseldorf  40237 GB",
+      "createdAt": "2021-05-14T08:55:15.000000Z",
+      "updatedAt": "2021-05-14T08:55:15.000000Z"
+    },
+    "relationships": {
+      "locatable": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/locations/19815070-b492-11eb-8f86-8b7acf1ffd74/relationships/locatable",
+          "related": "http://directory-service.us-west-2.cloudscene.com/locations/19815070-b492-11eb-8f86-8b7acf1ffd74/locatable"
+        }
+      }
+    },
+    "links": {
+      "self": "http://directory-service.us-west-2.cloudscene.com/locations/19815070-b492-11eb-8f86-8b7acf1ffd74"
+    }
+  },
+  "included": [
+    {
+      "type": "zones",
+      "id": "21556b35-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "United Kingdom",
+        "description": "Home to London, Europe's major financial and services hub, the United Kingdom is also a major interconnection hub between North America and Europe.  The UK has over 51 undersea cables, making it the focal point for many of the world's submarine communications cables of which majority are digital optical fibre cables.",
+        "slug": "data-centers-in-united-kingdom/all",
+        "iso": "GB",
+        "lat": "55.378051",
+        "lon": "-3.435973",
+        "createdAt": "2021-05-14T06:03:58.000000Z",
+        "updatedAt": "2021-05-14T06:03:58.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556b35-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556b35-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21556b35-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556b35-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21556b35-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556b35-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21556b35-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556b35-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/21556b35-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556b35-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 4228,
+          "facilities": 523,
+          "fabrics": 29,
+          "markets": 33,
+          "providers": 1566
+        }
+      }
+    }
+  ]
+}

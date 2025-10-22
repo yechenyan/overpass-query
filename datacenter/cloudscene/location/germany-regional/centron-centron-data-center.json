@@ -1,0 +1,95 @@
+{
+  "data": {
+    "type": "locations",
+    "id": "794df200-b48f-11eb-bc27-a9b387da814f",
+    "attributes": {
+      "building": null,
+      "level": null,
+      "suite": null,
+      "line1": "Heganger 29",
+      "line2": null,
+      "city": "Hallstadt",
+      "region": "Bavaria",
+      "country": "DE",
+      "zipCode": "96103",
+      "lat": "49.9135926",
+      "lon": "10.8650888",
+      "geoLock": "1",
+      "search": "Hallstadt Bavaria 96103 DE",
+      "createdAt": "2021-05-14T08:36:27.000000Z",
+      "updatedAt": "2021-05-14T08:36:27.000000Z"
+    },
+    "relationships": {
+      "locatable": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/locations/794df200-b48f-11eb-bc27-a9b387da814f/relationships/locatable",
+          "related": "http://directory-service.us-west-2.cloudscene.com/locations/794df200-b48f-11eb-bc27-a9b387da814f/locatable"
+        }
+      }
+    },
+    "links": {
+      "self": "http://directory-service.us-west-2.cloudscene.com/locations/794df200-b48f-11eb-bc27-a9b387da814f"
+    }
+  },
+  "included": [
+    {
+      "type": "zones",
+      "id": "2154436c-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "Germany",
+        "description": "A highly developed market, Germany is considered the financial powerhouse of the European Union. Whilst the country's capital is Berlin, the undisputed digital capital is the western city of Frankfurt which is the #1 ranked German market on Cloudscene based on data center density. The country as a whole has rapidly modernized with advanced technology driving its place as one of Europe’s largest telecom markets.",
+        "slug": "data-centers-in-germany/all",
+        "iso": "DE",
+        "lat": "51.165691",
+        "lon": "10.451526",
+        "createdAt": "2021-05-14T06:03:59.000000Z",
+        "updatedAt": "2021-05-14T06:03:59.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/2154436c-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 3483,
+          "facilities": 529,
+          "fabrics": 43,
+          "markets": 17,
+          "providers": 943
+        }
+      }
+    }
+  ]
+}

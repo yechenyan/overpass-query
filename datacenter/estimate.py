@@ -7,7 +7,7 @@ Rules:
 - If 'gross_max_power' is valid (>0), use it directly for estimated_max_power_mw.
 - If missing, estimate from area (m2) via IT power density and PUE by facility type.
 - Annual energy is computed ONLY from estimated_max_power_mw with a type-based load factor:
-    estimated_annual_energy_mwh = estimated_max_power_mw * load_factor * 8760
+    estimated_annual_energy_mwh = estimated_max_power_mw * load_factor * 5000
 - ONLY estimated_annual_energy_mwh is scaled to match national total; max power is NOT scaled.
 - Keep 2 decimals for the two estimated numeric columns.
 """
@@ -21,31 +21,23 @@ import pandas as pd
 # Global constants / assumptions
 # ----------------------------
 
-HOURS_PER_YEAR = 8760
+HOURS_PER_YEAR = 5000
+TARGET_TOTAL_TWH = 20.6
 
-# National target annual energy (Germany data centers), in TWh.
-# Scale annual energy to the midpoint by default; adjust to 18.0 or 20.0 if needed.
-TARGET_TOTAL_TWH_MIN = 18.0
-TARGET_TOTAL_TWH_MAX = 20.0
-TARGET_TOTAL_TWH = (TARGET_TOTAL_TWH_MIN + TARGET_TOTAL_TWH_MAX) / 2.0  # default: 19.0 TWh
-
-# Typical IT power density by facility type (kW of IT load per m²).
 POWER_DENSITY_KW_PER_M2 = {
-    "colocation": 1.5,        # typical 1.0–2.0+
-    "hosting_cloud": 1.8,     # hyperscale / cloud often higher
-    "enterprise": 1.0,        # typical 0.5–1.5
-    "unknown": 1.2            # fallback midpoint
+    "colocation": 1.5,
+    "hosting_cloud": 1.8,
+    "enterprise": 1.0,
+    "unknown": 1.2
 }
 
-# Typical PUE by facility type (dimensionless), used to convert IT load -> total facility power.
 PUE_BY_TYPE = {
-    "colocation": 1.5,        # ~1.4–1.7 common; modern down to ~1.3
-    "hosting_cloud": 1.35,    # hyperscale ~1.2–1.4
-    "enterprise": 1.6,        # older enterprise often 1.5–2.0
+    "colocation": 1.5,
+    "hosting_cloud": 1.35,
+    "enterprise": 1.6,
     "unknown": 1.5
 }
 
-# Load factor (average utilization of max facility power over the year).
 LOAD_FACTOR_BY_TYPE = {
     "colocation": 0.65,
     "hosting_cloud": 0.60,
@@ -53,8 +45,6 @@ LOAD_FACTOR_BY_TYPE = {
     "unknown": 0.55
 }
 
-# Regex-based heuristics to infer facility type from company/name.
-# Order matters: the first matching pattern wins.
 FACILITY_TYPE_PATTERNS = [
     (r"\b(equinix|digital\s*realty|interxion|nlighten|northc|colo|colt)\b", "colocation"),
     (r"\b(aws|amazon|gcp|google|microsoft|azure|facebook|meta)\b", "hosting_cloud"),
@@ -96,7 +86,7 @@ def estimate_power_row(row: pd.Series):
     Per-row estimation logic.
 
     Returns:
-        (estimated_max_power_mw, estimation_method, inferred_type)
+        (estimated_max_power_mw, estimation_method, facility_type)
     """
     m2 = coerce_float(row.get("m2"))
     reported_mw = coerce_float(row.get("gross_max_power"))
@@ -155,11 +145,10 @@ def finalize_with_company_means(df: pd.DataFrame) -> pd.DataFrame:
 
 def compute_annual_energy(row: pd.Series) -> float:
     """
-    Annual energy [MWh] = estimated_max_power_mw * load_factor[type] * 8760.
-    Note: estimated_max_power_mw is TOTAL facility power (not IT-only).
+    Annual energy [MWh] = estimated_max_power_mw * load_factor[type] * 5000.
     """
     est_mw = coerce_float(row.get("estimated_max_power_mw"))
-    ftype = row.get("_facility_type", "unknown") or "unknown"
+    ftype = row.get("facility_type", "unknown") or "unknown"
     load_factor = LOAD_FACTOR_BY_TYPE.get(ftype, LOAD_FACTOR_BY_TYPE["unknown"])
     if est_mw is None or math.isnan(est_mw):
         return np.nan
@@ -170,52 +159,49 @@ def compute_annual_energy(row: pd.Series) -> float:
 # ----------------------------
 
 def main():
-    src_path = "result/data_cloudscene.csv"   # as requested
-    out_path = "estaimate_cloudscene_2024.csv"         # as requested
+    src_path = "cloudscene/cloudscene.csv"
+    out_path = "DE_datacenter_list/cloudscene_2024.csv"
 
-    # Read CSV with semicolon delimiter (even if extension is .py)
+    # src_path = "mapdatacenter/mapdatacenter.csv"
+    # out_path = "DE_datacenter_list/mapdatacenter.csv"
+
     df = pd.read_csv(src_path, sep=",", low_memory=False)
 
-    # Ensure required columns exist
     for col in ["name", "company_name", "m2", "gross_max_power", "lon", "lat", "source"]:
         if col not in df.columns:
             df[col] = np.nan
 
-    # First pass estimation
+    # Estimation
     results = df.apply(estimate_power_row, axis=1, result_type="expand")
-    results.columns = ["estimated_max_power_mw", "estimation_method", "_facility_type"]
+    results.columns = ["estimated_max_power_mw", "estimation_method", "facility_type"]
     df = pd.concat([df, results], axis=1)
 
-    # Second pass completion (company mean -> global median) for missing power
+    # Fill missing max power
     df = finalize_with_company_means(df)
 
-    # Compute annual energy BEFORE scaling (strictly from estimated_max_power_mw)
+    # Compute annual energy (before scaling)
     df["estimated_annual_energy_mwh"] = df.apply(compute_annual_energy, axis=1)
 
-    # ----------------------------
-    # National scaling: ONLY scale estimated_annual_energy_mwh
-    # ----------------------------
+    # Scale ONLY annual energy
     current_total_mwh = df["estimated_annual_energy_mwh"].sum(skipna=True)
-    target_total_mwh = TARGET_TOTAL_TWH * 1_000_000.0  # TWh -> MWh
+    target_total_mwh = TARGET_TOTAL_TWH * 1_000_000.0
 
     if current_total_mwh and not math.isnan(current_total_mwh) and current_total_mwh > 0:
         scale_factor = target_total_mwh / current_total_mwh
-        df["estimated_annual_energy_mwh"] = df["estimated_annual_energy_mwh"] * scale_factor
+        df["estimated_annual_energy_mwh"] *= scale_factor
         df["estimation_method"] = df["estimation_method"].apply(
             lambda s: _append_method(s, f"annual_energy_scaled_to_{TARGET_TOTAL_TWH:.1f}TWh(factor={scale_factor:.3f})")
         )
 
-    # Keep only 2 decimals for the two estimated numeric columns
+    # Round to 2 decimals
     df["estimated_max_power_mw"] = df["estimated_max_power_mw"].round(2)
     df["estimated_annual_energy_mwh"] = df["estimated_annual_energy_mwh"].round(2)
 
-    # Drop helper column before saving
-    if "_facility_type" in df.columns:
-        df.drop(columns=["_facility_type"], inplace=True)
-    print(df.columns)
+    # Export (keep facility_type)
     df.to_csv(out_path, index=False, sep=";")
+    print(f"✅ Output written to {out_path}")
+    print("Columns:", list(df.columns))
 
-  
 
 if __name__ == "__main__":
     main()

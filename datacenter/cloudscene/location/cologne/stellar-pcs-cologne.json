@@ -1,0 +1,95 @@
+{
+  "data": {
+    "type": "locations",
+    "id": "8d1f7b30-7105-11ed-82b5-b3c8b04aa884",
+    "attributes": {
+      "building": null,
+      "level": null,
+      "suite": null,
+      "line1": "Goldenbergstrasse 1a",
+      "line2": null,
+      "city": "Cologne",
+      "region": null,
+      "country": "US",
+      "zipCode": "50354",
+      "lat": null,
+      "lon": null,
+      "geoLock": "0",
+      "search": null,
+      "createdAt": "2022-11-30T23:20:17.000000Z",
+      "updatedAt": "2022-11-30T23:20:18.000000Z"
+    },
+    "relationships": {
+      "locatable": {
+        "links": {
+          "self": "http://directory-service.us-west-2.cloudscene.com/locations/8d1f7b30-7105-11ed-82b5-b3c8b04aa884/relationships/locatable",
+          "related": "http://directory-service.us-west-2.cloudscene.com/locations/8d1f7b30-7105-11ed-82b5-b3c8b04aa884/locatable"
+        }
+      }
+    },
+    "links": {
+      "self": "http://directory-service.us-west-2.cloudscene.com/locations/8d1f7b30-7105-11ed-82b5-b3c8b04aa884"
+    }
+  },
+  "included": [
+    {
+      "type": "zones",
+      "id": "21556c26-9144-11e7-a556-02028ff44134",
+      "attributes": {
+        "name": "United States of America",
+        "description": "The United States is the largest single region for connectivity and the cloud in the world today. Its major markets include the financial hubs of New York and Chicago, the Tech hubs of the Bay Area (San Francisco), Seattle and Portland; the population hubs of Dallas, Los Angeles and the center of Government in Washington DC. With the country's total data center numbers outweighing its nearest market (the United Kingdom) by five times; the United States is the undisputed \"home of the internet\".",
+        "slug": "data-centers-in-united-states/all",
+        "iso": "US",
+        "lat": "37.09024",
+        "lon": "-95.712891",
+        "createdAt": "2021-05-14T06:03:23.000000Z",
+        "updatedAt": "2021-05-14T06:03:23.000000Z"
+      },
+      "relationships": {
+        "companyProfiles": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556c26-9144-11e7-a556-02028ff44134/companyProfiles"
+          }
+        },
+        "fabrics": {
+          "links": {
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556c26-9144-11e7-a556-02028ff44134/fabrics"
+          }
+        },
+        "facilities": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21556c26-9144-11e7-a556-02028ff44134/relationships/facilities",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556c26-9144-11e7-a556-02028ff44134/facilities"
+          }
+        },
+        "markets": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21556c26-9144-11e7-a556-02028ff44134/relationships/markets",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556c26-9144-11e7-a556-02028ff44134/markets"
+          }
+        },
+        "regions": {
+          "links": {
+            "self": "http://directory-service.us-west-2.cloudscene.com/zones/21556c26-9144-11e7-a556-02028ff44134/relationships/regions",
+            "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556c26-9144-11e7-a556-02028ff44134/regions"
+          }
+        }
+      },
+      "links": {
+        "self": "http://directory-service.us-west-2.cloudscene.com/zones/21556c26-9144-11e7-a556-02028ff44134"
+      },
+      "meta": {
+        "links": {
+          "related": "http://directory-service.us-west-2.cloudscene.com/zones/21556c26-9144-11e7-a556-02028ff44134/related"
+        },
+        "counts": {
+          "pops": 20053,
+          "facilities": 5427,
+          "fabrics": 86,
+          "markets": 153,
+          "providers": 3259
+        }
+      }
+    }
+  ]
+}
