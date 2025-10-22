@@ -388,7 +388,6 @@ Most data centers do not disclose their power consumption data. The following pr
 **Data source:** Hourly electricity consumption for 5 days in July 2017  
 [Dataset link (page 4)](https://gwdg.de/hpc/_publications/iobassfeac19/publication.pdf)
 
-![Leibniz Supercomputing Centre](./images/lrz.png)
 
 **Data description:**  
 Only 5 consecutive days of hourly power data in July 2017, provided as a figure.
@@ -409,7 +408,6 @@ Because the dataset covers only five days, reliable Fourier spectral analysis ca
 4. Frequency = 0.9995 cycles/day, Amplitude = 30,982.98 (norm=0.4585), Period = 1.000 days (24.0 h), Phase = -0.056 rad, Peak at 0.9% of cycle (~0.2 h after start)
 5. Frequency = 0.1433 cycles/day, Amplitude = 28,981.28 (norm=0.4289), Period = 6.978 days (167.5 h), Phase = 1.042 rad, Peak at 83.4% of cycle (~139.7 h after start)
 
-![Leibniz Supercomputing Centre](./images/lrz.png)
 
 **Periodicity analysis:**  
 he spectral results show strong and consistent periodicities primarily concentrated in the daily (1.0 cycle/day) and weekly (~0.14 cycles/day) ranges.
