@@ -6,7 +6,7 @@
 
 DE: Distributed Energy scenario;GA: Global Ambition scenario
 
-data source: https://2024.entsos-tyndp-scenarios.eu/download/ 20230704- Draft Demand Scenarios TYNDP 2024
+data source: https://2024.entsos-tyndp-scenarios.eu/download/20230704-Draft_Demand_Scenarios_TYNDP_2024.xlsb
 
 
 | STUDY | COUNTRY | TYPE | UNIT | 2019 | 2040 (DE) | 2050 (DE) | 2040 (GA) | 2050 (GA) |
@@ -54,7 +54,7 @@ data source: https://www.netzentwicklungsplan.de/sites/default/files/2025-04/250
 
 ### 1.3 ICIS
 
-data source: https://www.icis.com/explore/resources/data-centres-hungry-for-power/
+data source: https://www.icis.com/explore/resources/data-centres-hungry-for-power/ （chart: European data centre demand by country 2024-2035, TWh)
 
 | Country [TWh] | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 |
 | :------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -89,23 +89,25 @@ data source: https://www.icis.com/explore/resources/data-centres-hungry-for-powe
 
 
 
-### 1.4 andere
+### 1.4 germandatacenters
 
-| Land | Strommenge (TWh) | Quelle |
-|-------|------------------|---------|
-| DE | 18 TWh im Jahr 2022 | European Commission, 2024, https://www.ca-eed.eu/ia-document/implementing-the-eed-data-centers-and-the-german-energy-efficiency-act-germany/?utm_source=chatgpt.com |
-| BE | ± 1,5 im Jahr 2021 | European Commission, 2024 |
-| DK | 1,3 im Jahr 2021 | European Commission, 2024 |
-| FI | ± 0,7 im Jahr 2018 | European Commission, 2024 |
-| FR | 10 – 12 im Jahr 2018 | European Commission, 2024 |
-| IE | 5,25 im Jahr 2022 | CSO, 2023 |
-| IT | ± 4,25 | European Commission, 2024 |
-| NL | 3,7 im Jahr 2021 | CBS, 2022 |
-| NO | 1,5 im Jahr 2023 | Norsk Datasenterindustri, 2024 |
-| PL | ± 2 | European Commission, 2024 |
-| ES | ± 2,9 | European Commission, 2024 |
-| SE | 3 im Jahr 2022 | European Commission, 2024 |
-| GB | 9 – 10 TWh im Jahr 2020 | TechUK, 2020 |
+source: https://www.germandatacenters.com/fileadmin/documents/publications/European_Data_Center_Overview.pdf (page14)
+
+| Land | Strommenge (TWh) | 
+|-------|------------------|
+| DE | 18 TWh im Jahr 2022 | 
+| BE | ± 1,5 im Jahr 2021 |
+| DK | 1,3 im Jahr 2021 | 
+| FI | ± 0,7 im Jahr 2018 | 
+| FR | 10 – 12 im Jahr 2018 | 
+| IE | 5,25 im Jahr 2022 | 
+| IT | ± 4,25 | 
+| NL | 3,7 im Jahr 2021 | 
+| NO | 1,5 im Jahr 2023 | 
+| PL | ± 2 | 
+| ES | ± 2,9 | 
+| SE | 3 im Jahr 2022 | 
+| GB | 9 – 10 TWh im Jahr 2020 | 
 
 ## 2. Germany data center list
 
@@ -125,9 +127,9 @@ datacenter/
 
 You can also retrieve the data from SharePoint:
 
-- **cloudscene_2024.csv**: [https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/EWqbkza6pPBJmhBChm8fCI4BwTvtMNlOE0ux3Nun_gYlhQ?e=Jkaw5j](https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/EWqbkza6pPBJmhBChm8fCI4BwTvtMNlOE0ux3Nun_gYlhQ?e=Jkaw5j)
-
-- **mapdatacenter_2024.csv**: [https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/EbqOKUEaBF9MqohizaosTt4Bu9RuvnPJQBpNCaE8rgT2Xw?e=rgQrCl](https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/EbqOKUEaBF9MqohizaosTt4Bu9RuvnPJQBpNCaE8rgT2Xw?e=rgQrCl)
+- **cloudscene_2024.csv (422 datacenter)**: [https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/ER6Q3a_3GzJHge2CFRCXlqsBgerM-2yChShz76ngw9mgwQ?e=AGHlog](https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/ER6Q3a_3GzJHge2CFRCXlqsBgerM-2yChShz76ngw9mgwQ?e=AGHlog)
+<!-- 
+- **mapdatacenter_2024.csv （243 datacenter）**: [https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/EbqOKUEaBF9MqohizaosTt4Bu9RuvnPJQBpNCaE8rgT2Xw?e=rgQrCl](https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/EbqOKUEaBF9MqohizaosTt4Bu9RuvnPJQBpNCaE8rgT2Xw?e=rgQrCl) -->
 
 
 The meanings of the column names in the data: 
@@ -155,14 +157,16 @@ The data centers in Germany can be obtained from the following websites.
 https://cloudscene.com/market/data-centers-in-germany/all
  – Over 500 data centers, most with performance data. I couldn’t find a method for bulk downloading.
 
+https://www.datacenters.com/locations/germany
+ – Over 200 data centers, few with performance data. No download method found.
+
 https://map.datacente.rs/
  – Over 500 data centers, some with performance data, and a list is available.
 
 https://www.datacentermap.com/germany/
  – Over 500 data centers. A fee is required to download the complete data in bulk.
 
-https://www.datacenters.com/locations/germany
- – Over 200 data centers, few with performance data. No download method found.
+
 
 From the perspective of data quality and accessibility, I used web scraping to obtain data from **Cloudscene** and **map.datacente.rs**.
 
@@ -203,14 +207,14 @@ The facility type determines the assumptions for power density, PUE (Power Usage
    | Unknown        | 1.2                   | 1.50 |
 
 The source of the data is:
-https://post-und-telekommunikation.de/PuT/1Fundus/Dokumente/Studien/BITKOM/2014-Borderstep_Institut-Studie_Rechenzentren_in_Deutschland_05-05-2014%281%29.pdf?utm_source=chatgpt.com
+https://post-und-telekommunikation.de/PuT/1Fundus/Dokumente/Studien/BITKOM/2014-Borderstep_Institut-Studie_Rechenzentren_in_Deutschland_05-05-2014%281%29.pdf
 
-1. **Company-level mean fallback**  
+3. **Company-level mean fallback**  
    If both reported power and area are missing, the **company mean** of already estimated sites is used:  
    - The mean is calculated from all other sites belonging to the same company that already have valid estimates.  
    - This assumes similar design and scale across a company’s data centers.
 
-2. **Global median fallback**  
+4. **Global median fallback**  
    If the company has no valid data at all, the **global median** of all estimated maximum powers is used as a final fallback.
 
 ---
@@ -231,6 +235,7 @@ Annual energy use is derived from estimated maximum power and a load factor assi
 ---
 
 The full-load hours of 5,000 are derived from the NEP.
+
 The source of the load factor data is:
 https://post-und-telekommunikation.de/PuT/1Fundus/Dokumente/Studien/BITKOM/2014-Borderstep_Institut-Studie_Rechenzentren_in_Deutschland_05-05-2014%281%29.pdf?utm_source=chatgpt.com
 
@@ -338,58 +343,102 @@ The model produces:
 
 ## 3. Example Hourly Energy Consumption Data for Data Centers
 
-### 3.1 Typical Data
-
-Hourly power data for a **typical data center in Germany** can be obtained from the following location:
-
-```
-datacenter/
-├── typical_data/  
-    |-- typical 
-         |-- mapdatacenter_2024.csv   the data from mapdatacenter 
-
-```
-
-
-Alternatively, it can be retrieved from SharePoint:  
-[[datacenter_hourly_power](https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/ERaXLuFjgRRIk3sv1dRwWFABGBqdIvUQgD1AVp5O5wvSvQ?e=I1jLoH)](https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/ERaXLuFjgRRIk3sv1dRwWFABGBqdIvUQgD1AVp5O5wvSvQ?e=I1jLoH)
-
-![Hourly Data Center Power (MW)](./images/datacenter_hourly_power.png)
-
-The data is generated according to the following rules:
-1. The **maximum installed capacity** is set to **1 MW**; other data center capacities can be obtained by scaling this value.
-2. The **full-load hours** are set to **500 MW**.
-3. The **periodic components** after Fourier transformation are based on reference examples (see below), mainly referring to the **Honda R&D Data Center Building** in **Hesse, Germany**. Its characteristic data are shown in the table below:
-
-| Frequency (cycles/day) | Period (days) | Amplitude (A) | Phase (rad) | Estimated Energy Share | Peak Time* (days) | Notes                                                                                                                |
-| ---------------------: | ------------: | ------------: | ----------: | ---------------------: | ----------------: | -------------------------------------------------------------------------------------------------------------------- |
-|             **1.0000** |       **1.0** |    **0.4350** | **+3.0838** |           **≈ 13.6 %** |            ≈ 0.49 | Daily cycle — represents diurnal operational or thermal variation (e.g., day–night cooling demand).                  |
-|         **0.00273848** |    **365.17** |    **1.0000** | **−0.2514** |           **≈ 72.0 %** |            ≈ 14.6 | Annual/seasonal component — dominant term, likely driven by long-term climate or temperature effects on power usage. |
-|         **0.14285714** |       **7.0** |    **0.4000** | **−2.2116** |           **≈ 14.4 %** |            ≈ 2.47 | Weekly cycle — smaller contribution, reflecting operational scheduling or weekly workload patterns.                  |
-|              **Total** |             — |             — |           — |              **100 %** |                 — | Energy shares normalized to 1.0                                                                                      |
-                                                                      |
-
-**Notes when using this dataset:**
-1. The generated data corresponds to the **year 2023**. If switching to another year, ensure that **weekdays and weekends** are properly aligned.
-2. The dataset assumes that both **heating and power supply** are provided **entirely by electricity**.The current assumption is that the heating efficiency is **100%**.
-3. At present, only the general seasonal variations in weather are considered, while specific daily weather data are not taken into account.
-
 
    
 
+### 3.1 Frontier Supercomputer Data （2023）
 
-### 3.2 Analysis of Publicly Available Data Center Electricity Consumption
+This dataset represents the **power consumption of the Frontier supercomputer** located in **Oak Ridge, Tennessee, USA**. It is the closest available facility to a typical **data center** in terms of power usage characteristics.  
+The facility uses **water cooling** for thermal management.
 
-Most data centers do not disclose their power consumption data. The following presents all publicly available datasets and their periodicity analysis results.
+**Paper:** [https://www.nature.com/articles/s41597-024-03913-w](https://www.nature.com/articles/s41597-024-03913-w)  
+**Dataset:** [https://www.figshare.com/articles/dataset/Dataset_of_Frontier_supercomputer/24391240](https://www.figshare.com/articles/dataset/Dataset_of_Frontier_supercomputer/24391240)
 
----
+The cleaned and processed data can be accessed here:  
+[https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/Eb94xXi_qTtHgU9mMQbJ-2cBHt4H7guZ-P55oXGXLZU1Lw?e=ivD2m1](https://rlinstitutde.sharepoint.com/:x:/s/374_Retail4Multi-Use-374_internal_Team/Eb94xXi_qTtHgU9mMQbJ-2cBHt4H7guZ-P55oXGXLZU1Lw?e=ivD2m1)
+
+The time series of power consumption is shown below:
+![frontier power)](./images/frontier_power_tempure.png)
+
+- **Temperature:** The site experiences four distinct seasons; however, both winter and summer temperatures are generally higher than those in Germany.  
+- **Accessor Power:** Refers to auxiliary systems (cooling, lighting, etc.). Because of the water-cooling setup, this power consumption is relatively low—averaging **~5%** of total energy, though it can reach up to **20%** during extreme conditions.  
+- **Computer Power:** Electricity consumption of the supercomputer itself.
+
+**Fourier Transform Results:**
+
+| # | Frequency (cycles/day) | Amplitude | Normalized | Period (days) | Phase (rad) | Peak (% of cycle) | Peak Time (h after start) |
+|---|------------------------|------------|-------------|----------------|--------------|--------------------|---------------------------|
+| 0 | 0.0027 | 1.63 | 1.0000 | 364.792 | 0.814 | 87.0% | ~7620.1 |
+| 1 | 0.0055 | 1.57 | 0.9613 | 182.396 | -2.101 | 33.4% | ~1463.5 |
+| 2 | 0.0164 | 1.53 | 0.9393 | 60.799 | 0.148 | 97.6% | ~1424.8 |
+| 3 | 0.0110 | 1.52 | 0.9281 | 91.198 | -1.105 | 17.6% | ~384.8 |
+| 4 | 0.0082 | 1.50 | 0.9163 | 121.597 | 1.656 | 73.6% | ~2149.2 |
+| 5 | 0.0192 | 1.38 | 0.8447 | 52.113 | -2.756 | 43.9% | ~548.6 |
+| 6 | 0.0137 | 1.12 | 0.6864 | 72.958 | 2.694 | 57.1% | ~1000.1 |
+| 7 | 1.0006 | 0.82 | 0.5020 | 0.999 | 0.577 | 90.8% | ~21.8 |
+| 8 | 1.0061 | 0.78 | 0.4805 | 0.994 | 2.052 | 67.3% | ~16.1 |
+| 9 | 1.0033 | 0.77 | 0.4689 | 0.997 | -1.876 | 29.9% | ~7.1 |
+
+**Observed Patterns:**
+1. Daily power usage peaks in the **evening to night** and reaches its lowest in the **early morning**, with a fluctuation range of **±10–15%**.  
+2. **Winter** consumption is slightly higher overall, though the variation is moderate (**±20–30%**).  
+
+These patterns differ from typical **industrial power usage**.  
+In contrast, certain **data centers**—especially **blockchain computing facilities**—tend to maintain **consistently high energy consumption** 24 hours a day.
 
 
-#### 3.2.1 Honda R&D Data Center Building (Hesse, Germany)
+
+### 3.2 Other dataset
+
+Below are some other power consumption datasets related to data centers that were found. However, these datasets have the following limitations:
+
+1. Some of the facilities are **not true data centers** in the strict sense, but rather **research institutes or university server rooms** with data center–like setups.  
+2. Some datasets are **incomplete**, containing only a few days of data or providing **only graphical representations (images)** instead of raw data.
+
+
+#### 3.2.1 Leibniz Supercomputing Centre (Germany)
+**Data source:** Hourly electricity consumption for 5 days in July 2017  
+[Dataset link (page 4)](https://gwdg.de/hpc/_publications/iobassfeac19/publication.pdf)
+
+![fLeibniz Supercomputing Centre)](./images/lrz.png)
+
+**Data description:**  
+Only 5 consecutive days of hourly power data in July 2017, provided as a figure.
+
+**Periodicity analysis:**  
+Because the dataset covers only five days, reliable Fourier spectral analysis cannot be performed. From the figure, a clear daily fluctuation can be observed: daytime power consumption is higher and nighttime lower, with an intra-day peak-to-valley difference of about 10–15%. No weekly or longer periodic components are visible. The dataset can only be used for qualitative analysis of daily variations.
+
+
+#### 3.2.2 NREL RSF Measured Data 2011 (USA)
+**Data source:** Hourly data from the National Renewable Energy Laboratory Research Support Facility  
+[Dataset link](https://catalog.data.gov/dataset/nrel-rsf-measured-data-2011-c7c02)
+
+The power shown in the figure includes **heating, cooling, and equipment electricity consumption**.
+
+![NREL RSF Measured Data 2011)](./images/NREL_power.png)
+
+**Fourier Transform Results:**  
+1. Frequency = 0.0027 cycles/day, Amplitude = 89.42(norm=1.0000), Period = 365.000 days (8760.0 h), Phase = -0.251 rad, Peak at 4.0% of cycle (~350.5 h after start)  
+2. Frequency = 1.0000 cycles/day, Amplitude = 39.14(norm=0.4377), Period = 1.000 days (24.0 h), Phase = -3.094 rad, Peak at 49.2% of cycle (~11.8 h after start)  
+3. Frequency = 0.9973 cycles/day, Amplitude = 32.38(norm=0.3621), Period = 1.003 days (24.1 h), Phase = -0.238 rad, Peak at 3.8% of cycle (~0.9 h after start)  
+4. Frequency = 0.1425 cycles/day, Amplitude = 29.71(norm=0.3322), Period = 7.019 days (168.5 h), Phase = 2.779 rad, Peak at 55.8% of cycle (~93.9 h after start)  
+5. Frequency = 0.0110 cycles/day, Amplitude = 26.82(norm=0.2999), Period = 91.250 days (2190.0 h), Phase = -2.247 rad, Peak at 35.8% of cycle (~783.0 h after start)
+
+**Periodicity analysis:**  
+The data clearly show dominant 24-hour and 365-day cycles, accompanied by secondary 7-day and ~90-day components. The amplitude of the annual cycle (A=89.4) is the largest, indicating a strong yearly modulation, while the daily and weekly components show stable short-term repetition. Overall, the power consumption follows a layered periodic pattern combining daily, weekly, and annual frequencies.
+
+
+
+
+
+
+#### 3.2.3 Honda R&D Building (Hesse, Germany)
 **Data source:** Hourly data from 2018–2023  
-[Dataset link](https://www.nature.com/articles/s41597-025-05186-3?error=cookies_not_supported&code=a51bcf1e-e965-4bcf-8d7a-378ea4144d59)
+[Dataset link](https://www.nature.com/articles/s41597-025-05186-3?error=cookies_not_supported&code=a51bcf1e-e965-4bcf-8d7a-378ea4144d59)](https://www.nature.com/articles/s41597-025-05186-3?error=cookies_not_supported&code=a51bcf1e-e965-4bcf-8d7a-378ea4144d59)
 
-This dataset has high quality and strong similarity; it is recommended to give priority to this dataset.
+This is **not a data center**; the building contains several **rooms with servers**. The recorded power consumption includes **only the equipment electricity**, excluding **cooling and heating**.
+
+![onda R&D Building](./images/honda.png)
 
 
 **Fourier Transform Results:**  
@@ -407,37 +456,7 @@ The weekly component (7-day period) is also strong, suggesting a stable cyclic p
 Two nearby daily sidebands (0.9995 and 1.0005 cycles/day) indicate minor modulation effects or slight phase shifts between consecutive days.
 Overall, the system displays a multi-period composite behavior dominated by the daily and weekly harmonics, reflecting both short-term regularity and weekly structural patterns in the data.
 
----
 
-
-#### 3.2.2 Leibniz Supercomputing Centre (Germany)
-**Data source:** Hourly electricity consumption for 5 days in July 2017  
-[Dataset link (page 4)](https://gwdg.de/hpc/_publications/iobassfeac19/publication.pdf)
-
-
-**Data description:**  
-Only 5 consecutive days of hourly power data in July 2017, provided as a figure.
-
-**Periodicity analysis:**  
-Because the dataset covers only five days, reliable Fourier spectral analysis cannot be performed. From the figure, a clear daily fluctuation can be observed: daytime power consumption is higher and nighttime lower, with an intra-day peak-to-valley difference of about 10–15%. No weekly or longer periodic components are visible. The dataset can only be used for qualitative analysis of daily variations.
-
----
-
-#### 3.2.3 NREL RSF Measured Data 2011 (USA)
-**Data source:** Hourly data from the National Renewable Energy Laboratory Research Support Facility  
-[Dataset link](https://catalog.data.gov/dataset/nrel-rsf-measured-data-2011-c7c02)
-
-**Fourier Transform Results:**  
-1. Frequency = 0.0027 cycles/day, Amplitude = 89.42(norm=1.0000), Period = 365.000 days (8760.0 h), Phase = -0.251 rad, Peak at 4.0% of cycle (~350.5 h after start)  
-2. Frequency = 1.0000 cycles/day, Amplitude = 39.14(norm=0.4377), Period = 1.000 days (24.0 h), Phase = -3.094 rad, Peak at 49.2% of cycle (~11.8 h after start)  
-3. Frequency = 0.9973 cycles/day, Amplitude = 32.38(norm=0.3621), Period = 1.003 days (24.1 h), Phase = -0.238 rad, Peak at 3.8% of cycle (~0.9 h after start)  
-4. Frequency = 0.1425 cycles/day, Amplitude = 29.71(norm=0.3322), Period = 7.019 days (168.5 h), Phase = 2.779 rad, Peak at 55.8% of cycle (~93.9 h after start)  
-5. Frequency = 0.0110 cycles/day, Amplitude = 26.82(norm=0.2999), Period = 91.250 days (2190.0 h), Phase = -2.247 rad, Peak at 35.8% of cycle (~783.0 h after start)
-
-**Periodicity analysis:**  
-The data clearly show dominant 24-hour and 365-day cycles, accompanied by secondary 7-day and ~90-day components. The amplitude of the annual cycle (A=89.4) is the largest, indicating a strong yearly modulation, while the daily and weekly components show stable short-term repetition. Overall, the power consumption follows a layered periodic pattern combining daily, weekly, and annual frequencies.
-
----
 
 #### 3.2.4 TÜBİTAK ULAKBİM (Turkey)
 **Data source:** Daily electricity data from 2018–2021  
@@ -449,7 +468,6 @@ Only graphical daily data are available; raw numerical data were not published.
 **Periodicity analysis:**  
 From the available plots, a clear annual seasonal pattern can be observed: higher electricity consumption between April and September (75,000–80,000 kWh/day) and lower between October and March (60,000–70,000 kWh/day). This cycle repeats each year with consistent amplitude, confirming a strong annual periodicity. The lack of higher-resolution data prevents analysis of shorter cycles such as weekly or daily fluctuations.
 
----
 
 #### 3.2.5 Kasetsart University Data Center (Thailand)
 **Data source:** Hourly data from July 2018 to April 2022  
@@ -466,7 +484,6 @@ From the available plots, a clear annual seasonal pattern can be observed: highe
 **Periodicity analysis:**  
 The dataset shows a distinct 24-hour cycle with peak power around 7–8 hours each day, combined with clear annual (~362 days), quarterly (~90 days), and medium-term (~289 days) components. A very low-frequency trend (~1447 days) represents a long-term baseline change. The amplitude distribution among major frequencies is relatively balanced, indicating consistent multi-period behavior across daily, seasonal, and long-term scales.Because this dataset comes from a university, electricity consumption is strongly affected by academic breaks and holidays; therefore, the annual cycle cannot be reliably used.
 
----
 
 #### 3.2.6  HP Z440 Workstation (Ecuador)
 **Data source:** One-second sampling data for 245 days (35 weeks)  
@@ -481,17 +498,5 @@ The dataset shows a distinct 24-hour cycle with peak power around 7–8 hours ea
 
 **Periodicity analysis:**  
 Because this dataset represents a single machine rather than a full data center, the data are excluded from analysis.The spectrum is dominated by medium-term oscillations ranging between 21–106 days, with amplitudes between 11 and 22. Several adjacent low-frequency components indicate mid-scale fluctuations, while no significant peaks appear near 1.0 cycle/day, suggesting that daily periodicity is weak. Because the dataset covers only 245 days, no full annual cycle is captured, and the overall structure is characterized mainly by intermediate-term variations.
-
----
-
-#### 3.2.7 Summary
-
-From the above datasets, the observed fluctuations show the following periodic patterns:
-
-Daily cycle: Higher electricity consumption during the day and lower at night. This results from increased server activity and higher daytime temperatures.
-
-Weekly cycle: Higher consumption on weekdays and lower on weekends, reflecting work schedule patterns. Since most analyzed cases come from companies or universities, the weekly cycle is particularly evident.
-
-Annual or seasonal cycle: The electricity consumption of a data center primarily comes from servers and cooling/heating systems; therefore, weather conditions can significantly influence its overall power usage.Electricity consumption varies with the seasons — higher in summer and lower in winter when cooling demand dominates at higher ambient temperatures; conversely, if electricity is mainly used for heating, consumption tends to be higher in winter and lower in summer.
 
 
