@@ -382,6 +382,9 @@ The time series of power consumption is shown below:
 **Observed Patterns:**
 1. Daily power usage peaks in the **evening to night** and reaches its lowest in the **early morning**, with a fluctuation range of **±10–15%**.  
 2. **Winter** consumption is slightly higher overall, though the variation is moderate (**±20–30%**).  
+3. 
+Overall, the power consumption of the data center is stable, with no significant seasonal or day–night variation patterns.
+
 
 These patterns differ from typical **industrial power usage**.  
 In contrast, certain **data centers**—especially **blockchain computing facilities**—tend to maintain **consistently high energy consumption** 24 hours a day.
